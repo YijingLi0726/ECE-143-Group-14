@@ -98,7 +98,7 @@ def find_UCSDpoliceLog_URLs(startDate, endDate, urlform):
 
 def batch_clean_tab_csv(
         csvs,
-        heads=[],
+        heads,
         hrow=3, #default for tabula raws of the CJSC data
         splitcol=range(1,10), #default for CA 1952-1996 data
         by_year=range(2013,2018) #default is range of SD crime data
@@ -175,13 +175,16 @@ def batch_clean_tab_csv(
             
     allFrames = [] #list to store dataframes
     
+    #Going into each CSV, pulling out a dataframe, and cleaning it
     for csv in csvs:
         rawFrame = pd.read_csv(csv, header=hrow)
         #Convert the CSV into a dataframe
         rawFrame = rawFrame.dropna(how='all', axis=1)
         #Removing all empty columns which only contian NaN
+        rawFrame = rawFrame.dropna(how='any', axis=0)
+        #Removes possible extra header rows from tabula output
         
-        if len(splitcol) != 0:
+        if len(splitcol) != 0: #if some columns need splitting
             splitcol.sort() #lines up indices in order
             assert len(rawFrame.columns) < splitcol[-1], \
                    "Column %d is outside of table range" \
@@ -196,29 +199,29 @@ def batch_clean_tab_csv(
         allFrames.append(rawFrame)
         #Once the dataframe is processed, add to the list of frames
     
-    #Checking that the inputs match before concatenation
+    #Ensuring that the inputs match before concatenation
     for frame in allFrames:
         assert frame.shape[1] == allFrames[0].shape[1], \
                "Not all inputs have the same column number"
                #Compare column counts to the first dataframe in list
+        assert frame.shape[1] == len(heads), \
+               "Total headings given must match dataframe's %d cols" \
+               % (frame.shape[1])
+               #Needs same number of headings as columns
+        frame.columns = heads
+        #Give each dataframe matching columns before concatenation
     
-    if len(by_year) > 0:
+    if len(by_year) > 0: #If years are manually provided
         outdata = pd.concat(
                   allFrames,
                   axis=0,
                   keys=by_year,
                   names=['year','row']
                   )
+                  #Adds a second index that tracks the data by year
     else:
         outdata = pd.concat(allFrames, axis=0)
-    #combine all of the frames into one dataframe with the same headers
-    if len(heads) > 0: #When headers are listed
-        assert outdata.shape[1] == len(heads), \
-               "Total headings given must match dataframe's %d cols" \
-               % (outdata.shape[1])
-        #comparing dataframe's number of columns to the headings list
-        outdata.columns = heads
-        #assign understandable headings to each column
+    #combine all of the frames into one dataframe either way
     
     return outdata #will want to pickle this, but this works for now
     
