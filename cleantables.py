@@ -224,4 +224,108 @@ def batch_clean_tab_csv(
     #combine all of the frames into one dataframe either way
     
     return outdata #will want to pickle this, but this works for now
+
+
+
+def split_columns(inFrame, splitcol, heads=[]):
+    '''
+    Splits up specified data in a dataframe while preserving
+    original column order.
     
+    First, split_columns() asserts that parameters are of the required
+    datatypes. Note that attempting to split anything not string will
+    not work, and the list of columns to split must be of non-zero
+    length.
+    
+    Then reassigns column headers such that each column may be referred
+    to by order index, >= 0. Asserts that each of the requested columns
+    fall within the column index range.
+    
+    Next, the output DataFrame receives its first column. Will split
+    the column if index 0 is included or just assign if not. Goes on to
+    loop through remaining column indices, splitting and expanding each
+    column listed in splitcol. Anything not listed is just tacked on
+    otherwise.
+    
+    The default is to re-assign numerical indices for the header, but if
+    a list is provided, will assert that the list fits the DataFrame
+    before assigning the new column headers. Then returns the split-up
+    DataFrame.
+    
+    :param inFrame: pandas DataFrame, frame to be split up
+    :param splitcol: list, len>0, indices of columns to be split
+    :param heads: list of str, new headers, number indices otherwise
+    :return: pandas DataFrame, new frame with split-up columns
+    '''
+    import pandas as pd
+    import numpy as np
+    
+    #Check the DataFrame input
+    assert isinstance(inFrame, pd.DataFrame), \
+           "Input DataFrame must be a pandas DataFrame."
+    
+    #Check the list of columns to split
+    assert isinstance(splitcol, list), \
+           "Columns to split must be in a list."
+    assert len(splitcol) > 0, "List of columns is empty."
+    for id in splitcol:
+        assert isinstance(id, int), \
+               "Column to split must be identified by integer index"
+        assert id >= 0, "Column integer must be >= 0."
+    
+    #Check the list of headings
+    assert isinstance(heads, list), "Heading inputs must be in a list."
+    for h in heads:
+        assert isinstance(h, (str,int)), \
+               "Headings in list must be strings or integers."
+    
+    inFrame.columns = range( len(inFrame.columns) )
+    #labeling columns by index to easier specify what to exclude
+    splitcol.sort()
+    #Put columns in increasing order so output matches inFrame's order
+    assert splitcol[-1] <= inFrame.columns[-1], \
+           "%d is not in range of the input frame columns." \
+           % (splitcol[-1])
+           #Make sure that all of the desired splits will work
+    for ind in splitcol:
+        assert isinstance(inFrame[ind], object), \
+               "Values in column %d must be object types" % (ind)
+        #.str.split() will only accept object type inputs
+    
+    #Starting the output DataFrame, splitFrame
+    if 0 in splitcol:
+        splitFrame = inFrame[0].str.split(expand=True)
+        #Splits first column if listed in splitcol
+        #Note: Series.str.split() doesn't change original Series
+    else:
+        splitFrame = inFrame[0]
+        #Just put in first column it won't split
+    
+    for col in inFrame.columns:
+        #going through each column from input
+        if col == 0:
+            pass #Index 0 already handled; don't do anything
+        elif col in splitcol:
+            newsplit = inFrame[col].str.split(expand=True)
+            splitFrame = pd.concat([splitFrame, newsplit], axis = 1)
+            #Put in the newly split column; indices should match already
+        else:
+            splitFrame = pd.concat([splitFrame, inFrame[col]], axis = 1)
+            #Columns that don't need splitting are just added on
+    
+    if len(heads) != 0: #adds headers if provided
+        assert len(heads) == len( splitFrame.columns ), \
+               "Heading list provided does not match DataFrame output."
+        #Making sure that the heasders match the output shape
+        splitFrame.columns = heads
+        #assign headers to the output DataFrame
+    else:
+        splitFrame.columns = range( len(splitFrame.columns) )
+        #default assigns headers by counting numerical indices
+    
+    assert bool( splitFrame.index.all() == inFrame.index.all() ), \
+           "Output indices do not match the input."
+    #Make sure nothing happened to the row indices
+    
+    #Return the new dataframe with split-up columns
+    return splitFrame
