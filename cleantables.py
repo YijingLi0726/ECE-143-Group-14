@@ -27,96 +27,57 @@ except:
 import tabula as tb
 import os
 
-def batch_pdf2csv(pdfs):
-    '''
-    **Update: This function is not necessary, as tabula-py natively has
-              support for batch processing of PDFs.
-    
-    Will convert input files into a comma-separated values (CSV) text
-    file.
-    
-    Function:
-    Asserts that the input is a list of file names (string) that can be
-    used to access actual files. Then converts the PDF file names into
-    CSV file names by concatenating the '.csv' extension. Asserts that
-    these new file names are not shared with anything in the current
-    directory.
-    
-    :param pdfs: list of strings, names of PDFs to be translated
-    :return: list of strings, names of CSVs generated
-    '''
-    assert isinstance(pdfs, list), "Input must be a list."
-    for name in pdfs:
-        assert isinstance(name, str), "File names must be str"
-        #Every element in pdfs should be a string
-        assert os.path.exists(name), "File %s not found" % name
-        #Every string should lead to an actual file
-    
-    newfiles = {} #Dictionary of old files with new names
-    for ori in pdfs: #go through ORIginal file names
-        newfiles[ori] = ori + ".csv" #adds .csv file extension
-    #newfiles now has all of the names of the output files
-    #This means that the new files will be in same dir as originals
-    for new in newfiles:
-        assert not os.path.exists(newfiles[new]), \
-               "%s file already exists" % (newfiles[new])
-        #avoid deleting/changing files already made
-    
-    for file in pdfs:
-        tb.convert_into(file, newfiles[file], output_format='csv')
-        #Convert file into CSV called file.csv
-    
-    return newfiles
-
-
-def find_UCSDpoliceLog_URLs(startDate, endDate, urlform):
-    '''
-    Generate the URLs for the posted UCSD daily police log in a given
-    time period. Logs are taken down within a period of one month, so
-    there will be a cap of 30 days between the start and end dates.
-    
-    :param startDate: str, first log date in mmddyyyy format
-    :param endDate: str, last log date in mmddyyyy format
-    :param urlform: str, format of the URL with marked date locations
-    :return: list of str, URLs of the specified daily police logs
-    '''
-    
-    assert isinstance(startDate, str), \
-           "Starting date must be a str type variable"
-    assert isinstance(endDate, str), \
-           "Ending date must be a str type variable"
-    assert len(startDate) == 8, \
-           "Starting date must be in mmddyyyy format"
-    assert len(endDate) == 8, \
-           "Ending date must be in mmddyyyy format"
-    assert isinstance(urlform, str)
-    
-    import numpy
-    
-    return None
-
 
 def batch_clean_tab_csv(
         csvs,
         heads,
-        hrow=3, #default for tabula raws of the CJSC data
-        splitcol=range(1,10), #default for CA 1952-1996 data
+        hrow=0,
         by_year=range(2013,2018) #default is range of SD crime data
         ):
     '''
-    Clean CSV output from tabula output by file name.
+    Clean CSV output from tabula output by file name. 
+    Note: Will not generate output with NaN values.
+    
+    First asserts that all of the inputs are of the correct data type
+    and format (see parameters below). Note that the default of hrow is
+    0, so the first row will be used as the header row and all rows
+    below it are considered data. The default range for the by_year data
+    is 2013 to 2017, inclusive, due to the way the San Diego tables are
+    organized. Note that this list must be empty for tables where the
+    year is already in the data.
+    
+    Then it starts a list that takes in all of the processed dataFrames
+    from directly reading the files.
+    
+    The function loops through each file path listed in the CSV list.
+    Each CSV is read into a pandas file with the pandas.read_csv()
+    function with hrow set as the header row index. The dataframe is
+    trimmed of columns that are completely empty and then removes any
+    rows containing a NaN, as these are mostly extra header rows.
+    
+    **If the output table should have some NaNs,
+      DO NOT USE this function.
+    
+    Each trimmed DataFrame is stored in the list variable called
+    earlier. The DataFrames in the list are then checked for matching
+    number of columns, not column headers, since slight spacing
+    differences across years can make a difference in row numbers.
+    It is important that the format of each of the original CSVs do
+    match exactly.
+    
+    If the headers were listed, then the new headers are assigned.
+    Otherwise the function defaults to giving numerical indices going
+    from 0 up to the right. The DataFrames are then concatenated,
+    checked again for correct dimensions, then returned as output.
     
     :param csvs: list of str, file locations of CSVs to be cleaned
     :param heads: list of str, header labels; ignored if empty
     :param hrow: int, index of header row
-    :param splitcol: list of int >=0, indices of column to be split
     :param by_year: tuple, specifies which year each CSV covers
     :return: pandas DataFrame; cleaned & combined data from CSVs
     '''
-    from os import path
     import pandas as pd
     import numpy as np
-    from string import split
     
     #Checking the list of CSVs input
     assert isinstance(csvs, list), 'Provide file locations as a list'
@@ -134,18 +95,6 @@ def batch_clean_tab_csv(
     #Checking the input for the row where the data starts
     assert isinstance(hrow, int), 'Header row count must be int'
     
-    #Checking the input for identifying improperly split columns
-    assert isinstance(splitcol, list), \
-           'Columns to split must be in a list'
-    if len(splitcol) != 0:
-        for id in splitcol:
-            assert isinstance(id, int), \
-                   "Column to split must be identified by integer index"
-            assert id >= 0, \
-                   "Column integer must be >= 0."
-    assert len(splitcol) == len( set(splitcol) ), \
-           "Unique indices required to specify which columns to split"
-         
     #Checking the input for when the year is in the title, not the table
     assert isinstance(by_year, list), \
            "Years for the tables must be in a list."
@@ -154,24 +103,6 @@ def batch_clean_tab_csv(
                "Not every CSV listed has been assigned a year"
         for year in by_year:
             assert isinstance(year, int), "Years must be type int"
-    
-    def split_columns(inFrame, splitcol):
-        '''
-        Splits up specified data in a dataframe while preserving
-        original column order.
-        
-        :param indata: pandas DataFrame, frame to be split up
-        :param splitcol: list, column indices that need to be split
-        :return: pandas DataFrame, new frame with split-up columns
-        '''
-        inFrame.columns = range( len(rawFrame.columns) )
-        #labeling columns by index to easier specify what to exclude
-        splitter = lambda pair: pd.series( [i for i in split(pair)] )
-        #subfunction that does the actual job of splitting cells
-        for index in splitcol:
-            inFrame = inFrame[index].apply(splitter)
-            #splits the dataframe at each specified axis
-        return inFrame
             
     allFrames = [] #list to store dataframes
     
@@ -183,19 +114,6 @@ def batch_clean_tab_csv(
         #Removing all empty columns which only contian NaN
         rawFrame = rawFrame.dropna(how='any', axis=0)
         #Removes possible extra header rows from tabula output
-        
-        if len(splitcol) != 0: #if some columns need splitting
-            splitcol.sort() #lines up indices in order
-            assert len(rawFrame.columns) < splitcol[-1], \
-                   "Column %d is outside of table range" \
-                   % (splitcol[-1])
-            #Checks that columns to split are within range
-            #Column indices refer to the table w/o NaN-only columns
-            rawFrame = split_columns(rawFrame)
-            #Split up columns that contain multiple pieces of data
-        else:
-            pass #Do nothing if splitcol is an empty list (default)
-        
         allFrames.append(rawFrame)
         #Once the dataframe is processed, add to the list of frames
     
@@ -223,7 +141,7 @@ def batch_clean_tab_csv(
         outdata = pd.concat(allFrames, axis=0)
     #combine all of the frames into one dataframe either way
     
-    return outdata #will want to pickle this, but this works for now
+    return outdata #will want to pickle this
 
 
 
