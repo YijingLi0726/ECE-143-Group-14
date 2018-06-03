@@ -1,0 +1,2177 @@
+year,geo_name,geo,university_name,university,grads_total
+2013,"California","04000US06","Academy of Art University","108232",2489.0
+2013,"California","04000US06","ITT Technical Institute-Rancho Cordova","108250",242.0
+2013,"California","04000US06","Academy of Chinese Culture and Health Sciences","108269",12.0
+2013,"California","04000US06","The Academy of Radio and TV Broadcasting","108348",74.0
+2013,"California","04000US06","Avalon School of Cosmetology-Alameda","108649",116.0
+2013,"California","04000US06","College of Alameda","108667",365.0
+2013,"California","04000US06","Allan Hancock College","108807",1594.0
+2013,"California","04000US06","American Academy of Dramatic Arts-Los Angeles","108852",96.0
+2013,"California","04000US06","American Baptist Seminary of the West","108861",15.0
+2013,"California","04000US06","American Film Institute Conservatory","108870",121.0
+2013,"California","04000US06","American Beauty College","108977",37.0
+2013,"California","04000US06","American Career College-Los Angeles","109040",1024.0
+2013,"California","04000US06","American Conservatory Theater","109086",78.0
+2013,"California","04000US06","American River College","109208",6720.0
+2013,"California","04000US06","Everest College-Hayward","109332",180.0
+2013,"California","04000US06","Antelope Valley College","109350",1509.0
+2013,"California","04000US06","Art Center College of Design","109651",383.0
+2013,"California","04000US06","Associated Technical College-Los Angeles","109721",262.0
+2013,"California","04000US06","Associated Technical College-San Diego","109730",94.0
+2013,"California","04000US06","Azusa Pacific University","109785",2781.0
+2013,"California","04000US06","Bakersfield College","109819",1820.0
+2013,"California","04000US06","Barstow Community College","109907",252.0
+2013,"California","04000US06","Bellus Academy-National City","109934",112.0
+2013,"California","04000US06","Bethesda University of California","110060",156.0
+2013,"California","04000US06","Biola University","110097",1334.0
+2013,"California","04000US06","Brooks Institute","110185",227.0
+2013,"California","04000US06","Brownson Technical School","110194",6.0
+2013,"California","04000US06","Bryan University","110219",256.0
+2013,"California","04000US06","Butte College","110246",3126.0
+2013,"California","04000US06","Phillips Graduate Institute","110307",121.0
+2013,"California","04000US06","California Institute of Integral Studies","110316",450.0
+2013,"California","04000US06","Cabrillo College","110334",1585.0
+2013,"California","04000US06","California Baptist University","110361",1307.0
+2013,"California","04000US06","California College of the Arts","110370",498.0
+2013,"California","04000US06","University of California-Hastings College of Law","110398",398.0
+2013,"California","04000US06","California Institute of Technology","110404",590.0
+2013,"California","04000US06","California Lutheran University","110413",1301.0
+2013,"California","04000US06","California Polytechnic State University-San Luis Obispo","110422",3869.0
+2013,"California","04000US06","Alliant International University","110468",1085.0
+2013,"California","04000US06","California State University-Bakersfield","110486",1893.0
+2013,"California","04000US06","California State University-Stanislaus","110495",1987.0
+2013,"California","04000US06","California State University-San Bernardino","110510",4003.0
+2013,"California","04000US06","California State Polytechnic University-Pomona","110529",4677.0
+2013,"California","04000US06","California State University-Chico","110538",4050.0
+2013,"California","04000US06","California State University-Dominguez Hills","110547",3305.0
+2013,"California","04000US06","California State University-Fresno","110556",4655.0
+2013,"California","04000US06","California State University-Fullerton","110565",9420.0
+2013,"California","04000US06","California State University-East Bay","110574",3961.0
+2013,"California","04000US06","California State University-Long Beach","110583",8971.0
+2013,"California","04000US06","California State University-Los Angeles","110592",4827.0
+2013,"California","04000US06","California State University-Northridge","110608",8927.0
+2013,"California","04000US06","California State University-Sacramento","110617",6802.0
+2013,"California","04000US06","University of California-Berkeley","110635",12231.0
+2013,"California","04000US06","University of California-Davis","110644",10004.0
+2013,"California","04000US06","University of California-Irvine","110653",8293.0
+2013,"California","04000US06","University of California-Los Angeles","110662",12057.0
+2013,"California","04000US06","University of California-Riverside","110671",5275.0
+2013,"California","04000US06","University of California-San Diego","110680",8461.0
+2013,"California","04000US06","University of California-San Francisco","110699",899.0
+2013,"California","04000US06","University of California-Santa Barbara","110705",6817.0
+2013,"California","04000US06","University of California-Santa Cruz","110714",4789.0
+2013,"California","04000US06","Sofia University","110778",208.0
+2013,"California","04000US06","California Beauty School","110875",47.0
+2013,"California","04000US06","California Christian College","110918",4.0
+2013,"California","04000US06","California College San Diego","110945",452.0
+2013,"California","04000US06","Le Cordon Bleu College of Culinary Arts-San Francisco","111009",422.0
+2013,"California","04000US06","California Hair Design Academy","111054",163.0
+2013,"California","04000US06","California Institute of the Arts","111081",332.0
+2013,"California","04000US06","California Maritime Academy","111188",188.0
+2013,"California","04000US06","California Western School of Law","111391",318.0
+2013,"California","04000US06","Canada College","111434",695.0
+2013,"California","04000US06","College of the Canyons","111461",1396.0
+2013,"California","04000US06","Career Academy of Beauty","111513",166.0
+2013,"California","04000US06","Casa Loma College-Van Nuys","111638",284.0
+2013,"California","04000US06","CET-San Diego","111708",188.0
+2013,"California","04000US06","CET-Sobrato","111717",412.0
+2013,"California","04000US06","CET-El Centro","111726",292.0
+2013,"California","04000US06","CET-San Bernardino","111744",181.0
+2013,"California","04000US06","CET-Watsonville","111762",116.0
+2013,"California","04000US06","CET-Gilroy","111771",169.0
+2013,"California","04000US06","CET-Salinas","111799",94.0
+2013,"California","04000US06","Cerritos College","111887",1928.0
+2013,"California","04000US06","Cerro Coso Community College","111896",379.0
+2013,"California","04000US06","Chabot College","111920",978.0
+2013,"California","04000US06","Chaffey College","111939",2375.0
+2013,"California","04000US06","Chapman University","111948",2133.0
+2013,"California","04000US06","Charles R Drew University of Medicine and Science","111966",219.0
+2013,"California","04000US06","Concordia University-Irvine","112075",1282.0
+2013,"California","04000US06","San Diego Christian College","112084",122.0
+2013,"California","04000US06","Church Divinity School of the Pacific","112127",28.0
+2013,"California","04000US06","Citrus College","112172",1893.0
+2013,"California","04000US06","Citrus Heights Beauty College","112181",78.0
+2013,"California","04000US06","City College of San Francisco","112190",3896.0
+2013,"California","04000US06","Claremont Graduate University","112251",697.0
+2013,"California","04000US06","Claremont McKenna College","112260",338.0
+2013,"California","04000US06","Milan Institute-Visalia","112288",274.0
+2013,"California","04000US06","Clovis Adult Education","112367",163.0
+2013,"California","04000US06","Coastline Community College","112385",1845.0
+2013,"California","04000US06","Cogswell College","112394",43.0
+2013,"California","04000US06","Coleman University","112446",529.0
+2013,"California","04000US06","COBA Academy","112455",26.0
+2013,"California","04000US06","Western University of Health Sciences","112525",952.0
+2013,"California","04000US06","Columbia College","112561",350.0
+2013,"California","04000US06","Columbia College-Hollywood","112570",68.0
+2013,"California","04000US06","El Camino College-Compton Center","112686",377.0
+2013,"California","04000US06","Western Beauty Institute","112783",249.0
+2013,"California","04000US06","Contra Costa College","112826",1051.0
+2013,"California","04000US06","Cosumnes River College","113096",1124.0
+2013,"California","04000US06","Crafton Hills College","113111",730.0
+2013,"California","04000US06","Cuesta College","113193",1150.0
+2013,"California","04000US06","Cuyamaca College","113218",810.0
+2013,"California","04000US06","Cypress College","113236",1543.0
+2013,"California","04000US06","De Anza College","113333",2060.0
+2013,"California","04000US06","Marinello Schools of Beauty-Hemet","113397",834.0
+2013,"California","04000US06","International School of Beauty Inc","113449",210.0
+2013,"California","04000US06","Dell'Arte International School of Physical Theatre","113537",28.0
+2013,"California","04000US06","College of the Desert","113573",871.0
+2013,"California","04000US06","Design Institute of San Diego","113582",48.0
+2013,"California","04000US06","Diablo Valley College","113634",2265.0
+2013,"California","04000US06","Dominican University of California","113698",591.0
+2013,"California","04000US06","Dominican School of Philosophy & Theology","113704",12.0
+2013,"California","04000US06","East Los Angeles College","113856",3873.0
+2013,"California","04000US06","Marinello Schools of Beauty-Santa Clara","113908",441.0
+2013,"California","04000US06","El Camino Community College District","113980",2604.0
+2013,"California","04000US06","Elegance International","114044",67.0
+2013,"California","04000US06","Marinello Schools of Beauty-Burbank","114071",275.0
+2013,"California","04000US06","Marinello Schools of Beauty-Moreno Valley","114080",218.0
+2013,"California","04000US06","Emperor's College of Traditional Oriental Medicine","114114",50.0
+2013,"California","04000US06","Empire College School of Business","114123",218.0
+2013,"California","04000US06","Evergreen Valley College","114266",613.0
+2013,"California","04000US06","Fashion Institute of Design & Merchandising-Los Angeles","114354",1990.0
+2013,"California","04000US06","Fashion Institute of Design & Merchandising-San Francisco","114390",361.0
+2013,"California","04000US06","Feather River Community College District","114433",248.0
+2013,"California","04000US06","Federico Beauty Institute","114460",190.0
+2013,"California","04000US06","Fielding Graduate University","114549",374.0
+2013,"California","04000US06","Five Branches University","114585",110.0
+2013,"California","04000US06","Hair California Beauty Academy","114628",38.0
+2013,"California","04000US06","Foothill College","114716",1110.0
+2013,"California","04000US06","Franciscan School of Theology","114734",9.0
+2013,"California","04000US06","Fredrick and Charles Beauty College","114761",39.0
+2013,"California","04000US06","Fresno City College","114789",1590.0
+2013,"California","04000US06","Fresno Pacific University","114813",1084.0
+2013,"California","04000US06","Fuller Theological Seminary in California","114840",820.0
+2013,"California","04000US06","Fullerton College","114859",1544.0
+2013,"California","04000US06","Gavilan College","114938",763.0
+2013,"California","04000US06","Gemological Institute of America-Carlsbad","114947",275.0
+2013,"California","04000US06","Glendale Community College","115001",703.0
+2013,"California","04000US06","Glendale Career College","115010",204.0
+2013,"California","04000US06","Golden Gate University-San Francisco","115083",1336.0
+2013,"California","04000US06","Golden West College","115126",1925.0
+2013,"California","04000US06","Graduate Theological Union","115214",57.0
+2013,"California","04000US06","Grossmont College","115296",2106.0
+2013,"California","04000US06","Salon Success Academy-San Bernardino","115357",18.0
+2013,"California","04000US06","Hartnell College","115393",936.0
+2013,"California","04000US06","Harvey Mudd College","115409",192.0
+2013,"California","04000US06","Heald College-Rancho Cordova","115454",507.0
+2013,"California","04000US06","Heald College-Fresno","115472",674.0
+2013,"California","04000US06","Heald College-San Jose","115490",619.0
+2013,"California","04000US06","Heald College-San Francisco","115515",397.0
+2013,"California","04000US06","Heald College-Concord","115533",556.0
+2013,"California","04000US06","Hilltop Beauty School","115658",78.0
+2013,"California","04000US06","Holy Names University","115728",323.0
+2013,"California","04000US06","Pacifica Graduate Institute","115746",262.0
+2013,"California","04000US06","Humboldt State University","115755",1736.0
+2013,"California","04000US06","Humphreys College-Stockton and Modesto Campuses","115773",261.0
+2013,"California","04000US06","Imperial Valley College","115861",1171.0
+2013,"California","04000US06","Institute for Business and Technology","115931",211.0
+2013,"California","04000US06","Interior Designers Institute","116226",262.0
+2013,"California","04000US06","Toni & Guy Hairdressing Academy-Santa Monica","116350",173.0
+2013,"California","04000US06","Irvine Valley College","116439",2005.0
+2013,"California","04000US06","ITT Technical Institute-National City","116466",576.0
+2013,"California","04000US06","ITT Technical Institute-San Dimas","116475",237.0
+2013,"California","04000US06","ITT Technical Institute-Orange","116484",407.0
+2013,"California","04000US06","Bellus Academy-El Cajon","116563",126.0
+2013,"California","04000US06","Joe Blasco Makeup Artist Training Center","116660",69.0
+2013,"California","04000US06","John F Kennedy University","116712",448.0
+2013,"California","04000US06","American Jewish University","116846",64.0
+2013,"California","04000US06","Reedley College","117052",1114.0
+2013,"California","04000US06","Life Pacific College","117104",94.0
+2013,"California","04000US06","The Art Institute of California-Argosy University San Diego","117113",524.0
+2013,"California","04000US06","University of La Verne","117140",2374.0
+2013,"California","04000US06","Laguna College of Art and Design","117168",86.0
+2013,"California","04000US06","Lake Tahoe Community College","117195",199.0
+2013,"California","04000US06","Lancaster Beauty School","117238",58.0
+2013,"California","04000US06","Laney College","117247",685.0
+2013,"California","04000US06","Lassen Community College","117274",323.0
+2013,"California","04000US06","Life Chiropractic College West","117520",59.0
+2013,"California","04000US06","Lincoln University","117557",118.0
+2013,"California","04000US06","Southern California Seminary","117575",41.0
+2013,"California","04000US06","La Sierra University","117627",403.0
+2013,"California","04000US06","Loma Linda University","117636",1425.0
+2013,"California","04000US06","Long Beach City College","117645",3665.0
+2013,"California","04000US06","Southern California University of Health Sciences","117672",122.0
+2013,"California","04000US06","Los Angeles Harbor College","117690",613.0
+2013,"California","04000US06","Los Angeles Pierce College","117706",1649.0
+2013,"California","04000US06","Los Angeles Southwest College","117715",314.0
+2013,"California","04000US06","Los Angeles Trade Technical College","117724",1472.0
+2013,"California","04000US06","Los Angeles Valley College","117733",1417.0
+2013,"California","04000US06","The Master's College and Seminary","117751",372.0
+2013,"California","04000US06","Los Angeles City College","117788",974.0
+2013,"California","04000US06","Los Angeles County College of Nursing and Allied Health","117803",94.0
+2013,"California","04000US06","Los Angeles Mission College","117867",1011.0
+2013,"California","04000US06","Los Medanos College","117894",1368.0
+2013,"California","04000US06","The Art Institute of California-Argosy University San Francisco","117928",281.0
+2013,"California","04000US06","Loyola Marymount University","117946",2759.0
+2013,"California","04000US06","Lu Ross Academy","117955",170.0
+2013,"California","04000US06","Manchester Beauty College","118116",40.0
+2013,"California","04000US06","Tulare Beauty College","118125",16.0
+2013,"California","04000US06","Lyles Bakersfield College of Beauty","118134",53.0
+2013,"California","04000US06","Lyles Fresno College of Beauty","118143",38.0
+2013,"California","04000US06","Lytles Redwood Empire Beauty College Inc","118161",102.0
+2013,"California","04000US06","MTI Business College Inc","118189",74.0
+2013,"California","04000US06","MTI College","118198",642.0
+2013,"California","04000US06","Kaplan College-Sacramento","118259",425.0
+2013,"California","04000US06","Kaplan College-San Diego","118277",835.0
+2013,"California","04000US06","Kaplan College-Vista","118286",670.0
+2013,"California","04000US06","College of Marin","118347",421.0
+2013,"California","04000US06","Marinello Schools of Beauty-Los Angeles","118356",1570.0
+2013,"California","04000US06","Marymount California University","118541",123.0
+2013,"California","04000US06","Mendocino College","118684",344.0
+2013,"California","04000US06","Menlo College","118693",139.0
+2013,"California","04000US06","Merced College","118718",939.0
+2013,"California","04000US06","Merritt College","118772",420.0
+2013,"California","04000US06","Mills College","118888",596.0
+2013,"California","04000US06","MiraCosta College","118912",2443.0
+2013,"California","04000US06","Marinello Schools of Beauty-San Francisco","118921",325.0
+2013,"California","04000US06","Mission College","118930",811.0
+2013,"California","04000US06","Modern Beauty Academy","118958",19.0
+2013,"California","04000US06","Kaplan College-North Hollywood","118967",616.0
+2013,"California","04000US06","Modesto Junior College","118976",1807.0
+2013,"California","04000US06","Moler Barber College","118994",52.0
+2013,"California","04000US06","Monterey Institute of International Studies","119058",369.0
+2013,"California","04000US06","Monterey Peninsula College","119067",521.0
+2013,"California","04000US06","Moorpark College","119137",1910.0
+2013,"California","04000US06","Mt San Antonio College","119164",2798.0
+2013,"California","04000US06","Mount St Mary's College","119173",807.0
+2013,"California","04000US06","Mt San Jacinto Community College District","119216",1924.0
+2013,"California","04000US06","Mueller College","119234",134.0
+2013,"California","04000US06","Musicians Institute","119270",831.0
+2013,"California","04000US06","Napa Valley College","119331",734.0
+2013,"California","04000US06","Everest College-San Francisco","119340",216.0
+2013,"California","04000US06","Everest College-Reseda","119359",477.0
+2013,"California","04000US06","Everest College-LA Wilshire","119368",168.0
+2013,"California","04000US06","Everest College-San Jose","119438",241.0
+2013,"California","04000US06","Everest College-Gardena","119456",343.0
+2013,"California","04000US06","Everest College-Alhambra","119465",442.0
+2013,"California","04000US06","Everest College-San Bernardino","119508",455.0
+2013,"California","04000US06","The National Hispanic University","119544",136.0
+2013,"California","04000US06","National Holistic Institute","119553",685.0
+2013,"California","04000US06","National University","119605",4977.0
+2013,"California","04000US06","Naval Postgraduate School","119678",2300.0
+2013,"California","04000US06","Newschool of Architecture and Design","119775",144.0
+2013,"California","04000US06","Newberry School of Beauty","119845",141.0
+2013,"California","04000US06","Adrian's College of Beauty Modesto","119951",133.0
+2013,"California","04000US06","North-West College-Pomona","120069",178.0
+2013,"California","04000US06","North-West College-West Covina","120078",372.0
+2013,"California","04000US06","North-West College-Pasadena","120087",125.0
+2013,"California","04000US06","Northwestern Polytechnic University","120166",329.0
+2013,"California","04000US06","Notre Dame de Namur University","120184",441.0
+2013,"California","04000US06","Occidental College","120254",614.0
+2013,"California","04000US06","Oceanside College of Beauty","120272",56.0
+2013,"California","04000US06","Ohlone College","120290",808.0
+2013,"California","04000US06","Orange Coast College","120342",2119.0
+2013,"California","04000US06","Otis College of Art and Design","120403",311.0
+2013,"California","04000US06","Oxnard College","120421",819.0
+2013,"California","04000US06","Hope International University","120537",330.0
+2013,"California","04000US06","Concorde Career College-San Diego","120661",627.0
+2013,"California","04000US06","Palo Alto University","120698",242.0
+2013,"California","04000US06","Pacific Lutheran Theological Seminary","120740",24.0
+2013,"California","04000US06","Pacific Oaks College","120768",255.0
+2013,"California","04000US06","Pacific School of Religion","120795",44.0
+2013,"California","04000US06","Pacific States University","120838",91.0
+2013,"California","04000US06","Pacific Union College","120865",368.0
+2013,"California","04000US06","University of the Pacific","120883",1942.0
+2013,"California","04000US06","Palo Verde College","120953",341.0
+2013,"California","04000US06","Palomar College","120971",3308.0
+2013,"California","04000US06","Paris Beauty College","121017",95.0
+2013,"California","04000US06","Pasadena City College","121044",2256.0
+2013,"California","04000US06","Pepperdine University","121150",2622.0
+2013,"California","04000US06","Pitzer College","121257",306.0
+2013,"California","04000US06","Platt College-San Diego","121275",223.0
+2013,"California","04000US06","Point Loma Nazarene University","121309",865.0
+2013,"California","04000US06","Pomona College","121345",436.0
+2013,"California","04000US06","Porterville College","121363",365.0
+2013,"California","04000US06","Westwood College-South Bay","121381",184.0
+2013,"California","04000US06","Professional Institute of Beauty","121433",79.0
+2013,"California","04000US06","Santa Ana College","121619",3146.0
+2013,"California","04000US06","Pardee RAND Graduate School","121628",24.0
+2013,"California","04000US06","Shasta School of Cosmetology","121637",46.0
+2013,"California","04000US06","University of Redlands","121691",1589.0
+2013,"California","04000US06","College of the Redwoods","121707",584.0
+2013,"California","04000US06","Salon Success Academy-Upland","121859",147.0
+2013,"California","04000US06","Salon Success Academy-Corona","121868",99.0
+2013,"California","04000US06","Rio Hondo College","121886",1155.0
+2013,"California","04000US06","Riverside City College","121901",2464.0
+2013,"California","04000US06","Argosy University-San Francisco Bay Area","121983",182.0
+2013,"California","04000US06","Rosemead Beauty School","121992",189.0
+2013,"California","04000US06","Dongguk University-Los Angeles","122117",70.0
+2013,"California","04000US06","Sacramento City College","122180",2008.0
+2013,"California","04000US06","Saddleback College","122205",2921.0
+2013,"California","04000US06","Saint Patrick's Seminary and University","122250",21.0
+2013,"California","04000US06","Samuel Merritt University","122296",655.0
+2013,"California","04000US06","San Diego City College","122339",969.0
+2013,"California","04000US06","Golf Academy of America-Carlsbad","122366",144.0
+2013,"California","04000US06","San Diego Mesa College","122375",1321.0
+2013,"California","04000US06","San Diego Miramar College","122384",1065.0
+2013,"California","04000US06","San Diego State University","122409",7978.0
+2013,"California","04000US06","University of San Diego","122436",2734.0
+2013,"California","04000US06","San Francisco Art Institute","122454",203.0
+2013,"California","04000US06","San Francisco Conservatory of Music","122506",142.0
+2013,"California","04000US06","San Francisco State University","122597",7883.0
+2013,"California","04000US06","San Francisco Theological Seminary","122603",54.0
+2013,"California","04000US06","University of San Francisco","122612",2991.0
+2013,"California","04000US06","San Joaquin College of Law","122649",52.0
+2013,"California","04000US06","San Joaquin Delta College","122658",2943.0
+2013,"California","04000US06","San Joaquin Valley College-Visalia","122685",1060.0
+2013,"California","04000US06","San Joaquin Valley College-Bakersfield","122694",397.0
+2013,"California","04000US06","William Jessup University","122728",270.0
+2013,"California","04000US06","San Jose City College","122746",879.0
+2013,"California","04000US06","San Jose State University","122755",7709.0
+2013,"California","04000US06","College of San Mateo","122791",1285.0
+2013,"California","04000US06","Santa Barbara Business College-Bakersfield","122834",285.0
+2013,"California","04000US06","Westwood College-Los Angeles","122843",915.0
+2013,"California","04000US06","Santa Barbara Business College-Santa Maria","122852",169.0
+2013,"California","04000US06","Santa Barbara City College","122889",2841.0
+2013,"California","04000US06","Santa Clara University","122931",2618.0
+2013,"California","04000US06","Santa Monica College","122977",2580.0
+2013,"California","04000US06","Santa Rosa Junior College","123013",4992.0
+2013,"California","04000US06","Saybrook University","123095",124.0
+2013,"California","04000US06","Scripps College","123165",262.0
+2013,"California","04000US06","Wyotech-Fremont","123208",884.0
+2013,"California","04000US06","College of the Sequoias","123217",1432.0
+2013,"California","04000US06","Shasta Bible College and Graduate School","123280",11.0
+2013,"California","04000US06","Shasta College","123299",903.0
+2013,"California","04000US06","Sierra College","123341",2612.0
+2013,"California","04000US06","Sierra College of Beauty","123350",92.0
+2013,"California","04000US06","Sierra Valley College of Court Reporting","123396",11.0
+2013,"California","04000US06","Trinity Law School","123448",51.0
+2013,"California","04000US06","Simpson University","123457",388.0
+2013,"California","04000US06","College of the Siskiyous","123484",294.0
+2013,"California","04000US06","Charles A Jones Career and Education Center","123493",632.0
+2013,"California","04000US06","Skyline College","123509",1241.0
+2013,"California","04000US06","San Bernardino Valley College","123527",1224.0
+2013,"California","04000US06","Saint Mary's College of California","123554",1230.0
+2013,"California","04000US06","Solano Community College","123563",1462.0
+2013,"California","04000US06","Sonoma State University","123572",2017.0
+2013,"California","04000US06","Pinnacle College","123581",184.0
+2013,"California","04000US06","South Baylo University","123633",113.0
+2013,"California","04000US06","South Coast College","123642",74.0
+2013,"California","04000US06","Vanguard University of Southern California","123651",543.0
+2013,"California","04000US06","Concorde Career College-Garden Grove","123679",601.0
+2013,"California","04000US06","Southwestern College","123800",1094.0
+2013,"California","04000US06","St John's Seminary","123855",20.0
+2013,"California","04000US06","Starr King School for Ministry","123916",20.0
+2013,"California","04000US06","Marshall B Ketchum University","123943",101.0
+2013,"California","04000US06","Southern California Institute of Architecture","123952",129.0
+2013,"California","04000US06","University of Southern California","123961",13442.0
+2013,"California","04000US06","Southwestern Law School","123970",318.0
+2013,"California","04000US06","Taft College","124113",384.0
+2013,"California","04000US06","Claremont School of Theology","124283",53.0
+2013,"California","04000US06","Thomas Aquinas College","124292",91.0
+2013,"California","04000US06","Marinello Schools of Beauty-Lake Forest","124344",371.0
+2013,"California","04000US06","Epic Bible College","124487",74.0
+2013,"California","04000US06","United Education Institute-Huntington Park Campus","124681",3978.0
+2013,"California","04000US06","Concorde Career College-San Bernardino","124706",647.0
+2013,"California","04000US06","Universal College of Beauty Inc-Los Angeles 1","124779",9.0
+2013,"California","04000US06","Concorde Career College-North Hollywood","124937",431.0
+2013,"California","04000US06","Ventura College","125028",1671.0
+2013,"California","04000US06","The Santa Barbara and Ventura Colleges of Law-Ventura","125037",21.0
+2013,"California","04000US06","Victor Valley Beauty College Inc","125082",61.0
+2013,"California","04000US06","Victor Valley College","125091",1330.0
+2013,"California","04000US06","Berkeley City College","125170",261.0
+2013,"California","04000US06","Waynes College of Beauty","125310",22.0
+2013,"California","04000US06","West Hills College-Coalinga","125462",409.0
+2013,"California","04000US06","West Los Angeles College","125471",818.0
+2013,"California","04000US06","West Valley College","125499",840.0
+2013,"California","04000US06","Carrington College California-Sacramento","125532",656.0
+2013,"California","04000US06","Westminster Theological Seminary in California","125718",39.0
+2013,"California","04000US06","Westmont College","125727",369.0
+2013,"California","04000US06","Whittier College","125763",603.0
+2013,"California","04000US06","Woodbury University","125897",427.0
+2013,"California","04000US06","The Wright Institute","126012",126.0
+2013,"California","04000US06","Western State College of Law at Argosy University","126030",125.0
+2013,"California","04000US06","Thomas Jefferson School of Law","126049",376.0
+2013,"California","04000US06","Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary","126076",20.0
+2013,"California","04000US06","Yuba College","126119",726.0
+2013,"California","04000US06","Ashford University","154022",20027.0
+2013,"California","04000US06","Stanford University","243744",5099.0
+2013,"California","04000US06","ITT Technical Institute-Sylmar","244011",297.0
+2013,"California","04000US06","Antioch University-Los Angeles","245838",346.0
+2013,"California","04000US06","Antioch University-Santa Barbara","245847",157.0
+2013,"California","04000US06","Carrington College California-San Leandro","246974",343.0
+2013,"California","04000US06","Fashion Institute of Design & Merchandising-San Diego","248846",37.0
+2013,"California","04000US06","Platt College-Los Angeles","260789",261.0
+2013,"California","04000US06","Bethel Seminary-San Diego","262022",36.0
+2013,"California","04000US06","Brandman University","262086",2164.0
+2013,"California","04000US06","Adrian's College of Beauty Turlock","262369",81.0
+2013,"California","04000US06","California Career School","262402",278.0
+2013,"California","04000US06","San Joaquin Valley College-Fresno","262457",435.0
+2013,"California","04000US06","Heald College-Roseville","363387",541.0
+2013,"California","04000US06","Palomar Institute of Cosmetology","365125",113.0
+2013,"California","04000US06","InterCoast Colleges-Orange","366289",486.0
+2013,"California","04000US06","Las Positas College","366401",680.0
+2013,"California","04000US06","California State University-San Marcos","366711",2249.0
+2013,"California","04000US06","Kaplan College-Modesto","366960",369.0
+2013,"California","04000US06","Madera Beauty College","367662",20.0
+2013,"California","04000US06","University of St Augustine for Health Sciences","367954",512.0
+2013,"California","04000US06","Hypnosis Motivation Institute","368771",107.0
+2013,"California","04000US06","Los Angeles ORT College-Los Angeles Campus","368780",231.0
+2013,"California","04000US06","Everest College-West Los Angeles","368805",196.0
+2013,"California","04000US06","Thanh Le College School of Cosmetology","368832",44.0
+2013,"California","04000US06","Everest College-Ontario","371265",601.0
+2013,"California","04000US06","Downey Adult School","371690",639.0
+2013,"California","04000US06","Heald College-Stockton","371760",499.0
+2013,"California","04000US06","Heald College-Hayward","371779",669.0
+2013,"California","04000US06","CRU Institute","371830",21.0
+2013,"California","04000US06","Modern Technology School","371928",127.0
+2013,"California","04000US06","National Career Education","371964",123.0
+2013,"California","04000US06","Everest College-Anaheim","371982",366.0
+2013,"California","04000US06","Thuy Princess Beauty College","372000",68.0
+2013,"California","04000US06","North-West College-Glendale","372028",86.0
+2013,"California","04000US06","Everest College-City of Industry","372037",613.0
+2013,"California","04000US06","Fremont College","372073",212.0
+2013,"California","04000US06","Pomona Unified School District Adult and Career Education","372082",128.0
+2013,"California","04000US06","University of Phoenix-San Diego Campus","372222",1115.0
+2013,"California","04000US06","Universal College of Beauty Inc-Los Angeles 2","372240",25.0
+2013,"California","04000US06","Bellus Academy-Poway","377722",303.0
+2013,"California","04000US06","Capstone College","377759",45.0
+2013,"California","04000US06","Central Coast College","378105",147.0
+2013,"California","04000US06","ITT Technical Institute-Torrance","378406",238.0
+2013,"California","04000US06","Pacific College of Oriental Medicine-San Diego","378576",143.0
+2013,"California","04000US06","CET-Coachella","381255",84.0
+2013,"California","04000US06","CET-Oxnard","381282",107.0
+2013,"California","04000US06","CET-Santa Maria","381325",121.0
+2013,"California","04000US06","CET-Rancho Temecula","381334",99.0
+2013,"California","04000US06","ITT Technical Institute-San Bernardino","381909",431.0
+2013,"California","04000US06","Los Angeles ORT College-Van Nuys Campus","381945",226.0
+2013,"California","04000US06","Mt Diablo Adult Education","382258",163.0
+2013,"California","04000US06","Royale College of Beauty","382267",43.0
+2013,"California","04000US06","Westech College","382276",314.0
+2013,"California","04000US06","Hacienda La Puente Adult Education","383084",691.0
+2013,"California","04000US06","Acupuncture and Integrative Medicine College-Berkeley","384306",23.0
+2013,"California","04000US06","Alhambra Beauty College","393524",122.0
+2013,"California","04000US06","American Auto Institute","393649",1742.0
+2013,"California","04000US06","Asian American International Beauty College","393861",322.0
+2013,"California","04000US06","Avance Beauty College","393977",36.0
+2013,"California","04000US06","Colton-Redlands-Yucaipa Regional Occupational Program","395195",235.0
+2013,"California","04000US06","Copper Mountain Community College","395362",233.0
+2013,"California","04000US06","Diversified Vocational College","395690",1071.0
+2013,"California","04000US06","Bristol University","397270",28.0
+2013,"California","04000US06","UEI College-Fresno","397942",800.0
+2013,"California","04000US06","Mt Sierra College","398130",61.0
+2013,"California","04000US06","Wyotech-Long Beach","398574",1053.0
+2013,"California","04000US06","Santiago Canyon College","399212",2750.0
+2013,"California","04000US06","Southern California Institute of Technology","399869",381.0
+2013,"California","04000US06","Soka University of America","399911",121.0
+2013,"California","04000US06","Summit College","400080",1052.0
+2013,"California","04000US06","Advance Beauty College","400187",454.0
+2013,"California","04000US06","Career Colleges of America","400637",650.0
+2013,"California","04000US06","World Mission University","401223",53.0
+2013,"California","04000US06","Yo San University of Traditional Chinese Medicine","401250",35.0
+2013,"California","04000US06","Coast Career Institute","401339",391.0
+2013,"California","04000US06","University of Phoenix-Bay Area Campus","406006",309.0
+2013,"California","04000US06","University of Phoenix-Southern California Campus","406015",2321.0
+2013,"California","04000US06","California State University-Monterey Bay","409698",1200.0
+2013,"California","04000US06","Heald College-Salinas","409874",515.0
+2013,"California","04000US06","The Art Institute of California-Argosy University Hollywood","410502",280.0
+2013,"California","04000US06","Sage College","410520",52.0
+2013,"California","04000US06","Marian Health Careers Center-Los Angeles Campus","411684",30.0
+2013,"California","04000US06","Anthem College-Sacramento","413635",294.0
+2013,"California","04000US06","Crimson Technical College","413680",244.0
+2013,"California","04000US06","East San Gabriel Valley Regional Occupational Program","413802",626.0
+2013,"California","04000US06","ITT Technical Institute-Oxnard","413848",188.0
+2013,"California","04000US06","Four-D College","415774",374.0
+2013,"California","04000US06","Premiere Career College","416458",289.0
+2013,"California","04000US06","Estes Institute of Cosmetology Arts and Science","417062",74.0
+2013,"California","04000US06","Baldwin Park Adult & Community Education","417105",246.0
+2013,"California","04000US06","Ventura Adult and Continuing Education","417123",130.0
+2013,"California","04000US06","Marinello Schools of Beauty-Sacramento","417132",251.0
+2013,"California","04000US06","Central California School","419183",124.0
+2013,"California","04000US06","University of Phoenix-Sacramento Valley Campus","419509",739.0
+2013,"California","04000US06","Colleen O'Haras Beauty Academy","420608",76.0
+2013,"California","04000US06","San Joaquin Valley College-Fresno Aviation","422020",37.0
+2013,"California","04000US06","Champion Institute of Cosmetology","422190",45.0
+2013,"California","04000US06","Pacific College","422695",123.0
+2013,"California","04000US06","American College of Healthcare","422835",248.0
+2013,"California","04000US06","Le Cordon Bleu College of Culinary Arts-Pasadena","423980",1704.0
+2013,"California","04000US06","John Wesley International Barber and Beauty College","428125",58.0
+2013,"California","04000US06","CET-Sacramento","430342",122.0
+2013,"California","04000US06","American College of Traditional Chinese Medicine","430591",84.0
+2013,"California","04000US06","Everest College-Torrance","430980",150.0
+2013,"California","04000US06","Institute of Technology Inc","431141",1759.0
+2013,"California","04000US06","Virginia Sewing Machines and School Center","431956",33.0
+2013,"California","04000US06","Kaplan College-Riverside","432302",250.0
+2013,"California","04000US06","Platt College-Ontario","432384",296.0
+2013,"California","04000US06","The Art Institute of California-Argosy University Los Angeles","432533",452.0
+2013,"California","04000US06","American University of Health Sciences","433004",42.0
+2013,"California","04000US06","Career Networks Institute","433013",337.0
+2013,"California","04000US06","Santa Barbara Business College-Ventura","433420",128.0
+2013,"California","04000US06","Pima Medical Institute-Chula Vista","434140",660.0
+2013,"California","04000US06","Charter College-Canyon Country","434317",1071.0
+2013,"California","04000US06","Los Angeles Film School","436429",1044.0
+2013,"California","04000US06","Argosy University-Orange County","436438",179.0
+2013,"California","04000US06","ITT Technical Institute-Lathrop","437219",228.0
+2013,"California","04000US06","The English Center","437653",109.0
+2013,"California","04000US06","ICDC College","437662",1784.0
+2013,"California","04000US06","Professional Golfers Career College","437750",188.0
+2013,"California","04000US06","Westwood College-Anaheim","437848",251.0
+2013,"California","04000US06","InterCoast Colleges-Burbank","437884",82.0
+2013,"California","04000US06","Carrington College California-Antioch","437927",228.0
+2013,"California","04000US06","Carrington College California-San Jose","437936",371.0
+2013,"California","04000US06","Carrington College California-Pleasant Hill","438258",180.0
+2013,"California","04000US06","Universal Technical Institute of California Inc","438504",1341.0
+2013,"California","04000US06","CBD College","439367",147.0
+2013,"California","04000US06","My Le's Beauty College","439747",179.0
+2013,"California","04000US06","Bryan College-Gold River","439826",135.0
+2013,"California","04000US06","PCI College","439871",38.0
+2013,"California","04000US06","American Career College at St Francis","439905",57.0
+2013,"California","04000US06","Keck Graduate Institute","440031",104.0
+2013,"California","04000US06","Everest College-Ontario Metro","440299",347.0
+2013,"California","04000US06","Westwood College-Inland Empire","440484",260.0
+2013,"California","04000US06","Miami Ad School-San Francisco","440819",45.0
+2013,"California","04000US06","American Career College-Anaheim","441052",1031.0
+2013,"California","04000US06","San Diego State University-Imperial Valley Campus","441186",250.0
+2013,"California","04000US06","West Coast Ultrasound Institute","441229",465.0
+2013,"California","04000US06","Irell & Manella Graduate School of Biological Sciences at City of Hope","441238",14.0
+2013,"California","04000US06","Design's School of Cosmetology","441256",85.0
+2013,"California","04000US06","Paul Mitchell the School-Santa Barbara","441274",66.0
+2013,"California","04000US06","California State University-Channel Islands","441937",1400.0
+2013,"California","04000US06","The Art Institute of California-Argosy University Orange County","441973",398.0
+2013,"California","04000US06","David's Academy of Beauty","442204",379.0
+2013,"California","04000US06","Paul Mitchell the School-Costa Mesa","442240",190.0
+2013,"California","04000US06","San Joaquin Valley College-Ontario","442444",362.0
+2013,"California","04000US06","Milan Institute-Palm Desert","442657",187.0
+2013,"California","04000US06","InterCoast Colleges-Riverside","442888",175.0
+2013,"California","04000US06","University of Antelope Valley","442930",536.0
+2013,"California","04000US06","California Healing Arts College","442985",76.0
+2013,"California","04000US06","International Technological University","443128",294.0
+2013,"California","04000US06","NTMA Training Centers of Southern California","443207",640.0
+2013,"California","04000US06","West Coast University-Los Angeles","443331",341.0
+2013,"California","04000US06","California College of Vocational Careers","443429",47.0
+2013,"California","04000US06","InterCoast Colleges-West Covina","443571",142.0
+2013,"California","04000US06","Northcentral University","444130",820.0
+2013,"California","04000US06","Folsom Lake College","444219",885.0
+2013,"California","04000US06","ATI College-Norwalk","444325",33.0
+2013,"California","04000US06","Advanced College","444343",93.0
+2013,"California","04000US06","Advanced Training Associates","444361",91.0
+2013,"California","04000US06","CES College","444510",40.0
+2013,"California","04000US06","Computer Tutor Business and Technical Institute","444529",135.0
+2013,"California","04000US06","University of California-Merced","445188",919.0
+2013,"California","04000US06","North-West College-Riverside","445364",176.0
+2013,"California","04000US06","Wyotech-West Sacramento","445452",1223.0
+2013,"California","04000US06","University of Phoenix-Central Valley Campus","445717",417.0
+2013,"California","04000US06","Cambridge Junior College-Yuba City","446093",86.0
+2013,"California","04000US06","Career Care Institute","446118",346.0
+2013,"California","04000US06","Community Christian College","446163",17.0
+2013,"California","04000US06","Los Angeles Music Academy","446385",76.0
+2013,"California","04000US06","Pacific Coast Trade School","446437",166.0
+2013,"California","04000US06","Stanbridge College","446561",330.0
+2013,"California","04000US06","United States University","447050",188.0
+2013,"California","04000US06","Kaplan College-Bakersfield","447102",422.0
+2013,"California","04000US06","Kaplan College-Fresno","447120",311.0
+2013,"California","04000US06","Argosy University-Los Angeles","447272",86.0
+2013,"California","04000US06","San Joaquin Valley College-Modesto","447351",220.0
+2013,"California","04000US06","Expression College for Digital Arts","447458",175.0
+2013,"California","04000US06","Kaplan College-Palm Springs","447634",316.0
+2013,"California","04000US06","California Career College","447713",34.0
+2013,"California","04000US06","Palladium Technical Academy","447722",72.0
+2013,"California","04000US06","Palace Beauty College","447731",173.0
+2013,"California","04000US06","National Polytechnic College","447759",126.0
+2013,"California","04000US06","American Career College-Ontario","447768",904.0
+2013,"California","04000US06","Asher College","447777",258.0
+2013,"California","04000US06","American Institute of Massage Therapy","447795",18.0
+2013,"California","04000US06","University of East-West Medicine","447801",58.0
+2013,"California","04000US06","Blake Austin College","447810",208.0
+2013,"California","04000US06","SUM Bible College and Theological Seminary","447953",33.0
+2013,"California","04000US06","San Joaquin Valley College-Rancho Cordova","448372",83.0
+2013,"California","04000US06","Universal Technical Institute of Northern California Inc","448433",967.0
+2013,"California","04000US06","ITT Technical Institute-Clovis","448451",193.0
+2013,"California","04000US06","The Art Institute of California-Argosy University Inland Empire","448576",471.0
+2013,"California","04000US06","West Hills College-Lemoore","448594",389.0
+2013,"California","04000US06","Milan Institute-Clovis","448895",275.0
+2013,"California","04000US06","Beaumont Adult School","449357",83.0
+2013,"California","04000US06","Make-up Designory","449366",611.0
+2013,"California","04000US06","Video Symphony EnterTraining Inc","449375",169.0
+2013,"California","04000US06","Gnomon School of Visual Effects","449384",34.0
+2013,"California","04000US06","Coachella Valley Beauty College","449393",52.0
+2013,"California","04000US06","Career College of California","449436",146.0
+2013,"California","04000US06","Valley College of Medical Careers","449445",42.0
+2013,"California","04000US06","University of the West","449870",44.0
+2013,"California","04000US06","Paul Mitchell the School-San Diego","449968",172.0
+2013,"California","04000US06","Paul Mitchell the School-Sherman Oaks","449986",149.0
+2013,"California","04000US06","The Art Institute of California-Argosy University Sacramento","450094",186.0
+2013,"California","04000US06","International Academy of Design and Technology-Sacramento","450447",154.0
+2013,"California","04000US06","Argosy University-Inland Empire","450526",113.0
+2013,"California","04000US06","Argosy University-San Diego","450544",108.0
+2013,"California","04000US06","InterCoast Colleges-Carson","450669",101.0
+2013,"California","04000US06","Carrington College California-Stockton","450696",230.0
+2013,"California","04000US06","Carrington College California-Citrus Heights","450702",250.0
+2013,"California","04000US06","InfoTech Career College","450960",123.0
+2013,"California","04000US06","Trident University International","450979",2798.0
+2013,"California","04000US06","Coastline Beauty College","450988",230.0
+2013,"California","04000US06","Career College Consultants","451006",127.0
+2013,"California","04000US06","San Diego College","451015",299.0
+2013,"California","04000US06","The Art Institute of California-Argosy University-Silicon Valley","451848",138.0
+2013,"California","04000US06","Le Cordon Bleu College of Culinary Arts-Sacramento","452036",440.0
+2013,"California","04000US06","Milan Institute of Cosmetology-Fairfield","454546",68.0
+2013,"California","04000US06","Milan Institute of Cosmetology-Visalia","454573",136.0
+2013,"California","04000US06","Mayfield College","454698",315.0
+2013,"California","04000US06","International Polytechnic Institute","454704",47.0
+2013,"California","04000US06","Academy of Esthetics and Cosmetology","454722",27.0
+2013,"California","04000US06","BioHealth College","454731",174.0
+2013,"California","04000US06","International Professional School of Bodywork","454740",43.0
+2013,"California","04000US06","Borner's Barber College","454759",5.0
+2013,"California","04000US06","Paul Mitchell the School-Pasadena","454768",93.0
+2013,"California","04000US06","San Francisco Institute of Esthetics and Cosmetology","454777",155.0
+2013,"California","04000US06","Laurus College","454786",183.0
+2013,"California","04000US06","Healing Hands School of Holistic Health","454795",119.0
+2013,"California","04000US06","Career Development Institute","454801",36.0
+2013,"California","04000US06","The Chicago School of Professional Psychology at Irvine","455433",67.0
+2013,"California","04000US06","California InterContinental University","455451",49.0
+2013,"California","04000US06","Woodland Community College","455512",160.0
+2013,"California","04000US06","The Chicago School of Professional Psychology at Los Angeles","455664",101.0
+2013,"California","04000US06","The Chicago School of Professional Psychology at Westwood","455682",58.0
+2013,"California","04000US06","California Nurses Educational Institute","455734",168.0
+2013,"California","04000US06","Central Nursing College","455743",26.0
+2013,"California","04000US06","RWM Fiber Optics","455752",50.0
+2013,"California","04000US06","Paul Mitchell the School-Sacramento","455761",176.0
+2013,"California","04000US06","Providence Christian College","455770",20.0
+2013,"California","04000US06","National Career College","455868",45.0
+2013,"California","04000US06","ITT Technical Institute-Concord","456427",151.0
+2013,"California","04000US06","Salon Success Academy-Fontana","456588",25.0
+2013,"California","04000US06","Salon Success Academy-Redlands","456597",83.0
+2013,"California","04000US06","San Joaquin Valley College-Hesperia","456852",384.0
+2013,"California","04000US06","Milan Institute-Bakersfield","457077",191.0
+2013,"California","04000US06","Homestead Schools","457086",82.0
+2013,"California","04000US06","InterCoast Colleges-Elk Grove","457208",133.0
+2013,"California","04000US06","Horizon University","457226",11.0
+2013,"California","04000US06","San Diego Culinary Institute","457244",166.0
+2013,"California","04000US06","Beyond 21st Century Beauty Academy","457253",29.0
+2013,"California","04000US06","Academy for Jewish Religion-California","457271",11.0
+2013,"California","04000US06","Hollywood Beauty College","457280",80.0
+2013,"California","04000US06","Angeles College","457299",51.0
+2013,"California","04000US06","Angeles Institute","457314",96.0
+2013,"California","04000US06","Paul Mitchell the School-Temecula","457323",177.0
+2013,"California","04000US06","Kaplan College-Chula Vista","458186",228.0
+2013,"California","04000US06","InterCoast Colleges-Roseville","458195",31.0
+2013,"California","04000US06","West Coast University-Orange County","458210",356.0
+2013,"California","04000US06","West Coast University-Ontario","458229",281.0
+2013,"California","04000US06","Northern California Institute of Cosmetology Inc","459134",33.0
+2013,"California","04000US06","Golden State College of Court Reporting","459143",5.0
+2013,"California","04000US06","Preferred College of Nursing-Los Angeles","459152",134.0
+2013,"California","04000US06","Trinity Vocational Center","459161",412.0
+2013,"California","04000US06","SICE Paul Mitchell Partner School","459170",138.0
+2013,"California","04000US06","Cosmo Beauty Academy","459189",75.0
+2013,"California","04000US06","Paul Mitchell the School-Fresno","459198",106.0
+2013,"California","04000US06","Unitek College","459204",461.0
+2013,"California","04000US06","Gurnick Academy of Medical Arts","459213",364.0
+2013,"California","04000US06","Southern California University SOMA","459222",58.0
+2013,"California","04000US06","Paul Mitchell the School-East Bay","459231",176.0
+2013,"California","04000US06","ITT Technical Institute-Corona","459639",167.0
+2013,"California","04000US06","ITT Technical Institute-West Covina","459684",141.0
+2013,"California","04000US06","ITT Technical Institute-Culver City","459693",101.0
+2013,"California","04000US06","Touro University Worldwide","459727",42.0
+2013,"California","04000US06","Touro University California","459736",447.0
+2013,"California","04000US06","Heald College-Modesto","459930",308.0
+2013,"California","04000US06","California University of Management and Sciences","460075",103.0
+2013,"California","04000US06","Everest College-Santa Ana","460367",375.0
+2013,"California","04000US06","Moreno Valley College","460394",1005.0
+2013,"California","04000US06","Norco College","460464",1031.0
+2013,"California","04000US06","Milan Institute of Cosmetology-La Quinta","460516",64.0
+2013,"California","04000US06","Cambridge Junior College-Woodland","460659",59.0
+2013,"California","04000US06","Western Beauty Institute","460686",142.0
+2013,"California","04000US06","Allied American University","460729",386.0
+2013,"California","04000US06","New York Film Academy","461148",843.0
+2013,"California","04000US06","International College of Cosmetology","461175",216.0
+2013,"California","04000US06","Toni & Guy Hairdressing Academy-Modesto","461227",54.0
+2013,"California","04000US06","Galaxy Medical College","461254",67.0
+2013,"California","04000US06","American Medical Sciences Center","461263",147.0
+2013,"California","04000US06","Tramy Beauty School","461397",196.0
+2013,"California","04000US06","Santa Ana Beauty Academy","461500",14.0
+2013,"California","04000US06","Elite Cosmetology School","461607",53.0
+2013,"California","04000US06","Twin Rivers Adult School","461634",279.0
+2013,"California","04000US06","Bergin University of Canine Studies","461643",19.0
+2013,"California","04000US06","Real Barbers College","461698",45.0
+2013,"California","04000US06","Ashdown College of Health Sciences","461777",45.0
+2013,"California","04000US06","Cinta Aveda Institute","461829",136.0
+2013,"California","04000US06","Southern California Health Institute","461856",269.0
+2013,"California","04000US06","Salinas Beauty College Inc","461971",13.0
+2013,"California","04000US06","Academy for Salon Professionals","461980",113.0
+2013,"California","04000US06","Academy for Salon Professionals","462062",61.0
+2013,"California","04000US06","International College of Beauty Arts & Sciences","462336",14.0
+2013,"California","04000US06","John Paul the Great Catholic University","462354",35.0
+2013,"California","04000US06","ITT Technical Institute-Oakland","467058",28.0
+2013,"California","04000US06","Carrington College California-Pomona","467368",77.0
+2013,"California","04000US06","CET-Soledad","468769",96.0
+2013,"California","04000US06","Aveda Institute-Los Angeles","469957",97.0
+2013,"California","04000US06","Coast Career Institute","470302",180.0
+2013,"California","04000US06","Azusa Pacific Online University","474863",21.0
+2013,"California","04000US06","International Culinary Center-California","475097",198.0
+2013,"California","04000US06","San Joaquin Valley College-Temecula","475176",186.0
+2013,"California","04000US06","The Santa Barbara and Ventura Colleges of Law - Santa Barbara","475228",21.0
+2013,"California","04000US06","Marian Health Careers Center-Van Nuys Campus","475282",29.0
+2013,"California","04000US06","MediaTech Institute-Oceanside","475501",19.0
+2013,"California","04000US06","Academy of Couture Art","475635",6.0
+2013,"California","04000US06","Preferred College of Nursing-Van Nuys","475680",156.0
+2013,"California","04000US06","WestMed College","476470",231.0
+2013,"California","04000US06","Flair Beauty College","476513",49.0
+2013,"California","04000US06","Medical Allied Career Center","476595",40.0
+2013,"California","04000US06","LeMelange Academy of Hair","476744",44.0
+2013,"California","04000US06","Diamond Beauty College","476780",244.0
+2013,"California","04000US06","NCP College of Nursing-South San Francisco","476799",35.0
+2013,"California","04000US06","SAE Institute of Technology-Los Angeles","476911",85.0
+2013,"California","04000US06","California College San Diego","478625",13.0
+2013,"California","04000US06","California College San Diego","478634",11.0
+2013,"California","04000US06","NCP College of Nursing-Hayward","479424",94.0
+2013,"California","04000US06","Advance Beauty Techs Academy","479974",25.0
+2013,"California","04000US06","Brand College","479992",15.0
+2013,"California","04000US06","Hinton Barber College","480000",84.0
+2013,"California","04000US06","Advanced Career Institute","480019",362.0
+2013,"California","04000US06","Platt College-Riverside","480204",30.0
+2013,"California","04000US06","Abraham Lincoln University","480444",19.0
+2013,"California","04000US06","EMS Training Institute","480718",123.0
+2013,"California","04000US06","California Miramar University","480781",22.0
+2013,"California","04000US06","UEI College-Santa Cruz","480897",83.0
+2013,"California","04000US06","Grace Mission University","481058",30.0
+2013,"California","04000US06","Santa Ana Beauty College","481128",512.0
+2013,"California","04000US06","Riverside County Office of Education","481191",369.0
+2013,"California","04000US06","Advanced Computing Institute","481234",36.0
+2013,"California","04000US06","Xavier College School of Nursing","481289",49.0
+2013,"California","04000US06","California Career Institute","481386",29.0
+2013,"California","04000US06","Cosmo Factory Cosmetology Academy","481395",4.0
+2013,"California","04000US06","W Academy of Salon and Spa","481474",34.0
+2013,"California","04000US06","Sanford-Burnham Medical Research Institute","481535",2.0
+2013,"California","04000US06","Toni & Guy Hairdressing Academy-Manteca","481562",25.0
+2013,"California","04000US06","San Joaquin Valley College-Lancaster","481775",2.0
+2013,"California","04000US06","American Career College-Long Beach","481854",2.0
+2013,"California","04000US06","InterCoast Colleges-Fairfield","481960",158.0
+2013,"California","04000US06","DeVry University-California","482431",2463.0
+2014,"California","04000US06","Academy of Art University","108232",2651.0
+2014,"California","04000US06","ITT Technical Institute-Rancho Cordova","108250",200.0
+2014,"California","04000US06","Academy of Chinese Culture and Health Sciences","108269",14.0
+2014,"California","04000US06","The Academy of Radio and TV Broadcasting","108348",73.0
+2014,"California","04000US06","Avalon School of Cosmetology-Alameda","108649",100.0
+2014,"California","04000US06","College of Alameda","108667",386.0
+2014,"California","04000US06","Allan Hancock College","108807",1869.0
+2014,"California","04000US06","American Academy of Dramatic Arts-Los Angeles","108852",109.0
+2014,"California","04000US06","American Baptist Seminary of the West","108861",15.0
+2014,"California","04000US06","American Film Institute Conservatory","108870",132.0
+2014,"California","04000US06","American Beauty College","108977",44.0
+2014,"California","04000US06","American Career College-Los Angeles","109040",1165.0
+2014,"California","04000US06","American Conservatory Theater","109086",70.0
+2014,"California","04000US06","American River College","109208",6956.0
+2014,"California","04000US06","Antelope Valley College","109350",1838.0
+2014,"California","04000US06","Art Center College of Design","109651",446.0
+2014,"California","04000US06","Associated Technical College-Los Angeles","109721",282.0
+2014,"California","04000US06","Associated Technical College-San Diego","109730",104.0
+2014,"California","04000US06","Azusa Pacific University","109785",2970.0
+2014,"California","04000US06","Bakersfield College","109819",2039.0
+2014,"California","04000US06","Barstow Community College","109907",317.0
+2014,"California","04000US06","Bellus Academy-National City","109934",106.0
+2014,"California","04000US06","Bethesda University of California","110060",42.0
+2014,"California","04000US06","Biola University","110097",1326.0
+2014,"California","04000US06","Brooks Institute","110185",173.0
+2014,"California","04000US06","Brownson Technical School","110194",16.0
+2014,"California","04000US06","Bryan University","110219",209.0
+2014,"California","04000US06","Butte College","110246",3263.0
+2014,"California","04000US06","Phillips Graduate Institute","110307",70.0
+2014,"California","04000US06","California Institute of Integral Studies","110316",380.0
+2014,"California","04000US06","Cabrillo College","110334",1879.0
+2014,"California","04000US06","California Baptist University","110361",1508.0
+2014,"California","04000US06","California College of the Arts","110370",510.0
+2014,"California","04000US06","University of California-Hastings College of Law","110398",435.0
+2014,"California","04000US06","California Institute of Technology","110404",526.0
+2014,"California","04000US06","California Lutheran University","110413",1362.0
+2014,"California","04000US06","California Polytechnic State University-San Luis Obispo","110422",4289.0
+2014,"California","04000US06","Alliant International University","110468",1333.0
+2014,"California","04000US06","California State University-Bakersfield","110486",1803.0
+2014,"California","04000US06","California State University-Stanislaus","110495",2033.0
+2014,"California","04000US06","California State University-San Bernardino","110510",4199.0
+2014,"California","04000US06","California State Polytechnic University-Pomona","110529",4552.0
+2014,"California","04000US06","California State University-Chico","110538",3926.0
+2014,"California","04000US06","California State University-Dominguez Hills","110547",3417.0
+2014,"California","04000US06","California State University-Fresno","110556",5239.0
+2014,"California","04000US06","California State University-Fullerton","110565",9325.0
+2014,"California","04000US06","California State University-East Bay","110574",4178.0
+2014,"California","04000US06","California State University-Long Beach","110583",9230.0
+2014,"California","04000US06","California State University-Los Angeles","110592",4702.0
+2014,"California","04000US06","California State University-Northridge","110608",9207.0
+2014,"California","04000US06","California State University-Sacramento","110617",6985.0
+2014,"California","04000US06","University of California-Berkeley","110635",12096.0
+2014,"California","04000US06","University of California-Davis","110644",9484.0
+2014,"California","04000US06","University of California-Irvine","110653",8273.0
+2014,"California","04000US06","University of California-Los Angeles","110662",12067.0
+2014,"California","04000US06","University of California-Riverside","110671",5555.0
+2014,"California","04000US06","University of California-San Diego","110680",8231.0
+2014,"California","04000US06","University of California-San Francisco","110699",889.0
+2014,"California","04000US06","University of California-Santa Barbara","110705",6326.0
+2014,"California","04000US06","University of California-Santa Cruz","110714",4510.0
+2014,"California","04000US06","Sofia University","110778",149.0
+2014,"California","04000US06","California Beauty School","110875",47.0
+2014,"California","04000US06","California Christian College","110918",7.0
+2014,"California","04000US06","Le Cordon Bleu College of Culinary Arts-San Francisco","111009",240.0
+2014,"California","04000US06","California Hair Design Academy","111054",154.0
+2014,"California","04000US06","California Institute of the Arts","111081",411.0
+2014,"California","04000US06","California Maritime Academy","111188",190.0
+2014,"California","04000US06","California Western School of Law","111391",268.0
+2014,"California","04000US06","Canada College","111434",868.0
+2014,"California","04000US06","College of the Canyons","111461",2175.0
+2014,"California","04000US06","Career Academy of Beauty","111513",133.0
+2014,"California","04000US06","Casa Loma College-Van Nuys","111638",152.0
+2014,"California","04000US06","CET-San Diego","111708",194.0
+2014,"California","04000US06","CET-Sobrato","111717",304.0
+2014,"California","04000US06","CET-El Centro","111726",271.0
+2014,"California","04000US06","CET-San Bernardino","111744",109.0
+2014,"California","04000US06","CET-Watsonville","111762",90.0
+2014,"California","04000US06","CET-Gilroy","111771",116.0
+2014,"California","04000US06","CET-Salinas","111799",66.0
+2014,"California","04000US06","Cerritos College","111887",1812.0
+2014,"California","04000US06","Cerro Coso Community College","111896",351.0
+2014,"California","04000US06","Chabot College","111920",1050.0
+2014,"California","04000US06","Chaffey College","111939",2764.0
+2014,"California","04000US06","Chapman University","111948",2157.0
+2014,"California","04000US06","Charles R Drew University of Medicine and Science","111966",228.0
+2014,"California","04000US06","Concordia University-Irvine","112075",1357.0
+2014,"California","04000US06","San Diego Christian College","112084",146.0
+2014,"California","04000US06","Church Divinity School of the Pacific","112127",26.0
+2014,"California","04000US06","Citrus College","112172",2379.0
+2014,"California","04000US06","Citrus Heights Beauty College","112181",95.0
+2014,"California","04000US06","City College of San Francisco","112190",3532.0
+2014,"California","04000US06","Claremont Graduate University","112251",630.0
+2014,"California","04000US06","Claremont McKenna College","112260",392.0
+2014,"California","04000US06","Milan Institute-Visalia","112288",312.0
+2014,"California","04000US06","Clovis Adult Education","112367",103.0
+2014,"California","04000US06","Coastline Community College","112385",2061.0
+2014,"California","04000US06","Cogswell College","112394",65.0
+2014,"California","04000US06","Coleman University","112446",347.0
+2014,"California","04000US06","COBA Academy","112455",22.0
+2014,"California","04000US06","Western University of Health Sciences","112525",956.0
+2014,"California","04000US06","Columbia College","112561",386.0
+2014,"California","04000US06","Columbia College-Hollywood","112570",74.0
+2014,"California","04000US06","El Camino College-Compton Center","112686",358.0
+2014,"California","04000US06","Contra Costa College","112826",879.0
+2014,"California","04000US06","Cosumnes River College","113096",1150.0
+2014,"California","04000US06","Crafton Hills College","113111",823.0
+2014,"California","04000US06","Cuesta College","113193",1120.0
+2014,"California","04000US06","Cuyamaca College","113218",839.0
+2014,"California","04000US06","Cypress College","113236",1851.0
+2014,"California","04000US06","De Anza College","113333",2039.0
+2014,"California","04000US06","Marinello Schools of Beauty-Hemet","113397",837.0
+2014,"California","04000US06","International School of Beauty Inc","113449",163.0
+2014,"California","04000US06","Dell'Arte International School of Physical Theatre","113537",24.0
+2014,"California","04000US06","College of the Desert","113573",768.0
+2014,"California","04000US06","Design Institute of San Diego","113582",32.0
+2014,"California","04000US06","Diablo Valley College","113634",2638.0
+2014,"California","04000US06","Dominican University of California","113698",592.0
+2014,"California","04000US06","Dominican School of Philosophy & Theology","113704",15.0
+2014,"California","04000US06","East Los Angeles College","113856",3740.0
+2014,"California","04000US06","Marinello Schools of Beauty-Santa Clara","113908",343.0
+2014,"California","04000US06","El Camino Community College District","113980",2443.0
+2014,"California","04000US06","Elegance International","114044",89.0
+2014,"California","04000US06","Marinello Schools of Beauty-Burbank","114071",275.0
+2014,"California","04000US06","Marinello Schools of Beauty-Moreno Valley","114080",118.0
+2014,"California","04000US06","Emperor's College of Traditional Oriental Medicine","114114",47.0
+2014,"California","04000US06","Empire College School of Business","114123",216.0
+2014,"California","04000US06","Evergreen Valley College","114266",624.0
+2014,"California","04000US06","Fashion Institute of Design & Merchandising-Los Angeles","114354",1754.0
+2014,"California","04000US06","Fashion Institute of Design & Merchandising-San Francisco","114390",298.0
+2014,"California","04000US06","Feather River Community College District","114433",325.0
+2014,"California","04000US06","Federico Beauty Institute","114460",157.0
+2014,"California","04000US06","Fielding Graduate University","114549",418.0
+2014,"California","04000US06","Five Branches University","114585",99.0
+2014,"California","04000US06","Hair California Beauty Academy","114628",44.0
+2014,"California","04000US06","Redondo Beach Beauty College","114637",63.0
+2014,"California","04000US06","Foothill College","114716",1239.0
+2014,"California","04000US06","Franciscan School of Theology","114734",20.0
+2014,"California","04000US06","Fredrick and Charles Beauty College","114761",69.0
+2014,"California","04000US06","Fresno City College","114789",1545.0
+2014,"California","04000US06","Fresno Pacific University","114813",832.0
+2014,"California","04000US06","Fuller Theological Seminary in California","114840",702.0
+2014,"California","04000US06","Fullerton College","114859",1876.0
+2014,"California","04000US06","Gavilan College","114938",797.0
+2014,"California","04000US06","Gemological Institute of America-Carlsbad","114947",289.0
+2014,"California","04000US06","Glendale Community College","115001",762.0
+2014,"California","04000US06","Glendale Career College","115010",190.0
+2014,"California","04000US06","Golden Gate University-San Francisco","115083",1199.0
+2014,"California","04000US06","Golden West College","115126",2070.0
+2014,"California","04000US06","Graduate Theological Union","115214",54.0
+2014,"California","04000US06","Grossmont College","115296",2839.0
+2014,"California","04000US06","Salon Success Academy-San Bernardino","115357",25.0
+2014,"California","04000US06","Hartnell College","115393",1208.0
+2014,"California","04000US06","Harvey Mudd College","115409",191.0
+2014,"California","04000US06","Heald College-Rancho Cordova","115454",469.0
+2014,"California","04000US06","Heald College-Fresno","115472",694.0
+2014,"California","04000US06","Heald College-San Jose","115490",675.0
+2014,"California","04000US06","Heald College-San Francisco","115515",370.0
+2014,"California","04000US06","Heald College-Concord","115533",543.0
+2014,"California","04000US06","Hilltop Beauty School","115658",64.0
+2014,"California","04000US06","Holy Names University","115728",412.0
+2014,"California","04000US06","Pacifica Graduate Institute","115746",264.0
+2014,"California","04000US06","Humboldt State University","115755",1870.0
+2014,"California","04000US06","Humphreys College-Stockton and Modesto Campuses","115773",250.0
+2014,"California","04000US06","Imperial Valley College","115861",1269.0
+2014,"California","04000US06","Institute for Business and Technology","115931",200.0
+2014,"California","04000US06","Interior Designers Institute","116226",77.0
+2014,"California","04000US06","Toni & Guy Hairdressing Academy-Santa Monica","116350",186.0
+2014,"California","04000US06","Irvine Valley College","116439",1840.0
+2014,"California","04000US06","ITT Technical Institute-National City","116466",420.0
+2014,"California","04000US06","ITT Technical Institute-San Dimas","116475",184.0
+2014,"California","04000US06","ITT Technical Institute-Orange","116484",320.0
+2014,"California","04000US06","Bellus Academy-El Cajon","116563",131.0
+2014,"California","04000US06","John F Kennedy University","116712",324.0
+2014,"California","04000US06","American Jewish University","116846",59.0
+2014,"California","04000US06","Reedley College","117052",1463.0
+2014,"California","04000US06","Life Pacific College","117104",136.0
+2014,"California","04000US06","The Art Institute of California-Argosy University San Diego","117113",527.0
+2014,"California","04000US06","University of La Verne","117140",2749.0
+2014,"California","04000US06","Laguna College of Art and Design","117168",87.0
+2014,"California","04000US06","Lake Tahoe Community College","117195",168.0
+2014,"California","04000US06","Lancaster Beauty School","117238",106.0
+2014,"California","04000US06","Laney College","117247",486.0
+2014,"California","04000US06","Lassen Community College","117274",297.0
+2014,"California","04000US06","Life Chiropractic College West","117520",101.0
+2014,"California","04000US06","Lincoln University","117557",108.0
+2014,"California","04000US06","Southern California Seminary","117575",41.0
+2014,"California","04000US06","La Sierra University","117627",483.0
+2014,"California","04000US06","Loma Linda University","117636",1635.0
+2014,"California","04000US06","Long Beach City College","117645",2152.0
+2014,"California","04000US06","Southern California University of Health Sciences","117672",167.0
+2014,"California","04000US06","Los Angeles Harbor College","117690",836.0
+2014,"California","04000US06","Los Angeles Pierce College","117706",1827.0
+2014,"California","04000US06","Los Angeles Southwest College","117715",629.0
+2014,"California","04000US06","Los Angeles Trade Technical College","117724",1624.0
+2014,"California","04000US06","Los Angeles Valley College","117733",1677.0
+2014,"California","04000US06","The Master's College and Seminary","117751",369.0
+2014,"California","04000US06","Los Angeles City College","117788",1275.0
+2014,"California","04000US06","Los Angeles County College of Nursing and Allied Health","117803",81.0
+2014,"California","04000US06","Los Angeles Mission College","117867",1287.0
+2014,"California","04000US06","Los Medanos College","117894",1707.0
+2014,"California","04000US06","The Art Institute of California-Argosy University San Francisco","117928",278.0
+2014,"California","04000US06","Loyola Marymount University","117946",3012.0
+2014,"California","04000US06","Lu Ross Academy","117955",197.0
+2014,"California","04000US06","Manchester Beauty College","118116",31.0
+2014,"California","04000US06","Tulare Beauty College","118125",17.0
+2014,"California","04000US06","Lyles Bakersfield College of Beauty","118134",49.0
+2014,"California","04000US06","Lyles Fresno College of Beauty","118143",31.0
+2014,"California","04000US06","Lytles Redwood Empire Beauty College Inc","118161",99.0
+2014,"California","04000US06","MTI Business College Inc","118189",111.0
+2014,"California","04000US06","MTI College","118198",616.0
+2014,"California","04000US06","Kaplan College-Sacramento","118259",381.0
+2014,"California","04000US06","Kaplan College-San Diego","118277",849.0
+2014,"California","04000US06","Kaplan College-Vista","118286",683.0
+2014,"California","04000US06","College of Marin","118347",391.0
+2014,"California","04000US06","Marinello Schools of Beauty-Los Angeles","118356",1401.0
+2014,"California","04000US06","Marymount California University","118541",105.0
+2014,"California","04000US06","Mendocino College","118684",355.0
+2014,"California","04000US06","Menlo College","118693",159.0
+2014,"California","04000US06","Merced College","118718",1015.0
+2014,"California","04000US06","Merritt College","118772",493.0
+2014,"California","04000US06","Mills College","118888",633.0
+2014,"California","04000US06","MiraCosta College","118912",2749.0
+2014,"California","04000US06","Marinello Schools of Beauty-San Francisco","118921",384.0
+2014,"California","04000US06","Mission College","118930",741.0
+2014,"California","04000US06","Modern Beauty Academy","118958",29.0
+2014,"California","04000US06","Kaplan College-North Hollywood","118967",500.0
+2014,"California","04000US06","Modesto Junior College","118976",1834.0
+2014,"California","04000US06","Moler Barber College","118994",60.0
+2014,"California","04000US06","Monterey Institute of International Studies","119058",409.0
+2014,"California","04000US06","Monterey Peninsula College","119067",567.0
+2014,"California","04000US06","Moorpark College","119137",1600.0
+2014,"California","04000US06","Mt San Antonio College","119164",3302.0
+2014,"California","04000US06","Mount St Mary's College","119173",947.0
+2014,"California","04000US06","Mt San Jacinto Community College District","119216",1741.0
+2014,"California","04000US06","Mueller College","119234",53.0
+2014,"California","04000US06","Musicians Institute","119270",678.0
+2014,"California","04000US06","Napa Valley College","119331",808.0
+2014,"California","04000US06","Everest College-Reseda","119359",483.0
+2014,"California","04000US06","Everest College-Gardena","119456",337.0
+2014,"California","04000US06","Everest College-Alhambra","119465",426.0
+2014,"California","04000US06","Everest College-San Bernardino","119508",409.0
+2014,"California","04000US06","The National Hispanic University","119544",159.0
+2014,"California","04000US06","National Holistic Institute","119553",795.0
+2014,"California","04000US06","National University","119605",5655.0
+2014,"California","04000US06","Naval Postgraduate School","119678",2481.0
+2014,"California","04000US06","Newschool of Architecture and Design","119775",140.0
+2014,"California","04000US06","Newberry School of Beauty","119845",123.0
+2014,"California","04000US06","Adrian's College of Beauty Modesto","119951",123.0
+2014,"California","04000US06","North-West College-Pomona","120069",108.0
+2014,"California","04000US06","North-West College-West Covina","120078",268.0
+2014,"California","04000US06","North-West College-Pasadena","120087",117.0
+2014,"California","04000US06","Northwestern Polytechnic University","120166",334.0
+2014,"California","04000US06","Notre Dame de Namur University","120184",483.0
+2014,"California","04000US06","Occidental College","120254",559.0
+2014,"California","04000US06","Oceanside College of Beauty","120272",46.0
+2014,"California","04000US06","Ohlone College","120290",1492.0
+2014,"California","04000US06","Orange Coast College","120342",2266.0
+2014,"California","04000US06","Otis College of Art and Design","120403",235.0
+2014,"California","04000US06","Oxnard College","120421",902.0
+2014,"California","04000US06","Hope International University","120537",364.0
+2014,"California","04000US06","Concorde Career College-San Diego","120661",739.0
+2014,"California","04000US06","Palo Alto University","120698",305.0
+2014,"California","04000US06","Pacific Lutheran Theological Seminary","120740",33.0
+2014,"California","04000US06","Pacific Oaks College","120768",400.0
+2014,"California","04000US06","Pacific School of Religion","120795",52.0
+2014,"California","04000US06","Pacific States University","120838",75.0
+2014,"California","04000US06","Pacific Union College","120865",397.0
+2014,"California","04000US06","University of the Pacific","120883",1937.0
+2014,"California","04000US06","Palo Verde College","120953",330.0
+2014,"California","04000US06","Palomar College","120971",4098.0
+2014,"California","04000US06","Paris Beauty College","121017",71.0
+2014,"California","04000US06","Pasadena City College","121044",3244.0
+2014,"California","04000US06","Pepperdine University","121150",2356.0
+2014,"California","04000US06","Pitzer College","121257",332.0
+2014,"California","04000US06","Platt College-San Diego","121275",223.0
+2014,"California","04000US06","Point Loma Nazarene University","121309",841.0
+2014,"California","04000US06","Pomona College","121345",444.0
+2014,"California","04000US06","Porterville College","121363",401.0
+2014,"California","04000US06","Westwood College-South Bay","121381",258.0
+2014,"California","04000US06","Professional Institute of Beauty","121433",64.0
+2014,"California","04000US06","Santa Ana College","121619",3319.0
+2014,"California","04000US06","Pardee RAND Graduate School","121628",43.0
+2014,"California","04000US06","Shasta School of Cosmetology","121637",51.0
+2014,"California","04000US06","University of Redlands","121691",1773.0
+2014,"California","04000US06","College of the Redwoods","121707",558.0
+2014,"California","04000US06","Salon Success Academy-Upland","121859",114.0
+2014,"California","04000US06","Salon Success Academy-Corona","121868",95.0
+2014,"California","04000US06","Rio Hondo College","121886",1260.0
+2014,"California","04000US06","Riverside City College","121901",2405.0
+2014,"California","04000US06","Argosy University-San Francisco Bay Area","121983",196.0
+2014,"California","04000US06","Rosemead Beauty School","121992",144.0
+2014,"California","04000US06","Dongguk University-Los Angeles","122117",72.0
+2014,"California","04000US06","Rudolf Steiner College","122126",91.0
+2014,"California","04000US06","Sacramento City College","122180",2131.0
+2014,"California","04000US06","Saddleback College","122205",2758.0
+2014,"California","04000US06","Samuel Merritt University","122296",642.0
+2014,"California","04000US06","San Diego City College","122339",1221.0
+2014,"California","04000US06","Golf Academy of America-Carlsbad","122366",146.0
+2014,"California","04000US06","San Diego Mesa College","122375",1383.0
+2014,"California","04000US06","San Diego Miramar College","122384",1025.0
+2014,"California","04000US06","San Diego State University","122409",8839.0
+2014,"California","04000US06","University of San Diego","122436",2638.0
+2014,"California","04000US06","San Francisco Art Institute","122454",187.0
+2014,"California","04000US06","San Francisco Conservatory of Music","122506",162.0
+2014,"California","04000US06","San Francisco State University","122597",7613.0
+2014,"California","04000US06","San Francisco Theological Seminary","122603",45.0
+2014,"California","04000US06","University of San Francisco","122612",3126.0
+2014,"California","04000US06","San Joaquin College of Law","122649",51.0
+2014,"California","04000US06","San Joaquin Delta College","122658",3010.0
+2014,"California","04000US06","San Joaquin Valley College-Visalia","122685",2969.0
+2014,"California","04000US06","William Jessup University","122728",277.0
+2014,"California","04000US06","San Jose City College","122746",1021.0
+2014,"California","04000US06","San Jose State University","122755",7782.0
+2014,"California","04000US06","College of San Mateo","122791",1451.0
+2014,"California","04000US06","Santa Barbara Business College-Bakersfield","122834",231.0
+2014,"California","04000US06","Westwood College-Los Angeles","122843",869.0
+2014,"California","04000US06","Santa Barbara Business College-Santa Maria","122852",72.0
+2014,"California","04000US06","Santa Barbara City College","122889",3103.0
+2014,"California","04000US06","Santa Clara University","122931",2728.0
+2014,"California","04000US06","Santa Monica College","122977",2962.0
+2014,"California","04000US06","Santa Rosa Junior College","123013",4723.0
+2014,"California","04000US06","Saybrook University","123095",129.0
+2014,"California","04000US06","Scripps College","123165",292.0
+2014,"California","04000US06","Wyotech-Fremont","123208",950.0
+2014,"California","04000US06","College of the Sequoias","123217",1808.0
+2014,"California","04000US06","Shasta Bible College and Graduate School","123280",16.0
+2014,"California","04000US06","Shasta College","123299",975.0
+2014,"California","04000US06","Sierra College","123341",2875.0
+2014,"California","04000US06","Sierra College of Beauty","123350",73.0
+2014,"California","04000US06","Sierra Valley College of Court Reporting","123396",13.0
+2014,"California","04000US06","Trinity Law School","123448",65.0
+2014,"California","04000US06","Simpson University","123457",385.0
+2014,"California","04000US06","College of the Siskiyous","123484",243.0
+2014,"California","04000US06","Charles A Jones Career and Education Center","123493",535.0
+2014,"California","04000US06","Skyline College","123509",1369.0
+2014,"California","04000US06","San Bernardino Valley College","123527",1389.0
+2014,"California","04000US06","Saint Mary's College of California","123554",1291.0
+2014,"California","04000US06","Solano Community College","123563",1601.0
+2014,"California","04000US06","Sonoma State University","123572",2156.0
+2014,"California","04000US06","Pinnacle College","123581",81.0
+2014,"California","04000US06","South Baylo University","123633",139.0
+2014,"California","04000US06","South Coast College","123642",83.0
+2014,"California","04000US06","Vanguard University of Southern California","123651",594.0
+2014,"California","04000US06","Concorde Career College-Garden Grove","123679",499.0
+2014,"California","04000US06","Southwestern College","123800",1319.0
+2014,"California","04000US06","St John's Seminary","123855",15.0
+2014,"California","04000US06","Starr King School for Ministry","123916",23.0
+2014,"California","04000US06","Marshall B Ketchum University","123943",100.0
+2014,"California","04000US06","Southern California Institute of Architecture","123952",139.0
+2014,"California","04000US06","University of Southern California","123961",14434.0
+2014,"California","04000US06","Southwestern Law School","123970",332.0
+2014,"California","04000US06","Taft College","124113",384.0
+2014,"California","04000US06","Claremont School of Theology","124283",60.0
+2014,"California","04000US06","Thomas Aquinas College","124292",82.0
+2014,"California","04000US06","Marinello Schools of Beauty-Lake Forest","124344",404.0
+2014,"California","04000US06","Epic Bible College","124487",40.0
+2014,"California","04000US06","United Education Institute-Huntington Park Campus","124681",1943.0
+2014,"California","04000US06","Concorde Career College-San Bernardino","124706",533.0
+2014,"California","04000US06","Universal College of Beauty Inc-Los Angeles 1","124779",17.0
+2014,"California","04000US06","Concorde Career College-North Hollywood","124937",512.0
+2014,"California","04000US06","Ventura College","125028",1854.0
+2014,"California","04000US06","The Santa Barbara and Ventura Colleges of Law-Ventura","125037",24.0
+2014,"California","04000US06","Victor Valley Beauty College Inc","125082",57.0
+2014,"California","04000US06","Victor Valley College","125091",1303.0
+2014,"California","04000US06","Berkeley City College","125170",369.0
+2014,"California","04000US06","Waynes College of Beauty","125310",24.0
+2014,"California","04000US06","West Hills College-Coalinga","125462",439.0
+2014,"California","04000US06","West Los Angeles College","125471",755.0
+2014,"California","04000US06","West Valley College","125499",1069.0
+2014,"California","04000US06","Carrington College California-Sacramento","125532",750.0
+2014,"California","04000US06","Westminster Theological Seminary in California","125718",36.0
+2014,"California","04000US06","Westmont College","125727",407.0
+2014,"California","04000US06","Whittier College","125763",627.0
+2014,"California","04000US06","Woodbury University","125897",431.0
+2014,"California","04000US06","The Wright Institute","126012",160.0
+2014,"California","04000US06","Western State College of Law at Argosy University","126030",148.0
+2014,"California","04000US06","Thomas Jefferson School of Law","126049",341.0
+2014,"California","04000US06","Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary","126076",20.0
+2014,"California","04000US06","Yuba College","126119",707.0
+2014,"California","04000US06","Ashford University","154022",18533.0
+2014,"California","04000US06","Stanford University","243744",5014.0
+2014,"California","04000US06","ITT Technical Institute-Sylmar","244011",232.0
+2014,"California","04000US06","Antioch University-Los Angeles","245838",290.0
+2014,"California","04000US06","Antioch University-Santa Barbara","245847",86.0
+2014,"California","04000US06","Carrington College California-San Leandro","246974",332.0
+2014,"California","04000US06","Fashion Institute of Design & Merchandising-San Diego","248846",27.0
+2014,"California","04000US06","Platt College-Los Angeles","260789",371.0
+2014,"California","04000US06","Bethel Seminary-San Diego","262022",30.0
+2014,"California","04000US06","Brandman University","262086",2301.0
+2014,"California","04000US06","Adrian's College of Beauty Turlock","262369",110.0
+2014,"California","04000US06","California Career School","262402",303.0
+2014,"California","04000US06","Heald College-Roseville","363387",465.0
+2014,"California","04000US06","Palomar Institute of Cosmetology","365125",124.0
+2014,"California","04000US06","InterCoast Colleges-Orange","366289",166.0
+2014,"California","04000US06","Las Positas College","366401",638.0
+2014,"California","04000US06","California State University-San Marcos","366711",2684.0
+2014,"California","04000US06","Kaplan College-Modesto","366960",348.0
+2014,"California","04000US06","Madera Beauty College","367662",25.0
+2014,"California","04000US06","University of St Augustine for Health Sciences","367954",533.0
+2014,"California","04000US06","Hypnosis Motivation Institute","368771",101.0
+2014,"California","04000US06","Los Angeles ORT College-Los Angeles Campus","368780",93.0
+2014,"California","04000US06","Everest College-West Los Angeles","368805",219.0
+2014,"California","04000US06","Thanh Le College School of Cosmetology","368832",38.0
+2014,"California","04000US06","Everest College-Ontario","371265",594.0
+2014,"California","04000US06","Downey Adult School","371690",724.0
+2014,"California","04000US06","Heald College-Stockton","371760",542.0
+2014,"California","04000US06","Heald College-Hayward","371779",539.0
+2014,"California","04000US06","CRU Institute","371830",44.0
+2014,"California","04000US06","Modern Technology School","371928",98.0
+2014,"California","04000US06","National Career Education","371964",43.0
+2014,"California","04000US06","Everest College-Anaheim","371982",343.0
+2014,"California","04000US06","Thuy Princess Beauty College","372000",76.0
+2014,"California","04000US06","North-West College-Glendale","372028",109.0
+2014,"California","04000US06","Everest College-City of Industry","372037",578.0
+2014,"California","04000US06","Fremont College","372073",133.0
+2014,"California","04000US06","Pomona Unified School District Adult and Career Education","372082",147.0
+2014,"California","04000US06","Universal College of Beauty Inc-Los Angeles 2","372240",9.0
+2014,"California","04000US06","Bellus Academy-Poway","377722",295.0
+2014,"California","04000US06","Capstone College","377759",52.0
+2014,"California","04000US06","Central Coast College","378105",219.0
+2014,"California","04000US06","ITT Technical Institute-Torrance","378406",191.0
+2014,"California","04000US06","Pacific College of Oriental Medicine-San Diego","378576",133.0
+2014,"California","04000US06","CET-Coachella","381255",148.0
+2014,"California","04000US06","CET-Oxnard","381282",114.0
+2014,"California","04000US06","CET-Santa Maria","381325",116.0
+2014,"California","04000US06","CET-Rancho Temecula","381334",83.0
+2014,"California","04000US06","ITT Technical Institute-San Bernardino","381909",295.0
+2014,"California","04000US06","Los Angeles ORT College-Van Nuys Campus","381945",82.0
+2014,"California","04000US06","Mt Diablo Adult Education","382258",96.0
+2014,"California","04000US06","Royale College of Beauty","382267",41.0
+2014,"California","04000US06","Westech College","382276",405.0
+2014,"California","04000US06","Hacienda La Puente Adult Education","383084",762.0
+2014,"California","04000US06","Acupuncture and Integrative Medicine College-Berkeley","384306",30.0
+2014,"California","04000US06","Alhambra Beauty College","393524",230.0
+2014,"California","04000US06","American Auto Institute","393649",1034.0
+2014,"California","04000US06","Asian American International Beauty College","393861",180.0
+2014,"California","04000US06","Avance Beauty College","393977",28.0
+2014,"California","04000US06","Colton-Redlands-Yucaipa Regional Occupational Program","395195",187.0
+2014,"California","04000US06","Copper Mountain Community College","395362",202.0
+2014,"California","04000US06","Diversified Vocational College","395690",812.0
+2014,"California","04000US06","Bristol University","397270",5.0
+2014,"California","04000US06","UEI College-Fresno","397942",678.0
+2014,"California","04000US06","Mt Sierra College","398130",70.0
+2014,"California","04000US06","Wyotech-Long Beach","398574",954.0
+2014,"California","04000US06","Santiago Canyon College","399212",2642.0
+2014,"California","04000US06","Southern California Institute of Technology","399869",317.0
+2014,"California","04000US06","Soka University of America","399911",95.0
+2014,"California","04000US06","Summit College","400080",1035.0
+2014,"California","04000US06","Advance Beauty College","400187",600.0
+2014,"California","04000US06","World Mission University","401223",50.0
+2014,"California","04000US06","Yo San University of Traditional Chinese Medicine","401250",33.0
+2014,"California","04000US06","Coast Career Institute","401339",160.0
+2014,"California","04000US06","California State University-Monterey Bay","409698",1319.0
+2014,"California","04000US06","Heald College-Salinas","409874",491.0
+2014,"California","04000US06","The Art Institute of California-Argosy University Hollywood","410502",341.0
+2014,"California","04000US06","Sage College","410520",62.0
+2014,"California","04000US06","Marian Health Careers Center-Los Angeles Campus","411684",50.0
+2014,"California","04000US06","Crimson Technical College","413680",206.0
+2014,"California","04000US06","East San Gabriel Valley Regional Occupational Program","413802",766.0
+2014,"California","04000US06","ITT Technical Institute-Oxnard","413848",78.0
+2014,"California","04000US06","Four-D College","415774",358.0
+2014,"California","04000US06","Premiere Career College","416458",349.0
+2014,"California","04000US06","Estes Institute of Cosmetology Arts and Science","417062",49.0
+2014,"California","04000US06","Baldwin Park Adult & Community Education","417105",232.0
+2014,"California","04000US06","Ventura Adult and Continuing Education","417123",184.0
+2014,"California","04000US06","Marinello Schools of Beauty-Sacramento","417132",276.0
+2014,"California","04000US06","Central California School","419183",116.0
+2014,"California","04000US06","Colleen O'Haras Beauty Academy","420608",79.0
+2014,"California","04000US06","Champion Institute of Cosmetology","422190",42.0
+2014,"California","04000US06","Pacific College","422695",137.0
+2014,"California","04000US06","American College of Healthcare","422835",198.0
+2014,"California","04000US06","Le Cordon Bleu College of Culinary Arts-Pasadena","423980",638.0
+2014,"California","04000US06","John Wesley International Barber and Beauty College","428125",53.0
+2014,"California","04000US06","CET-Sacramento","430342",113.0
+2014,"California","04000US06","American College of Traditional Chinese Medicine","430591",93.0
+2014,"California","04000US06","Everest College-Torrance","430980",133.0
+2014,"California","04000US06","Institute of Technology Inc","431141",1281.0
+2014,"California","04000US06","Virginia Sewing Machines and School Center","431956",38.0
+2014,"California","04000US06","Kaplan College-Riverside","432302",181.0
+2014,"California","04000US06","Platt College-Ontario","432384",292.0
+2014,"California","04000US06","The Art Institute of California-Argosy University Los Angeles","432533",371.0
+2014,"California","04000US06","American University of Health Sciences","433004",60.0
+2014,"California","04000US06","Career Networks Institute","433013",388.0
+2014,"California","04000US06","Santa Barbara Business College-Ventura","433420",110.0
+2014,"California","04000US06","Pima Medical Institute-Chula Vista","434140",638.0
+2014,"California","04000US06","Charter College-Canyon Country","434317",883.0
+2014,"California","04000US06","Los Angeles Film School","436429",1122.0
+2014,"California","04000US06","Argosy University-Orange County","436438",217.0
+2014,"California","04000US06","ITT Technical Institute-Lathrop","437219",177.0
+2014,"California","04000US06","The English Center","437653",57.0
+2014,"California","04000US06","ICDC College","437662",1801.0
+2014,"California","04000US06","Professional Golfers Career College","437750",152.0
+2014,"California","04000US06","Westwood College-Anaheim","437848",306.0
+2014,"California","04000US06","InterCoast Colleges-Burbank","437884",42.0
+2014,"California","04000US06","Carrington College California-San Jose","437936",396.0
+2014,"California","04000US06","Carrington College California-Pleasant Hill","438258",298.0
+2014,"California","04000US06","Universal Technical Institute of California Inc","438504",1204.0
+2014,"California","04000US06","CBD College","439367",85.0
+2014,"California","04000US06","My Le's Beauty College","439747",122.0
+2014,"California","04000US06","Bryan College-Gold River","439826",49.0
+2014,"California","04000US06","PCI College","439871",57.0
+2014,"California","04000US06","Keck Graduate Institute","440031",143.0
+2014,"California","04000US06","Everest College-Ontario Metro","440299",328.0
+2014,"California","04000US06","Westwood College-Inland Empire","440484",402.0
+2014,"California","04000US06","Miami Ad School-San Francisco","440819",53.0
+2014,"California","04000US06","American Career College-Anaheim","441052",1015.0
+2014,"California","04000US06","West Coast Ultrasound Institute","441229",605.0
+2014,"California","04000US06","Irell & Manella Graduate School of Biological Sciences at City of Hope","441238",14.0
+2014,"California","04000US06","Design's School of Cosmetology","441256",103.0
+2014,"California","04000US06","Paul Mitchell the School-Santa Barbara","441274",74.0
+2014,"California","04000US06","California State University-Channel Islands","441937",1161.0
+2014,"California","04000US06","The Art Institute of California-Argosy University Orange County","441973",384.0
+2014,"California","04000US06","David's Academy of Beauty","442204",245.0
+2014,"California","04000US06","Paul Mitchell the School-Costa Mesa","442240",167.0
+2014,"California","04000US06","Milan Institute-Palm Desert","442657",193.0
+2014,"California","04000US06","InterCoast Colleges-Riverside","442888",155.0
+2014,"California","04000US06","University of Antelope Valley","442930",573.0
+2014,"California","04000US06","California Healing Arts College","442985",68.0
+2014,"California","04000US06","International Technological University","443128",221.0
+2014,"California","04000US06","NTMA Training Centers of Southern California","443207",560.0
+2014,"California","04000US06","West Coast University-Los Angeles","443331",414.0
+2014,"California","04000US06","InterCoast Colleges-West Covina","443571",130.0
+2014,"California","04000US06","Northcentral University","444130",1289.0
+2014,"California","04000US06","Folsom Lake College","444219",1052.0
+2014,"California","04000US06","ATI College-Norwalk","444325",70.0
+2014,"California","04000US06","Advanced College","444343",81.0
+2014,"California","04000US06","Advanced Training Associates","444361",93.0
+2014,"California","04000US06","CES College","444510",58.0
+2014,"California","04000US06","Computer Tutor Business and Technical Institute","444529",141.0
+2014,"California","04000US06","University of California-Merced","445188",1141.0
+2014,"California","04000US06","North-West College-Riverside","445364",142.0
+2014,"California","04000US06","Cambridge Junior College-Yuba City","446093",103.0
+2014,"California","04000US06","Career Care Institute","446118",301.0
+2014,"California","04000US06","Community Christian College","446163",8.0
+2014,"California","04000US06","Los Angeles Music Academy","446385",46.0
+2014,"California","04000US06","Stanbridge College","446561",355.0
+2014,"California","04000US06","United States University","447050",51.0
+2014,"California","04000US06","Kaplan College-Bakersfield","447102",363.0
+2014,"California","04000US06","Kaplan College-Fresno","447120",245.0
+2014,"California","04000US06","Argosy University-Los Angeles","447272",118.0
+2014,"California","04000US06","Expression College for Digital Arts","447458",147.0
+2014,"California","04000US06","Kaplan College-Palm Springs","447634",300.0
+2014,"California","04000US06","California Career College","447713",24.0
+2014,"California","04000US06","Palladium Technical Academy","447722",85.0
+2014,"California","04000US06","Palace Beauty College","447731",138.0
+2014,"California","04000US06","National Polytechnic College","447759",103.0
+2014,"California","04000US06","American Career College-Ontario","447768",1079.0
+2014,"California","04000US06","Asher College","447777",304.0
+2014,"California","04000US06","American Institute of Massage Therapy","447795",30.0
+2014,"California","04000US06","University of East-West Medicine","447801",32.0
+2014,"California","04000US06","Blake Austin College","447810",194.0
+2014,"California","04000US06","SUM Bible College and Theological Seminary","447953",58.0
+2014,"California","04000US06","Universal Technical Institute of Northern California Inc","448433",964.0
+2014,"California","04000US06","ITT Technical Institute-Clovis","448451",168.0
+2014,"California","04000US06","The Art Institute of California-Argosy University Inland Empire","448576",483.0
+2014,"California","04000US06","West Hills College-Lemoore","448594",531.0
+2014,"California","04000US06","Milan Institute-Clovis","448895",271.0
+2014,"California","04000US06","Beaumont Adult School","449357",79.0
+2014,"California","04000US06","Make-up Designory","449366",718.0
+2014,"California","04000US06","Video Symphony EnterTraining Inc","449375",137.0
+2014,"California","04000US06","Gnomon School of Visual Effects","449384",96.0
+2014,"California","04000US06","Coachella Valley Beauty College","449393",37.0
+2014,"California","04000US06","Career College of California","449436",164.0
+2014,"California","04000US06","Valley College of Medical Careers","449445",46.0
+2014,"California","04000US06","University of the West","449870",57.0
+2014,"California","04000US06","Paul Mitchell the School-San Diego","449968",172.0
+2014,"California","04000US06","Paul Mitchell the School-Sherman Oaks","449986",138.0
+2014,"California","04000US06","The Art Institute of California-Argosy University Sacramento","450094",216.0
+2014,"California","04000US06","International Academy of Design and Technology-Sacramento","450447",75.0
+2014,"California","04000US06","Argosy University-Inland Empire","450526",152.0
+2014,"California","04000US06","Argosy University-San Diego","450544",115.0
+2014,"California","04000US06","InterCoast Colleges-Carson","450669",67.0
+2014,"California","04000US06","Carrington College California-Stockton","450696",262.0
+2014,"California","04000US06","Carrington College California-Citrus Heights","450702",259.0
+2014,"California","04000US06","InfoTech Career College","450960",85.0
+2014,"California","04000US06","Trident University International","450979",2253.0
+2014,"California","04000US06","Coastline Beauty College","450988",265.0
+2014,"California","04000US06","Career College Consultants","451006",99.0
+2014,"California","04000US06","San Diego College","451015",117.0
+2014,"California","04000US06","The Art Institute of California-Argosy University-Silicon Valley","451848",136.0
+2014,"California","04000US06","Le Cordon Bleu College of Culinary Arts-Sacramento","452036",304.0
+2014,"California","04000US06","Milan Institute of Cosmetology-Fairfield","454546",57.0
+2014,"California","04000US06","Milan Institute of Cosmetology-Visalia","454573",125.0
+2014,"California","04000US06","Mayfield College","454698",218.0
+2014,"California","04000US06","International Polytechnic Institute","454704",36.0
+2014,"California","04000US06","Academy of Esthetics and Cosmetology","454722",28.0
+2014,"California","04000US06","International Professional School of Bodywork","454740",39.0
+2014,"California","04000US06","Borner's Barber College","454759",8.0
+2014,"California","04000US06","Paul Mitchell the School-Pasadena","454768",100.0
+2014,"California","04000US06","San Francisco Institute of Esthetics and Cosmetology","454777",151.0
+2014,"California","04000US06","Laurus College","454786",259.0
+2014,"California","04000US06","Healing Hands School of Holistic Health","454795",115.0
+2014,"California","04000US06","Career Development Institute","454801",9.0
+2014,"California","04000US06","The Chicago School of Professional Psychology at Irvine","455433",60.0
+2014,"California","04000US06","Woodland Community College","455512",258.0
+2014,"California","04000US06","The Chicago School of Professional Psychology at Los Angeles","455664",607.0
+2014,"California","04000US06","The Chicago School of Professional Psychology at Westwood","455682",52.0
+2014,"California","04000US06","California Nurses Educational Institute","455734",140.0
+2014,"California","04000US06","Central Nursing College","455743",17.0
+2014,"California","04000US06","RWM Fiber Optics","455752",62.0
+2014,"California","04000US06","Paul Mitchell the School-Sacramento","455761",183.0
+2014,"California","04000US06","Providence Christian College","455770",12.0
+2014,"California","04000US06","National Career College","455868",59.0
+2014,"California","04000US06","ITT Technical Institute-Concord","456427",117.0
+2014,"California","04000US06","Salon Success Academy-Fontana","456588",38.0
+2014,"California","04000US06","Salon Success Academy-Redlands","456597",63.0
+2014,"California","04000US06","Milan Institute-Bakersfield","457077",219.0
+2014,"California","04000US06","Homestead Schools","457086",71.0
+2014,"California","04000US06","InterCoast Colleges-Elk Grove","457208",61.0
+2014,"California","04000US06","Horizon University","457226",4.0
+2014,"California","04000US06","San Diego Culinary Institute","457244",100.0
+2014,"California","04000US06","Beyond 21st Century Beauty Academy","457253",22.0
+2014,"California","04000US06","Academy for Jewish Religion-California","457271",11.0
+2014,"California","04000US06","Hollywood Beauty College","457280",43.0
+2014,"California","04000US06","Angeles College","457299",122.0
+2014,"California","04000US06","Angeles Institute","457314",100.0
+2014,"California","04000US06","Paul Mitchell the School-Temecula","457323",157.0
+2014,"California","04000US06","Kaplan College-Chula Vista","458186",230.0
+2014,"California","04000US06","InterCoast Colleges-Roseville","458195",17.0
+2014,"California","04000US06","West Coast University-Orange County","458210",413.0
+2014,"California","04000US06","West Coast University-Ontario","458229",252.0
+2014,"California","04000US06","Northern California Institute of Cosmetology Inc","459134",20.0
+2014,"California","04000US06","Golden State College of Court Reporting","459143",5.0
+2014,"California","04000US06","Preferred College of Nursing-Los Angeles","459152",139.0
+2014,"California","04000US06","Trinity Vocational Center","459161",405.0
+2014,"California","04000US06","SICE Paul Mitchell Partner School","459170",135.0
+2014,"California","04000US06","Cosmo Beauty Academy","459189",64.0
+2014,"California","04000US06","Paul Mitchell the School-Fresno","459198",131.0
+2014,"California","04000US06","Unitek College","459204",583.0
+2014,"California","04000US06","Gurnick Academy of Medical Arts","459213",570.0
+2014,"California","04000US06","Southern California University SOMA","459222",20.0
+2014,"California","04000US06","Paul Mitchell the School-East Bay","459231",202.0
+2014,"California","04000US06","ITT Technical Institute-Corona","459639",152.0
+2014,"California","04000US06","ITT Technical Institute-West Covina","459684",120.0
+2014,"California","04000US06","ITT Technical Institute-Culver City","459693",115.0
+2014,"California","04000US06","Touro University Worldwide","459727",79.0
+2014,"California","04000US06","Touro University California","459736",534.0
+2014,"California","04000US06","Heald College-Modesto","459930",384.0
+2014,"California","04000US06","California University of Management and Sciences","460075",137.0
+2014,"California","04000US06","Everest College-Santa Ana","460367",321.0
+2014,"California","04000US06","Moreno Valley College","460394",728.0
+2014,"California","04000US06","Norco College","460464",1142.0
+2014,"California","04000US06","Milan Institute of Cosmetology-La Quinta","460516",66.0
+2014,"California","04000US06","Cambridge Junior College-Woodland","460659",76.0
+2014,"California","04000US06","Allied American University","460729",455.0
+2014,"California","04000US06","New York Film Academy","461148",911.0
+2014,"California","04000US06","International College of Cosmetology","461175",177.0
+2014,"California","04000US06","Toni & Guy Hairdressing Academy-Modesto","461227",65.0
+2014,"California","04000US06","Galaxy Medical College","461254",112.0
+2014,"California","04000US06","American Medical Sciences Center","461263",58.0
+2014,"California","04000US06","Tramy Beauty School","461397",242.0
+2014,"California","04000US06","Santa Ana Beauty Academy","461500",20.0
+2014,"California","04000US06","Elite Cosmetology School","461607",60.0
+2014,"California","04000US06","Bergin University of Canine Studies","461643",24.0
+2014,"California","04000US06","Real Barbers College","461698",56.0
+2014,"California","04000US06","Ashdown College of Health Sciences","461777",34.0
+2014,"California","04000US06","Cinta Aveda Institute","461829",149.0
+2014,"California","04000US06","Southern California Health Institute","461856",242.0
+2014,"California","04000US06","Salinas Beauty College Inc","461971",5.0
+2014,"California","04000US06","Academy for Salon Professionals","461980",72.0
+2014,"California","04000US06","Academy for Salon Professionals","462062",81.0
+2014,"California","04000US06","International College of Beauty Arts & Sciences","462336",34.0
+2014,"California","04000US06","John Paul the Great Catholic University","462354",45.0
+2014,"California","04000US06","ITT Technical Institute-Oakland","467058",36.0
+2014,"California","04000US06","Carrington College California-Pomona","467368",107.0
+2014,"California","04000US06","CET-Soledad","468769",108.0
+2014,"California","04000US06","Aveda Institute-Los Angeles","469957",84.0
+2014,"California","04000US06","Coast Career Institute","470302",89.0
+2014,"California","04000US06","Azusa Pacific Online University","474863",119.0
+2014,"California","04000US06","International Culinary Center-California","475097",182.0
+2014,"California","04000US06","The Santa Barbara and Ventura Colleges of Law - Santa Barbara","475228",16.0
+2014,"California","04000US06","The University of America","475237",153.0
+2014,"California","04000US06","Marian Health Careers Center-Van Nuys Campus","475282",42.0
+2014,"California","04000US06","MediaTech Institute-Oceanside","475501",27.0
+2014,"California","04000US06","Academy of Couture Art","475635",3.0
+2014,"California","04000US06","Preferred College of Nursing-Van Nuys","475680",129.0
+2014,"California","04000US06","Annenberg School of Nursing","475705",12.0
+2014,"California","04000US06","WestMed College","476470",274.0
+2014,"California","04000US06","Flair Beauty College","476513",42.0
+2014,"California","04000US06","Medical Allied Career Center","476595",55.0
+2014,"California","04000US06","LeMelange Academy of Hair","476744",37.0
+2014,"California","04000US06","Diamond Beauty College","476780",169.0
+2014,"California","04000US06","NCP College of Nursing-South San Francisco","476799",73.0
+2014,"California","04000US06","SAE Institute of Technology-Los Angeles","476911",96.0
+2014,"California","04000US06","California College San Diego","478634",75.0
+2014,"California","04000US06","NCP College of Nursing-Hayward","479424",126.0
+2014,"California","04000US06","Advance Beauty Techs Academy","479974",32.0
+2014,"California","04000US06","Brand College","479992",52.0
+2014,"California","04000US06","Hinton Barber College","480000",38.0
+2014,"California","04000US06","Advanced Career Institute","480019",366.0
+2014,"California","04000US06","Platt College-Riverside","480204",146.0
+2014,"California","04000US06","California Miramar University","480781",191.0
+2014,"California","04000US06","UEI College-Santa Cruz","480897",22.0
+2014,"California","04000US06","Grace Mission University","481058",14.0
+2014,"California","04000US06","Santa Ana Beauty College","481128",401.0
+2014,"California","04000US06","Ukiah Adult School","481182",59.0
+2014,"California","04000US06","Riverside County Office of Education","481191",403.0
+2014,"California","04000US06","Advanced Computing Institute","481234",375.0
+2014,"California","04000US06","Xavier College School of Nursing","481289",44.0
+2014,"California","04000US06","Lawrence & Company College of Cosmetology","481298",27.0
+2014,"California","04000US06","California Career Institute","481386",30.0
+2014,"California","04000US06","Cosmo Factory Cosmetology Academy","481395",18.0
+2014,"California","04000US06","W Academy of Salon and Spa","481474",15.0
+2014,"California","04000US06","Sanford-Burnham Medical Research Institute","481535",7.0
+2014,"California","04000US06","Toni & Guy Hairdressing Academy-Manteca","481562",21.0
+2014,"California","04000US06","American Career College-Long Beach","481854",232.0
+2014,"California","04000US06","InterCoast Colleges-Fairfield","481960",71.0
+2014,"California","04000US06","Milan Institute-Merced","482060",64.0
+2014,"California","04000US06","DeVry University-California","482431",2371.0
+2014,"California","04000US06","American College of Healthcare","483009",48.0
+2014,"California","04000US06","Learnet Academy Inc","483221",734.0
+2014,"California","04000US06","Fab School","483230",178.0
+2014,"California","04000US06","Integrity College of Health","483373",19.0
+2014,"California","04000US06","Computer Training Academy","483443",157.0
+2014,"California","04000US06","California International Business University","483586",60.0
+2014,"California","04000US06","Sutter Beauty College","483610",22.0
+2014,"California","04000US06","Bay Area Medical Academy","483878",26.0
+2014,"California","04000US06","Lawrence & Company College of Cosmetology","483957",48.0
+2014,"California","04000US06","High Desert Medical College","484002",94.0
+2014,"California","04000US06","The Salon Professional Academy-San Jose","484206",55.0
+2014,"California","04000US06","University of Phoenix-California","484631",7579.0
+2014,"California","04000US06","California College San Diego","485263",332.0
+2014,"California","04000US06","Coachella Valley Beauty College-Beaumont","485412",5.0
+2015,"California","04000US06","Academy of Art University","108232",2768.0
+2015,"California","04000US06","ITT Technical Institute-Rancho Cordova","108250",205.0
+2015,"California","04000US06","Academy of Chinese Culture and Health Sciences","108269",15.0
+2015,"California","04000US06","The Academy of Radio and TV Broadcasting","108348",19.0
+2015,"California","04000US06","Avalon School of Cosmetology-Alameda","108649",103.0
+2015,"California","04000US06","College of Alameda","108667",559.0
+2015,"California","04000US06","Allan Hancock College","108807",1983.0
+2015,"California","04000US06","American Academy of Dramatic Arts-Los Angeles","108852",135.0
+2015,"California","04000US06","American Baptist Seminary of the West","108861",11.0
+2015,"California","04000US06","American Film Institute Conservatory","108870",129.0
+2015,"California","04000US06","American Beauty College","108977",54.0
+2015,"California","04000US06","American Career College-Los Angeles","109040",1046.0
+2015,"California","04000US06","American Conservatory Theater","109086",91.0
+2015,"California","04000US06","American River College","109208",5834.0
+2015,"California","04000US06","Antelope Valley College","109350",2193.0
+2015,"California","04000US06","Art Center College of Design","109651",463.0
+2015,"California","04000US06","Associated Technical College-Los Angeles","109721",261.0
+2015,"California","04000US06","Associated Technical College-San Diego","109730",119.0
+2015,"California","04000US06","Azusa Pacific University","109785",3357.0
+2015,"California","04000US06","Bakersfield College","109819",1963.0
+2015,"California","04000US06","Barstow Community College","109907",290.0
+2015,"California","04000US06","Bellus Academy-National City","109934",101.0
+2015,"California","04000US06","Bethesda University of California","110060",49.0
+2015,"California","04000US06","Biola University","110097",1299.0
+2015,"California","04000US06","Brooks Institute","110185",130.0
+2015,"California","04000US06","Brownson Technical School","110194",9.0
+2015,"California","04000US06","Bryan University","110219",177.0
+2015,"California","04000US06","Butte College","110246",2659.0
+2015,"California","04000US06","Phillips Graduate Institute","110307",106.0
+2015,"California","04000US06","California Institute of Integral Studies","110316",349.0
+2015,"California","04000US06","Cabrillo College","110334",1765.0
+2015,"California","04000US06","California Baptist University","110361",1790.0
+2015,"California","04000US06","California College of the Arts","110370",478.0
+2015,"California","04000US06","University of California-Hastings College of Law","110398",351.0
+2015,"California","04000US06","California Institute of Technology","110404",534.0
+2015,"California","04000US06","California Lutheran University","110413",1378.0
+2015,"California","04000US06","California Polytechnic State University-San Luis Obispo","110422",5691.0
+2015,"California","04000US06","Alliant International University","110468",1163.0
+2015,"California","04000US06","California State University-Bakersfield","110486",1911.0
+2015,"California","04000US06","California State University-Stanislaus","110495",2009.0
+2015,"California","04000US06","California State University-San Bernardino","110510",4023.0
+2015,"California","04000US06","California State Polytechnic University-Pomona","110529",4654.0
+2015,"California","04000US06","California State University-Chico","110538",3976.0
+2015,"California","04000US06","California State University-Dominguez Hills","110547",3377.0
+2015,"California","04000US06","California State University-Fresno","110556",4872.0
+2015,"California","04000US06","California State University-Fullerton","110565",9780.0
+2015,"California","04000US06","California State University-East Bay","110574",4174.0
+2015,"California","04000US06","California State University-Long Beach","110583",9526.0
+2015,"California","04000US06","California State University-Los Angeles","110592",4893.0
+2015,"California","04000US06","California State University-Northridge","110608",9268.0
+2015,"California","04000US06","California State University-Sacramento","110617",6740.0
+2015,"California","04000US06","University of California-Berkeley","110635",12172.0
+2015,"California","04000US06","University of California-Davis","110644",10052.0
+2015,"California","04000US06","University of California-Irvine","110653",8925.0
+2015,"California","04000US06","University of California-Los Angeles","110662",12750.0
+2015,"California","04000US06","University of California-Riverside","110671",5522.0
+2015,"California","04000US06","University of California-San Diego","110680",7724.0
+2015,"California","04000US06","University of California-San Francisco","110699",978.0
+2015,"California","04000US06","University of California-Santa Barbara","110705",6311.0
+2015,"California","04000US06","University of California-Santa Cruz","110714",4674.0
+2015,"California","04000US06","Sofia University","110778",109.0
+2015,"California","04000US06","California Beauty School","110875",50.0
+2015,"California","04000US06","California Christian College","110918",4.0
+2015,"California","04000US06","Le Cordon Bleu College of Culinary Arts-San Francisco","111009",201.0
+2015,"California","04000US06","California Hair Design Academy","111054",104.0
+2015,"California","04000US06","California Institute of the Arts","111081",337.0
+2015,"California","04000US06","California Maritime Academy","111188",200.0
+2015,"California","04000US06","California Western School of Law","111391",283.0
+2015,"California","04000US06","Canada College","111434",790.0
+2015,"California","04000US06","College of the Canyons","111461",2022.0
+2015,"California","04000US06","Career Academy of Beauty","111513",136.0
+2015,"California","04000US06","Casa Loma College-Van Nuys","111638",225.0
+2015,"California","04000US06","CET-San Diego","111708",181.0
+2015,"California","04000US06","CET-Sobrato","111717",308.0
+2015,"California","04000US06","CET-El Centro","111726",286.0
+2015,"California","04000US06","CET-San Bernardino","111744",116.0
+2015,"California","04000US06","CET-Watsonville","111762",110.0
+2015,"California","04000US06","CET-Salinas","111799",61.0
+2015,"California","04000US06","Cerritos College","111887",2097.0
+2015,"California","04000US06","Cerro Coso Community College","111896",514.0
+2015,"California","04000US06","Chabot College","111920",1103.0
+2015,"California","04000US06","Chaffey College","111939",2963.0
+2015,"California","04000US06","Chapman University","111948",2352.0
+2015,"California","04000US06","Charles R Drew University of Medicine and Science","111966",204.0
+2015,"California","04000US06","Concordia University-Irvine","112075",1525.0
+2015,"California","04000US06","San Diego Christian College","112084",194.0
+2015,"California","04000US06","Church Divinity School of the Pacific","112127",25.0
+2015,"California","04000US06","Citrus College","112172",3705.0
+2015,"California","04000US06","Citrus Heights Beauty College","112181",93.0
+2015,"California","04000US06","City College of San Francisco","112190",3767.0
+2015,"California","04000US06","Claremont Graduate University","112251",642.0
+2015,"California","04000US06","Claremont McKenna College","112260",367.0
+2015,"California","04000US06","Milan Institute-Visalia","112288",386.0
+2015,"California","04000US06","Clovis Adult Education","112367",140.0
+2015,"California","04000US06","Coastline Community College","112385",2628.0
+2015,"California","04000US06","Cogswell College","112394",57.0
+2015,"California","04000US06","Coleman University","112446",368.0
+2015,"California","04000US06","COBA Academy","112455",20.0
+2015,"California","04000US06","Western University of Health Sciences","112525",1099.0
+2015,"California","04000US06","Columbia College","112561",409.0
+2015,"California","04000US06","Columbia College-Hollywood","112570",59.0
+2015,"California","04000US06","El Camino College-Compton Center","112686",420.0
+2015,"California","04000US06","Contra Costa College","112826",1015.0
+2015,"California","04000US06","Cosumnes River College","113096",1143.0
+2015,"California","04000US06","Crafton Hills College","113111",935.0
+2015,"California","04000US06","Cuesta College","113193",1167.0
+2015,"California","04000US06","Cuyamaca College","113218",849.0
+2015,"California","04000US06","Cypress College","113236",1746.0
+2015,"California","04000US06","De Anza College","113333",2267.0
+2015,"California","04000US06","Marinello Schools of Beauty-Hemet","113397",730.0
+2015,"California","04000US06","International School of Beauty Inc","113449",158.0
+2015,"California","04000US06","Dell'Arte International School of Physical Theatre","113537",32.0
+2015,"California","04000US06","College of the Desert","113573",1059.0
+2015,"California","04000US06","Design Institute of San Diego","113582",39.0
+2015,"California","04000US06","Diablo Valley College","113634",2476.0
+2015,"California","04000US06","Dominican University of California","113698",550.0
+2015,"California","04000US06","Dominican School of Philosophy & Theology","113704",21.0
+2015,"California","04000US06","East Los Angeles College","113856",4262.0
+2015,"California","04000US06","Marinello Schools of Beauty-Santa Clara","113908",330.0
+2015,"California","04000US06","El Camino Community College District","113980",2387.0
+2015,"California","04000US06","Elegance International","114044",222.0
+2015,"California","04000US06","Marinello Schools of Beauty-Burbank","114071",288.0
+2015,"California","04000US06","Marinello Schools of Beauty-Moreno Valley","114080",135.0
+2015,"California","04000US06","Emperor's College of Traditional Oriental Medicine","114114",42.0
+2015,"California","04000US06","Empire College School of Business","114123",193.0
+2015,"California","04000US06","Evergreen Valley College","114266",584.0
+2015,"California","04000US06","Fashion Institute of Design & Merchandising-Los Angeles","114354",1726.0
+2015,"California","04000US06","Fashion Institute of Design & Merchandising-San Francisco","114390",253.0
+2015,"California","04000US06","Feather River Community College District","114433",283.0
+2015,"California","04000US06","Federico Beauty Institute","114460",230.0
+2015,"California","04000US06","Fielding Graduate University","114549",394.0
+2015,"California","04000US06","Five Branches University","114585",116.0
+2015,"California","04000US06","Hair California Beauty Academy","114628",7.0
+2015,"California","04000US06","Redondo Beach Beauty College","114637",51.0
+2015,"California","04000US06","Foothill College","114716",1365.0
+2015,"California","04000US06","Franciscan School of Theology","114734",5.0
+2015,"California","04000US06","Fredrick and Charles Beauty College","114761",49.0
+2015,"California","04000US06","Fresno City College","114789",2023.0
+2015,"California","04000US06","Fresno Pacific University","114813",830.0
+2015,"California","04000US06","Fuller Theological Seminary in California","114840",770.0
+2015,"California","04000US06","Fullerton College","114859",2080.0
+2015,"California","04000US06","Gavilan College","114938",860.0
+2015,"California","04000US06","Gemological Institute of America-Carlsbad","114947",350.0
+2015,"California","04000US06","Glendale Community College","115001",903.0
+2015,"California","04000US06","Glendale Career College","115010",214.0
+2015,"California","04000US06","Golden Gate University-San Francisco","115083",1157.0
+2015,"California","04000US06","Golden West College","115126",2512.0
+2015,"California","04000US06","Graduate Theological Union","115214",45.0
+2015,"California","04000US06","Grossmont College","115296",3124.0
+2015,"California","04000US06","Salon Success Academy-San Bernardino","115357",14.0
+2015,"California","04000US06","Hartnell College","115393",1305.0
+2015,"California","04000US06","Harvey Mudd College","115409",192.0
+2015,"California","04000US06","Hilltop Beauty School","115658",56.0
+2015,"California","04000US06","Holy Names University","115728",347.0
+2015,"California","04000US06","Pacifica Graduate Institute","115746",292.0
+2015,"California","04000US06","Humboldt State University","115755",1836.0
+2015,"California","04000US06","Humphreys College-Stockton and Modesto Campuses","115773",273.0
+2015,"California","04000US06","Imperial Valley College","115861",1615.0
+2015,"California","04000US06","Institute for Business and Technology","115931",284.0
+2015,"California","04000US06","Interior Designers Institute","116226",59.0
+2015,"California","04000US06","Toni & Guy Hairdressing Academy-Santa Monica","116350",171.0
+2015,"California","04000US06","Irvine Valley College","116439",2376.0
+2015,"California","04000US06","ITT Technical Institute-National City","116466",386.0
+2015,"California","04000US06","ITT Technical Institute-San Dimas","116475",201.0
+2015,"California","04000US06","ITT Technical Institute-Orange","116484",334.0
+2015,"California","04000US06","Bellus Academy-El Cajon","116563",115.0
+2015,"California","04000US06","John F Kennedy University","116712",370.0
+2015,"California","04000US06","American Jewish University","116846",70.0
+2015,"California","04000US06","Reedley College","117052",1295.0
+2015,"California","04000US06","Life Pacific College","117104",115.0
+2015,"California","04000US06","The Art Institute of California-Argosy University San Diego","117113",464.0
+2015,"California","04000US06","University of La Verne","117140",2761.0
+2015,"California","04000US06","Laguna College of Art and Design","117168",87.0
+2015,"California","04000US06","Lake Tahoe Community College","117195",206.0
+2015,"California","04000US06","Lancaster Beauty School","117238",98.0
+2015,"California","04000US06","Laney College","117247",851.0
+2015,"California","04000US06","Lassen Community College","117274",332.0
+2015,"California","04000US06","Life Chiropractic College West","117520",90.0
+2015,"California","04000US06","Lincoln University","117557",110.0
+2015,"California","04000US06","Southern California Seminary","117575",40.0
+2015,"California","04000US06","La Sierra University","117627",479.0
+2015,"California","04000US06","Loma Linda University","117636",1575.0
+2015,"California","04000US06","Long Beach City College","117645",1590.0
+2015,"California","04000US06","Southern California University of Health Sciences","117672",202.0
+2015,"California","04000US06","Los Angeles Harbor College","117690",711.0
+2015,"California","04000US06","Los Angeles Pierce College","117706",1928.0
+2015,"California","04000US06","Los Angeles Southwest College","117715",730.0
+2015,"California","04000US06","Los Angeles Trade Technical College","117724",1742.0
+2015,"California","04000US06","Los Angeles Valley College","117733",1663.0
+2015,"California","04000US06","The Master's College and Seminary","117751",382.0
+2015,"California","04000US06","Los Angeles City College","117788",1353.0
+2015,"California","04000US06","Los Angeles County College of Nursing and Allied Health","117803",87.0
+2015,"California","04000US06","Los Angeles Mission College","117867",1102.0
+2015,"California","04000US06","Los Medanos College","117894",1968.0
+2015,"California","04000US06","The Art Institute of California-Argosy University San Francisco","117928",252.0
+2015,"California","04000US06","Loyola Marymount University","117946",2799.0
+2015,"California","04000US06","Lu Ross Academy","117955",208.0
+2015,"California","04000US06","Lyles Bakersfield College of Beauty","118134",44.0
+2015,"California","04000US06","Lyles Fresno College of Beauty","118143",32.0
+2015,"California","04000US06","Lytles Redwood Empire Beauty College Inc","118161",87.0
+2015,"California","04000US06","MTI Business College Inc","118189",91.0
+2015,"California","04000US06","MTI College","118198",572.0
+2015,"California","04000US06","Kaplan College-Sacramento","118259",352.0
+2015,"California","04000US06","Kaplan College-San Diego","118277",806.0
+2015,"California","04000US06","Kaplan College-Vista","118286",656.0
+2015,"California","04000US06","College of Marin","118347",361.0
+2015,"California","04000US06","Marinello Schools of Beauty-Los Angeles","118356",1405.0
+2015,"California","04000US06","Marymount California University","118541",169.0
+2015,"California","04000US06","Mendocino College","118684",382.0
+2015,"California","04000US06","Menlo College","118693",161.0
+2015,"California","04000US06","Merced College","118718",1061.0
+2015,"California","04000US06","Merritt College","118772",737.0
+2015,"California","04000US06","Mills College","118888",608.0
+2015,"California","04000US06","MiraCosta College","118912",2634.0
+2015,"California","04000US06","Marinello Schools of Beauty-San Francisco","118921",360.0
+2015,"California","04000US06","Mission College","118930",792.0
+2015,"California","04000US06","Modern Beauty Academy","118958",20.0
+2015,"California","04000US06","Kaplan College-North Hollywood","118967",504.0
+2015,"California","04000US06","Modesto Junior College","118976",2109.0
+2015,"California","04000US06","Moler Barber College","118994",73.0
+2015,"California","04000US06","Monterey Institute of International Studies","119058",349.0
+2015,"California","04000US06","Monterey Peninsula College","119067",656.0
+2015,"California","04000US06","Moorpark College","119137",1722.0
+2015,"California","04000US06","Mt San Antonio College","119164",3455.0
+2015,"California","04000US06","Mount St Mary's College","119173",969.0
+2015,"California","04000US06","Mt San Jacinto Community College District","119216",1847.0
+2015,"California","04000US06","Mueller College","119234",65.0
+2015,"California","04000US06","Musicians Institute","119270",621.0
+2015,"California","04000US06","Napa Valley College","119331",870.0
+2015,"California","04000US06","National Holistic Institute","119553",594.0
+2015,"California","04000US06","National University","119605",5182.0
+2015,"California","04000US06","Naval Postgraduate School","119678",2429.0
+2015,"California","04000US06","Newschool of Architecture and Design","119775",126.0
+2015,"California","04000US06","Newberry School of Beauty","119845",89.0
+2015,"California","04000US06","Adrian's College of Beauty Modesto","119951",126.0
+2015,"California","04000US06","North-West College-Pomona","120069",207.0
+2015,"California","04000US06","North-West College-West Covina","120078",308.0
+2015,"California","04000US06","North-West College-Pasadena","120087",107.0
+2015,"California","04000US06","Notre Dame de Namur University","120184",511.0
+2015,"California","04000US06","Occidental College","120254",541.0
+2015,"California","04000US06","Oceanside College of Beauty","120272",58.0
+2015,"California","04000US06","Ohlone College","120290",1298.0
+2015,"California","04000US06","Orange Coast College","120342",3700.0
+2015,"California","04000US06","Otis College of Art and Design","120403",272.0
+2015,"California","04000US06","Oxnard College","120421",1015.0
+2015,"California","04000US06","Hope International University","120537",280.0
+2015,"California","04000US06","Concorde Career College-San Diego","120661",556.0
+2015,"California","04000US06","Palo Alto University","120698",283.0
+2015,"California","04000US06","Pacific Lutheran Theological Seminary","120740",20.0
+2015,"California","04000US06","Pacific Oaks College","120768",410.0
+2015,"California","04000US06","Pacific School of Religion","120795",58.0
+2015,"California","04000US06","Pacific States University","120838",69.0
+2015,"California","04000US06","Pacific Union College","120865",391.0
+2015,"California","04000US06","University of the Pacific","120883",1871.0
+2015,"California","04000US06","Palo Verde College","120953",463.0
+2015,"California","04000US06","Palomar College","120971",3882.0
+2015,"California","04000US06","Paris Beauty College","121017",78.0
+2015,"California","04000US06","Pasadena City College","121044",3899.0
+2015,"California","04000US06","Pepperdine University","121150",2406.0
+2015,"California","04000US06","Pitzer College","121257",301.0
+2015,"California","04000US06","Platt College-San Diego","121275",164.0
+2015,"California","04000US06","Point Loma Nazarene University","121309",801.0
+2015,"California","04000US06","Pomona College","121345",442.0
+2015,"California","04000US06","Porterville College","121363",494.0
+2015,"California","04000US06","Westwood College-South Bay","121381",251.0
+2015,"California","04000US06","Professional Institute of Beauty","121433",45.0
+2015,"California","04000US06","Santa Ana College","121619",5569.0
+2015,"California","04000US06","Pardee RAND Graduate School","121628",43.0
+2015,"California","04000US06","Shasta School of Cosmetology","121637",47.0
+2015,"California","04000US06","University of Redlands","121691",1793.0
+2015,"California","04000US06","College of the Redwoods","121707",654.0
+2015,"California","04000US06","Salon Success Academy-Upland","121859",93.0
+2015,"California","04000US06","Salon Success Academy-Corona","121868",118.0
+2015,"California","04000US06","Rio Hondo College","121886",1418.0
+2015,"California","04000US06","Riverside City College","121901",2445.0
+2015,"California","04000US06","Argosy University-San Francisco Bay Area","121983",140.0
+2015,"California","04000US06","Rosemead Beauty School","121992",177.0
+2015,"California","04000US06","Dongguk University-Los Angeles","122117",119.0
+2015,"California","04000US06","Rudolf Steiner College","122126",24.0
+2015,"California","04000US06","Sacramento City College","122180",2252.0
+2015,"California","04000US06","Saddleback College","122205",3586.0
+2015,"California","04000US06","Samuel Merritt University","122296",676.0
+2015,"California","04000US06","San Diego City College","122339",1892.0
+2015,"California","04000US06","Golf Academy of America-Carlsbad","122366",132.0
+2015,"California","04000US06","San Diego Mesa College","122375",1823.0
+2015,"California","04000US06","San Diego Miramar College","122384",1356.0
+2015,"California","04000US06","San Diego State University","122409",8984.0
+2015,"California","04000US06","University of San Diego","122436",2738.0
+2015,"California","04000US06","San Francisco Art Institute","122454",236.0
+2015,"California","04000US06","San Francisco Conservatory of Music","122506",126.0
+2015,"California","04000US06","San Francisco State University","122597",7232.0
+2015,"California","04000US06","San Francisco Theological Seminary","122603",37.0
+2015,"California","04000US06","University of San Francisco","122612",3208.0
+2015,"California","04000US06","San Joaquin College of Law","122649",35.0
+2015,"California","04000US06","San Joaquin Delta College","122658",2801.0
+2015,"California","04000US06","San Joaquin Valley College-Visalia","122685",2850.0
+2015,"California","04000US06","William Jessup University","122728",298.0
+2015,"California","04000US06","San Jose City College","122746",997.0
+2015,"California","04000US06","San Jose State University","122755",7995.0
+2015,"California","04000US06","College of San Mateo","122791",1746.0
+2015,"California","04000US06","Santa Barbara Business College-Bakersfield","122834",241.0
+2015,"California","04000US06","Westwood College-Los Angeles","122843",825.0
+2015,"California","04000US06","Santa Barbara Business College-Santa Maria","122852",99.0
+2015,"California","04000US06","Santa Barbara City College","122889",3119.0
+2015,"California","04000US06","Santa Clara University","122931",2962.0
+2015,"California","04000US06","Santa Monica College","122977",3736.0
+2015,"California","04000US06","Santa Rosa Junior College","123013",4827.0
+2015,"California","04000US06","Saybrook University","123095",125.0
+2015,"California","04000US06","Scripps College","123165",299.0
+2015,"California","04000US06","College of the Sequoias","123217",1733.0
+2015,"California","04000US06","Shasta Bible College and Graduate School","123280",14.0
+2015,"California","04000US06","Shasta College","123299",960.0
+2015,"California","04000US06","Sierra College","123341",3085.0
+2015,"California","04000US06","Sierra College of Beauty","123350",51.0
+2015,"California","04000US06","Sierra Valley College of Court Reporting","123396",9.0
+2015,"California","04000US06","Trinity Law School","123448",61.0
+2015,"California","04000US06","Simpson University","123457",372.0
+2015,"California","04000US06","College of the Siskiyous","123484",275.0
+2015,"California","04000US06","Charles A Jones Career and Education Center","123493",826.0
+2015,"California","04000US06","Skyline College","123509",1355.0
+2015,"California","04000US06","San Bernardino Valley College","123527",1327.0
+2015,"California","04000US06","Saint Mary's College of California","123554",1206.0
+2015,"California","04000US06","Solano Community College","123563",1601.0
+2015,"California","04000US06","Sonoma State University","123572",2231.0
+2015,"California","04000US06","Pinnacle College","123581",71.0
+2015,"California","04000US06","South Baylo University","123633",152.0
+2015,"California","04000US06","South Coast College","123642",83.0
+2015,"California","04000US06","Vanguard University of Southern California","123651",624.0
+2015,"California","04000US06","Concorde Career College-Garden Grove","123679",519.0
+2015,"California","04000US06","Southwestern College","123800",1675.0
+2015,"California","04000US06","St John's Seminary","123855",16.0
+2015,"California","04000US06","Starr King School for Ministry","123916",15.0
+2015,"California","04000US06","Marshall B Ketchum University","123943",97.0
+2015,"California","04000US06","Southern California Institute of Architecture","123952",142.0
+2015,"California","04000US06","University of Southern California","123961",15331.0
+2015,"California","04000US06","Southwestern Law School","123970",344.0
+2015,"California","04000US06","Taft College","124113",431.0
+2015,"California","04000US06","Claremont School of Theology","124283",69.0
+2015,"California","04000US06","Thomas Aquinas College","124292",81.0
+2015,"California","04000US06","Marinello Schools of Beauty-Lake Forest","124344",325.0
+2015,"California","04000US06","Epic Bible College","124487",46.0
+2015,"California","04000US06","United Education Institute-Huntington Park Campus","124681",362.0
+2015,"California","04000US06","Concorde Career College-San Bernardino","124706",538.0
+2015,"California","04000US06","Universal College of Beauty Inc-Los Angeles 1","124779",10.0
+2015,"California","04000US06","Concorde Career College-North Hollywood","124937",417.0
+2015,"California","04000US06","Ventura College","125028",1990.0
+2015,"California","04000US06","The Santa Barbara and Ventura Colleges of Law-Ventura","125037",28.0
+2015,"California","04000US06","Victor Valley Beauty College Inc","125082",66.0
+2015,"California","04000US06","Victor Valley College","125091",1055.0
+2015,"California","04000US06","Berkeley City College","125170",548.0
+2015,"California","04000US06","Waynes College of Beauty","125310",29.0
+2015,"California","04000US06","West Hills College-Coalinga","125462",826.0
+2015,"California","04000US06","West Los Angeles College","125471",675.0
+2015,"California","04000US06","West Valley College","125499",956.0
+2015,"California","04000US06","Carrington College California-Sacramento","125532",894.0
+2015,"California","04000US06","Westminster Theological Seminary in California","125718",37.0
+2015,"California","04000US06","Westmont College","125727",355.0
+2015,"California","04000US06","Whittier College","125763",639.0
+2015,"California","04000US06","Woodbury University","125897",445.0
+2015,"California","04000US06","The Wright Institute","126012",135.0
+2015,"California","04000US06","Western State College of Law at Argosy University","126030",114.0
+2015,"California","04000US06","Thomas Jefferson School of Law","126049",251.0
+2015,"California","04000US06","Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary","126076",35.0
+2015,"California","04000US06","Yuba College","126119",877.0
+2015,"California","04000US06","Ashford University","154022",16204.0
+2015,"California","04000US06","Stanford University","243744",5023.0
+2015,"California","04000US06","ITT Technical Institute-Sylmar","244011",189.0
+2015,"California","04000US06","Antioch University-Los Angeles","245838",328.0
+2015,"California","04000US06","Antioch University-Santa Barbara","245847",126.0
+2015,"California","04000US06","Carrington College California-San Leandro","246974",358.0
+2015,"California","04000US06","Fashion Institute of Design & Merchandising-San Diego","248846",18.0
+2015,"California","04000US06","Platt College-Los Angeles","260789",492.0
+2015,"California","04000US06","Bethel Seminary-San Diego","262022",42.0
+2015,"California","04000US06","Brandman University","262086",2607.0
+2015,"California","04000US06","Adrian's College of Beauty Turlock","262369",84.0
+2015,"California","04000US06","California Career School","262402",210.0
+2015,"California","04000US06","Palomar Institute of Cosmetology","365125",95.0
+2015,"California","04000US06","InterCoast Colleges-Orange","366289",145.0
+2015,"California","04000US06","Las Positas College","366401",749.0
+2015,"California","04000US06","California State University-San Marcos","366711",2358.0
+2015,"California","04000US06","Kaplan College-Modesto","366960",289.0
+2015,"California","04000US06","University of St Augustine for Health Sciences","367954",639.0
+2015,"California","04000US06","Hypnosis Motivation Institute","368771",115.0
+2015,"California","04000US06","Los Angeles ORT College-Los Angeles Campus","368780",104.0
+2015,"California","04000US06","Thanh Le College School of Cosmetology","368832",30.0
+2015,"California","04000US06","Downey Adult School","371690",1112.0
+2015,"California","04000US06","CRU Institute","371830",23.0
+2015,"California","04000US06","Modern Technology School","371928",111.0
+2015,"California","04000US06","National Career Education","371964",138.0
+2015,"California","04000US06","Thuy Princess Beauty College","372000",66.0
+2015,"California","04000US06","North-West College-Glendale","372028",134.0
+2015,"California","04000US06","Fremont College","372073",188.0
+2015,"California","04000US06","Pomona Unified School District Adult and Career Education","372082",115.0
+2015,"California","04000US06","Universal College of Beauty Inc-Los Angeles 2","372240",13.0
+2015,"California","04000US06","Bellus Academy-Poway","377722",299.0
+2015,"California","04000US06","Capstone College","377759",48.0
+2015,"California","04000US06","Central Coast College","378105",246.0
+2015,"California","04000US06","ITT Technical Institute-Torrance","378406",177.0
+2015,"California","04000US06","Pacific College of Oriental Medicine-San Diego","378576",112.0
+2015,"California","04000US06","CET-Coachella","381255",151.0
+2015,"California","04000US06","CET-Oxnard","381282",108.0
+2015,"California","04000US06","CET-Santa Maria","381325",127.0
+2015,"California","04000US06","ITT Technical Institute-San Bernardino","381909",213.0
+2015,"California","04000US06","Los Angeles ORT College-Van Nuys Campus","381945",240.0
+2015,"California","04000US06","Mt Diablo Adult Education","382258",112.0
+2015,"California","04000US06","Royale College of Beauty","382267",37.0
+2015,"California","04000US06","Westech College","382276",366.0
+2015,"California","04000US06","Hacienda La Puente Adult Education","383084",761.0
+2015,"California","04000US06","United Education Institute-Ontario","384236",235.0
+2015,"California","04000US06","United Education Institute-Encino","384245",369.0
+2015,"California","04000US06","Acupuncture and Integrative Medicine College-Berkeley","384306",37.0
+2015,"California","04000US06","Alhambra Beauty College","393524",76.0
+2015,"California","04000US06","American Auto Institute","393649",566.0
+2015,"California","04000US06","Asian American International Beauty College","393861",443.0
+2015,"California","04000US06","Avance Beauty College","393977",26.0
+2015,"California","04000US06","Colton-Redlands-Yucaipa Regional Occupational Program","395195",131.0
+2015,"California","04000US06","Copper Mountain Community College","395362",257.0
+2015,"California","04000US06","Diversified Vocational College","395690",506.0
+2015,"California","04000US06","Bristol University","397270",85.0
+2015,"California","04000US06","UEI College-Fresno","397942",480.0
+2015,"California","04000US06","Mt Sierra College","398130",86.0
+2015,"California","04000US06","Santiago Canyon College","399212",3149.0
+2015,"California","04000US06","Southern California Institute of Technology","399869",310.0
+2015,"California","04000US06","Soka University of America","399911",99.0
+2015,"California","04000US06","Summit College","400080",1027.0
+2015,"California","04000US06","Advance Beauty College","400187",570.0
+2015,"California","04000US06","World Mission University","401223",52.0
+2015,"California","04000US06","Yo San University of Traditional Chinese Medicine","401250",42.0
+2015,"California","04000US06","Coast Career Institute","401339",180.0
+2015,"California","04000US06","California State University-Monterey Bay","409698",1396.0
+2015,"California","04000US06","The Art Institute of California-Argosy University Hollywood","410502",373.0
+2015,"California","04000US06","Sage College","410520",53.0
+2015,"California","04000US06","Marian Health Careers Center-Los Angeles Campus","411684",29.0
+2015,"California","04000US06","Crimson Technical College","413680",225.0
+2015,"California","04000US06","East San Gabriel Valley Regional Occupational Program","413802",535.0
+2015,"California","04000US06","ITT Technical Institute-Oxnard","413848",115.0
+2015,"California","04000US06","Premiere Career College","416458",244.0
+2015,"California","04000US06","Estes Institute of Cosmetology Arts and Science","417062",61.0
+2015,"California","04000US06","Baldwin Park Adult & Community Education","417105",190.0
+2015,"California","04000US06","Ventura Adult and Continuing Education","417123",133.0
+2015,"California","04000US06","Marinello Schools of Beauty-Sacramento","417132",258.0
+2015,"California","04000US06","Central California School","419183",148.0
+2015,"California","04000US06","Colleen O'Haras Beauty Academy","420608",60.0
+2015,"California","04000US06","Champion Institute of Cosmetology","422190",17.0
+2015,"California","04000US06","Pacific College","422695",96.0
+2015,"California","04000US06","American College of Healthcare","422835",206.0
+2015,"California","04000US06","Le Cordon Bleu College of Culinary Arts-Pasadena","423980",682.0
+2015,"California","04000US06","John Wesley International Barber and Beauty College","428125",38.0
+2015,"California","04000US06","CET-Sacramento","430342",145.0
+2015,"California","04000US06","American College of Traditional Chinese Medicine","430591",65.0
+2015,"California","04000US06","Institute of Technology Inc","431141",938.0
+2015,"California","04000US06","Virginia Sewing Machines and School Center","431956",85.0
+2015,"California","04000US06","Kaplan College-Riverside","432302",138.0
+2015,"California","04000US06","Platt College-Ontario","432384",252.0
+2015,"California","04000US06","The Art Institute of California-Argosy University Los Angeles","432533",392.0
+2015,"California","04000US06","American University of Health Sciences","433004",51.0
+2015,"California","04000US06","Career Networks Institute","433013",325.0
+2015,"California","04000US06","Santa Barbara Business College-Ventura","433420",154.0
+2015,"California","04000US06","Pima Medical Institute-Chula Vista","434140",688.0
+2015,"California","04000US06","Charter College-Canyon Country","434317",608.0
+2015,"California","04000US06","Los Angeles Film School","436429",820.0
+2015,"California","04000US06","Argosy University-Orange County","436438",192.0
+2015,"California","04000US06","ITT Technical Institute-Lathrop","437219",169.0
+2015,"California","04000US06","The English Center","437653",35.0
+2015,"California","04000US06","ICDC College","437662",1271.0
+2015,"California","04000US06","Professional Golfers Career College","437750",100.0
+2015,"California","04000US06","Westwood College-Anaheim","437848",330.0
+2015,"California","04000US06","Carrington College California-San Jose","437936",505.0
+2015,"California","04000US06","Carrington College California-Pleasant Hill","438258",342.0
+2015,"California","04000US06","Universal Technical Institute of California Inc","438504",1095.0
+2015,"California","04000US06","CBD College","439367",158.0
+2015,"California","04000US06","My Le's Beauty College","439747",140.0
+2015,"California","04000US06","Bryan College-Gold River","439826",57.0
+2015,"California","04000US06","PCI College","439871",37.0
+2015,"California","04000US06","American Career College at St Francis","439905",98.0
+2015,"California","04000US06","Keck Graduate Institute","440031",181.0
+2015,"California","04000US06","Westwood College-Inland Empire","440484",417.0
+2015,"California","04000US06","Miami Ad School-San Francisco","440819",71.0
+2015,"California","04000US06","American Career College-Anaheim","441052",832.0
+2015,"California","04000US06","West Coast Ultrasound Institute","441229",518.0
+2015,"California","04000US06","Irell & Manella Graduate School of Biological Sciences at City of Hope","441238",10.0
+2015,"California","04000US06","Design's School of Cosmetology","441256",135.0
+2015,"California","04000US06","Paul Mitchell the School-Santa Barbara","441274",64.0
+2015,"California","04000US06","California State University-Channel Islands","441937",1600.0
+2015,"California","04000US06","The Art Institute of California-Argosy University Orange County","441973",354.0
+2015,"California","04000US06","David's Academy of Beauty","442204",83.0
+2015,"California","04000US06","Paul Mitchell the School-Costa Mesa","442240",167.0
+2015,"California","04000US06","Milan Institute-Palm Desert","442657",166.0
+2015,"California","04000US06","InterCoast Colleges-Riverside","442888",118.0
+2015,"California","04000US06","University of Antelope Valley","442930",521.0
+2015,"California","04000US06","California Healing Arts College","442985",80.0
+2015,"California","04000US06","International Technological University","443128",568.0
+2015,"California","04000US06","NTMA Training Centers of Southern California","443207",512.0
+2015,"California","04000US06","West Coast University-Los Angeles","443331",436.0
+2015,"California","04000US06","InterCoast Colleges-West Covina","443571",96.0
+2015,"California","04000US06","Northcentral University","444130",1485.0
+2015,"California","04000US06","Folsom Lake College","444219",982.0
+2015,"California","04000US06","ATI College-Norwalk","444325",66.0
+2015,"California","04000US06","Advanced College","444343",47.0
+2015,"California","04000US06","Advanced Training Associates","444361",82.0
+2015,"California","04000US06","CES College","444510",129.0
+2015,"California","04000US06","Computer Tutor Business and Technical Institute","444529",141.0
+2015,"California","04000US06","University of California-Merced","445188",1163.0
+2015,"California","04000US06","North-West College-Riverside","445364",202.0
+2015,"California","04000US06","Cambridge Junior College-Yuba City","446093",117.0
+2015,"California","04000US06","Career Care Institute","446118",340.0
+2015,"California","04000US06","Community Christian College","446163",8.0
+2015,"California","04000US06","Los Angeles Music Academy","446385",76.0
+2015,"California","04000US06","Stanbridge College","446561",382.0
+2015,"California","04000US06","United States University","447050",119.0
+2015,"California","04000US06","Kaplan College-Bakersfield","447102",275.0
+2015,"California","04000US06","Kaplan College-Fresno","447120",222.0
+2015,"California","04000US06","Argosy University-Los Angeles","447272",132.0
+2015,"California","04000US06","Expression College for Digital Arts","447458",160.0
+2015,"California","04000US06","United Education Institute-Chula Vista","447607",273.0
+2015,"California","04000US06","United Education Institute-El Monte","447616",279.0
+2015,"California","04000US06","Kaplan College-Palm Springs","447634",284.0
+2015,"California","04000US06","California Career College","447713",17.0
+2015,"California","04000US06","Palladium Technical Academy","447722",55.0
+2015,"California","04000US06","Palace Beauty College","447731",152.0
+2015,"California","04000US06","National Polytechnic College","447759",114.0
+2015,"California","04000US06","American Career College-Ontario","447768",900.0
+2015,"California","04000US06","Asher College","447777",276.0
+2015,"California","04000US06","American Institute of Massage Therapy","447795",33.0
+2015,"California","04000US06","University of East-West Medicine","447801",37.0
+2015,"California","04000US06","Blake Austin College","447810",228.0
+2015,"California","04000US06","SUM Bible College and Theological Seminary","447953",69.0
+2015,"California","04000US06","Universal Technical Institute of Northern California Inc","448433",891.0
+2015,"California","04000US06","ITT Technical Institute-Clovis","448451",135.0
+2015,"California","04000US06","The Art Institute of California-Argosy University Inland Empire","448576",521.0
+2015,"California","04000US06","West Hills College-Lemoore","448594",796.0
+2015,"California","04000US06","Milan Institute-Clovis","448895",234.0
+2015,"California","04000US06","Beaumont Adult School","449357",78.0
+2015,"California","04000US06","Make-up Designory","449366",623.0
+2015,"California","04000US06","Gnomon School of Visual Effects","449384",41.0
+2015,"California","04000US06","Coachella Valley Beauty College","449393",33.0
+2015,"California","04000US06","Career College of California","449436",148.0
+2015,"California","04000US06","Valley College of Medical Careers","449445",58.0
+2015,"California","04000US06","University of the West","449870",67.0
+2015,"California","04000US06","Paul Mitchell the School-San Diego","449968",173.0
+2015,"California","04000US06","Paul Mitchell the School-Sherman Oaks","449986",143.0
+2015,"California","04000US06","The Art Institute of California-Argosy University Sacramento","450094",202.0
+2015,"California","04000US06","International Academy of Design and Technology-Sacramento","450447",47.0
+2015,"California","04000US06","Argosy University-Inland Empire","450526",193.0
+2015,"California","04000US06","Argosy University-San Diego","450544",123.0
+2015,"California","04000US06","InterCoast Colleges-Carson","450669",83.0
+2015,"California","04000US06","Carrington College California-Stockton","450696",362.0
+2015,"California","04000US06","Carrington College California-Citrus Heights","450702",317.0
+2015,"California","04000US06","InfoTech Career College","450960",117.0
+2015,"California","04000US06","Trident University International","450979",1758.0
+2015,"California","04000US06","Coastline Beauty College","450988",192.0
+2015,"California","04000US06","Career College Consultants","451006",90.0
+2015,"California","04000US06","San Diego College","451015",112.0
+2015,"California","04000US06","The Art Institute of California-Argosy University-Silicon Valley","451848",123.0
+2015,"California","04000US06","Le Cordon Bleu College of Culinary Arts-Sacramento","452036",128.0
+2015,"California","04000US06","Milan Institute of Cosmetology-Fairfield","454546",34.0
+2015,"California","04000US06","Milan Institute of Cosmetology-Visalia","454573",70.0
+2015,"California","04000US06","Mayfield College","454698",317.0
+2015,"California","04000US06","Academy of Esthetics and Cosmetology","454722",16.0
+2015,"California","04000US06","International Professional School of Bodywork","454740",45.0
+2015,"California","04000US06","Borner's Barber College","454759",5.0
+2015,"California","04000US06","Paul Mitchell the School-Pasadena","454768",82.0
+2015,"California","04000US06","San Francisco Institute of Esthetics and Cosmetology","454777",126.0
+2015,"California","04000US06","Laurus College","454786",236.0
+2015,"California","04000US06","Healing Hands School of Holistic Health","454795",117.0
+2015,"California","04000US06","Career Development Institute","454801",35.0
+2015,"California","04000US06","The Chicago School of Professional Psychology at Irvine","455433",27.0
+2015,"California","04000US06","Woodland Community College","455512",285.0
+2015,"California","04000US06","The Chicago School of Professional Psychology at Los Angeles","455664",601.0
+2015,"California","04000US06","California Nurses Educational Institute","455734",158.0
+2015,"California","04000US06","RWM Fiber Optics","455752",37.0
+2015,"California","04000US06","Paul Mitchell the School-Sacramento","455761",203.0
+2015,"California","04000US06","Providence Christian College","455770",14.0
+2015,"California","04000US06","National Career College","455868",90.0
+2015,"California","04000US06","ITT Technical Institute-Concord","456427",82.0
+2015,"California","04000US06","Salon Success Academy-Fontana","456588",38.0
+2015,"California","04000US06","Salon Success Academy-Redlands","456597",68.0
+2015,"California","04000US06","Milan Institute-Bakersfield","457077",192.0
+2015,"California","04000US06","Homestead Schools","457086",64.0
+2015,"California","04000US06","InterCoast Colleges-Elk Grove","457208",50.0
+2015,"California","04000US06","Horizon University","457226",8.0
+2015,"California","04000US06","San Diego Culinary Institute","457244",96.0
+2015,"California","04000US06","Beyond 21st Century Beauty Academy","457253",15.0
+2015,"California","04000US06","Academy for Jewish Religion-California","457271",30.0
+2015,"California","04000US06","Angeles College","457299",114.0
+2015,"California","04000US06","Angeles Institute","457314",82.0
+2015,"California","04000US06","Paul Mitchell the School-Temecula","457323",166.0
+2015,"California","04000US06","Kaplan College-Chula Vista","458186",236.0
+2015,"California","04000US06","InterCoast Colleges-Roseville","458195",19.0
+2015,"California","04000US06","West Coast University-Orange County","458210",433.0
+2015,"California","04000US06","West Coast University-Ontario","458229",273.0
+2015,"California","04000US06","Zaytuna College","458575",58.0
+2015,"California","04000US06","Northern California Institute of Cosmetology Inc","459134",22.0
+2015,"California","04000US06","Golden State College of Court Reporting","459143",6.0
+2015,"California","04000US06","Trinity Vocational Center","459161",192.0
+2015,"California","04000US06","SICE Paul Mitchell Partner School","459170",202.0
+2015,"California","04000US06","Cosmo Beauty Academy","459189",78.0
+2015,"California","04000US06","Paul Mitchell the School-Fresno","459198",122.0
+2015,"California","04000US06","Unitek College","459204",774.0
+2015,"California","04000US06","Gurnick Academy of Medical Arts","459213",558.0
+2015,"California","04000US06","Southern California University SOMA","459222",11.0
+2015,"California","04000US06","Paul Mitchell the School-East Bay","459231",156.0
+2015,"California","04000US06","ITT Technical Institute-Corona","459639",184.0
+2015,"California","04000US06","Touro University Worldwide","459727",109.0
+2015,"California","04000US06","Touro University California","459736",487.0
+2015,"California","04000US06","California University of Management and Sciences","460075",131.0
+2015,"California","04000US06","Moreno Valley College","460394",821.0
+2015,"California","04000US06","Norco College","460464",1087.0
+2015,"California","04000US06","Milan Institute of Cosmetology-La Quinta","460516",89.0
+2015,"California","04000US06","Cambridge Junior College-Woodland","460659",67.0
+2015,"California","04000US06","Allied American University","460729",468.0
+2015,"California","04000US06","New York Film Academy","461148",806.0
+2015,"California","04000US06","International College of Cosmetology","461175",144.0
+2015,"California","04000US06","Toni & Guy Hairdressing Academy-Modesto","461227",53.0
+2015,"California","04000US06","Galaxy Medical College","461254",56.0
+2015,"California","04000US06","American Medical Sciences Center","461263",44.0
+2015,"California","04000US06","Tramy Beauty School","461397",147.0
+2015,"California","04000US06","Santa Ana Beauty Academy","461500",40.0
+2015,"California","04000US06","Elite Cosmetology School","461607",44.0
+2015,"California","04000US06","Bergin University of Canine Studies","461643",31.0
+2015,"California","04000US06","Real Barbers College","461698",92.0
+2015,"California","04000US06","Ashdown College of Health Sciences","461777",21.0
+2015,"California","04000US06","Cinta Aveda Institute","461829",203.0
+2015,"California","04000US06","Southern California Health Institute","461856",289.0
+2015,"California","04000US06","Salinas Beauty College Inc","461971",23.0
+2015,"California","04000US06","Academy for Salon Professionals","461980",92.0
+2015,"California","04000US06","Academy for Salon Professionals","462062",61.0
+2015,"California","04000US06","International College of Beauty Arts & Sciences","462336",31.0
+2015,"California","04000US06","John Paul the Great Catholic University","462354",69.0
+2015,"California","04000US06","ITT Technical Institute-Oakland","467058",38.0
+2015,"California","04000US06","Carrington College California-Pomona","467368",163.0
+2015,"California","04000US06","CET-Soledad","468769",127.0
+2015,"California","04000US06","United Education Institute-UEI College San Marcos","468848",195.0
+2015,"California","04000US06","United Education Institute-Anaheim","468909",350.0
+2015,"California","04000US06","Aveda Institute-Los Angeles","469957",94.0
+2015,"California","04000US06","UEI College-Riverside","470038",494.0
+2015,"California","04000US06","Coast Career Institute","470302",111.0
+2015,"California","04000US06","Azusa Pacific Online University","474863",111.0
+2015,"California","04000US06","International Culinary Center-California","475097",157.0
+2015,"California","04000US06","The Santa Barbara and Ventura Colleges of Law - Santa Barbara","475228",26.0
+2015,"California","04000US06","Marian Health Careers Center-Van Nuys Campus","475282",31.0
+2015,"California","04000US06","MediaTech Institute-Oceanside","475501",47.0
+2015,"California","04000US06","Academy of Couture Art","475635",5.0
+2015,"California","04000US06","Preferred College of Nursing-Van Nuys","475680",81.0
+2015,"California","04000US06","Annenberg School of Nursing","475705",15.0
+2015,"California","04000US06","WestMed College","476470",207.0
+2015,"California","04000US06","Flair Beauty College","476513",36.0
+2015,"California","04000US06","Medical Allied Career Center","476595",80.0
+2015,"California","04000US06","LeMelange Academy of Hair","476744",48.0
+2015,"California","04000US06","Diamond Beauty College","476780",258.0
+2015,"California","04000US06","NCP College of Nursing-South San Francisco","476799",80.0
+2015,"California","04000US06","SAE Institute of Technology-Los Angeles","476911",166.0
+2015,"California","04000US06","California College San Diego","478634",94.0
+2015,"California","04000US06","NCP College of Nursing-Hayward","479424",126.0
+2015,"California","04000US06","Advance Beauty Techs Academy","479974",27.0
+2015,"California","04000US06","Brand College","479992",75.0
+2015,"California","04000US06","Hinton Barber College","480000",86.0
+2015,"California","04000US06","Advanced Career Institute","480019",408.0
+2015,"California","04000US06","Platt College-Riverside","480204",215.0
+2015,"California","04000US06","United Education Institute-UEI College Stockton","480471",190.0
+2015,"California","04000US06","California Miramar University","480781",40.0
+2015,"California","04000US06","Grace Mission University","481058",9.0
+2015,"California","04000US06","Santa Ana Beauty College","481128",507.0
+2015,"California","04000US06","Ukiah Adult School","481182",39.0
+2015,"California","04000US06","Riverside County Office of Education","481191",560.0
+2015,"California","04000US06","Advanced Computing Institute","481234",246.0
+2015,"California","04000US06","Xavier College School of Nursing","481289",55.0
+2015,"California","04000US06","Lawrence & Company College of Cosmetology","481298",40.0
+2015,"California","04000US06","California Career Institute","481386",41.0
+2015,"California","04000US06","Cosmo Factory Cosmetology Academy","481395",19.0
+2015,"California","04000US06","W Academy of Salon and Spa","481474",24.0
+2015,"California","04000US06","Sanford-Burnham Medical Research Institute","481535",6.0
+2015,"California","04000US06","Toni & Guy Hairdressing Academy-Manteca","481562",54.0
+2015,"California","04000US06","American Career College-Long Beach","481854",421.0
+2015,"California","04000US06","InterCoast Colleges-Fairfield","481960",199.0
+2015,"California","04000US06","Milan Institute-Merced","482060",162.0
+2015,"California","04000US06","UEI College-Bakersfield","482291",565.0
+2015,"California","04000US06","DeVry University-California","482431",2069.0
+2015,"California","04000US06","American College of Healthcare","483009",97.0
+2015,"California","04000US06","Learnet Academy Inc","483221",231.0
+2015,"California","04000US06","Fab School","483230",118.0
+2015,"California","04000US06","Integrity College of Health","483373",17.0
+2015,"California","04000US06","Computer Training Academy","483443",252.0
+2015,"California","04000US06","California International Business University","483586",25.0
+2015,"California","04000US06","Sutter Beauty College","483610",59.0
+2015,"California","04000US06","Bay Area Medical Academy","483878",84.0
+2015,"California","04000US06","Lawrence & Company College of Cosmetology","483957",21.0
+2015,"California","04000US06","High Desert Medical College","484002",163.0
+2015,"California","04000US06","The Salon Professional Academy-San Jose","484206",83.0
+2015,"California","04000US06","North-West College-Santa Ana","484367",16.0
+2015,"California","04000US06","North-West College-Long Beach","484376",43.0
+2015,"California","04000US06","University of Phoenix-California","484631",6609.0
+2015,"California","04000US06","California College San Diego","485263",248.0
+2015,"California","04000US06","High Tech High Graduate School of Education","485403",13.0
+2015,"California","04000US06","Coachella Valley Beauty College-Beaumont","485412",38.0
+2015,"California","04000US06","Associated Barber College of San Diego","485494",40.0
+2015,"California","04000US06","ABCO Technology","485500",72.0
+2015,"California","04000US06","International Sports Sciences Association","485519",97.0
+2015,"California","04000US06","California Intercontinental University","485546",73.0
+2015,"California","04000US06","United Healthcare Careers College","485573",30.0
+2015,"California","04000US06","GDS Institute","486099",128.0
+2015,"California","04000US06","Theatre of Arts","486123",43.0
+2015,"California","04000US06","Westchester College of Nursing & Allied Health","486141",11.0
+2015,"California","04000US06","San Francisco College of Cosmetology","486187",76.0
+2015,"California","04000US06","ZMS The Academy","486248",84.0
+2015,"California","04000US06","Bay Area College of Nursing","486293",35.0
+2015,"California","04000US06","San Francisco School of Digital Filmmaking","486372",15.0
+2015,"California","04000US06","Presidio Graduate School","486433",38.0
+2015,"California","04000US06","California Jazz Conservatory","486488",7.0
+2015,"California","04000US06","California Barber and Beauty College","486497",27.0
+2015,"California","04000US06","Aviation Institute of Maintenance","486558",66.0
+2015,"California","04000US06","Saint Joseph's School of Nursing","486600",31.0
+2015,"California","04000US06","California Institute of Advanced Management","487649",8.0
+2015,"California","04000US06","Shepherd University","487667",62.0

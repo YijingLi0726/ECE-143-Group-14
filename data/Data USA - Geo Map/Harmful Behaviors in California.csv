@@ -1,0 +1,175 @@
+year,geo_name,geo,adult_smoking
+2016,"Alameda County, CA","05000US06001",0.106
+2017,"Alameda County, CA","05000US06001",0.099
+2015,"Alameda County, CA","05000US06001",0.106
+2017,"Alpine County","05000US06003",0.156
+2016,"Alpine County","05000US06003",0.157
+2015,"Alpine County","05000US06003",None
+2015,"Amador County","05000US06005",0.212
+2017,"Amador County","05000US06005",0.115
+2016,"Amador County","05000US06005",0.126
+2015,"Butte County, CA","05000US06007",0.192
+2017,"Butte County, CA","05000US06007",0.145
+2016,"Butte County, CA","05000US06007",0.15
+2016,"Calaveras County","05000US06009",0.116
+2017,"Calaveras County","05000US06009",0.117
+2015,"Calaveras County","05000US06009",0.191
+2017,"Colusa County","05000US06011",0.13
+2016,"Colusa County","05000US06011",0.143
+2015,"Colusa County","05000US06011",None
+2016,"Contra Costa County, CA","05000US06013",0.11
+2015,"Contra Costa County, CA","05000US06013",0.116
+2017,"Contra Costa County, CA","05000US06013",0.106
+2015,"Del Norte County","05000US06015",0.203
+2016,"Del Norte County","05000US06015",0.161
+2017,"Del Norte County","05000US06015",0.154
+2015,"El Dorado County, CA","05000US06017",0.143
+2017,"El Dorado County, CA","05000US06017",0.113
+2016,"El Dorado County, CA","05000US06017",0.116
+2015,"Fresno County, CA","05000US06019",0.139
+2016,"Fresno County, CA","05000US06019",0.134
+2017,"Fresno County, CA","05000US06019",0.136
+2016,"Glenn County","05000US06021",0.147
+2017,"Glenn County","05000US06021",0.143
+2015,"Glenn County","05000US06021",0.15
+2015,"Humboldt County, CA","05000US06023",0.186
+2016,"Humboldt County, CA","05000US06023",0.152
+2017,"Humboldt County, CA","05000US06023",0.159
+2016,"Imperial County, CA","05000US06025",0.144
+2015,"Imperial County, CA","05000US06025",0.124
+2017,"Imperial County, CA","05000US06025",0.138
+2017,"Inyo County","05000US06027",0.123
+2015,"Inyo County","05000US06027",None
+2016,"Inyo County","05000US06027",0.13
+2016,"Kern County, CA","05000US06029",0.167
+2015,"Kern County, CA","05000US06029",0.16
+2017,"Kern County, CA","05000US06029",0.146
+2015,"Kings County, CA","05000US06031",0.125
+2017,"Kings County, CA","05000US06031",0.152
+2016,"Kings County, CA","05000US06031",0.155
+2017,"Lake County","05000US06033",0.15
+2016,"Lake County","05000US06033",0.153
+2015,"Lake County","05000US06033",0.245
+2016,"Lassen County","05000US06035",0.148
+2015,"Lassen County","05000US06035",0.181
+2017,"Lassen County","05000US06035",0.141
+2016,"Los Angeles County, CA","05000US06037",0.124
+2017,"Los Angeles County, CA","05000US06037",0.117
+2015,"Los Angeles County, CA","05000US06037",0.123
+2016,"Madera County, CA","05000US06039",0.157
+2015,"Madera County, CA","05000US06039",0.138
+2017,"Madera County, CA","05000US06039",0.15
+2016,"Marin County, CA","05000US06041",0.105
+2017,"Marin County, CA","05000US06041",0.1
+2015,"Marin County, CA","05000US06041",0.097
+2016,"Mariposa County","05000US06043",0.127
+2015,"Mariposa County","05000US06043",0.204
+2017,"Mariposa County","05000US06043",0.122
+2015,"Mendocino County","05000US06045",0.182
+2016,"Mendocino County","05000US06045",0.15
+2017,"Mendocino County","05000US06045",0.134
+2017,"Merced County, CA","05000US06047",0.153
+2015,"Merced County, CA","05000US06047",0.117
+2016,"Merced County, CA","05000US06047",0.156
+2015,"Modoc County","05000US06049",None
+2017,"Modoc County","05000US06049",0.14
+2016,"Modoc County","05000US06049",0.144
+2015,"Mono County","05000US06051",None
+2017,"Mono County","05000US06051",0.129
+2016,"Mono County","05000US06051",0.136
+2016,"Monterey County, CA","05000US06053",0.136
+2015,"Monterey County, CA","05000US06053",0.125
+2017,"Monterey County, CA","05000US06053",0.112
+2015,"Napa County, CA","05000US06055",0.085
+2016,"Napa County, CA","05000US06055",0.112
+2017,"Napa County, CA","05000US06055",0.117
+2016,"Nevada County, CA","05000US06057",0.117
+2015,"Nevada County, CA","05000US06057",0.141
+2017,"Nevada County, CA","05000US06057",0.12
+2016,"Orange County, CA","05000US06059",0.111
+2017,"Orange County, CA","05000US06059",0.103
+2015,"Orange County, CA","05000US06059",0.109
+2017,"Placer County, CA","05000US06061",0.101
+2015,"Placer County, CA","05000US06061",0.081
+2016,"Placer County, CA","05000US06061",0.114
+2017,"Plumas County","05000US06063",0.126
+2016,"Plumas County","05000US06063",0.133
+2015,"Plumas County","05000US06063",0.144
+2015,"Riverside County, CA","05000US06065",0.146
+2017,"Riverside County, CA","05000US06065",0.134
+2016,"Riverside County, CA","05000US06065",0.141
+2016,"Sacramento County, CA","05000US06067",0.15
+2017,"Sacramento County, CA","05000US06067",0.129
+2015,"Sacramento County, CA","05000US06067",0.146
+2017,"San Benito County","05000US06069",0.115
+2015,"San Benito County","05000US06069",None
+2016,"San Benito County","05000US06069",0.124
+2017,"San Bernardino County, CA","05000US06071",0.142
+2016,"San Bernardino County, CA","05000US06071",0.141
+2015,"San Bernardino County, CA","05000US06071",0.162
+2017,"San Diego County, CA","05000US06073",0.108
+2016,"San Diego County, CA","05000US06073",0.118
+2015,"San Diego County, CA","05000US06073",0.121
+2017,"San Francisco County, CA","05000US06075",0.099
+2015,"San Francisco County, CA","05000US06075",0.095
+2016,"San Francisco County, CA","05000US06075",0.115
+2015,"San Joaquin County, CA","05000US06077",0.164
+2017,"San Joaquin County, CA","05000US06077",0.132
+2016,"San Joaquin County, CA","05000US06077",0.139
+2016,"San Luis Obispo County, CA","05000US06079",0.124
+2017,"San Luis Obispo County, CA","05000US06079",0.119
+2015,"San Luis Obispo County, CA","05000US06079",0.091
+2017,"San Mateo County, CA","05000US06081",0.087
+2016,"San Mateo County, CA","05000US06081",0.093
+2015,"San Mateo County, CA","05000US06081",0.105
+2015,"Santa Barbara County, CA","05000US06083",0.105
+2016,"Santa Barbara County, CA","05000US06083",0.124
+2017,"Santa Barbara County, CA","05000US06083",0.115
+2017,"Santa Clara County, CA","05000US06085",0.084
+2016,"Santa Clara County, CA","05000US06085",0.09
+2015,"Santa Clara County, CA","05000US06085",0.103
+2016,"Santa Cruz County, CA","05000US06087",0.131
+2015,"Santa Cruz County, CA","05000US06087",0.101
+2017,"Santa Cruz County, CA","05000US06087",0.115
+2015,"Shasta County, CA","05000US06089",0.251
+2016,"Shasta County, CA","05000US06089",0.141
+2017,"Shasta County, CA","05000US06089",0.137
+2016,"Sierra County","05000US06091",0.125
+2017,"Sierra County","05000US06091",0.121
+2015,"Sierra County","05000US06091",None
+2017,"Siskiyou County","05000US06093",0.143
+2015,"Siskiyou County","05000US06093",0.238
+2016,"Siskiyou County","05000US06093",0.152
+2016,"Solano County, CA","05000US06095",0.124
+2017,"Solano County, CA","05000US06095",0.116
+2015,"Solano County, CA","05000US06095",0.135
+2015,"Sonoma County, CA","05000US06097",0.14
+2017,"Sonoma County, CA","05000US06097",0.116
+2016,"Sonoma County, CA","05000US06097",0.116
+2017,"Stanislaus County, CA","05000US06099",0.144
+2016,"Stanislaus County, CA","05000US06099",0.145
+2015,"Stanislaus County, CA","05000US06099",0.171
+2016,"Sutter County","05000US06101",0.134
+2015,"Sutter County","05000US06101",0.187
+2017,"Sutter County","05000US06101",0.124
+2017,"Tehama County","05000US06103",0.139
+2016,"Tehama County","05000US06103",0.152
+2015,"Tehama County","05000US06103",0.211
+2016,"Trinity County","05000US06105",0.149
+2017,"Trinity County","05000US06105",0.145
+2015,"Trinity County","05000US06105",0.234
+2017,"Tulare County, CA","05000US06107",0.144
+2016,"Tulare County, CA","05000US06107",0.154
+2015,"Tulare County, CA","05000US06107",0.145
+2016,"Tuolumne County","05000US06109",0.133
+2015,"Tuolumne County","05000US06109",0.191
+2017,"Tuolumne County","05000US06109",0.131
+2015,"Ventura County, CA","05000US06111",0.121
+2016,"Ventura County, CA","05000US06111",0.112
+2017,"Ventura County, CA","05000US06111",0.099
+2017,"Yolo County, CA","05000US06113",0.119
+2016,"Yolo County, CA","05000US06113",0.124
+2015,"Yolo County, CA","05000US06113",0.081
+2015,"Yuba County","05000US06115",0.172
+2016,"Yuba County","05000US06115",0.15
+2017,"Yuba County","05000US06115",0.154
