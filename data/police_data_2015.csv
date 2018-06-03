@@ -1,691 +1,691 @@
-﻿Year,Police Department,Officers per 10K Population,Officers,Total Employees per 10K Population,Total Employees,Police Department,Officers per 10K Population,Officers,Total Employees per 10K Population,Total Employees
-2015,"Lakeville, Minnesota",8.7,53,10.2,62,"Lakeville, Minnesota",8.7,53,10.2,62
-2015,"Laredo, Texas",17.9,460,21,537,"Laredo, Texas",17.9,460,21,537
-2015,"Jupiter, Florida",17.7,110,21.8,135,"Jupiter, Florida",17.7,110,21.8,135
-2015,"Canton Township, Michigan",9.3,83,13.3,119,"Canton Township, Michigan",9.3,83,13.3,119
-2015,"Casper, Wyoming",15.6,96,18.9,116,"Casper, Wyoming",15.6,96,18.9,116
-2015,"Temple, Texas",19.9,143,23.5,169,"Temple, Texas",19.9,143,23.5,169
-2015,"New Britain, Connecticut",21.6,157,22.8,166,"New Britain, Connecticut",21.6,157,22.8,166
-2015,"Clarkstown Town, New York",19.8,163,22.8,187,"Clarkstown Town, New York",19.8,163,22.8,187
-2015,"Shawnee, Kansas",12.6,82,15.5,101,"Shawnee, Kansas",12.6,82,15.5,101
-2015,"Hayward, California",11.1,174,18.3,288,"Hayward, California",11.1,174,18.3,288
-2015,"Sterling Heights, Michigan",11.5,152,13.2,175,"Sterling Heights, Michigan",11.5,152,13.2,175
-2015,"Pawtucket, Rhode Island",19.3,138,23.7,170,"Pawtucket, Rhode Island",19.3,138,23.7,170
-2015,"Eau Claire, Wisconsin",14,95,19.5,133,"Eau Claire, Wisconsin",14,95,19.5,133
-2015,"Visalia, California",10.6,138,15.5,202,"Visalia, California",10.6,138,15.5,202
-2015,"Orange, California",10.7,150,14.4,203,"Orange, California",10.7,150,14.4,203
-2015,"Hollywood, Florida",21,314,30,449,"Hollywood, Florida",21,314,30,449
-2015,"Springfield, Missouri",19.5,325,23.7,395,"Springfield, Missouri",19.5,325,23.7,395
-2015,"Kansas City, Missouri",28.7,"1,360",38.5,"1,824","Kansas City, Missouri",28.7,"1,360",38.5,"1,824"
-2015,"Wayne Township, New Jersey",20.7,114,26.3,145,"Wayne Township, New Jersey",20.7,114,26.3,145
-2015,"Cathedral City, California",8.5,46,12.4,67,"Cathedral City, California",8.5,46,12.4,67
-2015,"Columbia, South Carolina",26.6,352,32.8,434,"Columbia, South Carolina",26.6,352,32.8,434
-2015,"St. Peters, Missouri",15.8,90,20.2,115,"St. Peters, Missouri",15.8,90,20.2,115
-2015,"Boise, Idaho",12.6,275,16.5,361,"Boise, Idaho",12.6,275,16.5,361
-2015,"Iowa City, Iowa",11,82,13.9,104,"Iowa City, Iowa",11,82,13.9,104
-2015,"Framingham, Massachusetts",17.5,125,19.5,139,"Framingham, Massachusetts",17.5,125,19.5,139
-2015,"Plymouth, Massachusetts",18.4,108,21,123,"Plymouth, Massachusetts",18.4,108,21,123
-2015,"Bellevue, Nebraska",17.6,96,20.1,110,"Bellevue, Nebraska",17.6,96,20.1,110
-2015,"Boston, Massachusetts",32.2,"2,139",40.4,"2,689","Boston, Massachusetts",32.2,"2,139",40.4,"2,689"
-2015,"Hanford, California",9.9,55,14.6,81,"Hanford, California",9.9,55,14.6,81
-2015,"Monterey Park, California",11.2,69,15.5,96,"Monterey Park, California",11.2,69,15.5,96
-2015,"Novi, Michigan",10.5,62,14,83,"Novi, Michigan",10.5,62,14,83
-2015,"Glendale, California",11.7,236,16.8,339,"Glendale, California",11.7,236,16.8,339
-2015,"Escondido, California",9.8,148,13,198,"Escondido, California",9.8,148,13,198
-2015,"Kenosha, Wisconsin",20.3,203,21.5,215,"Kenosha, Wisconsin",20.3,203,21.5,215
-2015,"Medford, Massachusetts",18.2,105,18.7,108,"Medford, Massachusetts",18.2,105,18.7,108
-2015,"Marietta, Georgia",22,134,27.9,170,"Marietta, Georgia",22,134,27.9,170
-2015,"Pocatello, Idaho",16.4,89,23.9,130,"Pocatello, Idaho",16.4,89,23.9,130
-2015,"Minneapolis, Minnesota",20.1,831,24.5,"1,014","Minneapolis, Minnesota",20.1,831,24.5,"1,014"
-2015,"Alpharetta, Georgia",16.9,109,21.7,140,"Alpharetta, Georgia",16.9,109,21.7,140
-2015,"Cicero, Illinois",18.4,155,21.5,181,"Cicero, Illinois",18.4,155,21.5,181
-2015,"Normal, Illinois",14.7,81,16.7,92,"Normal, Illinois",14.7,81,16.7,92
-2015,"Mount Vernon, New York",28.4,195,39.3,270,"Mount Vernon, New York",28.4,195,39.3,270
-2015,"Shelby Township, Michigan",7.7,60,10.2,79,"Shelby Township, Michigan",7.7,60,10.2,79
-2015,"Athens-Clarke County, Georgia",18.9,229,24.2,292,"Athens-Clarke County, Georgia",18.9,229,24.2,292
-2015,"Palm Beach Gardens, Florida",20.5,108,29.9,158,"Palm Beach Gardens, Florida",20.5,108,29.9,158
-2015,"Pembroke Pines, Florida",14.7,246,19.7,330,"Pembroke Pines, Florida",14.7,246,19.7,330
-2015,"Santa Clara, California",11.6,143,16.2,200,"Santa Clara, California",11.6,143,16.2,200
-2015,"Franklin, Tennessee",16.9,123,20.5,149,"Franklin, Tennessee",16.9,123,20.5,149
-2015,"Mesa, Arizona",16.8,789,25.3,"1,192","Mesa, Arizona",16.8,789,25.3,"1,192"
-2015,"Manchester, Connecticut",18.6,108,23.8,138,"Manchester, Connecticut",18.6,108,23.8,138
-2015,"Pasadena, California",15.6,221,23.5,333,"Pasadena, California",15.6,221,23.5,333
-2015,"Fullerton, California",9.9,140,14.4,203,"Fullerton, California",9.9,140,14.4,203
-2015,"Medford, Oregon",12.5,99,17,135,"Medford, Oregon",12.5,99,17,135
-2015,"Seattle, Washington",19.7,"1,350",28.1,"1,919","Seattle, Washington",19.7,"1,350",28.1,"1,919"
-2015,"Missouri City, Texas",12.9,94,18,131,"Missouri City, Texas",12.9,94,18,131
-2015,"Cape Coral, Florida",12.8,223,17.7,308,"Cape Coral, Florida",12.8,223,17.7,308
-2015,"Ann Arbor, Michigan",9.9,117,12,143,"Ann Arbor, Michigan",9.9,117,12,143
-2015,"Grand Junction, Colorado",18.3,111,33.7,204,"Grand Junction, Colorado",18.3,111,33.7,204
-2015,"Great Falls, Montana",14.3,85,21.6,128,"Great Falls, Montana",14.3,85,21.6,128
-2015,"Lakewood, Ohio",18.6,94,22.9,116,"Lakewood, Ohio",18.6,94,22.9,116
-2015,"Scranton, Pennsylvania",20,150,22.6,170,"Scranton, Pennsylvania",20,150,22.6,170
-2015,"Warwick, Rhode Island",20.2,165,26.4,216,"Warwick, Rhode Island",20.2,165,26.4,216
-2015,"North Charleston, South Carolina",29.3,320,36.2,395,"North Charleston, South Carolina",29.3,320,36.2,395
-2015,"Trenton, New Jersey",28.6,239,37.7,315,"Trenton, New Jersey",28.6,239,37.7,315
-2015,"Dearborn Heights, Michigan",14.6,82,17.6,99,"Dearborn Heights, Michigan",14.6,82,17.6,99
-2015,"Pomona, California",10,154,16.4,253,"Pomona, California",10,154,16.4,253
-2015,"St. Petersburg, Florida",20.6,528,28.7,735,"St. Petersburg, Florida",20.6,528,28.7,735
-2015,"New York, New York",41.4,"35,395",58.9,"50,366","New York, New York",41.4,"35,395",58.9,"50,366"
-2015,"El Paso, Texas",14.7,"1,010",18.4,"1,264","El Paso, Texas",14.7,"1,010",18.4,"1,264"
-2015,"Coon Rapids, Minnesota",9.8,61,11.1,69,"Coon Rapids, Minnesota",9.8,61,11.1,69
-2015,"Anaheim, California",11.4,399,16.5,577,"Anaheim, California",11.4,399,16.5,577
-2015,"El Cajon, California",11.4,118,17.4,181,"El Cajon, California",11.4,118,17.4,181
-2015,"Waltham, Massachusetts",22.3,142,26.7,170,"Waltham, Massachusetts",22.3,142,26.7,170
-2015,"Tyler, Texas",18.1,186,22.8,234,"Tyler, Texas",18.1,186,22.8,234
-2015,"Terre Haute, Indiana",21.6,132,23.1,141,"Terre Haute, Indiana",21.6,132,23.1,141
-2015,"Vineland, New Jersey",21.2,130,25.5,156,"Vineland, New Jersey",21.2,130,25.5,156
-2015,"Downey, California",9.5,109,12.8,147,"Downey, California",9.5,109,12.8,147
-2015,"La Crosse, Wisconsin",17.3,91,20.3,107,"La Crosse, Wisconsin",17.3,91,20.3,107
-2015,"Hoover, Alabama",18.7,159,25.7,219,"Hoover, Alabama",18.7,159,25.7,219
-2015,"Portland, Oregon",14.5,908,18.3,"1,150","Portland, Oregon",14.5,908,18.3,"1,150"
-2015,"Tucson, Arizona",17.6,932,23.1,"1,222","Tucson, Arizona",17.6,932,23.1,"1,222"
-2015,"Santa Ana, California",9,302,15.6,527,"Santa Ana, California",9,302,15.6,527
-2015,"Gilbert, Arizona",9.1,225,13.6,336,"Gilbert, Arizona",9.1,225,13.6,336
-2015,"Council Bluffs, Iowa",17.7,110,20.9,130,"Council Bluffs, Iowa",17.7,110,20.9,130
-2015,Las Vegas Metropolitan Police,20.9,"3,264",30.9,"4,825",Las Vegas Metropolitan Police,20.9,"3,264",30.9,"4,825"
-2015,"Kirkland, Washington",10.9,95,15.1,131,"Kirkland, Washington",10.9,95,15.1,131
-2015,"Federal Way, Washington",13.1,124,16.2,153,"Federal Way, Washington",13.1,124,16.2,153
-2015,"Norman, Oklahoma",14.4,172,19.1,229,"Norman, Oklahoma",14.4,172,19.1,229
-2015,"Baytown, Texas",20.2,156,27,208,"Baytown, Texas",20.2,156,27,208
-2015,"Harrisonburg, Virginia",17.3,92,21.2,113,"Harrisonburg, Virginia",17.3,92,21.2,113
-2015,"Chico, California",9.8,88,15,135,"Chico, California",9.8,88,15,135
-2015,"West Haven, Connecticut",22.5,123,24.5,134,"West Haven, Connecticut",22.5,123,24.5,134
-2015,"Concord, California",11.8,152,16,206,"Concord, California",11.8,152,16,206
-2015,"Rio Rancho, New Mexico",26.3,251,47.2,450,"Rio Rancho, New Mexico",26.3,251,47.2,450
-2015,"Yuba City, California",8.2,54,11.8,78,"Yuba City, California",8.2,54,11.8,78
-2015,"Santa Cruz, California",14.2,91,17.3,111,"Santa Cruz, California",14.2,91,17.3,111
-2015,"Stamford, Connecticut",21.6,280,25.8,334,"Stamford, Connecticut",21.6,280,25.8,334
-2015,"Smyrna, Georgia",15.9,89,24.2,135,"Smyrna, Georgia",15.9,89,24.2,135
-2015,"Gainesville, Florida",22,285,26.6,344,"Gainesville, Florida",22,285,26.6,344
-2015,"Riverside, California",11.4,368,15.9,515,"Riverside, California",11.4,368,15.9,515
-2015,"Tonawanda Town, New York",17.8,103,25.9,150,"Tonawanda Town, New York",17.8,103,25.9,150
-2015,"Plano, Texas",12.3,348,20.1,570,"Plano, Texas",12.3,348,20.1,570
-2015,"Vancouver, Washington",10.9,187,12.2,208,"Vancouver, Washington",10.9,187,12.2,208
-2015,"South San Francisco, California",11.9,81,16.2,110,"South San Francisco, California",11.9,81,16.2,110
-2015,"Woodbridge Township, New Jersey",19.1,193,25.3,255,"Woodbridge Township, New Jersey",19.1,193,25.3,255
-2015,"Gardena, California",15.1,92,19.2,117,"Gardena, California",15.1,92,19.2,117
-2015,"San Diego, California",13.5,"1,887",18.2,"2,545","San Diego, California",13.5,"1,887",18.2,"2,545"
-2015,"Joplin, Missouri",20.4,105,29.4,151,"Joplin, Missouri",20.4,105,29.4,151
-2015,"Tuscaloosa, Alabama",28.4,277,36.2,353,"Tuscaloosa, Alabama",28.4,277,36.2,353
-2015,"State College, Pennsylvania",10.7,62,12.5,72,"State College, Pennsylvania",10.7,62,12.5,72
-2015,"Lawrence, Massachusetts",16.1,127,18.6,146,"Lawrence, Massachusetts",16.1,127,18.6,146
-2015,"Tempe, Arizona",20.2,354,27.9,490,"Tempe, Arizona",20.2,354,27.9,490
-2015,"Millcreek Township, Erie County, Pennsylvania",11.5,62,13.9,75,"Millcreek Township, Erie County, Pennsylvania",11.5,62,13.9,75
-2015,"Long Beach, California",16.2,771,23.6,"1,123","Long Beach, California",16.2,771,23.6,"1,123"
-2015,"Doral, Florida",21.6,122,28.9,163,"Doral, Florida",21.6,122,28.9,163
-2015,"Vallejo, California",8.9,108,12,145,"Vallejo, California",8.9,108,12,145
-2015,"Westminster, California",9.3,86,12.8,119,"Westminster, California",9.3,86,12.8,119
-2015,"Palm Bay, Florida",13.7,146,20.5,218,"Palm Bay, Florida",13.7,146,20.5,218
-2015,"Boulder, Colorado",16.6,177,25.4,271,"Boulder, Colorado",16.6,177,25.4,271
-2015,"Jackson, Tennessee",31.7,214,38.3,258,"Jackson, Tennessee",31.7,214,38.3,258
-2015,"Newton, Massachusetts",15.5,138,20.2,180,"Newton, Massachusetts",15.5,138,20.2,180
-2015,"Antioch, California",8.2,91,10.4,115,"Antioch, California",8.2,91,10.4,115
-2015,"Midwest City, Oklahoma",16.1,93,21.5,124,"Midwest City, Oklahoma",16.1,93,21.5,124
-2015,"Edina, Minnesota",10.2,51,14.2,71,"Edina, Minnesota",10.2,51,14.2,71
-2015,"North Bergen Township, New Jersey",18.6,117,20.2,127,"North Bergen Township, New Jersey",18.6,117,20.2,127
-2015,"Lansing, Michigan",15.5,178,17.8,204,"Lansing, Michigan",15.5,178,17.8,204
-2015,Charlotte-Mecklenburg Police,21,"1,840",26.5,"2,329",Charlotte-Mecklenburg Police,21,"1,840",26.5,"2,329"
-2015,"Bristol, Connecticut",19.6,119,23.9,145,"Bristol, Connecticut",19.6,119,23.9,145
-2015,"Middletown Township, New Jersey",15.6,103,19.3,127,"Middletown Township, New Jersey",15.6,103,19.3,127
-2015,"Victoria, Texas",16.4,110,21.5,144,"Victoria, Texas",16.4,110,21.5,144
-2015,"Cranston, Rhode Island",18.1,147,21.7,176,"Cranston, Rhode Island",18.1,147,21.7,176
-2015,"Modesto, California",10.2,216,14,295,"Modesto, California",10.2,216,14,295
-2015,"Thornton, Colorado",11.8,157,17.6,235,"Thornton, Colorado",11.8,157,17.6,235
-2015,"Commerce City, Colorado",17.3,92,21.6,115,"Commerce City, Colorado",17.3,92,21.6,115
-2015,"Billings, Montana",12.3,135,14.6,161,"Billings, Montana",12.3,135,14.6,161
-2015,"Idaho Falls, Idaho",13.7,81,20.6,122,"Idaho Falls, Idaho",13.7,81,20.6,122
-2015,"Waterford Township, Michigan",7.1,52,9,66,"Waterford Township, Michigan",7.1,52,9,66
-2015,"Brooklyn Park, Minnesota",13.3,106,17.2,137,"Brooklyn Park, Minnesota",13.3,106,17.2,137
-2015,"Folsom, California",8.8,67,11.7,89,"Folsom, California",8.8,67,11.7,89
-2015,"Pleasanton, California",9.9,79,13.9,111,"Pleasanton, California",9.9,79,13.9,111
-2015,"San Angelo, Texas",15.5,156,18.5,186,"San Angelo, Texas",15.5,156,18.5,186
-2015,"Auburn, Alabama",16.9,105,17.9,111,"Auburn, Alabama",16.9,105,17.9,111
-2015,"Chandler, Arizona",13.3,345,19.6,508,"Chandler, Arizona",13.3,345,19.6,508
-2015,"Goodyear, Arizona",11.7,92,16.1,126,"Goodyear, Arizona",11.7,92,16.1,126
-2015,"Raleigh, North Carolina",17,761,19.1,856,"Raleigh, North Carolina",17,761,19.1,856
-2015,"Vacaville, California",9.9,96,15.4,149,"Vacaville, California",9.9,96,15.4,149
-2015,"Clovis, California",9.3,96,14.9,155,"Clovis, California",9.3,96,14.9,155
-2015,"Newark, New Jersey",36.8,"1,033",42.8,"1,203","Newark, New Jersey",36.8,"1,033",42.8,"1,203"
-2015,"Sugar Land, Texas",16.9,150,19.4,172,"Sugar Land, Texas",16.9,150,19.4,172
-2015,"Ames, Iowa",8.1,52,11.5,74,"Ames, Iowa",8.1,52,11.5,74
-2015,"Alexandria, Virginia",20,306,26.3,401,"Alexandria, Virginia",20,306,26.3,401
-2015,"Lancaster, Pennsylvania",23.9,142,27.2,161,"Lancaster, Pennsylvania",23.9,142,27.2,161
-2015,"Bend, Oregon",10,86,13.1,113,"Bend, Oregon",10,86,13.1,113
-2015,"Longmont, Colorado",15,137,22.3,203,"Longmont, Colorado",15,137,22.3,203
-2015,"Hamden, Connecticut",17.4,107,21.5,132,"Hamden, Connecticut",17.4,107,21.5,132
-2015,"Irvington, New Jersey",27.9,152,32.4,177,"Irvington, New Jersey",27.9,152,32.4,177
-2015,"Lake Havasu City, Arizona",13.3,71,20.3,108,"Lake Havasu City, Arizona",13.3,71,20.3,108
-2015,"Chino, California",12.2,105,18,155,"Chino, California",12.2,105,18,155
-2015,"Arlington Heights, Illinois",13.4,102,17.2,131,"Arlington Heights, Illinois",13.4,102,17.2,131
-2015,"Broomfield, Colorado",16.1,103,30,192,"Broomfield, Colorado",16.1,103,30,192
-2015,"Houston, Texas",22.8,"5,178",28.9,"6,577","Houston, Texas",22.8,"5,178",28.9,"6,577"
-2015,"Hillsboro, Oregon",12.6,128,17,172,"Hillsboro, Oregon",12.6,128,17,172
-2015,Nashville Metropolitan Police,21.3,"1,404",26.5,"1,742",Nashville Metropolitan Police,21.3,"1,404",26.5,"1,742"
-2015,"Jacksonville, North Carolina",16.6,114,21.1,145,"Jacksonville, North Carolina",16.6,114,21.1,145
-2015,"Concord, North Carolina",18.9,165,22,192,"Concord, North Carolina",18.9,165,22,192
-2015,"Suffolk, Virginia",20.9,182,26.9,234,"Suffolk, Virginia",20.9,182,26.9,234
-2015,"Delano, California",9.7,51,12.9,68,"Delano, California",9.7,51,12.9,68
-2015,"Port Arthur, Texas",23.3,127,29.5,161,"Port Arthur, Texas",23.3,127,29.5,161
-2015,"Redmond, Washington",13,79,20.5,124,"Redmond, Washington",13,79,20.5,124
-2015,"Boynton Beach, Florida",19.5,145,27.6,205,"Boynton Beach, Florida",19.5,145,27.6,205
-2015,"Kettering, Ohio",14.9,83,19.8,110,"Kettering, Ohio",14.9,83,19.8,110
-2015,"Torrance, California",14.2,212,21,314,"Torrance, California",14.2,212,21,314
-2015,"Portsmouth, Virginia",25.1,241,34.1,327,"Portsmouth, Virginia",25.1,241,34.1,327
-2015,"Little Rock, Arkansas",26.8,532,32.5,646,"Little Rock, Arkansas",26.8,532,32.5,646
-2015,"Gloucester Township, New Jersey",19.9,127,23.5,150,"Gloucester Township, New Jersey",19.9,127,23.5,150
-2015,"Alameda, California",10.6,83,14.2,112,"Alameda, California",10.6,83,14.2,112
-2015,"West Palm Beach, Florida",26.3,276,34.9,366,"West Palm Beach, Florida",26.3,276,34.9,366
-2015,"Richland, Washington",11.3,61,14,76,"Richland, Washington",11.3,61,14,76
-2015,"Santa Monica, California",21.6,203,39.8,373,"Santa Monica, California",21.6,203,39.8,373
-2015,"Dallas, Texas",26.8,"3,484",31,"4,040","Dallas, Texas",26.8,"3,484",31,"4,040"
-2015,"Fayetteville, North Carolina",18.4,377,28.3,579,"Fayetteville, North Carolina",18.4,377,28.3,579
-2015,"Blue Springs, Missouri",17.8,96,25.5,137,"Blue Springs, Missouri",17.8,96,25.5,137
-2015,"Sacramento, California",13.2,646,19.4,949,"Sacramento, California",13.2,646,19.4,949
-2015,"Indianapolis, Indiana",18.3,"1,578",20.6,"1,776","Indianapolis, Indiana",18.3,"1,578",20.6,"1,776"
-2015,"McAllen, Texas",18.9,266,28.7,403,"McAllen, Texas",18.9,266,28.7,403
-2015,"Yuma, Arizona",17.6,165,27.8,261,"Yuma, Arizona",17.6,165,27.8,261
-2015,"Milwaukee, Wisconsin",31.4,"1,886",41.9,"2,518","Milwaukee, Wisconsin",31.4,"1,886",41.9,"2,518"
-2015,"Flagstaff, Arizona",16.4,114,23.6,164,"Flagstaff, Arizona",16.4,114,23.6,164
-2015,"Ogden, Utah",15.1,128,18.8,159,"Ogden, Utah",15.1,128,18.8,159
-2015,"Albany, New York",33.9,335,43.8,433,"Albany, New York",33.9,335,43.8,433
-2015,"Layton, Utah",10.5,77,14.6,107,"Layton, Utah",10.5,77,14.6,107
-2015,"Chapel Hill, North Carolina",17.2,103,20.5,123,"Chapel Hill, North Carolina",17.2,103,20.5,123
-2015,"Yakima, Washington",14.8,139,19.6,184,"Yakima, Washington",14.8,139,19.6,184
-2015,"Syracuse, New York",28.7,414,33.5,482,"Syracuse, New York",28.7,414,33.5,482
-2015,"Piscataway Township, New Jersey",14.1,84,17.3,103,"Piscataway Township, New Jersey",14.1,84,17.3,103
-2015,"Springfield, Ohio",20.7,124,23.1,138,"Springfield, Ohio",20.7,124,23.1,138
-2015,"Charleston, West Virginia",32.5,163,37.3,187,"Charleston, West Virginia",32.5,163,37.3,187
-2015,"Shoreline, Washington",9.2,51,12.4,69,"Shoreline, Washington",9.2,51,12.4,69
-2015,"Des Plaines, Illinois",15.4,91,18.6,110,"Des Plaines, Illinois",15.4,91,18.6,110
-2015,"Bowie, Maryland",10.5,61,11.5,67,"Bowie, Maryland",10.5,61,11.5,67
-2015,"Buena Park, California",9.9,83,14.2,119,"Buena Park, California",9.9,83,14.2,119
-2015,"Perth Amboy, New Jersey",20.9,110,25.9,136,"Perth Amboy, New Jersey",20.9,110,25.9,136
-2015,"Margate, Florida",18.9,107,25,142,"Margate, Florida",18.9,107,25,142
-2015,"Daly City, California",10.4,112,14.1,151,"Daly City, California",10.4,112,14.1,151
-2015,"Fountain Valley, California",10.5,60,13.8,79,"Fountain Valley, California",10.5,60,13.8,79
-2015,"Old Bridge Township, New Jersey",12.8,86,16.3,110,"Old Bridge Township, New Jersey",12.8,86,16.3,110
-2015,"Phoenix, Arizona",17.8,"2,781",23.7,"3,698","Phoenix, Arizona",17.8,"2,781",23.7,"3,698"
-2015,"High Point, North Carolina",20.6,226,24.9,273,"High Point, North Carolina",20.6,226,24.9,273
-2015,"Haverhill, Massachusetts",13.8,87,15.9,100,"Haverhill, Massachusetts",13.8,87,15.9,100
-2015,"Avondale, Arizona",13.4,108,19.2,155,"Avondale, Arizona",13.4,108,19.2,155
-2015,"Spokane Valley, Washington",11.1,102,11.2,103,"Spokane Valley, Washington",11.1,102,11.2,103
-2015,"Johns Creek, Georgia",7.6,64,8.5,72,"Johns Creek, Georgia",7.6,64,8.5,72
-2015,"Olathe, Kansas",12.2,165,14.2,191,"Olathe, Kansas",12.2,165,14.2,191
-2015,"Weymouth, Massachusetts",16.2,91,19.2,108,"Weymouth, Massachusetts",16.2,91,19.2,108
-2015,"Anderson, Indiana",19.7,109,22.8,126,"Anderson, Indiana",19.7,109,22.8,126
-2015,"Walnut Creek, California",11.8,81,16.2,111,"Walnut Creek, California",11.8,81,16.2,111
-2015,"Bloomington, Illinois",14.6,116,19.1,151,"Bloomington, Illinois",14.6,116,19.1,151
-2015,"Oceanside, California",11.7,206,15.7,276,"Oceanside, California",11.7,206,15.7,276
-2015,"Garland, Texas",14.2,338,19.6,465,"Garland, Texas",14.2,338,19.6,465
-2015,"Fishers, Indiana",11.4,101,12.6,112,"Fishers, Indiana",11.4,101,12.6,112
-2015,"Shreveport, Louisiana",26,514,35.4,699,"Shreveport, Louisiana",26,514,35.4,699
-2015,"Hemet, California",7.7,65,10.6,89,"Hemet, California",7.7,65,10.6,89
-2015,"Green Bay, Wisconsin",17.9,188,21.6,227,"Green Bay, Wisconsin",17.9,188,21.6,227
-2015,"Frisco, Texas",10.5,161,15.1,231,"Frisco, Texas",10.5,161,15.1,231
-2015,"Dubuque, Iowa",17.9,105,18.9,111,"Dubuque, Iowa",17.9,105,18.9,111
-2015,"Rocky Mount, North Carolina",28.2,158,35.5,199,"Rocky Mount, North Carolina",28.2,158,35.5,199
-2015,"Malden, Massachusetts",16.8,103,18.8,115,"Malden, Massachusetts",16.8,103,18.8,115
-2015,"Yonkers, New York",30.7,620,34.8,702,"Yonkers, New York",30.7,620,34.8,702
-2015,"Oxnard, California",11.4,237,17.3,358,"Oxnard, California",11.4,237,17.3,358
-2015,"Clifton, New Jersey",17.3,149,20.9,180,"Clifton, New Jersey",17.3,149,20.9,180
-2015,"West Hartford, Connecticut",19.9,126,23.1,146,"West Hartford, Connecticut",19.9,126,23.1,146
-2015,"Georgetown, Texas",12.2,76,18.6,116,"Georgetown, Texas",12.2,76,18.6,116
-2015,"Gilroy, California",11.4,61,17,91,"Gilroy, California",11.4,61,17,91
-2015,"Wheaton, Illinois",11.7,63,14.7,79,"Wheaton, Illinois",11.7,63,14.7,79
-2015,"North Las Vegas, Nevada",11.5,270,17.4,409,"North Las Vegas, Nevada",11.5,270,17.4,409
-2015,"Pharr, Texas",15.8,121,22.1,169,"Pharr, Texas",15.8,121,22.1,169
-2015,"Lee's Summit, Missouri",14.5,137,20.3,192,"Lee's Summit, Missouri",14.5,137,20.3,192
-2015,"Conroe, Texas",17.2,117,23.6,161,"Conroe, Texas",17.2,117,23.6,161
-2015,"Edmond, Oklahoma",13.5,122,17.4,157,"Edmond, Oklahoma",13.5,122,17.4,157
-2015,"Killeen, Texas",18.6,261,24.5,344,"Killeen, Texas",18.6,261,24.5,344
-2015,"Bethlehem, Pennsylvania",20.5,154,23.8,179,"Bethlehem, Pennsylvania",20.5,154,23.8,179
-2015,"Birmingham, Alabama",39.5,838,51.9,"1,102","Birmingham, Alabama",39.5,838,51.9,"1,102"
-2015,"San Ramon, California",8.5,65,10.6,81,"San Ramon, California",8.5,65,10.6,81
-2015,"North Port, Florida",15.2,93,19.5,119,"North Port, Florida",15.2,93,19.5,119
-2015,"Huntsville, Alabama",21.2,403,29.3,557,"Huntsville, Alabama",21.2,403,29.3,557
-2015,"Hempstead Village, New York",23.4,131,27.7,155,"Hempstead Village, New York",23.4,131,27.7,155
-2015,"Orlando, Florida",26,697,33.6,903,"Orlando, Florida",26,697,33.6,903
-2015,"Simi Valley, California",9.6,122,14,178,"Simi Valley, California",9.6,122,14,178
-2015,"Union City, New Jersey",24.2,167,29.2,202,"Union City, New Jersey",24.2,167,29.2,202
-2015,"Corpus Christi, Texas",13.7,445,20,649,"Corpus Christi, Texas",13.7,445,20,649
-2015,"Fort Worth, Texas",18.8,"1,557",24.1,"2,000","Fort Worth, Texas",18.8,"1,557",24.1,"2,000"
-2015,"Winston-Salem, North Carolina",23,556,29.9,723,"Winston-Salem, North Carolina",23,556,29.9,723
-2015,"Huntington Beach, California",10.3,210,16.2,330,"Huntington Beach, California",10.3,210,16.2,330
-2015,"Manteca, California",8,60,11.2,84,"Manteca, California",8,60,11.2,84
-2015,"Asheville, North Carolina",22.6,201,27.8,247,"Asheville, North Carolina",22.6,201,27.8,247
-2015,"San Antonio, Texas",15,"2,191",18.5,"2,708","San Antonio, Texas",15,"2,191",18.5,"2,708"
-2015,"Taunton, Massachusetts",19.7,112,20.8,118,"Taunton, Massachusetts",19.7,112,20.8,118
-2015,"Peoria, Arizona",11,187,16.6,283,"Peoria, Arizona",11,187,16.6,283
-2015,"Caldwell, Idaho",12.1,62,14.8,76,"Caldwell, Idaho",12.1,62,14.8,76
-2015,"Tacoma, Washington",16.2,336,18,372,"Tacoma, Washington",16.2,336,18,372
-2015,"Ventura, California",11.4,126,15,165,"Ventura, California",11.4,126,15,165
-2015,"Topeka, Kansas",22.4,285,26.1,332,"Topeka, Kansas",22.4,285,26.1,332
-2015,"St. Paul, Minnesota",19.9,597,26.3,790,"St. Paul, Minnesota",19.9,597,26.3,790
-2015,"Jacksonville, Florida",18.5,"1,603",34.3,"2,973","Jacksonville, Florida",18.5,"1,603",34.3,"2,973"
-2015,"Cambridge, Massachusetts",25.3,281,28.5,316,"Cambridge, Massachusetts",25.3,281,28.5,316
-2015,"Des Moines, Iowa",17.1,360,21.8,459,"Des Moines, Iowa",17.1,360,21.8,459
-2015,"Erie, Pennsylvania",17.5,173,19.7,195,"Erie, Pennsylvania",17.5,173,19.7,195
-2015,"Elizabeth, New Jersey",22.9,296,30.5,395,"Elizabeth, New Jersey",22.9,296,30.5,395
-2015,"Bensalem Township, Pennsylvania",16.4,99,20.2,122,"Bensalem Township, Pennsylvania",16.4,99,20.2,122
-2015,"Milpitas, California",11.3,85,14.4,109,"Milpitas, California",11.3,85,14.4,109
-2015,"Pinellas Park, Florida",19.5,100,23,118,"Pinellas Park, Florida",19.5,100,23,118
-2015,"West Allis, Wisconsin",21.8,132,25.9,157,"West Allis, Wisconsin",21.8,132,25.9,157
-2015,"Los Angeles, California",24.9,"9,863",32,"12,665","Los Angeles, California",24.9,"9,863",32,"12,665"
-2015,"Richardson, Texas",13.9,154,22,244,"Richardson, Texas",13.9,154,22,244
-2015,"Baltimore, Maryland",42.6,"2,646",47.6,"2,960","Baltimore, Maryland",42.6,"2,646",47.6,"2,960"
-2015,"Hoboken, New Jersey",24.4,132,27.8,150,"Hoboken, New Jersey",24.4,132,27.8,150
-2015,"Kent, Washington",11,140,14.9,190,"Kent, Washington",11,140,14.9,190
-2015,"Fremont, California",7.7,180,12,280,"Fremont, California",7.7,180,12,280
-2015,"Fairfield, Connecticut",17.2,106,18.1,112,"Fairfield, Connecticut",17.2,106,18.1,112
-2015,"West Valley, Utah",13.3,181,16.1,219,"West Valley, Utah",13.3,181,16.1,219
-2015,"Greensboro, North Carolina",23.5,671,27.3,781,"Greensboro, North Carolina",23.5,671,27.3,781
-2015,"Ankeny, Iowa",9.8,55,11.3,63,"Ankeny, Iowa",9.8,55,11.3,63
-2015,"Somerville, Massachusetts",16.2,129,20.3,162,"Somerville, Massachusetts",16.2,129,20.3,162
-2015,"Parma, Ohio",12.2,97,19,151,"Parma, Ohio",12.2,97,19,151
-2015,"Sandy Springs, Georgia",12,125,13.6,141,"Sandy Springs, Georgia",12,125,13.6,141
-2015,"Pearland, Texas",13.7,146,16.8,179,"Pearland, Texas",13.7,146,16.8,179
-2015,"Carrollton, Texas",12.2,159,15.2,199,"Carrollton, Texas",12.2,159,15.2,199
-2015,"Renton, Washington",11.9,119,15,150,"Renton, Washington",11.9,119,15,150
-2015,"Stockton, California",12.8,389,18.7,571,"Stockton, California",12.8,389,18.7,571
-2015,"Ontario, California",13.7,234,18.9,321,"Ontario, California",13.7,234,18.9,321
-2015,"McKinney, Texas",10.8,176,13.6,222,"McKinney, Texas",10.8,176,13.6,222
-2015,"Lowell, Massachusetts",21.6,239,28.5,316,"Lowell, Massachusetts",21.6,239,28.5,316
-2015,"Lauderhill, Florida",13.8,99,16.1,115,"Lauderhill, Florida",13.8,99,16.1,115
-2015,"Rialto, California",10.1,105,13.4,139,"Rialto, California",10.1,105,13.4,139
-2015,"Provo, Utah",9,104,13.3,153,"Provo, Utah",9,104,13.3,153
-2015,"Akron, Ohio",22.5,445,24.5,484,"Akron, Ohio",22.5,445,24.5,484
-2015,"Berkeley, California",14.3,172,21.6,260,"Berkeley, California",14.3,172,21.6,260
-2015,"Indio, California",7.1,62,11.5,100,"Indio, California",7.1,62,11.5,100
-2015,"New Bedford, Massachusetts",27.3,259,31.7,301,"New Bedford, Massachusetts",27.3,259,31.7,301
-2015,"Columbia, Missouri",13.2,157,16.1,191,"Columbia, Missouri",13.2,157,16.1,191
-2015,"Rogers, Arkansas",16.2,102,22.8,143,"Rogers, Arkansas",16.2,102,22.8,143
-2015,"Rochester, Minnesota",11.9,134,16.3,184,"Rochester, Minnesota",11.9,134,16.3,184
-2015,"Union City, California",9.8,73,13,97,"Union City, California",9.8,73,13,97
-2015,"Salt Lake City, Utah",22.6,433,27.6,530,"Salt Lake City, Utah",22.6,433,27.6,530
-2015,"Savannah-Chatham Metropolitan, Georgia",22.9,551,32,768,"Savannah-Chatham Metropolitan, Georgia",22.9,551,32,768
-2015,"Champaign, Illinois",14.5,124,17.2,147,"Champaign, Illinois",14.5,124,17.2,147
-2015,"Santa Rosa, California",9.3,163,13.7,241,"Santa Rosa, California",9.3,163,13.7,241
-2015,"Novato, California",10.2,57,14.5,81,"Novato, California",10.2,57,14.5,81
-2015,"Waukesha, Wisconsin",16.5,118,21.2,152,"Waukesha, Wisconsin",16.5,118,21.2,152
-2015,"Florissant, Missouri",16.6,87,20.8,109,"Florissant, Missouri",16.6,87,20.8,109
-2015,"Sunnyvale, California",14,214,18.6,284,"Sunnyvale, California",14,214,18.6,284
-2015,"Springfield, Massachusetts",29.6,456,36.1,556,"Springfield, Massachusetts",29.6,456,36.1,556
-2015,"Lakeland, Florida",21.4,221,32.1,332,"Lakeland, Florida",21.4,221,32.1,332
-2015,"Troy, Michigan",12,100,17.9,150,"Troy, Michigan",12,100,17.9,150
-2015,"Bristol Township, Pennsylvania",10.7,58,11.8,64,"Bristol Township, Pennsylvania",10.7,58,11.8,64
-2015,"Clarksville, Tennessee",19,285,23.4,351,"Clarksville, Tennessee",19,285,23.4,351
-2015,"Oak Lawn, Illinois",19.1,109,21.9,125,"Oak Lawn, Illinois",19.1,109,21.9,125
-2015,"Jackson Township, New Jersey",13.9,79,17.1,97,"Jackson Township, New Jersey",13.9,79,17.1,97
-2015,"Passaic, New Jersey",21,151,24.9,179,"Passaic, New Jersey",21,151,24.9,179
-2015,"Scottsdale, Arizona",17.4,408,27.5,644,"Scottsdale, Arizona",17.4,408,27.5,644
-2015,"Peabody, Massachusetts",16.5,87,20.1,106,"Peabody, Massachusetts",16.5,87,20.1,106
-2015,"Fort Collins, Colorado",13.2,211,20.9,333,"Fort Collins, Colorado",13.2,211,20.9,333
-2015,"North Miami, Florida",19.7,122,25.2,156,"North Miami, Florida",19.7,122,25.2,156
-2015,"Waterloo, Iowa",17.6,120,18.9,129,"Waterloo, Iowa",17.6,120,18.9,129
-2015,"Battle Creek, Michigan",18,110,20.6,126,"Battle Creek, Michigan",18,110,20.6,126
-2015,"Atlanta, Georgia",38.3,"1,781",47.7,"2,218","Atlanta, Georgia",38.3,"1,781",47.7,"2,218"
-2015,"Daytona Beach, Florida",34.8,221,41.6,264,"Daytona Beach, Florida",34.8,221,41.6,264
-2015,"Salinas, California",7.7,122,11.1,175,"Salinas, California",7.7,122,11.1,175
-2015,"Independence, Missouri",16.7,197,23.7,279,"Independence, Missouri",16.7,197,23.7,279
-2015,"Toms River Township, New Jersey",17.3,158,20.7,189,"Toms River Township, New Jersey",17.3,158,20.7,189
-2015,"Burlington, North Carolina",22.9,119,28.8,150,"Burlington, North Carolina",22.9,119,28.8,150
-2015,"Fort Smith, Arkansas",18.3,160,24.7,216,"Fort Smith, Arkansas",18.3,160,24.7,216
-2015,"Centennial, Colorado",11.4,124,14.5,158,"Centennial, Colorado",11.4,124,14.5,158
-2015,"Bowling Green, Kentucky",17,108,22.4,142,"Bowling Green, Kentucky",17,108,22.4,142
-2015,"Elk Grove, California",7.5,124,12.3,205,"Elk Grove, California",7.5,124,12.3,205
-2015,"Placentia, California",8.7,46,11.8,62,"Placentia, California",8.7,46,11.8,62
-2015,"Plainfield, New Jersey",24.8,127,30.1,154,"Plainfield, New Jersey",24.8,127,30.1,154
-2015,"Sunrise, Florida",19,177,24.5,228,"Sunrise, Florida",19,177,24.5,228
-2015,"Tampa, Florida",26.3,960,33.5,"1,222","Tampa, Florida",26.3,960,33.5,"1,222"
-2015,"Fayetteville, Arkansas",14.2,117,19.5,161,"Fayetteville, Arkansas",14.2,117,19.5,161
-2015,"Brentwood, California",11.1,65,13.7,80,"Brentwood, California",11.1,65,13.7,80
-2015,"South Gate, California",8.1,78,12.2,118,"South Gate, California",8.1,78,12.2,118
-2015,"Mountain View, California",11.2,90,16.5,133,"Mountain View, California",11.2,90,16.5,133
-2015,"Fall River, Massachusetts",25.4,225,30.9,274,"Fall River, Massachusetts",25.4,225,30.9,274
-2015,"Grand Forks, North Dakota",14.4,82,17.1,97,"Grand Forks, North Dakota",14.4,82,17.1,97
-2015,"Everett, Washington",17,183,20.4,220,"Everett, Washington",17,183,20.4,220
-2015,"Amherst Town, New York",12.6,151,14.9,179,"Amherst Town, New York",12.6,151,14.9,179
-2015,"Lawton, Oklahoma",17.6,170,24.3,235,"Lawton, Oklahoma",17.6,170,24.3,235
-2015,"Denton, Texas",12.5,164,16.2,213,"Denton, Texas",12.5,164,16.2,213
-2015,"Westland, Michigan",9.4,77,12.6,103,"Westland, Michigan",9.4,77,12.6,103
-2015,"Evansville, Indiana",23.8,287,26.4,318,"Evansville, Indiana",23.8,287,26.4,318
-2015,"Redwood City, California",10.4,88,13.4,113,"Redwood City, California",10.4,88,13.4,113
-2015,"Lower Merion Township, Pennsylvania",23.3,136,25.7,150,"Lower Merion Township, Pennsylvania",23.3,136,25.7,150
-2015,"Kingsport, Tennessee",21.8,116,29.6,157,"Kingsport, Tennessee",21.8,116,29.6,157
-2015,"Porterville, California",10,56,14.3,80,"Porterville, California",10,56,14.3,80
-2015,"Lenexa, Kansas",16.6,86,24.5,127,"Lenexa, Kansas",16.6,86,24.5,127
-2015,"Kentwood, Michigan",13.6,70,15.8,81,"Kentwood, Michigan",13.6,70,15.8,81
-2015,"West New York, New Jersey",19.5,104,21.6,115,"West New York, New Jersey",19.5,104,21.6,115
-2015,"Madison, Wisconsin",19.1,475,23.7,589,"Madison, Wisconsin",19.1,475,23.7,589
-2015,"Irving, Texas",14.5,342,21.3,504,"Irving, Texas",14.5,342,21.3,504
-2015,"Pueblo, Colorado",17.6,191,22.2,242,"Pueblo, Colorado",17.6,191,22.2,242
-2015,"Clinton Township, Michigan",8.7,87,9.8,98,"Clinton Township, Michigan",8.7,87,9.8,98
-2015,"Canton, Ohio",23.2,167,27.7,200,"Canton, Ohio",23.2,167,27.7,200
-2015,"Plymouth, Minnesota",9.3,71,11.2,85,"Plymouth, Minnesota",9.3,71,11.2,85
-2015,"Dearborn, Michigan",20.1,191,24.9,236,"Dearborn, Michigan",20.1,191,24.9,236
-2015,"Wilmington, Delaware",43.4,313,52,375,"Wilmington, Delaware",43.4,313,52,375
-2015,"Decatur, Alabama",24,133,26.9,149,"Decatur, Alabama",24,133,26.9,149
-2015,"Albany, Georgia",21.4,161,24.9,188,"Albany, Georgia",21.4,161,24.9,188
-2015,"Hammond, Indiana",27,210,30.3,236,"Hammond, Indiana",27,210,30.3,236
-2015,"Cheyenne, Wyoming",16.2,103,19.2,122,"Cheyenne, Wyoming",16.2,103,19.2,122
-2015,"Casa Grande, Arizona",14.3,74,21.4,111,"Casa Grande, Arizona",14.3,74,21.4,111
-2015,"Palo Alto, California",12.6,85,21,142,"Palo Alto, California",12.6,85,21,142
-2015,"Bartlett, Tennessee",19.8,116,25.4,149,"Bartlett, Tennessee",19.8,116,25.4,149
-2015,"Warren, Michigan",14.6,197,17.4,235,"Warren, Michigan",14.6,197,17.4,235
-2015,"Flower Mound, Texas",11.6,82,17.3,123,"Flower Mound, Texas",11.6,82,17.3,123
-2015,"Lakewood Township, New Jersey",13.4,128,16.6,159,"Lakewood Township, New Jersey",13.4,128,16.6,159
-2015,"Oakland, California",17.5,734,24.6,"1,034","Oakland, California",17.5,734,24.6,"1,034"
-2015,"Evanston, Illinois",21.1,160,29.6,225,"Evanston, Illinois",21.1,160,29.6,225
-2015,"Eden Prairie, Minnesota",10.5,67,14.3,91,"Eden Prairie, Minnesota",10.5,67,14.3,91
-2015,"Parsippany-Troy Hills Township, New Jersey",17.3,93,21.6,116,"Parsippany-Troy Hills Township, New Jersey",17.3,93,21.6,116
-2015,"Santa Barbara, California",13.9,128,21.7,199,"Santa Barbara, California",13.9,128,21.7,199
-2015,"Austin, Texas",18.6,"1,750",24.4,"2,290","Austin, Texas",18.6,"1,750",24.4,"2,290"
-2015,"Owensboro, Kentucky",16.4,96,22.7,133,"Owensboro, Kentucky",16.4,96,22.7,133
-2015,"Norwalk, Connecticut",19.4,172,23.8,211,"Norwalk, Connecticut",19.4,172,23.8,211
-2015,"Whittier, California",13.4,118,19.2,169,"Whittier, California",13.4,118,19.2,169
-2015,"Hawthorne, California",10.6,94,14.9,132,"Hawthorne, California",10.6,94,14.9,132
-2015,"Upper Darby Township, Pennsylvania",15.2,126,17.5,145,"Upper Darby Township, Pennsylvania",15.2,126,17.5,145
-2015,"Alhambra, California",9.9,85,14.9,128,"Alhambra, California",9.9,85,14.9,128
-2015,"Dayton, Ohio",24,338,29.1,410,"Dayton, Ohio",24,338,29.1,410
-2015,"Cheektowaga Town, New York",16.2,127,21,165,"Cheektowaga Town, New York",16.2,127,21,165
-2015,"Odessa, Texas",11.7,139,17.4,206,"Odessa, Texas",11.7,139,17.4,206
-2015,"Colton, California",9.4,51,14.3,78,"Colton, California",9.4,51,14.3,78
-2015,"Jersey City, New Jersey",30.7,814,35.3,936,"Jersey City, New Jersey",30.7,814,35.3,936
-2015,"Taylor, Michigan",12.1,74,15.3,94,"Taylor, Michigan",12.1,74,15.3,94
-2015,"Revere, Massachusetts",18.6,102,21.5,118,"Revere, Massachusetts",18.6,102,21.5,118
-2015,"Tustin, California",11.1,91,17.1,140,"Tustin, California",11.1,91,17.1,140
-2015,"Chesapeake, Virginia",16.6,391,21.9,516,"Chesapeake, Virginia",16.6,391,21.9,516
-2015,"Waterbury, Connecticut",25.8,281,30.4,331,"Waterbury, Connecticut",25.8,281,30.4,331
-2015,"Baton Rouge, Louisiana",29.5,674,37.2,851,"Baton Rouge, Louisiana",29.5,674,37.2,851
-2015,"Norfolk, Virginia",28.2,692,32,786,"Norfolk, Virginia",28.2,692,32,786
-2015,"Rock Hill, South Carolina",20.5,145,26.7,189,"Rock Hill, South Carolina",20.5,145,26.7,189
-2015,"Milford, Connecticut",20.2,108,23.9,128,"Milford, Connecticut",20.2,108,23.9,128
-2015,"Bellingham, Washington",13.3,112,19.9,167,"Bellingham, Washington",13.3,112,19.9,167
-2015,"Miami, Florida",25.9,"1,133",33.3,"1,459","Miami, Florida",25.9,"1,133",33.3,"1,459"
-2015,"Greenwood, Indiana",9.9,55,11.7,65,"Greenwood, Indiana",9.9,55,11.7,65
-2015,"Bismarck, North Dakota",15.8,112,19.9,141,"Bismarck, North Dakota",15.8,112,19.9,141
-2015,"Watsonville, California",12.3,66,16.4,88,"Watsonville, California",12.3,66,16.4,88
-2015,"Miramar, Florida",14,194,18.7,258,"Miramar, Florida",14,194,18.7,258
-2015,"Honolulu, Hawaii",20,"1,995",25.4,"2,539","Honolulu, Hawaii",20,"1,995",25.4,"2,539"
-2015,"Portland, Maine",24.1,161,32.5,217,"Portland, Maine",24.1,161,32.5,217
-2015,"Lewisville, Texas",14.3,150,20.5,215,"Lewisville, Texas",14.3,150,20.5,215
-2015,"Bradenton, Florida",22.4,120,27.4,147,"Bradenton, Florida",22.4,120,27.4,147
-2015,"Louisville Metro, Kentucky",18.2,"1,241",21.8,"1,487","Louisville Metro, Kentucky",18.2,"1,241",21.8,"1,487"
-2015,"Colorado Springs, Colorado",14,635,20.2,913,"Colorado Springs, Colorado",14,635,20.2,913
-2015,"Philadelphia, Pennsylvania",40.9,"6,413",46.1,"7,229","Philadelphia, Pennsylvania",40.9,"6,413",46.1,"7,229"
-2015,"Bellevue, Washington",12.2,169,15.4,213,"Bellevue, Washington",12.2,169,15.4,213
-2015,"Ramapo Town, New York",11.1,101,13.6,123,"Ramapo Town, New York",11.1,101,13.6,123
-2015,"Providence, Rhode Island",23.6,423,28.5,511,"Providence, Rhode Island",23.6,423,28.5,511
-2015,"Longview, Texas",20.4,167,22.5,184,"Longview, Texas",20.4,167,22.5,184
-2015,"Knoxville, Tennessee",21.4,397,26.4,491,"Knoxville, Tennessee",21.4,397,26.4,491
-2015,"Bakersfield, California",10.4,388,14.5,542,"Bakersfield, California",10.4,388,14.5,542
-2015,"Tinley Park, Illinois",13.1,75,17.9,103,"Tinley Park, Illinois",13.1,75,17.9,103
-2015,"Greenville, South Carolina",30.3,191,37.6,237,"Greenville, South Carolina",30.3,191,37.6,237
-2015,"Amarillo, Texas",17.2,342,19.7,392,"Amarillo, Texas",17.2,342,19.7,392
-2015,"Durham, North Carolina",19.9,512,27,696,"Durham, North Carolina",19.9,512,27,696
-2015,"Denver, Colorado",21.5,"1,468",25.4,"1,735","Denver, Colorado",21.5,"1,468",25.4,"1,735"
-2015,"Danbury, Connecticut",17.3,146,17.9,151,"Danbury, Connecticut",17.3,146,17.9,151
-2015,"Plantation, Florida",17.7,165,27.3,254,"Plantation, Florida",17.7,165,27.3,254
-2015,"Oshkosh, Wisconsin",14.8,99,17.1,114,"Oshkosh, Wisconsin",14.8,99,17.1,114
-2015,"Buckeye, Arizona",14.1,87,18.6,115,"Buckeye, Arizona",14.1,87,18.6,115
-2015,"Johnson City, Tennessee",21.7,144,26.1,173,"Johnson City, Tennessee",21.7,144,26.1,173
-2015,"Lakewood, Washington",16.3,98,18.8,113,"Lakewood, Washington",16.3,98,18.8,113
-2015,"Worcester, Massachusetts",22.7,417,25.5,467,"Worcester, Massachusetts",22.7,417,25.5,467
-2015,"Mission, Texas",16.9,141,22.6,189,"Mission, Texas",16.9,141,22.6,189
-2015,"Farmington Hills, Michigan",12.5,102,16.6,136,"Farmington Hills, Michigan",12.5,102,16.6,136
-2015,"Blaine, Minnesota",9.2,57,11.7,73,"Blaine, Minnesota",9.2,57,11.7,73
-2015,"Cary, North Carolina",11.8,189,14.1,226,"Cary, North Carolina",11.8,189,14.1,226
-2015,"Port Orange, Florida",14.8,88,17.2,102,"Port Orange, Florida",14.8,88,17.2,102
-2015,"Valdosta, Georgia",23.7,135,27.7,158,"Valdosta, Georgia",23.7,135,27.7,158
-2015,"Livonia, Michigan",13.6,129,18.1,171,"Livonia, Michigan",13.6,129,18.1,171
-2015,"Greenville, North Carolina",20.3,185,25.9,236,"Greenville, North Carolina",20.3,185,25.9,236
-2015,"Schenectady, New York",21.7,143,25.5,168,"Schenectady, New York",21.7,143,25.5,168
-2015,"Carmel, Indiana",12.7,112,15.3,135,"Carmel, Indiana",12.7,112,15.3,135
-2015,"Lexington, Kentucky",16.1,506,18.5,581,"Lexington, Kentucky",16.1,506,18.5,581
-2015,"Murfreesboro, Tennessee",17.9,222,21.9,271,"Murfreesboro, Tennessee",17.9,222,21.9,271
-2015,"Lincoln, Nebraska",11.7,324,17.4,481,"Lincoln, Nebraska",11.7,324,17.4,481
-2015,"Petaluma, California",9.8,59,13.2,80,"Petaluma, California",9.8,59,13.2,80
-2015,"Union Township, New Jersey",23.1,134,31.9,185,"Union Township, New Jersey",23.1,134,31.9,185
-2015,"Eagan, Minnesota",10.5,70,12.5,83,"Eagan, Minnesota",10.5,70,12.5,83
-2015,"Grapevine, Texas",16.9,88,25,130,"Grapevine, Texas",16.9,88,25,130
-2015,"Rowlett, Texas",13.1,77,17.5,103,"Rowlett, Texas",13.1,77,17.5,103
-2015,"Kokomo, Indiana",17.1,98,20.5,117,"Kokomo, Indiana",17.1,98,20.5,117
-2015,"Roanoke, Virginia",24.5,245,29.3,292,"Roanoke, Virginia",24.5,245,29.3,292
-2015,"Apple Valley, Minnesota",10,51,11.6,59,"Apple Valley, Minnesota",10,51,11.6,59
-2015,"La Habra, California",10.7,67,15.8,99,"La Habra, California",10.7,67,15.8,99
-2015,"Wichita, Kansas",15.3,598,20,780,"Wichita, Kansas",15.3,598,20,780
-2015,"Loveland, Colorado",12.4,92,18.6,138,"Loveland, Colorado",12.4,92,18.6,138
-2015,"Youngstown, Ohio",24.5,158,31.4,203,"Youngstown, Ohio",24.5,158,31.4,203
-2015,"New Brunswick, New Jersey",24.1,139,29.5,170,"New Brunswick, New Jersey",24.1,139,29.5,170
-2015,"Arcadia, California",11.6,68,15.8,93,"Arcadia, California",11.6,68,15.8,93
-2015,"Appleton, Wisconsin",14.9,111,18.3,136,"Appleton, Wisconsin",14.9,111,18.3,136
-2015,"Montebello, California",10.6,68,16,103,"Montebello, California",10.6,68,16,103
-2015,"Lodi, California",11,71,15.8,102,"Lodi, California",11,71,15.8,102
-2015,"Montgomery, Alabama",24.9,495,32.7,651,"Montgomery, Alabama",24.9,495,32.7,651
-2015,"St. Clair Shores, Michigan",13.6,82,14.3,86,"St. Clair Shores, Michigan",13.6,82,14.3,86
-2015,"Brick Township, New Jersey",17.5,133,25.2,192,"Brick Township, New Jersey",17.5,133,25.2,192
-2015,"El Monte, California",9.1,107,12.6,148,"El Monte, California",9.1,107,12.6,148
-2015,"North Richland Hills, Texas",15.5,108,26.1,182,"North Richland Hills, Texas",15.5,108,26.1,182
-2015,"Redondo Beach, California",12.4,85,20.3,139,"Redondo Beach, California",12.4,85,20.3,139
-2015,"Kennewick, Washington",11.8,92,13.6,106,"Kennewick, Washington",11.8,92,13.6,106
-2015,"Kenner, Louisiana",23.1,155,34.4,231,"Kenner, Louisiana",23.1,155,34.4,231
-2015,"Auburn, Washington",13.6,106,16.2,126,"Auburn, Washington",13.6,106,16.2,126
-2015,"Richmond, California",16.1,177,24.2,265,"Richmond, California",16.1,177,24.2,265
-2015,"Rockford, Illinois",18.9,280,21.3,315,"Rockford, Illinois",18.9,280,21.3,315
-2015,"Port St. Lucie, Florida",12.7,224,16.4,289,"Port St. Lucie, Florida",12.7,224,16.4,289
-2015,"Turlock, California",10.3,74,15.4,111,"Turlock, California",10.3,74,15.4,111
-2015,"Bridgeport, Connecticut",24,356,27.5,408,"Bridgeport, Connecticut",24,356,27.5,408
-2015,"Pasco, Washington",9.8,69,11.5,81,"Pasco, Washington",9.8,69,11.5,81
-2015,"Clearwater, Florida",21,234,29.3,326,"Clearwater, Florida",21,234,29.3,326
-2015,"Southfield, Michigan",16.6,122,20.9,153,"Southfield, Michigan",16.6,122,20.9,153
-2015,"Oklahoma City, Oklahoma",17.1,"1,081",21.6,"1,362","Oklahoma City, Oklahoma",17.1,"1,081",21.6,"1,362"
-2015,"Woodbury, Minnesota",10.1,69,11.6,79,"Woodbury, Minnesota",10.1,69,11.6,79
-2015,"Mobile, Alabama",20.4,510,27.7,694,"Mobile, Alabama",20.4,510,27.7,694
-2015,"Costa Mesa, California",10,114,15.6,177,"Costa Mesa, California",10,114,15.6,177
-2015,"Redlands, California",11.1,79,16.2,115,"Redlands, California",11.1,79,16.2,115
-2015,"Omaha, Nebraska",18.3,826,21.3,963,"Omaha, Nebraska",18.3,826,21.3,963
-2015,"Greece Town, New York",10.1,98,10.7,104,"Greece Town, New York",10.1,98,10.7,104
-2015,"Buffalo, New York",28.1,724,35.3,910,"Buffalo, New York",28.1,724,35.3,910
-2015,"St. Cloud, Minnesota",15,100,18.9,126,"St. Cloud, Minnesota",15,100,18.9,126
-2015,"Lynchburg, Virginia",20.7,165,24.6,196,"Lynchburg, Virginia",20.7,165,24.6,196
-2015,"Tracy, California",9.6,83,14.1,122,"Tracy, California",9.6,83,14.1,122
-2015,"Orland Park, Illinois",17.1,101,21.5,127,"Orland Park, Illinois",17.1,101,21.5,127
-2015,"South Jordan, Utah",7.7,51,8.9,59,"South Jordan, Utah",7.7,51,8.9,59
-2015,"Conway, Arkansas",16.9,111,23.6,155,"Conway, Arkansas",16.9,111,23.6,155
-2015,"North Little Rock, Arkansas",26.3,179,31.1,211,"North Little Rock, Arkansas",26.3,179,31.1,211
-2015,"Tallahassee, Florida",18.7,354,22.2,422,"Tallahassee, Florida",18.7,354,22.2,422
-2015,"Newport News, Virginia",22.7,416,30.7,562,"Newport News, Virginia",22.7,416,30.7,562
-2015,"Grand Prairie, Texas",13.1,246,19.5,366,"Grand Prairie, Texas",13.1,246,19.5,366
-2015,"Parker, Colorado",12.3,63,18.6,95,"Parker, Colorado",12.3,63,18.6,95
-2015,"Aurora, Colorado",18.9,680,22.7,817,"Aurora, Colorado",18.9,680,22.7,817
-2015,"Santa Maria, California",10.9,114,15.6,163,"Santa Maria, California",10.9,114,15.6,163
-2015,"Mesquite, Texas",15.7,229,20.7,302,"Mesquite, Texas",15.7,229,20.7,302
-2015,"St. Louis, Missouri",38.8,"1,230",55.4,"1,757","St. Louis, Missouri",38.8,"1,230",55.4,"1,757"
-2015,"Ocala, Florida",28.5,165,40.6,235,"Ocala, Florida",28.5,165,40.6,235
-2015,"Bloomington, Indiana",11.3,95,17.9,150,"Bloomington, Indiana",11.3,95,17.9,150
-2015,"Decatur, Illinois",22.2,163,26.3,193,"Decatur, Illinois",22.2,163,26.3,193
-2015,"St. Charles, Missouri",15.9,109,21.9,150,"St. Charles, Missouri",15.9,109,21.9,150
-2015,"West Sacramento, California",11,58,14.4,76,"West Sacramento, California",11,58,14.4,76
-2015,"Reno, Nevada",12.3,295,14.5,347,"Reno, Nevada",12.3,295,14.5,347
-2015,"Moore, Oklahoma",14.6,88,15.5,93,"Moore, Oklahoma",14.6,88,15.5,93
-2015,"Janesville, Wisconsin",15.6,100,17.6,113,"Janesville, Wisconsin",15.6,100,17.6,113
-2015,"Sparks, Nevada",10.9,104,15.3,147,"Sparks, Nevada",10.9,104,15.3,147
-2015,"Lehi, Utah",8,47,9.1,53,"Lehi, Utah",8,47,9.1,53
-2015,"York Area Regional, Pennsylvania",8,44,8.7,48,"York Area Regional, Pennsylvania",8,44,8.7,48
-2015,"Elgin, Illinois",16.3,182,21,235,"Elgin, Illinois",16.3,182,21,235
-2015,"Joliet, Illinois",18.4,272,22.9,339,"Joliet, Illinois",18.4,272,22.9,339
-2015,"Beaverton, Oregon",13.7,132,17.8,172,"Beaverton, Oregon",13.7,132,17.8,172
-2015,"Virginia Beach, Virginia",17,772,21,953,"Virginia Beach, Virginia",17,772,21,953
-2015,"Huntington Park, California",9.4,56,15.1,90,"Huntington Park, California",9.4,56,15.1,90
-2015,"Rochester, New York",34,713,39.7,834,"Rochester, New York",34,713,39.7,834
-2015,"Enid, Oklahoma",16.8,87,21,109,"Enid, Oklahoma",16.8,87,21,109
-2015,"Muncie, Indiana",14.2,100,15,105,"Muncie, Indiana",14.2,100,15,105
-2015,"Cedar Rapids, Iowa",16.3,212,21.6,280,"Cedar Rapids, Iowa",16.3,212,21.6,280
-2015,"Hamilton Township, Mercer County, New Jersey",18.6,166,22.7,202,"Hamilton Township, Mercer County, New Jersey",18.6,166,22.7,202
-2015,"Sioux City, Iowa",15,124,18.1,149,"Sioux City, Iowa",15,124,18.1,149
-2015,"Irvine, California",7.9,203,11.5,298,"Irvine, California",7.9,203,11.5,298
-2015,"Davis, California",8.4,56,13.7,92,"Davis, California",8.4,56,13.7,92
-2015,"Madera, California",8.7,56,11.5,74,"Madera, California",8.7,56,11.5,74
-2015,"Coral Gables, Florida",32.7,171,43.8,229,"Coral Gables, Florida",32.7,171,43.8,229
-2015,"New Haven, Connecticut",32.6,425,36.8,480,"New Haven, Connecticut",32.6,425,36.8,480
-2015,"Davie, Florida",17.5,176,24.3,244,"Davie, Florida",17.5,176,24.3,244
-2015,"Brockton, Massachusetts",19.3,183,21.4,203,"Brockton, Massachusetts",19.3,183,21.4,203
-2015,"West Bloomfield Township, Michigan",10.9,72,14.8,98,"West Bloomfield Township, Michigan",10.9,72,14.8,98
-2015,"Bloomington, Minnesota",13.3,116,16.8,146,"Bloomington, Minnesota",13.3,116,16.8,146
-2015,"Toledo, Ohio",22.5,629,24.5,686,"Toledo, Ohio",22.5,629,24.5,686
-2015,"Hendersonville, Tennessee",18.7,105,23.3,131,"Hendersonville, Tennessee",18.7,105,23.3,131
-2015,"Pasadena, Texas",17.5,272,22,341,"Pasadena, Texas",17.5,272,22,341
-2015,"Eugene, Oregon",11.3,183,19.3,312,"Eugene, Oregon",11.3,183,19.3,312
-2015,"Springfield, Illinois",20.6,241,23.1,270,"Springfield, Illinois",20.6,241,23.1,270
-2015,"Manchester, New Hampshire",19.5,216,24.6,272,"Manchester, New Hampshire",19.5,216,24.6,272
-2015,"Huntersville, North Carolina",15.9,84,17.2,91,"Huntersville, North Carolina",15.9,84,17.2,91
-2015,"Cherry Hill Township, New Jersey",18.2,130,22.1,158,"Cherry Hill Township, New Jersey",18.2,130,22.1,158
-2015,"Abilene, Texas",17.4,212,22.7,277,"Abilene, Texas",17.4,212,22.7,277
-2015,"Fresno, California",13.5,702,18.4,959,"Fresno, California",13.5,702,18.4,959
-2015,"Franklin Township, Somerset County, New Jersey",15.6,104,18.6,124,"Franklin Township, Somerset County, New Jersey",15.6,104,18.6,124
-2015,"Bryan, Texas",16.6,136,20.7,170,"Bryan, Texas",16.6,136,20.7,170
-2015,"West Des Moines, Iowa",10,65,12.8,83,"West Des Moines, Iowa",10,65,12.8,83
-2015,"Memphis, Tennessee",31,"2,040",36.3,"2,389","Memphis, Tennessee",31,"2,040",36.3,"2,389"
-2015,"Corona, California",9.6,157,13.6,222,"Corona, California",9.6,157,13.6,222
-2015,"Dothan, Alabama",23.6,163,34.2,236,"Dothan, Alabama",23.6,163,34.2,236
-2015,"New Rochelle, New York",19.8,159,27,217,"New Rochelle, New York",19.8,159,27,217
-2015,"Murrieta, California",7.8,85,11.5,126,"Murrieta, California",7.8,85,11.5,126
-2015,"Brookline, Massachusetts",21.7,129,25.7,153,"Brookline, Massachusetts",21.7,129,25.7,153
-2015,"Quincy, Massachusetts",22.1,207,25.5,239,"Quincy, Massachusetts",22.1,207,25.5,239
-2015,"Northern York Regional, Pennsylvania",7.2,49,7.7,53,"Northern York Regional, Pennsylvania",7.2,49,7.7,53
-2015,"Spokane, Washington",14.5,309,18.8,399,"Spokane, Washington",14.5,309,18.8,399
-2015,"Grand Rapids, Michigan",14.6,285,18.6,364,"Grand Rapids, Michigan",14.6,285,18.6,364
-2015,"College Station, Texas",12.8,135,17.9,190,"College Station, Texas",12.8,135,17.9,190
-2015,"East Hartford, Connecticut",23.3,119,30.4,155,"East Hartford, Connecticut",23.3,119,30.4,155
-2015,"Gresham, Oregon",10.7,119,13.4,149,"Gresham, Oregon",10.7,119,13.4,149
-2015,"Reading, Pennsylvania",18.2,160,21.2,186,"Reading, Pennsylvania",18.2,160,21.2,186
-2015,"Jonesboro, Arkansas",21,154,22.8,167,"Jonesboro, Arkansas",21,154,22.8,167
-2015,"Lynn, Massachusetts",20,185,21.9,203,"Lynn, Massachusetts",20,185,21.9,203
-2015,"Hartford, Connecticut",33.2,413,36.8,458,"Hartford, Connecticut",33.2,413,36.8,458
-2015,"Burbank, California",13.8,146,21.3,226,"Burbank, California",13.8,146,21.3,226
-2015,"Missoula, Montana",14.6,103,17.7,125,"Missoula, Montana",14.6,103,17.7,125
-2015,"Utica, New York",26.5,162,29,177,"Utica, New York",26.5,162,29,177
-2015,"Meriden, Connecticut",20.3,122,22.1,133,"Meriden, Connecticut",20.3,122,22.1,133
-2015,"Stratford, Connecticut",19.4,103,20.2,107,"Stratford, Connecticut",19.4,103,20.2,107
-2015,"Sandy, Utah",11.6,107,15,138,"Sandy, Utah",11.6,107,15,138
-2015,"Castle Rock, Colorado",11.4,66,15.6,90,"Castle Rock, Colorado",11.4,66,15.6,90
-2015,"Burnsville, Minnesota",11.8,73,14,87,"Burnsville, Minnesota",11.8,73,14,87
-2015,"Westminster, Colorado",15.9,180,22.5,256,"Westminster, Colorado",15.9,180,22.5,256
-2015,"Delray Beach, Florida",23.3,154,32.2,213,"Delray Beach, Florida",23.3,154,32.2,213
-2015,"Fairfield, California",10.3,116,15.8,178,"Fairfield, California",10.3,116,15.8,178
-2015,"Fort Wayne, Indiana",17.4,451,19.7,511,"Fort Wayne, Indiana",17.4,451,19.7,511
-2015,"Edinburg, Texas",16.8,143,23.3,198,"Edinburg, Texas",16.8,143,23.3,198
-2015,"Cedar Park, Texas",12.4,83,16.8,112,"Cedar Park, Texas",12.4,83,16.8,112
-2015,"Mount Prospect, Illinois",15.4,85,18.7,103,"Mount Prospect, Illinois",15.4,85,18.7,103
-2015,"Colonie Town, New York",13.6,108,18.5,147,"Colonie Town, New York",13.6,108,18.5,147
-2015,"Rocklin, California",8.8,54,13.3,81,"Rocklin, California",8.8,54,13.3,81
-2015,"Tulare, California",11.4,71,17.4,109,"Tulare, California",11.4,71,17.4,109
-2015,"Sioux Falls, South Dakota",13.6,234,15.6,268,"Sioux Falls, South Dakota",13.6,234,15.6,268
-2015,"Livermore, California",9.7,86,14.8,131,"Livermore, California",9.7,86,14.8,131
-2015,"Fargo, North Dakota",13.2,156,15.2,180,"Fargo, North Dakota",13.2,156,15.2,180
-2015,"Fontana, California",8.9,185,13.2,274,"Fontana, California",8.9,185,13.2,274
-2015,"Corvallis, Oregon",9.8,54,16.7,92,"Corvallis, Oregon",9.8,54,16.7,92
-2015,"Orem, Utah",8.7,81,12.7,118,"Orem, Utah",8.7,81,12.7,118
-2015,"Duluth, Minnesota",17.5,151,20.4,176,"Duluth, Minnesota",17.5,151,20.4,176
-2015,"Burien, Washington",10.3,52,14.2,72,"Burien, Washington",10.3,52,14.2,72
-2015,"Springdale, Arkansas",17.6,137,23.8,186,"Springdale, Arkansas",17.6,137,23.8,186
-2015,"Edison Township, New Jersey",16.6,170,21.3,218,"Edison Township, New Jersey",16.6,170,21.3,218
-2015,"Minnetonka, Minnesota",10.4,54,13.5,70,"Minnetonka, Minnesota",10.4,54,13.5,70
-2015,"Berwyn, Illinois",19.2,109,27.3,155,"Berwyn, Illinois",19.2,109,27.3,155
-2015,"Overland Park, Kansas",13.2,247,15.8,295,"Overland Park, Kansas",13.2,247,15.8,295
-2015,"San Francisco, California",25.9,"2,236",31.4,"2,711","San Francisco, California",25.9,"2,236",31.4,"2,711"
-2015,"Nashua, New Hampshire",19.7,172,27,236,"Nashua, New Hampshire",19.7,172,27,236
-2015,"Coral Springs, Florida",15.6,202,23,298,"Coral Springs, Florida",15.6,202,23,298
-2015,"Frederick, Maryland",21,145,26.7,185,"Frederick, Maryland",21,145,26.7,185
-2015,"West Jordan, Utah",9.3,105,12.4,140,"West Jordan, Utah",9.3,105,12.4,140
-2015,"Pittsburg, California",11,76,13.8,96,"Pittsburg, California",11,76,13.8,96
-2015,"Chicopee, Massachusetts",24.7,138,25.7,144,"Chicopee, Massachusetts",24.7,138,25.7,144
-2015,"Merced, California",9.7,80,14,115,"Merced, California",9.7,80,14,115
-2015,"San Jose, California",9.1,939,12.8,"1,325","San Jose, California",9.1,939,12.8,"1,325"
-2015,"Broken Arrow, Oklahoma",11.9,126,17,180,"Broken Arrow, Oklahoma",11.9,126,17,180
-2015,"Surprise, Arizona",10,128,14,180,"Surprise, Arizona",10,128,14,180
-2015,"La Mesa, California",10.6,63,15.4,92,"La Mesa, California",10.6,63,15.4,92
-2015,"Leesburg, Virginia",15,77,17.8,91,"Leesburg, Virginia",15,77,17.8,91
-2015,"Charleston, South Carolina",33.1,439,40.2,533,"Charleston, South Carolina",33.1,439,40.2,533
-2015,"San Rafael, California",10.6,63,14.4,86,"San Rafael, California",10.6,63,14.4,86
-2015,"Garden Grove, California",8.7,154,12.3,217,"Garden Grove, California",8.7,154,12.3,217
-2015,"San Mateo, California",10.5,109,13.7,143,"San Mateo, California",10.5,109,13.7,143
-2015,"Wyoming, Michigan",11.1,84,13.1,99,"Wyoming, Michigan",11.1,84,13.1,99
-2015,"Irondequoit Town, New York",9.9,51,11.9,61,"Irondequoit Town, New York",9.9,51,11.9,61
-2015,"Greenwich, Connecticut",24.1,152,28.4,179,"Greenwich, Connecticut",24.1,152,28.4,179
-2015,"Grand Island, Nebraska",16.8,87,20.1,104,"Grand Island, Nebraska",16.8,87,20.1,104
-2015,"Gastonia, North Carolina",21.8,162,24.8,184,"Gastonia, North Carolina",21.8,162,24.8,184
-2015,"Carlsbad, California",9.2,105,13.3,152,"Carlsbad, California",9.2,105,13.3,152
-2015,"Schaumburg, Illinois",14.1,106,18.8,141,"Schaumburg, Illinois",14.1,106,18.8,141
-2015,"Howell Township, New Jersey",16.9,88,20,104,"Howell Township, New Jersey",16.9,88,20,104
-2015,"Pittsburgh, Pennsylvania",28.4,872,30.9,948,"Pittsburgh, Pennsylvania",28.4,872,30.9,948
-2015,"Henderson, Nevada",11.8,334,20.2,570,"Henderson, Nevada",11.8,334,20.2,570
-2015,"South Bend, Indiana",24.1,244,28.8,292,"South Bend, Indiana",24.1,244,28.8,292
-2015,"Columbus, Ohio",21.9,"1,855",26,"2,205","Columbus, Ohio",21.9,"1,855",26,"2,205"
-2015,"San Bernardino, California",9.9,214,18.2,394,"San Bernardino, California",9.9,214,18.2,394
-2015,"Allentown, Pennsylvania",17.7,211,19.5,233,"Allentown, Pennsylvania",17.7,211,19.5,233
-2015,"Largo, Florida",17.8,141,22.3,177,"Largo, Florida",17.8,141,22.3,177
-2015,"Kalamazoo, Michigan",28.7,219,34.6,264,"Kalamazoo, Michigan",28.7,219,34.6,264
-2015,"San Marcos, Texas",15.7,99,21.9,138,"San Marcos, Texas",15.7,99,21.9,138
-2015,"Napa, California",8.9,72,14.1,114,"Napa, California",8.9,72,14.1,114
-2015,"Brookhaven, Georgia",13.4,69,14.7,76,"Brookhaven, Georgia",13.4,69,14.7,76
-2015,"Nampa, Idaho",12.4,111,17.9,161,"Nampa, Idaho",12.4,111,17.9,161
-2015,"Detroit, Michigan",33.5,"2,255",36.2,"2,436","Detroit, Michigan",33.5,"2,255",36.2,"2,436"
-2015,"White Plains, New York",32.8,191,34.6,202,"White Plains, New York",32.8,191,34.6,202
-2015,"Bayonne, New Jersey",27,180,43.9,292,"Bayonne, New Jersey",27,180,43.9,292
-2015,"Abington Township, Montgomery County, Pennsylvania",16,89,20.4,114,"Abington Township, Montgomery County, Pennsylvania",16,89,20.4,114
-2015,"St. Joseph, Missouri",16.2,125,21.9,169,"St. Joseph, Missouri",16.2,125,21.9,169
-2015,"Redding, California",10.6,98,14,129,"Redding, California",10.6,98,14,129
-2015,"Wilmington, North Carolina",22.4,258,28.2,325,"Wilmington, North Carolina",22.4,258,28.2,325
-2015,"Royal Oak, Michigan",12.6,75,14.8,88,"Royal Oak, Michigan",12.6,75,14.8,88
-2015,"St. George, Utah",13.8,110,20,160,"St. George, Utah",13.8,110,20,160
-2015,"Baldwin Park, California",8.4,65,11.9,92,"Baldwin Park, California",8.4,65,11.9,92
-2015,"Upland, California",8.7,67,11.9,91,"Upland, California",8.7,67,11.9,91
-2015,"Salem, Oregon",11.4,187,19.2,313,"Salem, Oregon",11.4,187,19.2,313
-2015,"San Leandro, California",10.1,91,14.8,134,"San Leandro, California",10.1,91,14.8,134
-2015,"Arvada, Colorado",14,162,19.8,228,"Arvada, Colorado",14,162,19.8,228
-2015,"Hampton, Virginia",21,287,29.3,400,"Hampton, Virginia",21,287,29.3,400
-2015,"Newport Beach, California",15.8,139,24.7,217,"Newport Beach, California",15.8,139,24.7,217
-2015,"Allen, Texas",13,126,18,174,"Allen, Texas",13,126,18,174
-2015,"Glendora, California",9.3,48,15.7,81,"Glendora, California",9.3,48,15.7,81
-2015,"Chattanooga, Tennessee",24.7,433,30.8,539,"Chattanooga, Tennessee",24.7,433,30.8,539
-2015,"Glendale, Arizona",17.1,412,22.3,535,"Glendale, Arizona",17.1,412,22.3,535
-2015,"Boca Raton, Florida",17.9,166,27.5,256,"Boca Raton, Florida",17.9,166,27.5,256
-2015,"Midland, Texas",12.5,166,16.1,213,"Midland, Texas",12.5,166,16.1,213
-2015,"Flint, Michigan",10,98,11.5,113,"Flint, Michigan",10,98,11.5,113
-2015,"Rapid City, South Dakota",16.7,123,20.5,151,"Rapid City, South Dakota",16.7,123,20.5,151
-2015,"Marysville, Washington",9.2,61,13,86,"Marysville, Washington",9.2,61,13,86
-2015,"Tulsa, Oklahoma",19.2,769,23.2,931,"Tulsa, Oklahoma",19.2,769,23.2,931
-2015,"Albany, Oregon",11.5,60,17,89,"Albany, Oregon",11.5,60,17,89
-2015,"Tigard, Oregon",13.2,68,16.1,83,"Tigard, Oregon",13.2,68,16.1,83
-2015,"Richmond, Virginia",33.2,732,40.1,885,"Richmond, Virginia",33.2,732,40.1,885
-2015,"Sammamish, Washington",5.2,27,6.3,33,"Sammamish, Washington",5.2,27,6.3,33
-2015,"Mount Pleasant, South Carolina",17.3,139,20,161,"Mount Pleasant, South Carolina",17.3,139,20,161
-2015,"O'Fallon, Missouri",13.4,114,17.4,148,"O'Fallon, Missouri",13.4,114,17.4,148
-2015,"West Covina, California",8.2,89,13.8,150,"West Covina, California",8.2,89,13.8,150
-2015,"Paterson, New Jersey",27.4,401,40.5,593,"Paterson, New Jersey",27.4,401,40.5,593
-2015,"Citrus Heights, California",9.9,86,15.2,132,"Citrus Heights, California",9.9,86,15.2,132
-2015,"Springfield, Oregon",10.9,66,16.4,99,"Springfield, Oregon",10.9,66,16.4,99
-2015,"East Orange, New Jersey",33.6,219,41.7,272,"East Orange, New Jersey",33.6,219,41.7,272
-2015,"Roswell, Georgia",14.5,138,20.3,194,"Roswell, Georgia",14.5,138,20.3,194
-2015,"Wichita Falls, Texas",17.4,183,26,274,"Wichita Falls, Texas",17.4,183,26,274
-2015,"Roseville, California",9.8,128,14.3,187,"Roseville, California",9.8,128,14.3,187
-2015,"Meridian, Idaho",9.9,90,12.3,112,"Meridian, Idaho",9.9,90,12.3,112
-2015,"Lubbock, Texas",15.7,388,20.5,506,"Lubbock, Texas",15.7,388,20.5,506
-2015,"Warner Robins, Georgia",12.9,96,18.4,137,"Warner Robins, Georgia",12.9,96,18.4,137
-2015,"National City, California",13.3,81,18.4,112,"National City, California",13.3,81,18.4,112
-2015,"Woodland, California",10.7,62,13.3,77,"Woodland, California",10.7,62,13.3,77
-2015,"Inglewood, California",15.4,173,20,225,"Inglewood, California",15.4,173,20,225
-2015,"Maple Grove, Minnesota",9.5,65,11.4,78,"Maple Grove, Minnesota",9.5,65,11.4,78
-2015,"Greeley, Colorado",14.4,144,20,200,"Greeley, Colorado",14.4,144,20,200
-2015,"Davenport, Iowa",15.3,158,17.8,184,"Davenport, Iowa",15.3,158,17.8,184
-2015,"Hamilton, Ohio",17.6,110,18.9,118,"Hamilton, Ohio",17.6,110,18.9,118
-2015,"Homestead, Florida",16.8,112,22.8,152,"Homestead, Florida",16.8,112,22.8,152
-2015,"Racine, Wisconsin",25,195,28.9,225,"Racine, Wisconsin",25,195,28.9,225
-2015,"Waco, Texas",18,237,25,329,"Waco, Texas",18,237,25,329
-2015,"Fort Lauderdale, Florida",27.9,499,36.5,651,"Fort Lauderdale, Florida",27.9,499,36.5,651
-2015,"Lakewood, Colorado",17.8,270,28.4,429,"Lakewood, Colorado",17.8,270,28.4,429
-2015,"Chula Vista, California",8.2,217,11.4,303,"Chula Vista, California",8.2,217,11.4,303
-2015,"Coconut Creek, Florida",16.2,97,21.7,130,"Coconut Creek, Florida",16.2,97,21.7,130
-2015,"Washington, DC",56.9,"3,826",66.7,"4,487","Washington, DC",56.9,"3,826",66.7,"4,487"
+Year	Police Department	Officers per 10K Population	Officers	Total Employees per 10K Population	Total Employees					
+2015	"Lakeville, Minnesota"	8.7	53	10.2	62					
+2015	"Laredo, Texas"	17.9	460	21	537					
+2015	"Jupiter, Florida"	17.7	110	21.8	135					
+2015	"Canton Township, Michigan"	9.3	83	13.3	119					
+2015	"Casper, Wyoming"	15.6	96	18.9	116					
+2015	"Temple, Texas"	19.9	143	23.5	169					
+2015	"New Britain, Connecticut"	21.6	157	22.8	166					
+2015	"Clarkstown Town, New York"	19.8	163	22.8	187					
+2015	"Shawnee, Kansas"	12.6	82	15.5	101					
+2015	"Hayward, California"	11.1	174	18.3	288					
+2015	"Sterling Heights, Michigan"	11.5	152	13.2	175					
+2015	"Pawtucket, Rhode Island"	19.3	138	23.7	170					
+2015	"Eau Claire, Wisconsin"	14	95	19.5	133					
+2015	"Visalia, California"	10.6	138	15.5	202					
+2015	"Orange, California"	10.7	150	14.4	203					
+2015	"Hollywood, Florida"	21	314	30	449					
+2015	"Springfield, Missouri"	19.5	325	23.7	395					
+2015	"Kansas City, Missouri"	28.7	"1,360"	38.5	"1,824"					
+2015	"Wayne Township, New Jersey"	20.7	114	26.3	145					
+2015	"Cathedral City, California"	8.5	46	12.4	67					
+2015	"Columbia, South Carolina"	26.6	352	32.8	434					
+2015	"St. Peters, Missouri"	15.8	90	20.2	115					
+2015	"Boise, Idaho"	12.6	275	16.5	361					
+2015	"Iowa City, Iowa"	11	82	13.9	104					
+2015	"Framingham, Massachusetts"	17.5	125	19.5	139					
+2015	"Plymouth, Massachusetts"	18.4	108	21	123					
+2015	"Bellevue, Nebraska"	17.6	96	20.1	110					
+2015	"Boston, Massachusetts"	32.2	"2,139"	40.4	"2,689"					
+2015	"Hanford, California"	9.9	55	14.6	81					
+2015	"Monterey Park, California"	11.2	69	15.5	96					
+2015	"Novi, Michigan"	10.5	62	14	83					
+2015	"Glendale, California"	11.7	236	16.8	339					
+2015	"Escondido, California"	9.8	148	13	198					
+2015	"Kenosha, Wisconsin"	20.3	203	21.5	215					
+2015	"Medford, Massachusetts"	18.2	105	18.7	108					
+2015	"Marietta, Georgia"	22	134	27.9	170					
+2015	"Pocatello, Idaho"	16.4	89	23.9	130					
+2015	"Minneapolis, Minnesota"	20.1	831	24.5	"1,014"					
+2015	"Alpharetta, Georgia"	16.9	109	21.7	140					
+2015	"Cicero, Illinois"	18.4	155	21.5	181					
+2015	"Normal, Illinois"	14.7	81	16.7	92					
+2015	"Mount Vernon, New York"	28.4	195	39.3	270					
+2015	"Shelby Township, Michigan"	7.7	60	10.2	79					
+2015	"Athens-Clarke County, Georgia"	18.9	229	24.2	292					
+2015	"Palm Beach Gardens, Florida"	20.5	108	29.9	158					
+2015	"Pembroke Pines, Florida"	14.7	246	19.7	330					
+2015	"Santa Clara, California"	11.6	143	16.2	200					
+2015	"Franklin, Tennessee"	16.9	123	20.5	149					
+2015	"Mesa, Arizona"	16.8	789	25.3	"1,192"					
+2015	"Manchester, Connecticut"	18.6	108	23.8	138					
+2015	"Pasadena, California"	15.6	221	23.5	333					
+2015	"Fullerton, California"	9.9	140	14.4	203					
+2015	"Medford, Oregon"	12.5	99	17	135					
+2015	"Seattle, Washington"	19.7	"1,350"	28.1	"1,919"					
+2015	"Missouri City, Texas"	12.9	94	18	131					
+2015	"Cape Coral, Florida"	12.8	223	17.7	308					
+2015	"Ann Arbor, Michigan"	9.9	117	12	143					
+2015	"Grand Junction, Colorado"	18.3	111	33.7	204					
+2015	"Great Falls, Montana"	14.3	85	21.6	128					
+2015	"Lakewood, Ohio"	18.6	94	22.9	116					
+2015	"Scranton, Pennsylvania"	20	150	22.6	170					
+2015	"Warwick, Rhode Island"	20.2	165	26.4	216					
+2015	"North Charleston, South Carolina"	29.3	320	36.2	395					
+2015	"Trenton, New Jersey"	28.6	239	37.7	315					
+2015	"Dearborn Heights, Michigan"	14.6	82	17.6	99					
+2015	"Pomona, California"	10	154	16.4	253					
+2015	"St. Petersburg, Florida"	20.6	528	28.7	735					
+2015	"New York, New York"	41.4	"35,395"	58.9	"50,366"					
+2015	"El Paso, Texas"	14.7	"1,010"	18.4	"1,264"					
+2015	"Coon Rapids, Minnesota"	9.8	61	11.1	69					
+2015	"Anaheim, California"	11.4	399	16.5	577					
+2015	"El Cajon, California"	11.4	118	17.4	181					
+2015	"Waltham, Massachusetts"	22.3	142	26.7	170					
+2015	"Tyler, Texas"	18.1	186	22.8	234					
+2015	"Terre Haute, Indiana"	21.6	132	23.1	141					
+2015	"Vineland, New Jersey"	21.2	130	25.5	156					
+2015	"Downey, California"	9.5	109	12.8	147					
+2015	"La Crosse, Wisconsin"	17.3	91	20.3	107					
+2015	"Hoover, Alabama"	18.7	159	25.7	219					
+2015	"Portland, Oregon"	14.5	908	18.3	"1,150"					
+2015	"Tucson, Arizona"	17.6	932	23.1	"1,222"					
+2015	"Santa Ana, California"	9	302	15.6	527					
+2015	"Gilbert, Arizona"	9.1	225	13.6	336					
+2015	"Council Bluffs, Iowa"	17.7	110	20.9	130					
+2015	Las Vegas Metropolitan Police	20.9	"3,264"	30.9	"4,825"					
+2015	"Kirkland, Washington"	10.9	95	15.1	131					
+2015	"Federal Way, Washington"	13.1	124	16.2	153					
+2015	"Norman, Oklahoma"	14.4	172	19.1	229					
+2015	"Baytown, Texas"	20.2	156	27	208					
+2015	"Harrisonburg, Virginia"	17.3	92	21.2	113					
+2015	"Chico, California"	9.8	88	15	135					
+2015	"West Haven, Connecticut"	22.5	123	24.5	134					
+2015	"Concord, California"	11.8	152	16	206					
+2015	"Rio Rancho, New Mexico"	26.3	251	47.2	450					
+2015	"Yuba City, California"	8.2	54	11.8	78					
+2015	"Santa Cruz, California"	14.2	91	17.3	111					
+2015	"Stamford, Connecticut"	21.6	280	25.8	334					
+2015	"Smyrna, Georgia"	15.9	89	24.2	135					
+2015	"Gainesville, Florida"	22	285	26.6	344					
+2015	"Riverside, California"	11.4	368	15.9	515					
+2015	"Tonawanda Town, New York"	17.8	103	25.9	150					
+2015	"Plano, Texas"	12.3	348	20.1	570					
+2015	"Vancouver, Washington"	10.9	187	12.2	208					
+2015	"South San Francisco, California"	11.9	81	16.2	110					
+2015	"Woodbridge Township, New Jersey"	19.1	193	25.3	255					
+2015	"Gardena, California"	15.1	92	19.2	117					
+2015	"San Diego, California"	13.5	"1,887"	18.2	"2,545"					
+2015	"Joplin, Missouri"	20.4	105	29.4	151					
+2015	"Tuscaloosa, Alabama"	28.4	277	36.2	353					
+2015	"State College, Pennsylvania"	10.7	62	12.5	72					
+2015	"Lawrence, Massachusetts"	16.1	127	18.6	146					
+2015	"Tempe, Arizona"	20.2	354	27.9	490					
+2015	"Millcreek Township, Erie County, Pennsylvania"	11.5	62	13.9	75					
+2015	"Long Beach, California"	16.2	771	23.6	"1,123"					
+2015	"Doral, Florida"	21.6	122	28.9	163					
+2015	"Vallejo, California"	8.9	108	12	145					
+2015	"Westminster, California"	9.3	86	12.8	119					
+2015	"Palm Bay, Florida"	13.7	146	20.5	218					
+2015	"Boulder, Colorado"	16.6	177	25.4	271					
+2015	"Jackson, Tennessee"	31.7	214	38.3	258					
+2015	"Newton, Massachusetts"	15.5	138	20.2	180					
+2015	"Antioch, California"	8.2	91	10.4	115					
+2015	"Midwest City, Oklahoma"	16.1	93	21.5	124					
+2015	"Edina, Minnesota"	10.2	51	14.2	71					
+2015	"North Bergen Township, New Jersey"	18.6	117	20.2	127					
+2015	"Lansing, Michigan"	15.5	178	17.8	204					
+2015	Charlotte-Mecklenburg Police	21	"1,840"	26.5	"2,329"					
+2015	"Bristol, Connecticut"	19.6	119	23.9	145					
+2015	"Middletown Township, New Jersey"	15.6	103	19.3	127					
+2015	"Victoria, Texas"	16.4	110	21.5	144					
+2015	"Cranston, Rhode Island"	18.1	147	21.7	176					
+2015	"Modesto, California"	10.2	216	14	295					
+2015	"Thornton, Colorado"	11.8	157	17.6	235					
+2015	"Commerce City, Colorado"	17.3	92	21.6	115					
+2015	"Billings, Montana"	12.3	135	14.6	161					
+2015	"Idaho Falls, Idaho"	13.7	81	20.6	122					
+2015	"Waterford Township, Michigan"	7.1	52	9	66					
+2015	"Brooklyn Park, Minnesota"	13.3	106	17.2	137					
+2015	"Folsom, California"	8.8	67	11.7	89					
+2015	"Pleasanton, California"	9.9	79	13.9	111					
+2015	"San Angelo, Texas"	15.5	156	18.5	186					
+2015	"Auburn, Alabama"	16.9	105	17.9	111					
+2015	"Chandler, Arizona"	13.3	345	19.6	508					
+2015	"Goodyear, Arizona"	11.7	92	16.1	126					
+2015	"Raleigh, North Carolina"	17	761	19.1	856					
+2015	"Vacaville, California"	9.9	96	15.4	149					
+2015	"Clovis, California"	9.3	96	14.9	155					
+2015	"Newark, New Jersey"	36.8	"1,033"	42.8	"1,203"					
+2015	"Sugar Land, Texas"	16.9	150	19.4	172					
+2015	"Ames, Iowa"	8.1	52	11.5	74					
+2015	"Alexandria, Virginia"	20	306	26.3	401					
+2015	"Lancaster, Pennsylvania"	23.9	142	27.2	161					
+2015	"Bend, Oregon"	10	86	13.1	113					
+2015	"Longmont, Colorado"	15	137	22.3	203					
+2015	"Hamden, Connecticut"	17.4	107	21.5	132					
+2015	"Irvington, New Jersey"	27.9	152	32.4	177					
+2015	"Lake Havasu City, Arizona"	13.3	71	20.3	108					
+2015	"Chino, California"	12.2	105	18	155					
+2015	"Arlington Heights, Illinois"	13.4	102	17.2	131					
+2015	"Broomfield, Colorado"	16.1	103	30	192					
+2015	"Houston, Texas"	22.8	"5,178"	28.9	"6,577"					
+2015	"Hillsboro, Oregon"	12.6	128	17	172					
+2015	Nashville Metropolitan Police	21.3	"1,404"	26.5	"1,742"					
+2015	"Jacksonville, North Carolina"	16.6	114	21.1	145					
+2015	"Concord, North Carolina"	18.9	165	22	192					
+2015	"Suffolk, Virginia"	20.9	182	26.9	234					
+2015	"Delano, California"	9.7	51	12.9	68					
+2015	"Port Arthur, Texas"	23.3	127	29.5	161					
+2015	"Redmond, Washington"	13	79	20.5	124					
+2015	"Boynton Beach, Florida"	19.5	145	27.6	205					
+2015	"Kettering, Ohio"	14.9	83	19.8	110					
+2015	"Torrance, California"	14.2	212	21	314					
+2015	"Portsmouth, Virginia"	25.1	241	34.1	327					
+2015	"Little Rock, Arkansas"	26.8	532	32.5	646					
+2015	"Gloucester Township, New Jersey"	19.9	127	23.5	150					
+2015	"Alameda, California"	10.6	83	14.2	112					
+2015	"West Palm Beach, Florida"	26.3	276	34.9	366					
+2015	"Richland, Washington"	11.3	61	14	76					
+2015	"Santa Monica, California"	21.6	203	39.8	373					
+2015	"Dallas, Texas"	26.8	"3,484"	31	"4,040"					
+2015	"Fayetteville, North Carolina"	18.4	377	28.3	579					
+2015	"Blue Springs, Missouri"	17.8	96	25.5	137					
+2015	"Sacramento, California"	13.2	646	19.4	949					
+2015	"Indianapolis, Indiana"	18.3	"1,578"	20.6	"1,776"					
+2015	"McAllen, Texas"	18.9	266	28.7	403					
+2015	"Yuma, Arizona"	17.6	165	27.8	261					
+2015	"Milwaukee, Wisconsin"	31.4	"1,886"	41.9	"2,518"					
+2015	"Flagstaff, Arizona"	16.4	114	23.6	164					
+2015	"Ogden, Utah"	15.1	128	18.8	159					
+2015	"Albany, New York"	33.9	335	43.8	433					
+2015	"Layton, Utah"	10.5	77	14.6	107					
+2015	"Chapel Hill, North Carolina"	17.2	103	20.5	123					
+2015	"Yakima, Washington"	14.8	139	19.6	184					
+2015	"Syracuse, New York"	28.7	414	33.5	482					
+2015	"Piscataway Township, New Jersey"	14.1	84	17.3	103					
+2015	"Springfield, Ohio"	20.7	124	23.1	138					
+2015	"Charleston, West Virginia"	32.5	163	37.3	187					
+2015	"Shoreline, Washington"	9.2	51	12.4	69					
+2015	"Des Plaines, Illinois"	15.4	91	18.6	110					
+2015	"Bowie, Maryland"	10.5	61	11.5	67					
+2015	"Buena Park, California"	9.9	83	14.2	119					
+2015	"Perth Amboy, New Jersey"	20.9	110	25.9	136					
+2015	"Margate, Florida"	18.9	107	25	142					
+2015	"Daly City, California"	10.4	112	14.1	151					
+2015	"Fountain Valley, California"	10.5	60	13.8	79					
+2015	"Old Bridge Township, New Jersey"	12.8	86	16.3	110					
+2015	"Phoenix, Arizona"	17.8	"2,781"	23.7	"3,698"					
+2015	"High Point, North Carolina"	20.6	226	24.9	273					
+2015	"Haverhill, Massachusetts"	13.8	87	15.9	100					
+2015	"Avondale, Arizona"	13.4	108	19.2	155					
+2015	"Spokane Valley, Washington"	11.1	102	11.2	103					
+2015	"Johns Creek, Georgia"	7.6	64	8.5	72					
+2015	"Olathe, Kansas"	12.2	165	14.2	191					
+2015	"Weymouth, Massachusetts"	16.2	91	19.2	108					
+2015	"Anderson, Indiana"	19.7	109	22.8	126					
+2015	"Walnut Creek, California"	11.8	81	16.2	111					
+2015	"Bloomington, Illinois"	14.6	116	19.1	151					
+2015	"Oceanside, California"	11.7	206	15.7	276					
+2015	"Garland, Texas"	14.2	338	19.6	465					
+2015	"Fishers, Indiana"	11.4	101	12.6	112					
+2015	"Shreveport, Louisiana"	26	514	35.4	699					
+2015	"Hemet, California"	7.7	65	10.6	89					
+2015	"Green Bay, Wisconsin"	17.9	188	21.6	227					
+2015	"Frisco, Texas"	10.5	161	15.1	231					
+2015	"Dubuque, Iowa"	17.9	105	18.9	111					
+2015	"Rocky Mount, North Carolina"	28.2	158	35.5	199					
+2015	"Malden, Massachusetts"	16.8	103	18.8	115					
+2015	"Yonkers, New York"	30.7	620	34.8	702					
+2015	"Oxnard, California"	11.4	237	17.3	358					
+2015	"Clifton, New Jersey"	17.3	149	20.9	180					
+2015	"West Hartford, Connecticut"	19.9	126	23.1	146					
+2015	"Georgetown, Texas"	12.2	76	18.6	116					
+2015	"Gilroy, California"	11.4	61	17	91					
+2015	"Wheaton, Illinois"	11.7	63	14.7	79					
+2015	"North Las Vegas, Nevada"	11.5	270	17.4	409					
+2015	"Pharr, Texas"	15.8	121	22.1	169					
+2015	"Lee's Summit, Missouri"	14.5	137	20.3	192					
+2015	"Conroe, Texas"	17.2	117	23.6	161					
+2015	"Edmond, Oklahoma"	13.5	122	17.4	157					
+2015	"Killeen, Texas"	18.6	261	24.5	344					
+2015	"Bethlehem, Pennsylvania"	20.5	154	23.8	179					
+2015	"Birmingham, Alabama"	39.5	838	51.9	"1,102"					
+2015	"San Ramon, California"	8.5	65	10.6	81					
+2015	"North Port, Florida"	15.2	93	19.5	119					
+2015	"Huntsville, Alabama"	21.2	403	29.3	557					
+2015	"Hempstead Village, New York"	23.4	131	27.7	155					
+2015	"Orlando, Florida"	26	697	33.6	903					
+2015	"Simi Valley, California"	9.6	122	14	178					
+2015	"Union City, New Jersey"	24.2	167	29.2	202					
+2015	"Corpus Christi, Texas"	13.7	445	20	649					
+2015	"Fort Worth, Texas"	18.8	"1,557"	24.1	"2,000"					
+2015	"Winston-Salem, North Carolina"	23	556	29.9	723					
+2015	"Huntington Beach, California"	10.3	210	16.2	330					
+2015	"Manteca, California"	8	60	11.2	84					
+2015	"Asheville, North Carolina"	22.6	201	27.8	247					
+2015	"San Antonio, Texas"	15	"2,191"	18.5	"2,708"					
+2015	"Taunton, Massachusetts"	19.7	112	20.8	118					
+2015	"Peoria, Arizona"	11	187	16.6	283					
+2015	"Caldwell, Idaho"	12.1	62	14.8	76					
+2015	"Tacoma, Washington"	16.2	336	18	372					
+2015	"Ventura, California"	11.4	126	15	165					
+2015	"Topeka, Kansas"	22.4	285	26.1	332					
+2015	"St. Paul, Minnesota"	19.9	597	26.3	790					
+2015	"Jacksonville, Florida"	18.5	"1,603"	34.3	"2,973"					
+2015	"Cambridge, Massachusetts"	25.3	281	28.5	316					
+2015	"Des Moines, Iowa"	17.1	360	21.8	459					
+2015	"Erie, Pennsylvania"	17.5	173	19.7	195					
+2015	"Elizabeth, New Jersey"	22.9	296	30.5	395					
+2015	"Bensalem Township, Pennsylvania"	16.4	99	20.2	122					
+2015	"Milpitas, California"	11.3	85	14.4	109					
+2015	"Pinellas Park, Florida"	19.5	100	23	118					
+2015	"West Allis, Wisconsin"	21.8	132	25.9	157					
+2015	"Los Angeles, California"	24.9	"9,863"	32	"12,665"					
+2015	"Richardson, Texas"	13.9	154	22	244					
+2015	"Baltimore, Maryland"	42.6	"2,646"	47.6	"2,960"					
+2015	"Hoboken, New Jersey"	24.4	132	27.8	150					
+2015	"Kent, Washington"	11	140	14.9	190					
+2015	"Fremont, California"	7.7	180	12	280					
+2015	"Fairfield, Connecticut"	17.2	106	18.1	112					
+2015	"West Valley, Utah"	13.3	181	16.1	219					
+2015	"Greensboro, North Carolina"	23.5	671	27.3	781					
+2015	"Ankeny, Iowa"	9.8	55	11.3	63					
+2015	"Somerville, Massachusetts"	16.2	129	20.3	162					
+2015	"Parma, Ohio"	12.2	97	19	151					
+2015	"Sandy Springs, Georgia"	12	125	13.6	141					
+2015	"Pearland, Texas"	13.7	146	16.8	179					
+2015	"Carrollton, Texas"	12.2	159	15.2	199					
+2015	"Renton, Washington"	11.9	119	15	150					
+2015	"Stockton, California"	12.8	389	18.7	571					
+2015	"Ontario, California"	13.7	234	18.9	321					
+2015	"McKinney, Texas"	10.8	176	13.6	222					
+2015	"Lowell, Massachusetts"	21.6	239	28.5	316					
+2015	"Lauderhill, Florida"	13.8	99	16.1	115					
+2015	"Rialto, California"	10.1	105	13.4	139					
+2015	"Provo, Utah"	9	104	13.3	153					
+2015	"Akron, Ohio"	22.5	445	24.5	484					
+2015	"Berkeley, California"	14.3	172	21.6	260					
+2015	"Indio, California"	7.1	62	11.5	100					
+2015	"New Bedford, Massachusetts"	27.3	259	31.7	301					
+2015	"Columbia, Missouri"	13.2	157	16.1	191					
+2015	"Rogers, Arkansas"	16.2	102	22.8	143					
+2015	"Rochester, Minnesota"	11.9	134	16.3	184					
+2015	"Union City, California"	9.8	73	13	97					
+2015	"Salt Lake City, Utah"	22.6	433	27.6	530					
+2015	"Savannah-Chatham Metropolitan, Georgia"	22.9	551	32	768					
+2015	"Champaign, Illinois"	14.5	124	17.2	147					
+2015	"Santa Rosa, California"	9.3	163	13.7	241					
+2015	"Novato, California"	10.2	57	14.5	81					
+2015	"Waukesha, Wisconsin"	16.5	118	21.2	152					
+2015	"Florissant, Missouri"	16.6	87	20.8	109					
+2015	"Sunnyvale, California"	14	214	18.6	284					
+2015	"Springfield, Massachusetts"	29.6	456	36.1	556					
+2015	"Lakeland, Florida"	21.4	221	32.1	332					
+2015	"Troy, Michigan"	12	100	17.9	150					
+2015	"Bristol Township, Pennsylvania"	10.7	58	11.8	64					
+2015	"Clarksville, Tennessee"	19	285	23.4	351					
+2015	"Oak Lawn, Illinois"	19.1	109	21.9	125					
+2015	"Jackson Township, New Jersey"	13.9	79	17.1	97					
+2015	"Passaic, New Jersey"	21	151	24.9	179					
+2015	"Scottsdale, Arizona"	17.4	408	27.5	644					
+2015	"Peabody, Massachusetts"	16.5	87	20.1	106					
+2015	"Fort Collins, Colorado"	13.2	211	20.9	333					
+2015	"North Miami, Florida"	19.7	122	25.2	156					
+2015	"Waterloo, Iowa"	17.6	120	18.9	129					
+2015	"Battle Creek, Michigan"	18	110	20.6	126					
+2015	"Atlanta, Georgia"	38.3	"1,781"	47.7	"2,218"					
+2015	"Daytona Beach, Florida"	34.8	221	41.6	264					
+2015	"Salinas, California"	7.7	122	11.1	175					
+2015	"Independence, Missouri"	16.7	197	23.7	279					
+2015	"Toms River Township, New Jersey"	17.3	158	20.7	189					
+2015	"Burlington, North Carolina"	22.9	119	28.8	150					
+2015	"Fort Smith, Arkansas"	18.3	160	24.7	216					
+2015	"Centennial, Colorado"	11.4	124	14.5	158					
+2015	"Bowling Green, Kentucky"	17	108	22.4	142					
+2015	"Elk Grove, California"	7.5	124	12.3	205					
+2015	"Placentia, California"	8.7	46	11.8	62					
+2015	"Plainfield, New Jersey"	24.8	127	30.1	154					
+2015	"Sunrise, Florida"	19	177	24.5	228					
+2015	"Tampa, Florida"	26.3	960	33.5	"1,222"					
+2015	"Fayetteville, Arkansas"	14.2	117	19.5	161					
+2015	"Brentwood, California"	11.1	65	13.7	80					
+2015	"South Gate, California"	8.1	78	12.2	118					
+2015	"Mountain View, California"	11.2	90	16.5	133					
+2015	"Fall River, Massachusetts"	25.4	225	30.9	274					
+2015	"Grand Forks, North Dakota"	14.4	82	17.1	97					
+2015	"Everett, Washington"	17	183	20.4	220					
+2015	"Amherst Town, New York"	12.6	151	14.9	179					
+2015	"Lawton, Oklahoma"	17.6	170	24.3	235					
+2015	"Denton, Texas"	12.5	164	16.2	213					
+2015	"Westland, Michigan"	9.4	77	12.6	103					
+2015	"Evansville, Indiana"	23.8	287	26.4	318					
+2015	"Redwood City, California"	10.4	88	13.4	113					
+2015	"Lower Merion Township, Pennsylvania"	23.3	136	25.7	150					
+2015	"Kingsport, Tennessee"	21.8	116	29.6	157					
+2015	"Porterville, California"	10	56	14.3	80					
+2015	"Lenexa, Kansas"	16.6	86	24.5	127					
+2015	"Kentwood, Michigan"	13.6	70	15.8	81					
+2015	"West New York, New Jersey"	19.5	104	21.6	115					
+2015	"Madison, Wisconsin"	19.1	475	23.7	589					
+2015	"Irving, Texas"	14.5	342	21.3	504					
+2015	"Pueblo, Colorado"	17.6	191	22.2	242					
+2015	"Clinton Township, Michigan"	8.7	87	9.8	98					
+2015	"Canton, Ohio"	23.2	167	27.7	200					
+2015	"Plymouth, Minnesota"	9.3	71	11.2	85					
+2015	"Dearborn, Michigan"	20.1	191	24.9	236					
+2015	"Wilmington, Delaware"	43.4	313	52	375					
+2015	"Decatur, Alabama"	24	133	26.9	149					
+2015	"Albany, Georgia"	21.4	161	24.9	188					
+2015	"Hammond, Indiana"	27	210	30.3	236					
+2015	"Cheyenne, Wyoming"	16.2	103	19.2	122					
+2015	"Casa Grande, Arizona"	14.3	74	21.4	111					
+2015	"Palo Alto, California"	12.6	85	21	142					
+2015	"Bartlett, Tennessee"	19.8	116	25.4	149					
+2015	"Warren, Michigan"	14.6	197	17.4	235					
+2015	"Flower Mound, Texas"	11.6	82	17.3	123					
+2015	"Lakewood Township, New Jersey"	13.4	128	16.6	159					
+2015	"Oakland, California"	17.5	734	24.6	"1,034"					
+2015	"Evanston, Illinois"	21.1	160	29.6	225					
+2015	"Eden Prairie, Minnesota"	10.5	67	14.3	91					
+2015	"Parsippany-Troy Hills Township, New Jersey"	17.3	93	21.6	116					
+2015	"Santa Barbara, California"	13.9	128	21.7	199					
+2015	"Austin, Texas"	18.6	"1,750"	24.4	"2,290"					
+2015	"Owensboro, Kentucky"	16.4	96	22.7	133					
+2015	"Norwalk, Connecticut"	19.4	172	23.8	211					
+2015	"Whittier, California"	13.4	118	19.2	169					
+2015	"Hawthorne, California"	10.6	94	14.9	132					
+2015	"Upper Darby Township, Pennsylvania"	15.2	126	17.5	145					
+2015	"Alhambra, California"	9.9	85	14.9	128					
+2015	"Dayton, Ohio"	24	338	29.1	410					
+2015	"Cheektowaga Town, New York"	16.2	127	21	165					
+2015	"Odessa, Texas"	11.7	139	17.4	206					
+2015	"Colton, California"	9.4	51	14.3	78					
+2015	"Jersey City, New Jersey"	30.7	814	35.3	936					
+2015	"Taylor, Michigan"	12.1	74	15.3	94					
+2015	"Revere, Massachusetts"	18.6	102	21.5	118					
+2015	"Tustin, California"	11.1	91	17.1	140					
+2015	"Chesapeake, Virginia"	16.6	391	21.9	516					
+2015	"Waterbury, Connecticut"	25.8	281	30.4	331					
+2015	"Baton Rouge, Louisiana"	29.5	674	37.2	851					
+2015	"Norfolk, Virginia"	28.2	692	32	786					
+2015	"Rock Hill, South Carolina"	20.5	145	26.7	189					
+2015	"Milford, Connecticut"	20.2	108	23.9	128					
+2015	"Bellingham, Washington"	13.3	112	19.9	167					
+2015	"Miami, Florida"	25.9	"1,133"	33.3	"1,459"					
+2015	"Greenwood, Indiana"	9.9	55	11.7	65					
+2015	"Bismarck, North Dakota"	15.8	112	19.9	141					
+2015	"Watsonville, California"	12.3	66	16.4	88					
+2015	"Miramar, Florida"	14	194	18.7	258					
+2015	"Honolulu, Hawaii"	20	"1,995"	25.4	"2,539"					
+2015	"Portland, Maine"	24.1	161	32.5	217					
+2015	"Lewisville, Texas"	14.3	150	20.5	215					
+2015	"Bradenton, Florida"	22.4	120	27.4	147					
+2015	"Louisville Metro, Kentucky"	18.2	"1,241"	21.8	"1,487"					
+2015	"Colorado Springs, Colorado"	14	635	20.2	913					
+2015	"Philadelphia, Pennsylvania"	40.9	"6,413"	46.1	"7,229"					
+2015	"Bellevue, Washington"	12.2	169	15.4	213					
+2015	"Ramapo Town, New York"	11.1	101	13.6	123					
+2015	"Providence, Rhode Island"	23.6	423	28.5	511					
+2015	"Longview, Texas"	20.4	167	22.5	184					
+2015	"Knoxville, Tennessee"	21.4	397	26.4	491					
+2015	"Bakersfield, California"	10.4	388	14.5	542					
+2015	"Tinley Park, Illinois"	13.1	75	17.9	103					
+2015	"Greenville, South Carolina"	30.3	191	37.6	237					
+2015	"Amarillo, Texas"	17.2	342	19.7	392					
+2015	"Durham, North Carolina"	19.9	512	27	696					
+2015	"Denver, Colorado"	21.5	"1,468"	25.4	"1,735"					
+2015	"Danbury, Connecticut"	17.3	146	17.9	151					
+2015	"Plantation, Florida"	17.7	165	27.3	254					
+2015	"Oshkosh, Wisconsin"	14.8	99	17.1	114					
+2015	"Buckeye, Arizona"	14.1	87	18.6	115					
+2015	"Johnson City, Tennessee"	21.7	144	26.1	173					
+2015	"Lakewood, Washington"	16.3	98	18.8	113					
+2015	"Worcester, Massachusetts"	22.7	417	25.5	467					
+2015	"Mission, Texas"	16.9	141	22.6	189					
+2015	"Farmington Hills, Michigan"	12.5	102	16.6	136					
+2015	"Blaine, Minnesota"	9.2	57	11.7	73					
+2015	"Cary, North Carolina"	11.8	189	14.1	226					
+2015	"Port Orange, Florida"	14.8	88	17.2	102					
+2015	"Valdosta, Georgia"	23.7	135	27.7	158					
+2015	"Livonia, Michigan"	13.6	129	18.1	171					
+2015	"Greenville, North Carolina"	20.3	185	25.9	236					
+2015	"Schenectady, New York"	21.7	143	25.5	168					
+2015	"Carmel, Indiana"	12.7	112	15.3	135					
+2015	"Lexington, Kentucky"	16.1	506	18.5	581					
+2015	"Murfreesboro, Tennessee"	17.9	222	21.9	271					
+2015	"Lincoln, Nebraska"	11.7	324	17.4	481					
+2015	"Petaluma, California"	9.8	59	13.2	80					
+2015	"Union Township, New Jersey"	23.1	134	31.9	185					
+2015	"Eagan, Minnesota"	10.5	70	12.5	83					
+2015	"Grapevine, Texas"	16.9	88	25	130					
+2015	"Rowlett, Texas"	13.1	77	17.5	103					
+2015	"Kokomo, Indiana"	17.1	98	20.5	117					
+2015	"Roanoke, Virginia"	24.5	245	29.3	292					
+2015	"Apple Valley, Minnesota"	10	51	11.6	59					
+2015	"La Habra, California"	10.7	67	15.8	99					
+2015	"Wichita, Kansas"	15.3	598	20	780					
+2015	"Loveland, Colorado"	12.4	92	18.6	138					
+2015	"Youngstown, Ohio"	24.5	158	31.4	203					
+2015	"New Brunswick, New Jersey"	24.1	139	29.5	170					
+2015	"Arcadia, California"	11.6	68	15.8	93					
+2015	"Appleton, Wisconsin"	14.9	111	18.3	136					
+2015	"Montebello, California"	10.6	68	16	103					
+2015	"Lodi, California"	11	71	15.8	102					
+2015	"Montgomery, Alabama"	24.9	495	32.7	651					
+2015	"St. Clair Shores, Michigan"	13.6	82	14.3	86					
+2015	"Brick Township, New Jersey"	17.5	133	25.2	192					
+2015	"El Monte, California"	9.1	107	12.6	148					
+2015	"North Richland Hills, Texas"	15.5	108	26.1	182					
+2015	"Redondo Beach, California"	12.4	85	20.3	139					
+2015	"Kennewick, Washington"	11.8	92	13.6	106					
+2015	"Kenner, Louisiana"	23.1	155	34.4	231					
+2015	"Auburn, Washington"	13.6	106	16.2	126					
+2015	"Richmond, California"	16.1	177	24.2	265					
+2015	"Rockford, Illinois"	18.9	280	21.3	315					
+2015	"Port St. Lucie, Florida"	12.7	224	16.4	289					
+2015	"Turlock, California"	10.3	74	15.4	111					
+2015	"Bridgeport, Connecticut"	24	356	27.5	408					
+2015	"Pasco, Washington"	9.8	69	11.5	81					
+2015	"Clearwater, Florida"	21	234	29.3	326					
+2015	"Southfield, Michigan"	16.6	122	20.9	153					
+2015	"Oklahoma City, Oklahoma"	17.1	"1,081"	21.6	"1,362"					
+2015	"Woodbury, Minnesota"	10.1	69	11.6	79					
+2015	"Mobile, Alabama"	20.4	510	27.7	694					
+2015	"Costa Mesa, California"	10	114	15.6	177					
+2015	"Redlands, California"	11.1	79	16.2	115					
+2015	"Omaha, Nebraska"	18.3	826	21.3	963					
+2015	"Greece Town, New York"	10.1	98	10.7	104					
+2015	"Buffalo, New York"	28.1	724	35.3	910					
+2015	"St. Cloud, Minnesota"	15	100	18.9	126					
+2015	"Lynchburg, Virginia"	20.7	165	24.6	196					
+2015	"Tracy, California"	9.6	83	14.1	122					
+2015	"Orland Park, Illinois"	17.1	101	21.5	127					
+2015	"South Jordan, Utah"	7.7	51	8.9	59					
+2015	"Conway, Arkansas"	16.9	111	23.6	155					
+2015	"North Little Rock, Arkansas"	26.3	179	31.1	211					
+2015	"Tallahassee, Florida"	18.7	354	22.2	422					
+2015	"Newport News, Virginia"	22.7	416	30.7	562					
+2015	"Grand Prairie, Texas"	13.1	246	19.5	366					
+2015	"Parker, Colorado"	12.3	63	18.6	95					
+2015	"Aurora, Colorado"	18.9	680	22.7	817					
+2015	"Santa Maria, California"	10.9	114	15.6	163					
+2015	"Mesquite, Texas"	15.7	229	20.7	302					
+2015	"St. Louis, Missouri"	38.8	"1,230"	55.4	"1,757"					
+2015	"Ocala, Florida"	28.5	165	40.6	235					
+2015	"Bloomington, Indiana"	11.3	95	17.9	150					
+2015	"Decatur, Illinois"	22.2	163	26.3	193					
+2015	"St. Charles, Missouri"	15.9	109	21.9	150					
+2015	"West Sacramento, California"	11	58	14.4	76					
+2015	"Reno, Nevada"	12.3	295	14.5	347					
+2015	"Moore, Oklahoma"	14.6	88	15.5	93					
+2015	"Janesville, Wisconsin"	15.6	100	17.6	113					
+2015	"Sparks, Nevada"	10.9	104	15.3	147					
+2015	"Lehi, Utah"	8	47	9.1	53					
+2015	"York Area Regional, Pennsylvania"	8	44	8.7	48					
+2015	"Elgin, Illinois"	16.3	182	21	235					
+2015	"Joliet, Illinois"	18.4	272	22.9	339					
+2015	"Beaverton, Oregon"	13.7	132	17.8	172					
+2015	"Virginia Beach, Virginia"	17	772	21	953					
+2015	"Huntington Park, California"	9.4	56	15.1	90					
+2015	"Rochester, New York"	34	713	39.7	834					
+2015	"Enid, Oklahoma"	16.8	87	21	109					
+2015	"Muncie, Indiana"	14.2	100	15	105					
+2015	"Cedar Rapids, Iowa"	16.3	212	21.6	280					
+2015	"Hamilton Township, Mercer County, New Jersey"	18.6	166	22.7	202					
+2015	"Sioux City, Iowa"	15	124	18.1	149					
+2015	"Irvine, California"	7.9	203	11.5	298					
+2015	"Davis, California"	8.4	56	13.7	92					
+2015	"Madera, California"	8.7	56	11.5	74					
+2015	"Coral Gables, Florida"	32.7	171	43.8	229					
+2015	"New Haven, Connecticut"	32.6	425	36.8	480					
+2015	"Davie, Florida"	17.5	176	24.3	244					
+2015	"Brockton, Massachusetts"	19.3	183	21.4	203					
+2015	"West Bloomfield Township, Michigan"	10.9	72	14.8	98					
+2015	"Bloomington, Minnesota"	13.3	116	16.8	146					
+2015	"Toledo, Ohio"	22.5	629	24.5	686					
+2015	"Hendersonville, Tennessee"	18.7	105	23.3	131					
+2015	"Pasadena, Texas"	17.5	272	22	341					
+2015	"Eugene, Oregon"	11.3	183	19.3	312					
+2015	"Springfield, Illinois"	20.6	241	23.1	270					
+2015	"Manchester, New Hampshire"	19.5	216	24.6	272					
+2015	"Huntersville, North Carolina"	15.9	84	17.2	91					
+2015	"Cherry Hill Township, New Jersey"	18.2	130	22.1	158					
+2015	"Abilene, Texas"	17.4	212	22.7	277					
+2015	"Fresno, California"	13.5	702	18.4	959					
+2015	"Franklin Township, Somerset County, New Jersey"	15.6	104	18.6	124					
+2015	"Bryan, Texas"	16.6	136	20.7	170					
+2015	"West Des Moines, Iowa"	10	65	12.8	83					
+2015	"Memphis, Tennessee"	31	"2,040"	36.3	"2,389"					
+2015	"Corona, California"	9.6	157	13.6	222					
+2015	"Dothan, Alabama"	23.6	163	34.2	236					
+2015	"New Rochelle, New York"	19.8	159	27	217					
+2015	"Murrieta, California"	7.8	85	11.5	126					
+2015	"Brookline, Massachusetts"	21.7	129	25.7	153					
+2015	"Quincy, Massachusetts"	22.1	207	25.5	239					
+2015	"Northern York Regional, Pennsylvania"	7.2	49	7.7	53					
+2015	"Spokane, Washington"	14.5	309	18.8	399					
+2015	"Grand Rapids, Michigan"	14.6	285	18.6	364					
+2015	"College Station, Texas"	12.8	135	17.9	190					
+2015	"East Hartford, Connecticut"	23.3	119	30.4	155					
+2015	"Gresham, Oregon"	10.7	119	13.4	149					
+2015	"Reading, Pennsylvania"	18.2	160	21.2	186					
+2015	"Jonesboro, Arkansas"	21	154	22.8	167					
+2015	"Lynn, Massachusetts"	20	185	21.9	203					
+2015	"Hartford, Connecticut"	33.2	413	36.8	458					
+2015	"Burbank, California"	13.8	146	21.3	226					
+2015	"Missoula, Montana"	14.6	103	17.7	125					
+2015	"Utica, New York"	26.5	162	29	177					
+2015	"Meriden, Connecticut"	20.3	122	22.1	133					
+2015	"Stratford, Connecticut"	19.4	103	20.2	107					
+2015	"Sandy, Utah"	11.6	107	15	138					
+2015	"Castle Rock, Colorado"	11.4	66	15.6	90					
+2015	"Burnsville, Minnesota"	11.8	73	14	87					
+2015	"Westminster, Colorado"	15.9	180	22.5	256					
+2015	"Delray Beach, Florida"	23.3	154	32.2	213					
+2015	"Fairfield, California"	10.3	116	15.8	178					
+2015	"Fort Wayne, Indiana"	17.4	451	19.7	511					
+2015	"Edinburg, Texas"	16.8	143	23.3	198					
+2015	"Cedar Park, Texas"	12.4	83	16.8	112					
+2015	"Mount Prospect, Illinois"	15.4	85	18.7	103					
+2015	"Colonie Town, New York"	13.6	108	18.5	147					
+2015	"Rocklin, California"	8.8	54	13.3	81					
+2015	"Tulare, California"	11.4	71	17.4	109					
+2015	"Sioux Falls, South Dakota"	13.6	234	15.6	268					
+2015	"Livermore, California"	9.7	86	14.8	131					
+2015	"Fargo, North Dakota"	13.2	156	15.2	180					
+2015	"Fontana, California"	8.9	185	13.2	274					
+2015	"Corvallis, Oregon"	9.8	54	16.7	92					
+2015	"Orem, Utah"	8.7	81	12.7	118					
+2015	"Duluth, Minnesota"	17.5	151	20.4	176					
+2015	"Burien, Washington"	10.3	52	14.2	72					
+2015	"Springdale, Arkansas"	17.6	137	23.8	186					
+2015	"Edison Township, New Jersey"	16.6	170	21.3	218					
+2015	"Minnetonka, Minnesota"	10.4	54	13.5	70					
+2015	"Berwyn, Illinois"	19.2	109	27.3	155					
+2015	"Overland Park, Kansas"	13.2	247	15.8	295					
+2015	"San Francisco, California"	25.9	"2,236"	31.4	"2,711"					
+2015	"Nashua, New Hampshire"	19.7	172	27	236					
+2015	"Coral Springs, Florida"	15.6	202	23	298					
+2015	"Frederick, Maryland"	21	145	26.7	185					
+2015	"West Jordan, Utah"	9.3	105	12.4	140					
+2015	"Pittsburg, California"	11	76	13.8	96					
+2015	"Chicopee, Massachusetts"	24.7	138	25.7	144					
+2015	"Merced, California"	9.7	80	14	115					
+2015	"San Jose, California"	9.1	939	12.8	"1,325"					
+2015	"Broken Arrow, Oklahoma"	11.9	126	17	180					
+2015	"Surprise, Arizona"	10	128	14	180					
+2015	"La Mesa, California"	10.6	63	15.4	92					
+2015	"Leesburg, Virginia"	15	77	17.8	91					
+2015	"Charleston, South Carolina"	33.1	439	40.2	533					
+2015	"San Rafael, California"	10.6	63	14.4	86					
+2015	"Garden Grove, California"	8.7	154	12.3	217					
+2015	"San Mateo, California"	10.5	109	13.7	143					
+2015	"Wyoming, Michigan"	11.1	84	13.1	99					
+2015	"Irondequoit Town, New York"	9.9	51	11.9	61					
+2015	"Greenwich, Connecticut"	24.1	152	28.4	179					
+2015	"Grand Island, Nebraska"	16.8	87	20.1	104					
+2015	"Gastonia, North Carolina"	21.8	162	24.8	184					
+2015	"Carlsbad, California"	9.2	105	13.3	152					
+2015	"Schaumburg, Illinois"	14.1	106	18.8	141					
+2015	"Howell Township, New Jersey"	16.9	88	20	104					
+2015	"Pittsburgh, Pennsylvania"	28.4	872	30.9	948					
+2015	"Henderson, Nevada"	11.8	334	20.2	570					
+2015	"South Bend, Indiana"	24.1	244	28.8	292					
+2015	"Columbus, Ohio"	21.9	"1,855"	26	"2,205"					
+2015	"San Bernardino, California"	9.9	214	18.2	394					
+2015	"Allentown, Pennsylvania"	17.7	211	19.5	233					
+2015	"Largo, Florida"	17.8	141	22.3	177					
+2015	"Kalamazoo, Michigan"	28.7	219	34.6	264					
+2015	"San Marcos, Texas"	15.7	99	21.9	138					
+2015	"Napa, California"	8.9	72	14.1	114					
+2015	"Brookhaven, Georgia"	13.4	69	14.7	76					
+2015	"Nampa, Idaho"	12.4	111	17.9	161					
+2015	"Detroit, Michigan"	33.5	"2,255"	36.2	"2,436"					
+2015	"White Plains, New York"	32.8	191	34.6	202					
+2015	"Bayonne, New Jersey"	27	180	43.9	292					
+2015	"Abington Township, Montgomery County, Pennsylvania"	16	89	20.4	114					
+2015	"St. Joseph, Missouri"	16.2	125	21.9	169					
+2015	"Redding, California"	10.6	98	14	129					
+2015	"Wilmington, North Carolina"	22.4	258	28.2	325					
+2015	"Royal Oak, Michigan"	12.6	75	14.8	88					
+2015	"St. George, Utah"	13.8	110	20	160					
+2015	"Baldwin Park, California"	8.4	65	11.9	92					
+2015	"Upland, California"	8.7	67	11.9	91					
+2015	"Salem, Oregon"	11.4	187	19.2	313					
+2015	"San Leandro, California"	10.1	91	14.8	134					
+2015	"Arvada, Colorado"	14	162	19.8	228					
+2015	"Hampton, Virginia"	21	287	29.3	400					
+2015	"Newport Beach, California"	15.8	139	24.7	217					
+2015	"Allen, Texas"	13	126	18	174					
+2015	"Glendora, California"	9.3	48	15.7	81					
+2015	"Chattanooga, Tennessee"	24.7	433	30.8	539					
+2015	"Glendale, Arizona"	17.1	412	22.3	535					
+2015	"Boca Raton, Florida"	17.9	166	27.5	256					
+2015	"Midland, Texas"	12.5	166	16.1	213					
+2015	"Flint, Michigan"	10	98	11.5	113					
+2015	"Rapid City, South Dakota"	16.7	123	20.5	151					
+2015	"Marysville, Washington"	9.2	61	13	86					
+2015	"Tulsa, Oklahoma"	19.2	769	23.2	931					
+2015	"Albany, Oregon"	11.5	60	17	89					
+2015	"Tigard, Oregon"	13.2	68	16.1	83					
+2015	"Richmond, Virginia"	33.2	732	40.1	885					
+2015	"Sammamish, Washington"	5.2	27	6.3	33					
+2015	"Mount Pleasant, South Carolina"	17.3	139	20	161					
+2015	"O'Fallon, Missouri"	13.4	114	17.4	148					
+2015	"West Covina, California"	8.2	89	13.8	150					
+2015	"Paterson, New Jersey"	27.4	401	40.5	593					
+2015	"Citrus Heights, California"	9.9	86	15.2	132					
+2015	"Springfield, Oregon"	10.9	66	16.4	99					
+2015	"East Orange, New Jersey"	33.6	219	41.7	272					
+2015	"Roswell, Georgia"	14.5	138	20.3	194					
+2015	"Wichita Falls, Texas"	17.4	183	26	274					
+2015	"Roseville, California"	9.8	128	14.3	187					
+2015	"Meridian, Idaho"	9.9	90	12.3	112					
+2015	"Lubbock, Texas"	15.7	388	20.5	506					
+2015	"Warner Robins, Georgia"	12.9	96	18.4	137					
+2015	"National City, California"	13.3	81	18.4	112					
+2015	"Woodland, California"	10.7	62	13.3	77					
+2015	"Inglewood, California"	15.4	173	20	225					
+2015	"Maple Grove, Minnesota"	9.5	65	11.4	78					
+2015	"Greeley, Colorado"	14.4	144	20	200					
+2015	"Davenport, Iowa"	15.3	158	17.8	184					
+2015	"Hamilton, Ohio"	17.6	110	18.9	118					
+2015	"Homestead, Florida"	16.8	112	22.8	152					
+2015	"Racine, Wisconsin"	25	195	28.9	225					
+2015	"Waco, Texas"	18	237	25	329					
+2015	"Fort Lauderdale, Florida"	27.9	499	36.5	651					
+2015	"Lakewood, Colorado"	17.8	270	28.4	429					
+2015	"Chula Vista, California"	8.2	217	11.4	303					
+2015	"Coconut Creek, Florida"	16.2	97	21.7	130					
+2015	"Washington, DC"	56.9	"3,826"	66.7	"4,487"					
