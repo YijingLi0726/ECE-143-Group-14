@@ -1,0 +1,204 @@
+Police_Department,Officers,Population,County
+"Burlingame, California",36,30769.23077,San Mateo County
+"Brentwood, California",62,60784.31373,Contra Costa County
+"Inglewood, California",175,112179.4872,Los Angeles County
+"Stockton, California",412,307462.6866,San Joaquin County
+"Montclair, California",47,39166.66667,San Bernardino County
+"Woodland, California",61,59223.30097,Yolo County
+"Huntington Beach, California",214,203809.5238,Orange County
+"Santa Rosa, California",172,175510.2041,Sonoma County
+"Modesto, California",214,211881.1881,Stanislaus County
+"Chico, California",86,91489.3617,Butte County
+"Hemet, California",62,84931.50685,Riverside County
+"Yuba City, California",52,67532.46753,Sutter County
+"Santa Monica, California",204,94009.21659,Los Angeles County
+"San Luis Obispo, California",55,47826.08696,San Luis Obispo County
+"El Centro, California",48,44036.69725,Imperial County
+"Fairfield, California",114,114000.0,Solano County
+"Oceanside, California",204,177391.3043,San Diego County
+"South Pasadena, California",35,26315.78947,Los Angeles County
+"Buena Park, California",81,83505.15464,Orange County
+"Glendale, California",232,203508.7719,Los Angeles County
+"Redlands, California",80,71428.57143,San Bernardino County
+"Martinez, California",33,38372.09302,Contra Costa County
+"Monterey Park, California",69,61607.14286,Los Angeles County
+"Paso Robles, California",31,31958.76289,San Luis Obispo County
+"Whittier, California",120,87591.24088,Los Angeles County
+"Morgan Hill, California",39,43820.22472,Santa Clara County
+"Glendora, California",51,52577.31959,Los Angeles County
+"Carlsbad, California",103,114444.4444,San Diego County
+"Corona, California",158,166315.7895,Riverside County
+"Pacifica, California",33,39759.03614,San Mateo County
+"West Covina, California",93,109411.7647,Los Angeles County
+"Santa Barbara, California",140,92715.23179,Santa Barbara County
+"San Leandro, California",90,91836.73469,Alameda County
+"Rohnert Park, California",59,42753.62319,Sonoma County
+"Culver City, California",100,39840.63745,Los Angeles County
+"Santa Paula, California",30,30927.83505,Ventura County
+"South Pasadena, California",35,26315.78947,Los Angeles County
+"Pasadena, California",234,143558.2822,Los Angeles County
+"Gilroy, California",62,53913.04348,Santa Clara County
+"Cypress, California",53,49532.71028,Orange County
+"Salinas, California",134,159523.8095,Monterey County
+"Napa, California",69,81176.47059,Napa County
+"Anaheim, California",408,354782.6087,Orange County
+"Watsonville, California",68,53968.25397,Santa Cruz County
+"Downey, California",106,115217.3913,Los Angeles County
+"Redwood City, California",91,86666.66667,San Mateo County
+"Cathedral City, California",49,54444.44444,Riverside County
+"Galt, California",33,25581.39535,Sacramento County
+"Riverside, California",350,327102.8037,Riverside County
+"La Habra, California",69,62727.27273,Los Angeles County
+"San Bernardino, California",215,217171.7172,San Bernardino County
+"Sacramento, California",652,493939.3939,Sacramento County
+"West Sacramento, California",69,53488.37209,Sacramento County
+"Huntington Park, California",51,60000.0,Los Angeles County
+"Vallejo, California",110,122222.2222,Solano County
+"Richmond, California",177,110625.0,Contra Costa County
+"Santa Cruz, California",93,65034.96503,Santa Cruz County
+"Placentia, California",45,52941.17647,Orange County
+"West Sacramento, California",69,53488.37209,Yolo County
+"Manteca, California",59,76623.37662,San Joaquin County
+"Santa Maria, California",111,105714.2857,Santa Barbara County
+"Ceres, California",46,48421.05263,Stanislaus County
+"Claremont, California",37,36633.66337,Los Angeles County
+"Redding, California",98,91588.78505,Shasta County
+"Hollister, California",27,38028.16901,San Benito County
+"Baldwin Park, California",65,77380.95238,Los Angeles County
+"Upland, California",69,76666.66667,San Bernardino County
+"Beverly Hills, California",117,35029.94012,Los Angeles County
+"Benicia, California",33,28448.27586,Solano County
+"San Diego, California","1,815",1417968.75,San Diego County
+"Milpitas, California",85,80188.67925,Santa Clara County
+"Santa Clara, California",144,128571.4286,Santa Clara County
+"Hawthorne, California",88,88888.88889,Los Angeles County
+"San Bruno, California",49,43750.0,San Mateo County
+"Fresno, California",748,523076.9231,Fresno County
+"Visalia, California",135,131067.9612,Tulare County
+"Westminster, California",79,92941.17647,Orange County
+"Campbell, California",42,41584.15842,Santa Clara County
+"Brea, California",61,42361.11111,Orange County
+"Redondo Beach, California",92,68656.71642,Los Angeles County
+"Atwater, California",27,29347.82609,Merced County
+"Alameda, California",81,79411.76471,Alameda County
+"Paradise, California",19,26388.88889,Butte County
+"Tulare, California",72,63157.89474,Tulare County
+"Garden Grove, California",159,176666.6667,Orange County
+"Alhambra, California",84,85714.28571,Los Angeles County
+"Lompoc, California",45,44554.45545,Santa Barbara County
+"Hayward, California",194,161666.6667,Alameda County
+"Ridgecrest, California",32,29090.90909,Kern County
+"Long Beach, California",806,476923.0769,Los Angeles County
+"Chino, California",107,86991.86992,San Bernardino County
+"Eureka, California",47,27011.49425,Humboldt County
+"Manhattan Beach, California",66,35869.56522,Los Angeles County
+"Clovis, California",100,106382.9787,Fresno County
+"La Verne, California",40,33057.85124,Los Angeles County
+"Atascadero, California",28,30107.52688,San Luis Obispo County
+"Murrieta, California",89,111250.0,Riverside County
+"Los Angeles, California","9,850",4004065.041,Los Angeles County
+"Newport Beach, California",140,87500.0,Orange County
+"Sanger, California",33,25000.0,Fresno County
+"East Palo Alto, California",33,30000.0,San Mateo County
+"Irvine, California",213,266250.0,Orange County
+"Banning, California",27,31034.48276,Riverside County
+"Arcadia, California",66,58928.57143,Los Angeles County
+"Ontario, California",254,172789.1156,San Bernardino County
+"Petaluma, California",58,61052.63158,Sonoma County
+"Ventura, California",125,110619.469,Ventura County
+"Pleasant Hill, California",41,35042.73504,Contra Costa County
+"Gardena, California",95,60897.4359,Los Angeles County
+"Hanford, California",53,55789.47368,Kings County
+"Los Gatos, California",37,30833.33333,Santa Clara County
+"Mountain View, California",86,81904.7619,Santa Clara County
+"National City, California",86,61428.57143,San Diego County
+"Colton, California",46,55421.68675,San Bernardino County
+"Desert Hot Springs, California",24,28571.42857,Riverside County
+"Oxnard, California",227,208256.8807,Ventura County
+"Los Altos, California",27,31034.48276,Santa Clara County
+"San Pablo, California",46,30666.66667,Contra Costa County
+"El Cerrito, California",40,25157.2327,Contra Costa County
+"Davis, California",60,68181.81818,Yolo County
+"Indio, California",63,88732.39437,Riverside County
+"Lincoln, California",20,47619.04762,Placer County
+"Monterey Park, California",69,61607.14286,Los Angeles County
+"Monterey, California",43,28476.82119,Los Angeles County
+"Santa Ana, California",310,336956.5217,Orange County
+"Oakland, California",750,426136.3636,Alameda County
+"Merced, California",89,83177.57009,Merced County
+"Brawley, California",36,26086.95652,Imperial County
+"Azusa, California",57,50442.47788,Los Angeles County
+"Chula Vista, California",225,271084.3373,San Diego County
+"South San Francisco, California",80,67796.61017,San Mateo County
+"Lemoore, California",31,25833.33333,Kings County
+"Roseville, California",125,132978.7234,Placer County
+"Palm Springs, California",88,47826.08696,Riverside County
+"Sunnyvale, California",209,153676.4706,Santa Clara County
+"Fremont, California",180,236842.1053,Alameda County
+"South San Francisco, California",80,67796.61017,San Francisco County
+"San Francisco, California","2,296",869696.9697,San Francisco County
+"East Palo Alto, California",33,30000.0,San Mateo County
+"Palo Alto, California",79,67521.36752,San Mateo County
+"Rialto, California",105,103960.396,San Bernardino County
+"Pleasanton, California",77,81052.63158,Alameda County
+"Calexico, California",23,40350.87719,Imperial County
+"Costa Mesa, California",112,114285.7143,Orange County
+"Escondido, California",156,152941.1765,San Diego County
+"Daly City, California",100,107526.8817,San Mateo County
+"Rocklin, California",55,61797.75281,Placer County
+"Concord, California",150,130434.7826,Contra Costa County
+"Seaside, California",37,34905.66038,Monterey County
+"San Jose, California",939,1043333.333,Santa Clara County
+"San Ramon, California",65,76470.58824,Contra Costa County
+"El Cajon, California",121,104310.3448,San Diego County
+"Elk Grove, California",128,170666.6667,Sacramento County
+"La Mesa, California",68,60714.28571,San Diego County
+"Antioch, California",95,111764.7059,Contra Costa County
+"Menlo Park, California",47,33812.94964,San Mateo County
+"Turlock, California",78,72897.19626,Stanislaus County
+"Fontana, California",185,210227.2727,San Bernardino County
+"Foster City, California",36,33962.26415,San Mateo County
+"Beaumont, California",38,45238.09524,Riverside County
+"San Fernando, California",27,25233.64486,Los Angeles County
+"South Gate, California",79,96341.46341,Los Angeles County
+"Hercules, California",20,25641.02564,Contra Costa County
+"Los Banos, California",37,37755.10204,Merced County
+"Lodi, California",67,65048.54369,San Joaquin County
+"Orange, California",143,141584.1584,Fresno County
+"Fullerton, California",141,142424.2424,Orange County
+"Fountain Valley, California",59,57281.5534,Orange County
+"Burbank, California",154,105479.4521,Los Angeles County
+"Tustin, California",87,81308.41121,Orange County
+"Berkeley, California",175,122377.6224,Alameda County
+"Citrus Heights, California",88,88000.0,Sacramento County
+"Delano, California",50,52631.57895,Kern County
+"Simi Valley, California",122,127083.3333,Ventura County
+"Livermore, California",89,89898.9899,Alameda County
+"Folsom, California",70,76923.07692,Sacramento County
+"Tracy, California",85,87628.86598,San Joaquin County
+"West Covina, California",93,109411.7647,Los Angeles County
+"Covina, California",59,49166.66667,Los Angeles County
+"Bell Gardens, California",50,43478.26087,Los Angeles County
+"Central Marin, California",41,35344.82759,Marin County
+"Reedley, California",27,25714.28571,Fresno County
+"Montebello, California",66,64077.6699,Los Angeles County
+"Walnut Creek, California",85,69672.13115,Contra Costa County
+"San Gabriel, California",49,40495.86777,Los Angeles County
+"Torrance, California",208,148571.4286,Los Angeles County
+"Porterville, California",60,56603.77358,Kings County
+"Newark, California",55,45833.33333,Alameda County
+"Vacaville, California",99,98019.80198,Solano County
+"El Monte, California",108,117391.3043,Los Angeles County
+"Union City, California",75,75757.57576,Alameda County
+"Novato, California",56,56000.0,Marin County
+"San Mateo, California",111,104716.9811,San Mateo County
+"Pittsburg, California",77,70642.20183,Contra Costa County
+"Pomona, California",154,154000.0,Los Angeles County
+"Bakersfield, California",390,378640.7767,Kern County
+"Suisun, California",21,29577.46479,Solano County
+"Belmont, California",30,27522.93578,San Mateo County
+"Monrovia, California",51,37500.0,Los Angeles County
+"Bell Gardens, California",50,43478.26087,Los Angeles County
+"Bell, California",33,36263.73626,Los Angeles County
+"San Rafael, California",65,59633.02752,Marin County
+"Madera, California",60,64516.12903,Madera County

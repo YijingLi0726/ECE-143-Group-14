@@ -1,0 +1,320 @@
+,Year,County,NCICCode,Violent_sum,Homicide_sum,ForRape_sum,Robbery_sum,AggAssault_sum,Property_sum,Burglary_sum,VehicleTheft_sum,LTtotal_sum
+0,2016,San Mateo County,Burlingame,62,1,13,18,30,1050,229,133,688
+1,2016,Contra Costa County,Brentwood,130,0,17,50,63,1285,146,159,980
+2,2016,Los Angeles County,Inglewood,830,16,56,406,352,2456,437,790,1229
+3,2016,San Joaquin County,Stockton,4381,49,128,1185,3019,11634,2251,1833,7550
+4,2016,San Joaquin County,Stockton Unified School,38,0,2,16,20,239,90,3,146
+5,2016,San Bernardino County,Montclair,210,0,32,63,115,1713,326,409,978
+6,2016,Yolo County,Woodland,218,3,14,54,147,1522,221,264,1037
+7,2016,Orange County,Huntington Beach,362,2,55,76,229,4527,650,411,3466
+8,2016,Sonoma County,Santa Rosa,658,5,94,121,438,3010,516,407,2087
+9,2016,Stanislaus County,Modesto,2104,13,103,481,1507,9324,1421,1553,6350
+10,2016,Butte County,Chico,293,0,66,57,170,3290,499,455,2336
+11,2016,Butte County,CSU Chico,8,0,6,1,1,256,12,11,233
+12,2016,Riverside County,Hemet,614,5,41,170,398,3391,764,623,2004
+13,2016,Sutter County,Yuba City,272,8,24,76,164,2030,406,235,1389
+14,2016,Los Angeles County,Santa Monica,475,2,40,189,244,4039,623,236,3180
+15,2016,San Luis Obispo County,San Luis Obispo Co. Sheriff's Department,356,0,21,16,319,1384,441,23,920
+16,2016,San Luis Obispo County,San Luis Obispo,178,0,39,21,118,2076,251,95,1730
+17,2016,San Luis Obispo County,Cal Poly San Luis Obispo,12,0,10,1,1,136,10,1,125
+18,2016,San Luis Obispo County,San Luis Obispo Coast DPR,1,0,0,0,1,26,1,1,24
+19,2016,San Luis Obispo County,Union Pacific RR - San Luis Obispo,0,0,0,0,0,2,0,0,2
+20,2016,San Luis Obispo County,CA Highway Patrol - San Luis Obispo,0,0,0,0,0,158,0,157,1
+21,2016,Imperial County,El Centro,205,1,19,55,130,2314,506,139,1669
+22,2016,Solano County,Fairfield,476,7,56,147,266,2845,420,537,1888
+23,2016,San Diego County,Oceanside,639,8,56,172,403,4364,607,481,3276
+24,2016,Los Angeles County,South Pasadena,27,0,7,10,10,667,162,58,447
+25,2016,Orange County,Buena Park,249,1,16,78,154,2588,322,375,1891
+26,2016,Los Angeles County,Glendale,227,1,38,84,104,3450,596,363,2491
+27,2016,San Bernardino County,Redlands,225,0,37,76,112,2913,501,398,2014
+28,2016,Contra Costa County,Martinez,51,0,3,21,27,858,112,324,422
+29,2016,Los Angeles County,Monterey Park,131,1,8,59,63,1704,460,246,998
+30,2016,San Luis Obispo County,Paso Robles,67,0,8,20,39,977,144,95,738
+31,2016,Los Angeles County,Whittier,258,2,21,97,138,2790,467,390,1933
+32,2016,Santa Clara County,Morgan Hill,82,0,3,21,58,642,111,113,418
+33,2016,Los Angeles County,Glendora,70,0,4,16,50,1361,253,72,1036
+34,2016,San Diego County,Carlsbad,209,0,37,49,123,2188,369,167,1652
+35,2016,Riverside County,Corona,185,3,39,74,69,3693,741,716,2236
+36,2016,San Diego County,Coronado,26,0,5,3,18,380,36,32,312
+37,2016,San Mateo County,Pacifica,65,0,15,11,39,492,89,40,363
+38,2016,Los Angeles County,West Covina,265,4,18,110,133,2811,519,498,1794
+39,2016,Santa Barbara County,Santa Barbara Co. Sheriff's Department,265,4,49,32,180,1639,476,17,1146
+40,2016,Santa Barbara County,Santa Barbara,397,0,87,82,228,3060,433,199,2428
+41,2016,Santa Barbara County,Union Pacific RR - Santa Barbara,0,0,0,0,0,2,0,0,2
+42,2016,Santa Barbara County,UC Santa Barbara,48,0,22,2,24,288,27,2,259
+43,2016,Santa Barbara County,CA Highway Patrol - Santa Barbara,0,0,0,0,0,210,0,148,62
+44,2016,Alameda County,San Leandro,487,3,31,280,173,3530,499,961,2070
+45,2016,Sonoma County,Rohnert Park,204,0,31,20,153,743,117,88,538
+46,2016,Los Angeles County,Culver City,213,0,3,137,73,2060,304,157,1599
+47,2016,Ventura County,Santa Paula,80,2,9,26,43,343,76,49,218
+48,2016,Los Angeles County,Pasadena Community. College,4,0,0,1,3,83,1,1,81
+49,2016,Los Angeles County,Pasadena,477,2,46,164,265,3446,861,324,2261
+50,2016,Los Angeles County,South Pasadena,27,0,7,10,10,667,162,58,447
+51,2016,Santa Clara County,Gilroy,182,0,30,57,95,1742,255,355,1132
+52,2016,Orange County,Cypress,62,1,6,22,33,782,148,109,525
+53,2016,Monterey County,Salinas,1005,35,86,325,559,4742,695,1563,2484
+54,2016,Napa County,Napa Co. Sheriff's Department,61,0,7,8,46,270,93,2,175
+55,2016,Napa County,Napa,296,1,38,47,210,1579,437,129,1013
+56,2016,Napa County,Union Pacific RR - Napa,0,0,0,0,0,0,0,0,0
+57,2016,Napa County,Napa State Hospital,149,0,3,0,146,8,2,0,6
+58,2016,Napa County,CA Highway Patrol - Napa,0,0,0,0,0,19,0,15,4
+59,2016,Orange County,Anaheim,1209,7,123,390,689,9617,1469,1384,6764
+60,2016,Santa Cruz County,Watsonville,238,0,26,46,166,1738,214,506,1018
+61,2016,Los Angeles County,Downey,373,1,22,188,162,3371,527,766,2078
+62,2016,San Mateo County,Redwood City,164,0,43,44,77,1503,260,156,1087
+63,2016,Riverside County,Cathedral City,152,5,18,51,78,1097,275,393,429
+64,2016,Sacramento County,Galt,76,0,8,11,57,579,120,55,404
+65,2016,Riverside County,Riverside Co. Sheriff's Department,841,28,56,177,580,7651,1695,1326,4630
+66,2016,Riverside County,Riverside,1724,10,141,586,987,11266,1977,1934,7355
+67,2016,Riverside County,Union Pacific RR - Riverside,2,0,0,0,2,18,7,0,11
+68,2016,Riverside County,Riverside Community College,0,0,0,0,0,88,7,12,69
+69,2016,Riverside County,UC Riverside,8,0,2,4,2,289,23,17,249
+70,2016,Riverside County,CA Highway Patrol - Riverside,15,0,0,1,14,121,8,86,27
+71,2016,Los Angeles County,La Habra Heights,4,0,0,2,2,109,37,8,64
+72,2016,Orange County,La Habra,102,1,8,35,58,1352,237,160,955
+73,2016,San Bernardino County,San Bernardino Co. Sheriff's Department,924,12,88,151,673,5235,1525,1197,2513
+74,2016,San Bernardino County,San Bernardino,2878,62,123,903,1790,9178,2353,2597,4228
+75,2016,San Bernardino County,CSU San Bernardino,10,0,4,3,3,99,5,25,69
+76,2016,San Bernardino County,San Bernardino Unified School,70,0,4,58,8,289,127,18,144
+77,2016,San Bernardino County,San Bernardino College,4,0,0,3,1,86,23,8,55
+78,2016,San Bernardino County,Union Pacific RR - San Bernardino,0,0,0,0,0,32,10,0,22
+79,2016,San Bernardino County,CA Highway Patrol - San Bernardino,19,0,0,1,18,66,6,39,21
+80,2016,Sacramento County,Sacramento Co. Sheriff's Department,2797,42,155,880,1720,10142,3062,137,6943
+81,2016,Sacramento County,Sacramento,3549,41,88,1136,2284,15283,3070,2824,9389
+82,2016,Sacramento County,CSU Sacramento,4,0,1,2,1,198,10,7,181
+83,2016,Sacramento County,Union Pacific RR - Sacramento,0,0,0,0,0,10,4,0,6
+84,2016,Sacramento County,UC Med Center Sacramento,13,0,1,1,11,145,3,7,135
+85,2016,Sacramento County,CA Highway Patrol - Sacramento,7,0,0,0,7,4571,7,3000,1564
+86,2016,Yolo County,West Sacramento,233,0,17,95,121,1219,191,172,856
+87,2016,Los Angeles County,Huntington Park,463,2,28,216,217,1988,208,678,1102
+88,2016,Solano County,Vallejo,1053,15,111,353,574,4810,2366,1123,1321
+89,2016,Contra Costa County,Richmond,1019,21,72,364,562,3785,645,1233,1907
+90,2016,Santa Cruz County,Santa Cruz Co. Sheriff's Department,285,1,36,44,204,2050,485,32,1533
+91,2016,Santa Cruz County,Santa Cruz,521,4,45,106,366,3610,354,382,2874
+92,2016,Santa Cruz County,Union Pacific RR - Santa Cruz,0,0,0,0,0,0,0,0,0
+93,2016,Santa Cruz County,Santa Cruz Mtns. DPR,1,0,0,0,1,109,1,1,107
+94,2016,Santa Cruz County,UC Santa Cruz,12,0,5,1,6,344,48,14,282
+95,2016,Santa Cruz County,CA Highway Patrol - Santa Cruz,0,0,0,0,0,620,0,459,161
+96,2016,Orange County,Placentia,77,1,2,23,51,790,203,82,505
+97,2016,Yolo County,West Sacramento,233,0,17,95,121,1219,191,172,856
+98,2016,San Joaquin County,Manteca,244,0,30,91,123,2700,315,365,2020
+99,2016,Santa Barbara County,Santa Maria,506,9,45,168,284,2638,521,665,1452
+100,2016,Stanislaus County,Ceres,186,1,11,66,108,1278,278,384,616
+101,2016,Los Angeles County,Claremont,59,0,3,28,28,960,290,63,607
+102,2016,Shasta County,Redding,720,5,84,143,488,3837,710,519,2608
+103,2016,San Benito County,Hollister,116,0,12,25,79,396,74,79,243
+104,2016,San Benito County,Hollister Hills DPR,0,0,0,0,0,0,0,0,0
+105,2016,Los Angeles County,Baldwin Park,291,5,31,73,182,1514,356,340,818
+106,2016,San Bernardino County,Upland,243,1,18,96,128,2301,673,343,1285
+107,2016,Los Angeles County,Beverly Hills,106,0,14,49,43,1416,306,73,1037
+108,2016,Solano County,Benicia,19,0,4,8,7,540,141,100,299
+109,2016,San Diego County,San Diego Co. Sheriff's Department,1422,29,115,206,1072,4617,1131,830,2656
+110,2016,San Diego County,San Diego,5332,50,572,1387,3323,28624,4743,5839,18042
+111,2016,San Diego County,CSU San Diego,19,0,8,9,2,593,65,13,515
+112,2016,San Diego County,San Diego Harbor,79,0,7,10,62,523,34,11,478
+113,2016,San Diego County,San Diego Coast DPR,7,0,0,1,6,9,2,0,7
+114,2016,San Diego County,UC San Diego,13,0,4,4,5,418,26,14,378
+115,2016,San Diego County,CA Highway Patrol - San Diego,10,0,0,0,10,118,1,100,17
+116,2016,Santa Clara County,Milpitas,96,1,9,52,34,1791,202,269,1320
+117,2016,Santa Clara County,Santa Clara Co. Sheriff's Department,316,4,46,15,251,1312,260,226,826
+118,2016,Santa Clara County,Santa Clara,159,3,17,58,81,2814,362,413,2039
+119,2016,Santa Clara County,Union Pacific RR - Santa Clara,0,0,0,0,0,3,2,0,1
+120,2016,Santa Clara County,Santa Clara Transit District,56,0,2,20,34,119,9,31,79
+121,2016,Santa Clara County,CA Highway Patrol - Santa Clara,0,0,0,0,0,86,0,62,24
+122,2016,Los Angeles County,Hawthorne,654,7,40,298,309,2533,442,574,1517
+123,2016,San Mateo County,San Bruno,109,0,16,47,46,1106,141,108,857
+124,2016,Fresno County,Fresno Co. Sheriff's Department,1177,12,29,82,1054,3798,1625,705,1468
+125,2016,Fresno County,Fresno,3206,39,158,1122,1887,20523,3697,3284,13542
+126,2016,Fresno County,Union Pacific RR - Fresno,0,0,0,0,0,2,0,0,2
+127,2016,Fresno County,CSU Fresno,15,0,5,5,5,337,62,30,245
+128,2016,Fresno County,CA Highway Patrol - Fresno,0,0,0,0,0,225,0,198,27
+129,2016,Tulare County,Visalia,480,8,68,120,284,4196,998,637,2561
+130,2016,Orange County,Westminster,309,2,31,96,180,2720,529,337,1854
+131,2016,Santa Clara County,Campbell,108,0,18,33,57,1306,249,149,908
+132,2016,Orange County,Brea,92,0,6,29,57,1431,188,74,1169
+133,2016,Los Angeles County,Redondo Beach,160,1,8,58,93,1742,428,160,1154
+134,2016,Merced County,Atwater,203,1,8,27,167,1006,190,146,670
+135,2016,Alameda County,Alameda Co. Sheriff's Department,589,8,30,204,347,2195,490,601,1104
+136,2016,Alameda County,Alameda,151,1,8,68,74,2020,226,443,1351
+137,2016,Alameda County,Alameda E. Bay Reg. Park Dist.,13,0,3,1,9,110,0,7,103
+138,2016,Alameda County,Union Pacific RR - Alameda,0,0,0,0,0,3,1,0,2
+139,2016,Alameda County,Alameda BART,184,1,1,148,34,1560,5,349,1206
+140,2016,Alameda County,Alameda E. Bay Mun. Util. Dist.,0,0,0,0,0,27,0,2,25
+141,2016,Alameda County,CA Highway Patrol - Alameda,1,0,0,0,1,275,0,201,74
+142,2016,Butte County,Paradise,45,1,7,8,29,502,250,74,178
+143,2016,Tulare County,Tulare Co. Sheriff's Department,350,19,28,62,241,2074,756,0,1318
+144,2016,Tulare County,Tulare,224,6,13,57,148,1764,292,362,1110
+145,2016,Tulare County,Union Pacific RR - Tulare,0,0,0,0,0,2,0,0,2
+146,2016,Tulare County,CA Highway Patrol - Tulare,0,0,0,0,0,621,0,583,38
+147,2016,Orange County,Garden Grove,545,4,38,186,317,4322,861,672,2789
+148,2016,Los Angeles County,Alhambra,146,0,9,73,64,2107,422,238,1447
+149,2016,Santa Barbara County,Lompoc,222,0,27,19,176,977,219,130,628
+150,2016,Alameda County,Hayward,631,13,66,348,204,4641,707,1626,2308
+151,2016,Kern County,Ridgecrest,149,0,24,21,104,565,176,72,317
+152,2016,Los Angeles County,Long Beach,2846,33,197,1138,1478,14224,2988,2859,8377
+153,2016,Los Angeles County,CSU Long Beach,9,0,3,2,4,193,8,20,165
+154,2016,San Bernardino County,Chino,207,1,13,52,141,2151,439,305,1407
+155,2016,San Bernardino County,Chino Hills,59,1,8,12,38,1013,331,87,595
+156,2016,Humboldt County,Eureka,255,1,24,76,154,1521,424,243,854
+157,2016,Los Angeles County,Manhattan Beach,53,0,8,32,13,1030,191,53,786
+158,2016,Fresno County,Clovis,255,2,35,72,146,2973,434,202,2337
+159,2016,Los Angeles County,La Verne,41,0,11,10,20,561,121,31,409
+160,2016,San Luis Obispo County,Atascadero,83,1,11,7,64,501,109,47,345
+161,2016,San Luis Obispo County,Atascadero State Hospital,309,0,0,0,309,4,0,0,4
+162,2016,Riverside County,Murrieta,49,0,8,17,24,1603,280,208,1115
+163,2016,Los Angeles County,Los Angeles Co. Sheriff's Department,6124,94,307,1474,4249,17498,3816,4354,9328
+164,2016,Los Angeles County,Union Pacific RR - Los Angeles,1,0,0,0,1,229,178,0,51
+165,2016,Los Angeles County,Los Angeles Transit Serv. Bureau,734,3,6,410,315,975,12,109,854
+166,2016,Los Angeles County,Los Angeles,28817,293,2343,10307,15874,99151,15821,18591,64739
+167,2016,Los Angeles County,CSU Los Angeles,8,0,4,0,4,145,9,12,124
+168,2016,Los Angeles County,UC Los Angeles,84,0,26,8,50,768,127,29,612
+169,2016,Los Angeles County,CA Highway Patrol - Los Angeles,29,0,1,3,25,926,5,850,71
+170,2016,Orange County,Newport Beach,110,1,34,17,58,2241,437,160,1644
+171,2016,Fresno County,Sanger,126,3,9,17,97,564,161,88,315
+172,2016,San Mateo County,East Palo Alto,121,3,11,55,52,518,82,92,344
+173,2016,Orange County,Irvine,152,3,41,52,56,3737,640,179,2918
+174,2016,Orange County,Irvine Valley College,0,0,0,0,0,31,5,0,26
+175,2016,Orange County,UC Irvine,21,0,12,2,7,442,39,12,391
+176,2016,Riverside County,Banning,148,3,13,34,98,676,234,163,279
+177,2016,Los Angeles County,Arcadia,83,2,4,44,33,1642,520,77,1045
+178,2016,San Bernardino County,Ontario,602,8,32,227,335,4718,885,1069,2764
+179,2016,Sonoma County,Petaluma,200,1,29,22,148,1108,194,72,842
+180,2016,Ventura County,Ventura Co. Sheriff's Department,171,2,29,19,121,767,224,76,467
+181,2016,Ventura County,Ventura,368,8,53,109,198,3750,628,284,2838
+182,2016,Ventura County,Union Pacific RR - Ventura,0,0,0,0,0,2,0,0,2
+183,2016,Ventura County,Ventura Community College,3,0,0,0,3,77,16,0,61
+184,2016,Ventura County,CA Highway Patrol - Ventura,0,0,0,0,0,50,0,40,10
+185,2016,Contra Costa County,Pleasant Hill,79,0,3,43,33,1510,146,185,1179
+186,2016,Los Angeles County,Gardena,338,3,24,160,151,1482,355,355,772
+187,2016,Kings County,Hanford,266,2,21,44,199,1496,222,215,1059
+188,2016,Santa Clara County,Los Gatos,21,0,2,6,13,616,139,45,432
+189,2016,Santa Clara County,Mountain View,132,0,9,29,94,1776,280,119,1377
+190,2016,San Diego County,National City,267,3,13,108,143,1376,182,460,734
+191,2016,San Bernardino County,Colton,213,2,10,98,103,1646,304,536,806
+192,2016,Riverside County,Desert Hot Springs,225,5,14,43,163,926,464,241,221
+193,2016,Ventura County,Oxnard,948,12,69,429,438,6073,978,786,4309
+194,2016,Santa Clara County,Los Altos,13,0,3,3,7,343,133,17,193
+195,2016,Santa Clara County,Los Altos Hills,6,0,2,0,4,63,41,0,22
+196,2016,Contra Costa County,San Pablo,213,2,22,90,99,1214,213,425,576
+197,2016,Contra Costa County,El Cerrito,137,1,6,78,52,1064,126,107,831
+198,2016,Yolo County,Davis,108,0,26,31,51,1665,263,112,1290
+199,2016,Yolo County,UC Davis,12,0,7,1,4,555,29,9,517
+200,2016,Riverside County,Indio,437,5,26,88,318,1944,400,379,1165
+201,2016,Placer County,Lincoln,29,0,5,7,17,541,118,57,366
+202,2016,Los Angeles County,Monterey Park,131,1,8,59,63,1704,460,246,998
+203,2016,Monterey County,Monterey Co. Sheriff's Department,286,11,18,54,203,1377,303,33,1041
+204,2016,Monterey County,Monterey,100,1,15,29,55,1083,199,68,816
+205,2016,Monterey County,Monterey Airport,0,0,0,0,0,16,9,3,4
+206,2016,Monterey County,Union Pacific RR - Monterey,0,0,0,0,0,0,0,0,0
+207,2016,Monterey County,Monterey DPR,1,0,0,0,1,90,33,4,53
+208,2016,Monterey County,CSU Monterey Bay,4,0,2,1,1,48,3,0,45
+209,2016,Monterey County,CA Highway Patrol - Monterey,0,0,0,0,0,454,0,417,37
+210,2016,Orange County,Santa Ana,1612,23,142,511,936,6980,1119,1948,3913
+211,2016,Alameda County,Oakland,6059,85,277,3076,2621,23952,2900,6899,14153
+212,2016,Merced County,Merced Co. Sheriff's Department,542,2,18,33,489,1541,601,54,886
+213,2016,Merced County,Merced,489,1,35,134,319,2774,558,599,1617
+214,2016,Merced County,Union Pacific RR - Merced,0,0,0,0,0,0,0,0,0
+215,2016,Merced County,UC Merced,1,0,0,0,1,52,7,0,45
+216,2016,Merced County,CA Highway Patrol - Merced,0,0,0,0,0,453,0,356,97
+217,2016,Imperial County,Brawley,125,0,4,11,110,941,170,79,692
+218,2016,Los Angeles County,Azusa,175,1,18,46,110,1139,261,183,695
+219,2016,San Diego County,Chula Vista,696,1,58,208,429,4254,694,885,2675
+220,2016,San Mateo County,South San Francisco,149,1,25,43,80,1416,307,207,902
+221,2016,Kings County,Lemoore,98,0,20,10,68,501,111,82,308
+222,2016,Placer County,Roseville,199,0,21,95,83,3316,393,327,2596
+223,2016,Riverside County,Palm Springs,275,2,28,67,178,2754,746,339,1669
+224,2016,Santa Clara County,Sunnyvale,158,1,21,53,83,2140,520,273,1347
+225,2016,Alameda County,Fremont,420,0,59,184,177,4715,923,795,2997
+226,2016,San Francisco County,San Francisco,6190,57,342,3175,2616,47402,4978,5433,36991
+227,2016,San Francisco County,CSU San Francisco,9,0,4,4,1,260,33,15,212
+228,2016,San Francisco County,San Francisco BART,49,0,0,34,15,254,0,0,254
+229,2016,San Francisco County,Union Pacific RR - San Francisco,0,0,0,0,0,0,0,0,0
+230,2016,San Francisco County,UC San Francisco,12,1,0,3,8,464,72,10,382
+231,2016,San Francisco County,CA Highway Patrol - San Francisco,1,0,0,0,1,30,0,29,1
+232,2016,San Mateo County,South San Francisco,149,1,25,43,80,1416,307,207,902
+233,2016,San Mateo County,East Palo Alto,121,3,11,55,52,518,82,92,344
+234,2016,Santa Clara County,Palo Alto,73,1,9,28,35,1436,215,62,1159
+235,2016,San Bernardino County,Rialto,451,4,22,159,266,1887,555,729,603
+236,2016,Alameda County,Pleasanton,100,0,12,44,44,1604,208,136,1260
+237,2016,Imperial County,Calexico,164,0,3,38,123,1267,321,236,710
+238,2016,Orange County,Costa Mesa,412,1,60,145,206,4610,735,579,3296
+239,2016,San Diego County,Escondido,555,4,48,150,353,3286,415,658,2213
+240,2016,San Mateo County,Daly City,244,1,22,90,131,1631,246,233,1152
+241,2016,Placer County,Rocklin,65,1,19,14,31,1202,210,97,895
+242,2016,Contra Costa County,Concord,447,1,31,159,256,4337,521,1023,2793
+243,2016,Monterey County,Seaside,128,2,10,29,87,607,87,99,421
+244,2016,Santa Clara County,San Jose,3887,47,451,1214,2175,24749,4260,7703,12786
+245,2016,Santa Clara County,CSU San Jose,30,0,6,4,20,424,34,34,356
+246,2016,Santa Clara County,San Jose Community College,1,0,0,0,1,39,0,3,36
+247,2016,Contra Costa County,San Ramon,39,0,9,12,18,823,140,67,616
+248,2016,San Diego County,El Cajon,395,1,46,146,202,2446,429,433,1584
+249,2016,Sacramento County,Elk Grove,547,0,51,94,402,2342,373,209,1760
+250,2016,San Diego County,La Mesa,197,0,21,56,120,1669,336,225,1108
+251,2016,Contra Costa County,Antioch,760,9,55,293,403,3690,762,916,2012
+252,2016,San Mateo County,Menlo Park,30,0,10,7,13,623,101,29,493
+253,2016,Stanislaus County,Turlock,384,7,23,93,261,2503,474,534,1495
+254,2016,San Bernardino County,Fontana,870,14,69,218,569,4396,697,1149,2550
+255,2016,San Bernardino County,Fontana Unified School,17,0,0,1,16,77,30,6,41
+256,2016,San Mateo County,Foster City,32,0,10,5,17,343,60,22,261
+257,2016,Riverside County,Beaumont,144,0,15,29,100,1059,190,173,696
+258,2016,Los Angeles County,San Fernando,132,1,8,38,85,450,90,120,240
+259,2016,Los Angeles County,South Gate,660,5,29,250,376,3435,507,999,1929
+260,2016,Contra Costa County,Hercules,53,1,0,11,41,392,74,52,266
+261,2016,Merced County,Los Banos,121,1,11,35,74,1161,253,175,733
+262,2016,San Joaquin County,Lodi,351,5,9,84,253,1935,438,308,1189
+263,2016,Fresno County,Orange Cove,39,1,1,3,34,153,30,56,67
+264,2016,Orange County,Orange Co. Sheriff's Department,229,0,20,30,179,1123,213,145,765
+265,2016,Orange County,Orange,228,1,25,57,145,2608,464,361,1783
+266,2016,Orange County,Union Pacific RR - Orange,0,0,0,0,0,2,1,0,1
+267,2016,Orange County,Orange Coast DPR,0,0,0,0,0,57,19,1,37
+268,2016,Orange County,CA Highway Patrol - Orange,8,0,0,0,8,53,0,21,32
+269,2016,Orange County,Fullerton,341,5,55,94,187,3599,456,403,2740
+270,2016,Orange County,CSU Fullerton,4,0,0,1,3,213,28,8,177
+271,2016,Orange County,Fountain Valley,63,0,0,21,42,1443,246,125,1072
+272,2016,Los Angeles County,Burbank,210,0,24,50,136,2927,392,266,2269
+273,2016,Orange County,Tustin,120,2,13,34,71,1806,229,165,1412
+274,2016,Alameda County,Berkeley,602,2,54,361,185,5420,805,650,3965
+275,2016,Alameda County,UC Berkeley,44,0,16,13,15,699,41,37,621
+276,2016,Sacramento County,Citrus Heights,396,3,38,88,267,2676,400,376,1900
+277,2016,Kern County,Delano,264,7,9,26,222,1552,305,468,779
+278,2016,Ventura County,Simi Valley,174,2,28,39,105,1566,334,105,1127
+279,2016,Alameda County,Livermore,174,1,26,59,88,2284,255,290,1739
+280,2016,Sacramento County,Folsom,76,0,9,34,33,1384,264,114,1006
+281,2016,San Joaquin County,Tracy,151,0,17,62,72,1899,245,306,1348
+282,2016,Los Angeles County,Covina,164,1,23,48,92,1289,309,164,816
+283,2016,Los Angeles County,West Covina,265,4,18,110,133,2811,519,498,1794
+284,2016,Los Angeles County,Bell Gardens,155,3,7,64,81,942,103,329,510
+285,2016,Marin County,Central Marin,38,0,4,17,17,656,246,40,370
+286,2016,Fresno County,Reedley,190,0,10,19,161,499,154,80,265
+287,2016,Los Angeles County,Montebello,214,0,7,114,93,1978,823,548,607
+288,2016,Contra Costa County,Walnut Creek,78,1,1,30,46,2120,275,234,1611
+289,2016,Los Angeles County,San Gabriel,98,0,6,38,54,655,224,57,374
+290,2016,Los Angeles County,Torrance,258,1,28,119,110,3221,458,437,2326
+291,2016,Kings County,Porterville Developmental Center,18,0,0,0,18,8,2,0,6
+292,2016,Tulare County,Porterville,215,0,16,52,147,1315,280,264,771
+293,2016,Alameda County,Newark,108,1,15,45,47,1186,237,239,710
+294,2016,Solano County,Vacaville,207,0,11,76,120,2057,189,178,1690
+295,2016,Los Angeles County,El Monte,448,3,31,167,247,2501,675,688,1138
+296,2016,Los Angeles County,South El Monte,109,2,6,44,57,580,152,155,273
+297,2016,Alameda County,Union City,281,1,12,111,157,1897,298,341,1258
+298,2016,Marin County,Novato,80,0,9,15,56,1038,186,136,716
+299,2016,San Mateo County,San Mateo Co. Sheriff's Department,298,1,57,64,176,2843,454,300,2089
+300,2016,San Mateo County,San Mateo,242,1,18,44,179,2141,732,215,1194
+301,2016,San Mateo County,San Mateo BART,20,0,0,9,11,140,0,19,121
+302,2016,San Mateo County,Union Pacific RR - San Mateo,0,0,0,0,0,0,0,0,0
+303,2016,San Mateo County,CA Highway Patrol - San Mateo,0,0,0,0,0,12,0,8,4
+304,2016,Contra Costa County,Pittsburg,278,7,42,116,113,1975,339,675,961
+305,2016,Los Angeles County,Pomona,767,13,68,295,391,4676,853,1183,2640
+306,2016,Los Angeles County,Cal Poly - Pomona,7,0,4,2,1,175,20,13,142
+307,2016,Kern County,Bakersfield,1821,32,67,614,1108,17138,3887,3048,10203
+308,2016,Kern County,CSU Bakersfield,1,0,0,0,1,59,4,2,53
+309,2016,San Mateo County,Belmont,31,0,8,5,18,377,86,25,266
+310,2016,Los Angeles County,Monrovia,60,0,8,19,33,832,132,76,624
+311,2016,Los Angeles County,Bell,233,5,11,57,160,782,212,156,414
+312,2016,Los Angeles County,Bellflower,392,4,31,160,197,1990,453,490,1047
+313,2016,Los Angeles County,Bell Gardens,155,3,7,64,81,942,103,329,510
+314,2016,Marin County,San Rafael,249,0,28,111,110,1713,255,272,1186
+315,2016,Madera County,Madera Co. Sheriff's Department,434,4,28,19,383,1102,517,17,568
+316,2016,Madera County,Madera,505,3,22,98,382,1859,297,300,1262
+317,2016,Madera County,Union Pacific RR - Madera,0,0,0,0,0,0,0,0,0
+318,2016,Madera County,CA Highway Patrol - Madera,0,0,0,0,0,217,3,170,44

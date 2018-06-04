@@ -1,0 +1,197 @@
+Year,Police_Department,Officers_per_10K_Population,Officers,Total_Employees_per_10K_Population,Total_Employees,Population
+2016,"Burlingame, California",11.7,36,18.2,56,30769.23077
+2016,"Brentwood, California",10.2,62,13.7,83,60784.31373
+2016,"Inglewood, California",15.6,175,19.5,219,112179.4872
+2016,"Stockton, California",13.4,412,19.8,610,307462.6866
+2016,"Montclair, California",12.0,47,17.4,68,39166.66667
+2016,"Woodland, California",10.3,61,12.7,75,59223.30097
+2016,"Huntington Beach, California",10.5,214,16.4,334,203809.5238
+2016,"Santa Rosa, California",9.8,172,14.2,251,175510.2041
+2016,"Modesto, California",10.1,214,14.1,300,211881.1881
+2016,"Chico, California",9.4,86,15.0,137,91489.3617
+2016,"Hemet, California",7.3,62,10.8,92,84931.50685
+2016,"Yuba City, California",7.7,52,11.6,78,67532.46753
+2016,"Santa Monica, California",21.7,204,39.8,374,94009.21659
+2016,"San Luis Obispo, California",11.5,55,16.3,78,47826.08696
+2016,"El Centro, California",10.9,48,16.1,71,44036.69725
+2016,"Fairfield, California",10.0,114,14.8,169,114000.0
+2016,"Oceanside, California",11.5,204,15.7,278,177391.3043
+2016,"South Pasadena, California",13.3,35,18.7,49,26315.78947
+2016,"Buena Park, California",9.7,81,14.4,121,83505.15464
+2016,"Glendale, California",11.4,232,16.2,328,203508.7719
+2016,"Redlands, California",11.2,80,16.5,118,71428.57143
+2016,"Martinez, California",8.6,33,11.7,45,38372.09302
+2016,"Monterey Park, California",11.2,69,15.9,98,61607.14286
+2016,"Paso Robles, California",9.7,31,13.8,44,31958.76289
+2016,"Whittier, California",13.7,120,19.0,167,87591.24088
+2016,"Morgan Hill, California",8.9,39,13.4,59,43820.22472
+2016,"Glendora, California",9.7,51,16.4,86,52577.31959
+2016,"Carlsbad, California",9.0,103,13.0,150,114444.4444
+2016,"Corona, California",9.5,158,13.5,225,166315.7895
+2016,"Pacifica, California",8.3,33,8.8,35,39759.03614
+2016,"West Covina, California",8.5,93,14.3,156,109411.7647
+2016,"Santa Barbara, California",15.1,140,22.2,205,92715.23179
+2016,"San Leandro, California",9.8,90,14.3,131,91836.73469
+2016,"Rohnert Park, California",13.8,59,19.9,85,42753.62319
+2016,"Culver City, California",25.1,100,38.4,153,39840.63745
+2016,"Santa Paula, California",9.7,30,12.3,38,30927.83505
+2016,"Pasadena, California",16.3,234,24.9,357,143558.2822
+2016,"Gilroy, California",11.5,62,16.1,87,53913.04348
+2016,"Cypress, California",10.7,53,13.9,69,49532.71028
+2016,"Salinas, California",8.4,134,12.0,191,159523.8095
+2016,"Napa, California",8.5,69,13.6,110,81176.47059
+2016,"Anaheim, California",11.5,408,15.9,562,354782.6087
+2016,"Watsonville, California",12.6,68,15.9,86,53968.25397
+2016,"Downey, California",9.2,106,13.1,150,115217.3913
+2016,"Redwood City, California",10.5,91,13.3,116,86666.66667
+2016,"Cathedral City, California",9.0,49,13.6,74,54444.44444
+2016,"Galt, California",12.9,33,19.1,49,25581.39535
+2016,"Riverside, California",10.7,350,15.4,503,327102.8037
+2016,"La Habra, California",11.0,69,15.8,99,62727.27273
+2016,"San Bernardino, California",9.9,215,16.6,360,217171.7172
+2016,"Sacramento, California",13.2,652,19.3,954,493939.3939
+2016,"Huntington Park, California",8.5,51,14.4,86,60000.0
+2016,"Vallejo, California",9.0,110,12.3,150,122222.2222
+2016,"Richmond, California",16.0,177,21.8,242,110625.0
+2016,"Santa Cruz, California",14.3,93,17.7,115,65034.96503
+2016,"Placentia, California",8.5,45,12.9,68,52941.17647
+2016,"West Sacramento, California",12.9,69,16.6,89,53488.37209
+2016,"Manteca, California",7.7,59,11.2,86,76623.37662
+2016,"Santa Maria, California",10.5,111,15.6,166,105714.2857
+2016,"Ceres, California",9.5,46,12.8,62,48421.05263
+2016,"Claremont, California",10.1,37,16.7,61,36633.66337
+2016,"Redding, California",10.7,98,14.3,131,91588.78505
+2016,"Hollister, California",7.1,27,8.7,33,38028.16901
+2016,"Baldwin Park, California",8.4,65,12.7,98,77380.95238
+2016,"Upland, California",9.0,69,12.5,96,76666.66667
+2016,"Beverly Hills, California",33.4,117,52.5,184,35029.94012
+2016,"Benicia, California",11.6,33,17.3,49,28448.27586
+2016,"San Diego, California",12.8,"1,815",17.8,"2,522",1417968.75
+2016,"Milpitas, California",10.6,85,13.6,109,80188.67925
+2016,"Santa Clara, California",11.2,144,16.8,215,128571.4286
+2016,"Hawthorne, California",9.9,88,15.2,136,88888.88889
+2016,"San Bruno, California",11.2,49,14.9,65,43750.0
+2016,"Fresno, California",14.3,748,19.3,"1,013",523076.9231
+2016,"Visalia, California",10.3,135,15.2,200,131067.9612
+2016,"Westminster, California",8.5,79,12.4,115,92941.17647
+2016,"Campbell, California",10.1,42,16.2,67,41584.15842
+2016,"Brea, California",14.4,61,22.4,95,42361.11111
+2016,"Redondo Beach, California",13.4,92,20.9,143,68656.71642
+2016,"Atwater, California",9.2,27,11.6,34,29347.82609
+2016,"Alameda, California",10.2,81,13.8,110,79411.76471
+2016,"Paradise, California",7.2,19,12.4,33,26388.88889
+2016,"Tulare, California",11.4,72,17.3,109,63157.89474
+2016,"Garden Grove, California",9.0,159,12.4,218,176666.6667
+2016,"Alhambra, California",9.8,84,14.5,125,85714.28571
+2016,"Lompoc, California",10.1,45,15.3,68,44554.45545
+2016,"Hayward, California",12.0,194,19.2,310,161666.6667
+2016,"Ridgecrest, California",11.0,32,17.2,50,29090.90909
+2016,"Long Beach, California",16.9,806,24.6,"1,173",476923.0769
+2016,"Chino, California",12.3,107,18.3,159,86991.86992
+2016,"Eureka, California",17.4,47,26.3,71,27011.49425
+2016,"Manhattan Beach, California",18.4,66,29.2,105,35869.56522
+2016,"Clovis, California",9.4,100,15.3,162,106382.9787
+2016,"La Verne, California",12.1,40,18.2,60,33057.85124
+2016,"Atascadero, California",9.3,28,12.6,38,30107.52688
+2016,"Murrieta, California",8.0,89,11.5,128,111250.0
+2016,"Los Angeles, California",24.6,"9,850",31.7,"12,692",4004065.041
+2016,"Newport Beach, California",16.0,140,26.1,228,87500.0
+2016,"Sanger, California",13.2,33,14.8,37,25000.0
+2016,"East Palo Alto, California",11.0,33,13.4,40,30000.0
+2016,"Irvine, California",8.0,213,11.3,301,266250.0
+2016,"Banning, California",8.7,27,13.8,43,31034.48276
+2016,"Arcadia, California",11.2,66,15.5,91,58928.57143
+2016,"Ontario, California",14.7,254,19.6,339,172789.1156
+2016,"Petaluma, California",9.5,58,13.5,82,61052.63158
+2016,"Ventura, California",11.3,125,15.0,165,110619.469
+2016,"Pleasant Hill, California",11.7,41,16.2,57,35042.73504
+2016,"Gardena, California",15.6,95,19.6,119,60897.4359
+2016,"Hanford, California",9.5,53,13.8,77,55789.47368
+2016,"Los Gatos, California",12.0,37,17.4,54,30833.33333
+2016,"Mountain View, California",10.5,86,15.8,129,81904.7619
+2016,"National City, California",14.0,86,19.5,120,61428.57143
+2016,"Colton, California",8.3,46,13.1,72,55421.68675
+2016,"Desert Hot Springs, California",8.4,24,10.5,30,28571.42857
+2016,"Oxnard, California",10.9,227,16.1,337,208256.8807
+2016,"Los Altos, California",8.7,27,13.5,42,31034.48276
+2016,"San Pablo, California",15.0,46,21.8,67,30666.66667
+2016,"El Cerrito, California",15.9,40,18.6,47,25157.2327
+2016,"Davis, California",8.8,60,13.4,91,68181.81818
+2016,"Indio, California",7.1,63,11.1,99,88732.39437
+2016,"Lincoln, California",4.2,20,5.7,27,47619.04762
+2016,"Monterey, California",15.1,43,21.4,61,28476.82119
+2016,"Santa Ana, California",9.2,310,15.5,523,336956.5217
+2016,"Oakland, California",17.6,750,24.6,"1,046",426136.3636
+2016,"Merced, California",10.7,89,15.0,125,83177.57009
+2016,"Brawley, California",13.8,36,19.2,50,26086.95652
+2016,"Azusa, California",11.3,57,18.7,94,50442.47788
+2016,"Chula Vista, California",8.3,225,11.3,305,271084.3373
+2016,"South San Francisco, California",11.8,80,16.2,110,67796.61017
+2016,"Lemoore, California",12.0,31,14.7,38,25833.33333
+2016,"Roseville, California",9.4,125,13.8,183,132978.7234
+2016,"Palm Springs, California",18.4,88,26.5,127,47826.08696
+2016,"Sunnyvale, California",13.6,209,18.0,278,153676.4706
+2016,"Fremont, California",7.6,180,12.0,282,236842.1053
+2016,"San Francisco, California",26.4,"2,296",33.2,"2,892",869696.9697
+2016,"Palo Alto, California",11.7,79,20.4,137,67521.36752
+2016,"Rialto, California",10.1,105,13.7,142,103960.396
+2016,"Pleasanton, California",9.5,77,13.5,110,81052.63158
+2016,"Calexico, California",5.7,23,8.7,35,40350.87719
+2016,"Costa Mesa, California",9.8,112,15.1,172,114285.7143
+2016,"Escondido, California",10.2,156,13.8,211,152941.1765
+2016,"Daly City, California",9.3,100,12.4,133,107526.8817
+2016,"Rocklin, California",8.9,55,12.7,79,61797.75281
+2016,"Concord, California",11.5,150,15.5,201,130434.7826
+2016,"Seaside, California",10.6,37,13.2,46,34905.66038
+2016,"San Jose, California",9.0,939,13.0,"1,352",1043333.333
+2016,"San Ramon, California",8.5,65,10.5,81,76470.58824
+2016,"El Cajon, California",11.6,121,17.1,179,104310.3448
+2016,"Elk Grove, California",7.5,128,12.4,211,170666.6667
+2016,"La Mesa, California",11.2,68,16.0,97,60714.28571
+2016,"Antioch, California",8.5,95,11.0,123,111764.7059
+2016,"Menlo Park, California",13.9,47,19.9,67,33812.94964
+2016,"Turlock, California",10.7,78,16.0,117,72897.19626
+2016,"Fontana, California",8.8,185,13.1,275,210227.2727
+2016,"Foster City, California",10.6,36,14.7,50,33962.26415
+2016,"Beaumont, California",8.4,38,12.4,56,45238.09524
+2016,"San Fernando, California",10.7,27,16.3,41,25233.64486
+2016,"South Gate, California",8.2,79,12.2,118,96341.46341
+2016,"Hercules, California",7.8,20,8.6,22,25641.02564
+2016,"Los Banos, California",9.8,37,16.4,62,37755.10204
+2016,"Lodi, California",10.3,67,14.9,97,65048.54369
+2016,"Orange, California",10.1,143,15.0,213,141584.1584
+2016,"Fullerton, California",9.9,141,14.8,210,142424.2424
+2016,"Fountain Valley, California",10.3,59,14.0,80,57281.5534
+2016,"Burbank, California",14.6,154,22.1,234,105479.4521
+2016,"Tustin, California",10.7,87,16.0,131,81308.41121
+2016,"Berkeley, California",14.3,175,21.4,263,122377.6224
+2016,"Citrus Heights, California",10.0,88,15.3,134,88000.0
+2016,"Delano, California",9.5,50,13.1,69,52631.57895
+2016,"Simi Valley, California",9.6,122,13.9,177,127083.3333
+2016,"Livermore, California",9.9,89,14.9,133,89898.9899
+2016,"Folsom, California",9.1,70,12.3,95,76923.07692
+2016,"Tracy, California",9.7,85,14.3,126,87628.86598
+2016,"Covina, California",12.0,59,17.7,87,49166.66667
+2016,"Bell Gardens, California",11.5,50,16.6,72,43478.26087
+2016,"Central Marin, California",11.6,41,13.0,46,35344.82759
+2016,"Reedley, California",10.5,27,15.5,40,25714.28571
+2016,"Montebello, California",10.3,66,15.4,99,64077.6699
+2016,"Walnut Creek, California",12.2,85,16.9,118,69672.13115
+2016,"San Gabriel, California",12.1,49,15.8,64,40495.86777
+2016,"Torrance, California",14.0,208,20.7,309,148571.4286
+2016,"Porterville, California",10.6,60,15.2,86,56603.77358
+2016,"Newark, California",12.0,55,16.8,77,45833.33333
+2016,"Vacaville, California",10.1,99,15.4,150,98019.80198
+2016,"El Monte, California",9.2,108,13.0,152,117391.3043
+2016,"Union City, California",9.9,75,13.8,104,75757.57576
+2016,"Novato, California",10.0,56,14.2,80,56000.0
+2016,"San Mateo, California",10.6,111,14.1,148,104716.9811
+2016,"Pittsburg, California",10.9,77,13.6,96,70642.20183
+2016,"Pomona, California",10.0,154,16.9,261,154000.0
+2016,"Bakersfield, California",10.3,390,14.0,530,378640.7767
+2016,"Suisun, California",7.1,21,11.1,33,29577.46479
+2016,"Belmont, California",10.9,30,16.0,44,27522.93578
+2016,"Monrovia, California",13.6,51,21.8,82,37500.0
+2016,"Bell, California",9.1,33,12.4,45,36263.73626
+2016,"San Rafael, California",10.9,65,14.5,86,59633.02752
+2016,"Madera, California",9.3,60,12.0,78,64516.12903
