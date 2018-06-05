@@ -1,13 +1,32 @@
+"""
+This code is for us to visualize how each ethnicity distribute in California on a geomap. This specific function is for Other population.
+
+We import plotly in order to send the code to their website and do the mapping.
+First, set credentials for us to send the code;
+Then, read date from CSV file and extract the data we need to use;
+After that, dicide how many density we want to show on the map and set each density range a different color;
+Finally, log into Plotly profile to visualize the plots.
+
+Environment:
+Modules used: plotly, plotly.plotly, plotly.figure_factory, numpy, and pandas
+Files used: CA_County_Eth.csv
+Data used: OTHER population
+"""
+
 import plotly
 import plotly.plotly as py
 import plotly.figure_factory as ff
 import numpy as np
 import pandas as pd
 
+# Set credentials
 plotly.tools.set_credentials_file(username='TKKKKK', api_key='ekYjsBAHMq2ChtKrqU8k')
+
+# Read data from CSV file and extract the data we need to use
 df_sample = pd.read_csv('CA_County_Eth.csv')
 df_sample_r = df_sample[df_sample['STNAME'] == 'California']
 
+# Dicide how many density we want to show on the map and set each density range a different color
 values = np.array(df_sample_r['OTHER'].tolist())
 minimum = np.min(values)
 values = values + (1.01 - minimum)
