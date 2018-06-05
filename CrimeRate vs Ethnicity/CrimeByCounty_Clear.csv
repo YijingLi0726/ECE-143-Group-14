@@ -1,4 +1,4 @@
-Year,County,Violent_Sum,Violent/10k,Property_Sum,Property/10k,Crime_Sum,CrimeTotal/10k,White,Hispanic,Black,Asian,Mixed,Other,Population
+Year,County,Violent_Sum,Violent10k,Property_Sum,Property0k,Crime_Sum,CrimeTotal10k,White,Hispanic,Black,Asian,Mixed,Other,Population
 2016,Alameda County,10127,608.8901448,59744,3592.13319,69871,4201.023335,33.7,22.1,12.1,26.8,4,1.4,"1,663,190"
 2016,Alpine County,6,535.7142857,34,3035.714286,40,3571.428571,70.6,7.5,0.6,1.5,0.3,19.5,1120
 2016,Amador County,92,238.1815358,761,1970.175529,853,2208.357065,80,12.4,2.5,1.4,1.8,1.9,38626
