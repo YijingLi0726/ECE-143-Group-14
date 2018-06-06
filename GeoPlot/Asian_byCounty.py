@@ -3,7 +3,7 @@ This code is for us to visualize how each ethnicity distribute in California on 
 
 We import plotly in order to send the code to their website and do the mapping.
 First, set credentials for us to send the code;
-Then, read date from CSV file and extract the data we need to use;
+Then, read data from CSV file and extract the data we need to use;
 After that, dicide how many density we want to show on the map and set each density range a different color;
 Finally, log into Plotly profile to visualize the plots.
 
