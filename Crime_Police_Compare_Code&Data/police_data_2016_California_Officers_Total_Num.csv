@@ -1,0 +1,197 @@
+Police_Department,Officers,Population
+"Burlingame, California",36,30769.23077
+"Brentwood, California",62,60784.31373
+"Inglewood, California",175,112179.4872
+"Stockton, California",412,307462.6866
+"Montclair, California",47,39166.66667
+"Woodland, California",61,59223.30097
+"Huntington Beach, California",214,203809.5238
+"Santa Rosa, California",172,175510.2041
+"Modesto, California",214,211881.1881
+"Chico, California",86,91489.3617
+"Hemet, California",62,84931.50685
+"Yuba City, California",52,67532.46753
+"Santa Monica, California",204,94009.21659
+"San Luis Obispo, California",55,47826.08696
+"El Centro, California",48,44036.69725
+"Fairfield, California",114,114000.0
+"Oceanside, California",204,177391.3043
+"South Pasadena, California",35,26315.78947
+"Buena Park, California",81,83505.15464
+"Glendale, California",232,203508.7719
+"Redlands, California",80,71428.57143
+"Martinez, California",33,38372.09302
+"Monterey Park, California",69,61607.14286
+"Paso Robles, California",31,31958.76289
+"Whittier, California",120,87591.24088
+"Morgan Hill, California",39,43820.22472
+"Glendora, California",51,52577.31959
+"Carlsbad, California",103,114444.4444
+"Corona, California",158,166315.7895
+"Pacifica, California",33,39759.03614
+"West Covina, California",93,109411.7647
+"Santa Barbara, California",140,92715.23179
+"San Leandro, California",90,91836.73469
+"Rohnert Park, California",59,42753.62319
+"Culver City, California",100,39840.63745
+"Santa Paula, California",30,30927.83505
+"Pasadena, California",234,143558.2822
+"Gilroy, California",62,53913.04348
+"Cypress, California",53,49532.71028
+"Salinas, California",134,159523.8095
+"Napa, California",69,81176.47059
+"Anaheim, California",408,354782.6087
+"Watsonville, California",68,53968.25397
+"Downey, California",106,115217.3913
+"Redwood City, California",91,86666.66667
+"Cathedral City, California",49,54444.44444
+"Galt, California",33,25581.39535
+"Riverside, California",350,327102.8037
+"La Habra, California",69,62727.27273
+"San Bernardino, California",215,217171.7172
+"Sacramento, California",652,493939.3939
+"Huntington Park, California",51,60000.0
+"Vallejo, California",110,122222.2222
+"Richmond, California",177,110625.0
+"Santa Cruz, California",93,65034.96503
+"Placentia, California",45,52941.17647
+"West Sacramento, California",69,53488.37209
+"Manteca, California",59,76623.37662
+"Santa Maria, California",111,105714.2857
+"Ceres, California",46,48421.05263
+"Claremont, California",37,36633.66337
+"Redding, California",98,91588.78505
+"Hollister, California",27,38028.16901
+"Baldwin Park, California",65,77380.95238
+"Upland, California",69,76666.66667
+"Beverly Hills, California",117,35029.94012
+"Benicia, California",33,28448.27586
+"San Diego, California","1,815",1417968.75
+"Milpitas, California",85,80188.67925
+"Santa Clara, California",144,128571.4286
+"Hawthorne, California",88,88888.88889
+"San Bruno, California",49,43750.0
+"Fresno, California",748,523076.9231
+"Visalia, California",135,131067.9612
+"Westminster, California",79,92941.17647
+"Campbell, California",42,41584.15842
+"Brea, California",61,42361.11111
+"Redondo Beach, California",92,68656.71642
+"Atwater, California",27,29347.82609
+"Alameda, California",81,79411.76471
+"Paradise, California",19,26388.88889
+"Tulare, California",72,63157.89474
+"Garden Grove, California",159,176666.6667
+"Alhambra, California",84,85714.28571
+"Lompoc, California",45,44554.45545
+"Hayward, California",194,161666.6667
+"Ridgecrest, California",32,29090.90909
+"Long Beach, California",806,476923.0769
+"Chino, California",107,86991.86992
+"Eureka, California",47,27011.49425
+"Manhattan Beach, California",66,35869.56522
+"Clovis, California",100,106382.9787
+"La Verne, California",40,33057.85124
+"Atascadero, California",28,30107.52688
+"Murrieta, California",89,111250.0
+"Los Angeles, California","9,850",4004065.041
+"Newport Beach, California",140,87500.0
+"Sanger, California",33,25000.0
+"East Palo Alto, California",33,30000.0
+"Irvine, California",213,266250.0
+"Banning, California",27,31034.48276
+"Arcadia, California",66,58928.57143
+"Ontario, California",254,172789.1156
+"Petaluma, California",58,61052.63158
+"Ventura, California",125,110619.469
+"Pleasant Hill, California",41,35042.73504
+"Gardena, California",95,60897.4359
+"Hanford, California",53,55789.47368
+"Los Gatos, California",37,30833.33333
+"Mountain View, California",86,81904.7619
+"National City, California",86,61428.57143
+"Colton, California",46,55421.68675
+"Desert Hot Springs, California",24,28571.42857
+"Oxnard, California",227,208256.8807
+"Los Altos, California",27,31034.48276
+"San Pablo, California",46,30666.66667
+"El Cerrito, California",40,25157.2327
+"Davis, California",60,68181.81818
+"Indio, California",63,88732.39437
+"Lincoln, California",20,47619.04762
+"Monterey, California",43,28476.82119
+"Santa Ana, California",310,336956.5217
+"Oakland, California",750,426136.3636
+"Merced, California",89,83177.57009
+"Brawley, California",36,26086.95652
+"Azusa, California",57,50442.47788
+"Chula Vista, California",225,271084.3373
+"South San Francisco, California",80,67796.61017
+"Lemoore, California",31,25833.33333
+"Roseville, California",125,132978.7234
+"Palm Springs, California",88,47826.08696
+"Sunnyvale, California",209,153676.4706
+"Fremont, California",180,236842.1053
+"San Francisco, California","2,296",869696.9697
+"Palo Alto, California",79,67521.36752
+"Rialto, California",105,103960.396
+"Pleasanton, California",77,81052.63158
+"Calexico, California",23,40350.87719
+"Costa Mesa, California",112,114285.7143
+"Escondido, California",156,152941.1765
+"Daly City, California",100,107526.8817
+"Rocklin, California",55,61797.75281
+"Concord, California",150,130434.7826
+"Seaside, California",37,34905.66038
+"San Jose, California",939,1043333.333
+"San Ramon, California",65,76470.58824
+"El Cajon, California",121,104310.3448
+"Elk Grove, California",128,170666.6667
+"La Mesa, California",68,60714.28571
+"Antioch, California",95,111764.7059
+"Menlo Park, California",47,33812.94964
+"Turlock, California",78,72897.19626
+"Fontana, California",185,210227.2727
+"Foster City, California",36,33962.26415
+"Beaumont, California",38,45238.09524
+"San Fernando, California",27,25233.64486
+"South Gate, California",79,96341.46341
+"Hercules, California",20,25641.02564
+"Los Banos, California",37,37755.10204
+"Lodi, California",67,65048.54369
+"Orange, California",143,141584.1584
+"Fullerton, California",141,142424.2424
+"Fountain Valley, California",59,57281.5534
+"Burbank, California",154,105479.4521
+"Tustin, California",87,81308.41121
+"Berkeley, California",175,122377.6224
+"Citrus Heights, California",88,88000.0
+"Delano, California",50,52631.57895
+"Simi Valley, California",122,127083.3333
+"Livermore, California",89,89898.9899
+"Folsom, California",70,76923.07692
+"Tracy, California",85,87628.86598
+"Covina, California",59,49166.66667
+"Bell Gardens, California",50,43478.26087
+"Central Marin, California",41,35344.82759
+"Reedley, California",27,25714.28571
+"Montebello, California",66,64077.6699
+"Walnut Creek, California",85,69672.13115
+"San Gabriel, California",49,40495.86777
+"Torrance, California",208,148571.4286
+"Porterville, California",60,56603.77358
+"Newark, California",55,45833.33333
+"Vacaville, California",99,98019.80198
+"El Monte, California",108,117391.3043
+"Union City, California",75,75757.57576
+"Novato, California",56,56000.0
+"San Mateo, California",111,104716.9811
+"Pittsburg, California",77,70642.20183
+"Pomona, California",154,154000.0
+"Bakersfield, California",390,378640.7767
+"Suisun, California",21,29577.46479
+"Belmont, California",30,27522.93578
+"Monrovia, California",51,37500.0
+"Bell, California",33,36263.73626
+"San Rafael, California",65,59633.02752
+"Madera, California",60,64516.12903
