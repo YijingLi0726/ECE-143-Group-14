@@ -1,0 +1,1649 @@
+year,geo_name,geo,cip_name,cip,degree_name,degree,grads_total
+2013,"California","04000US06","General Agriculture","010000","Bachelor's Degree","5",209
+2013,"California","04000US06","General Agriculture Management","010101","Bachelor's Degree","5",285
+2013,"California","04000US06","Other Agricultural Business & Management","010199","Bachelor's Degree","5",5
+2013,"California","04000US06","General Agricultural Mechanization","010201","Bachelor's Degree","5",25
+2013,"California","04000US06","Agroecology & Sustainable Agriculture","010308","Bachelor's Degree","5",5
+2013,"California","04000US06","Viticulture & Enology","010309","Bachelor's Degree","5",90
+2013,"California","04000US06","Ornamental Horticulture","010603","Bachelor's Degree","5",14
+2013,"California","04000US06","International Agriculture","010701","Bachelor's Degree","5",14
+2013,"California","04000US06","Agricultural Communication & Journalism","010802","Bachelor's Degree","5",7
+2013,"California","04000US06","General Animal Sciences","010901","Bachelor's Degree","5",377
+2013,"California","04000US06","Dairy Science","010905","Bachelor's Degree","5",15
+2013,"California","04000US06","Other Animal Science","010999","Bachelor's Degree","5",28
+2013,"California","04000US06","Food Science","011001","Bachelor's Degree","5",115
+2013,"California","04000US06","Food Technology & Processing","011002","Bachelor's Degree","5",2
+2013,"California","04000US06","General Plant Sciences","011101","Bachelor's Degree","5",32
+2013,"California","04000US06","Agronomy & Crop Science","011102","Bachelor's Degree","5",24
+2013,"California","04000US06","Horticultural Science","011103","Bachelor's Degree","5",12
+2013,"California","04000US06","Plant Protection & Integrated Pest Management","011105","Bachelor's Degree","5",25
+2013,"California","04000US06","Range Science & Management","011106","Bachelor's Degree","5",11
+2013,"California","04000US06","General Soil Science & Agronomy","011201","Bachelor's Degree","5",3
+2013,"California","04000US06","Other Agriculture, Operations, & Related Sciences","019999","Bachelor's Degree","5",24
+2013,"California","04000US06","General Natural Resources & Conservation","030101","Bachelor's Degree","5",158
+2013,"California","04000US06","Environmental Studies","030103","Bachelor's Degree","5",1150
+2013,"California","04000US06","Environmental Science","030104","Bachelor's Degree","5",915
+2013,"California","04000US06","Other Conservation & Natural Resource Research","030199","Bachelor's Degree","5",2
+2013,"California","04000US06","Natural Resource Management & Policy","030201","Bachelor's Degree","5",11
+2013,"California","04000US06","Other Natural Resource Management & Policy","030299","Bachelor's Degree","5",88
+2013,"California","04000US06","Fishing & Fisheries Sciences & Management","030301","Bachelor's Degree","5",23
+2013,"California","04000US06","General Forestry","030501","Bachelor's Degree","5",52
+2013,"California","04000US06","Forest Management","030506","Bachelor's Degree","5",15
+2013,"California","04000US06","Urban Forestry","030508","Bachelor's Degree","5",13
+2013,"California","04000US06","Wildlife, Fish, & Wildlands Science","030601","Bachelor's Degree","5",75
+2013,"California","04000US06","Other Natural Resource & Conservation","039999","Bachelor's Degree","5",63
+2013,"California","04000US06","Architecture","040201","Bachelor's Degree","5",758
+2013,"California","04000US06","Urban, Community, & Regional Planning","040301","Bachelor's Degree","5",168
+2013,"California","04000US06","Environmental Design","040401","Bachelor's Degree","5",38
+2013,"California","04000US06","Interior Architecture","040501","Bachelor's Degree","5",11
+2013,"California","04000US06","Landscape Architecture","040601","Bachelor's Degree","5",163
+2013,"California","04000US06","General Architectural History & Criticism","040801","Bachelor's Degree","5",16
+2013,"California","04000US06","African Studies","050101","Bachelor's Degree","5",1
+2013,"California","04000US06","American & U.S. Studies","050102","Bachelor's Degree","5",304
+2013,"California","04000US06","Asian Studies","050103","Bachelor's Degree","5",115
+2013,"California","04000US06","East Asian Studies","050104","Bachelor's Degree","5",76
+2013,"California","04000US06","European Studies","050106","Bachelor's Degree","5",47
+2013,"California","04000US06","Latin American Studies","050107","Bachelor's Degree","5",110
+2013,"California","04000US06","Near & Middle Eastern Studies","050108","Bachelor's Degree","5",35
+2013,"California","04000US06","Russian Studies","050110","Bachelor's Degree","5",8
+2013,"California","04000US06","Southeast Asian Studies","050113","Bachelor's Degree","5",5
+2013,"California","04000US06","Chinese Studies","050123","Bachelor's Degree","5",23
+2013,"California","04000US06","French Studies","050124","Bachelor's Degree","5",7
+2013,"California","04000US06","German Studies","050125","Bachelor's Degree","5",9
+2013,"California","04000US06","Italian Studies","050126","Bachelor's Degree","5",17
+2013,"California","04000US06","Japanese Studies","050127","Bachelor's Degree","5",13
+2013,"California","04000US06","Spanish & Iberian Studies","050130","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Area Studies","050199","Bachelor's Degree","5",55
+2013,"California","04000US06","Ethnic Studies","050200","Bachelor's Degree","5",61
+2013,"California","04000US06","African-American & Black Studies","050201","Bachelor's Degree","5",191
+2013,"California","04000US06","Native American Studies","050202","Bachelor's Degree","5",40
+2013,"California","04000US06","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Bachelor's Degree","5",533
+2013,"California","04000US06","Asian-American Studies","050206","Bachelor's Degree","5",175
+2013,"California","04000US06","Women's Studies","050207","Bachelor's Degree","5",393
+2013,"California","04000US06","Gay & Lesbian Studies","050208","Bachelor's Degree","5",2
+2013,"California","04000US06","Other Ethnic, Minority, Gender, & Group Studies","050299","Bachelor's Degree","5",306
+2013,"California","04000US06","General Communication","090100","Bachelor's Degree","5",1233
+2013,"California","04000US06","Speech Communication & Rhetoric","090101","Bachelor's Degree","5",3990
+2013,"California","04000US06","Mass Communication & Media Studies","090102","Bachelor's Degree","5",394
+2013,"California","04000US06","Other Communication & Media Studies","090199","Bachelor's Degree","5",66
+2013,"California","04000US06","Journalism","090401","Bachelor's Degree","5",765
+2013,"California","04000US06","Broadcast Journalism","090402","Bachelor's Degree","5",87
+2013,"California","04000US06","Photojournalism","090404","Bachelor's Degree","5",37
+2013,"California","04000US06","Other Journalism","090499","Bachelor's Degree","5",40
+2013,"California","04000US06","Radio & Television","090701","Bachelor's Degree","5",897
+2013,"California","04000US06","Digital Communication & Multimedia","090702","Bachelor's Degree","5",67
+2013,"California","04000US06","Other Radio, Television, & Digital Communication","090799","Bachelor's Degree","5",221
+2013,"California","04000US06","Public Relations, Advertising, & Applied Communication","090900","Bachelor's Degree","5",58
+2013,"California","04000US06","General Organizational Communication","090901","Bachelor's Degree","5",5
+2013,"California","04000US06","Public Relations & Image Management","090902","Bachelor's Degree","5",229
+2013,"California","04000US06","Advertising","090903","Bachelor's Degree","5",227
+2013,"California","04000US06","Health Communication","090905","Bachelor's Degree","5",12
+2013,"California","04000US06","International & Intercultural Communication","090907","Bachelor's Degree","5",9
+2013,"California","04000US06","Other Public Relations, Advertising, & Applied Communication","090999","Bachelor's Degree","5",31
+2013,"California","04000US06","Other Communication, Journalism, & Related Programs","099999","Bachelor's Degree","5",52
+2013,"California","04000US06","Recording Arts Technology","100203","Bachelor's Degree","5",198
+2013,"California","04000US06","General Graphic Communications","100301","Bachelor's Degree","5",55
+2013,"California","04000US06","Prepress Publising & Digital Imaging Design","100303","Bachelor's Degree","5",26
+2013,"California","04000US06","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Bachelor's Degree","5",389
+2013,"California","04000US06","General Computer & Information Sciences","110101","Bachelor's Degree","5",143
+2013,"California","04000US06","Information Technology","110103","Bachelor's Degree","5",467
+2013,"California","04000US06","Informatics","110104","Bachelor's Degree","5",29
+2013,"California","04000US06","Other Computer & Information Sciences","110199","Bachelor's Degree","5",52
+2013,"California","04000US06","General Computer Programming","110201","Bachelor's Degree","5",52
+2013,"California","04000US06","Other Computer Programming","110299","Bachelor's Degree","5",75
+2013,"California","04000US06","Information Science","110401","Bachelor's Degree","5",18
+2013,"California","04000US06","Computer Systems Analysis","110501","Bachelor's Degree","5",110
+2013,"California","04000US06","Computer Science","110701","Bachelor's Degree","5",2118
+2013,"California","04000US06","Web Page, Digital, & Information Resource Design","110801","Bachelor's Degree","5",262
+2013,"California","04000US06","Computer Graphics","110803","Bachelor's Degree","5",331
+2013,"California","04000US06","Modeling, Virtual Environments, & Simulation","110804","Bachelor's Degree","5",36
+2013,"California","04000US06","Other Computer Software & Media Applications","110899","Bachelor's Degree","5",10
+2013,"California","04000US06","Computer Systems Networking & Telecommunications","110901","Bachelor's Degree","5",234
+2013,"California","04000US06","Network & System Administration","111001","Bachelor's Degree","5",43
+2013,"California","04000US06","System, Networking, & LAN/WAN Management","111002","Bachelor's Degree","5",16
+2013,"California","04000US06","Computer & Information Systems Security","111003","Bachelor's Degree","5",310
+2013,"California","04000US06","Web Multimedia Management & Webmaster","111004","Bachelor's Degree","5",3
+2013,"California","04000US06","Information Technology Project Management","111005","Bachelor's Degree","5",52
+2013,"California","04000US06","Other Computer & Information Technology Services Management","111099","Bachelor's Degree","5",38
+2013,"California","04000US06","Other Computer & Information Support Services","119999","Bachelor's Degree","5",18
+2013,"California","04000US06","Restaurant, Culinary, & Catering Management","120504","Bachelor's Degree","5",102
+2013,"California","04000US06","General Education","130101","Bachelor's Degree","5",275
+2013,"California","04000US06","Urban Education & Leadership","130410","Bachelor's Degree","5",3
+2013,"California","04000US06","Educational & Instructional Technology","130501","Bachelor's Degree","5",17
+2013,"California","04000US06","Learning Sciences","130607","Bachelor's Degree","5",18
+2013,"California","04000US06","Social & Philosophical Foundations of Education","130901","Bachelor's Degree","5",17
+2013,"California","04000US06","Elementary Education & Teaching","131202","Bachelor's Degree","5",164
+2013,"California","04000US06","Early Childhood Education & Teaching","131210","Bachelor's Degree","5",3566
+2013,"California","04000US06","Agricultural Teacher Education","131301","Bachelor's Degree","5",82
+2013,"California","04000US06","Art Teacher Education","131302","Bachelor's Degree","5",7
+2013,"California","04000US06","English & Language Arts Teacher Education","131305","Bachelor's Degree","5",22
+2013,"California","04000US06","Technology & Industrial Arts Teacher Education","131309","Bachelor's Degree","5",50
+2013,"California","04000US06","Mathematics Teacher Education","131311","Bachelor's Degree","5",19
+2013,"California","04000US06","Music Teacher Education","131312","Bachelor's Degree","5",41
+2013,"California","04000US06","Physical Education Teaching & Coaching","131314","Bachelor's Degree","5",126
+2013,"California","04000US06","Social Science Teacher Education","131317","Bachelor's Degree","5",7
+2013,"California","04000US06","Trade & Industrial Teacher Education","131320","Bachelor's Degree","5",41
+2013,"California","04000US06","Biology Teacher Education","131322","Bachelor's Degree","5",8
+2013,"California","04000US06","Chemistry Teacher Education","131323","Bachelor's Degree","5",3
+2013,"California","04000US06","Physics Teacher Education","131329","Bachelor's Degree","5",1
+2013,"California","04000US06","Spanish Language Teacher Education","131330","Bachelor's Degree","5",3
+2013,"California","04000US06","Psychology Teacher Education","131335","Bachelor's Degree","5",2
+2013,"California","04000US06","Other Teaching English or French as a Second or Foreign Language","131499","Bachelor's Degree","5",45
+2013,"California","04000US06","Other Education","139999","Bachelor's Degree","5",39
+2013,"California","04000US06","General Engineering","140101","Bachelor's Degree","5",208
+2013,"California","04000US06","Pre-Engineering","140102","Bachelor's Degree","5",3
+2013,"California","04000US06","Aerospace, Aeronautical, & Astronautical Engineering","140201","Bachelor's Degree","5",500
+2013,"California","04000US06","Agricultural Engineering","140301","Bachelor's Degree","5",28
+2013,"California","04000US06","Architectural Engineering","140401","Bachelor's Degree","5",49
+2013,"California","04000US06","Bioengineering & Biomedical Engineering","140501","Bachelor's Degree","5",848
+2013,"California","04000US06","Chemical Engineering","140701","Bachelor's Degree","5",645
+2013,"California","04000US06","Chemical & Biomolecular Engineering","140702","Bachelor's Degree","5",12
+2013,"California","04000US06","General Civil Engineering","140801","Bachelor's Degree","5",1834
+2013,"California","04000US06","Structural Engineering","140803","Bachelor's Degree","5",155
+2013,"California","04000US06","Other Civil Engineering","140899","Bachelor's Degree","5",7
+2013,"California","04000US06","General Computer Engineering","140901","Bachelor's Degree","5",664
+2013,"California","04000US06","Computer Software Engineering","140903","Bachelor's Degree","5",100
+2013,"California","04000US06","Other Computer Engineering","140999","Bachelor's Degree","5",2
+2013,"California","04000US06","Electrical & Electronics Engineering","141001","Bachelor's Degree","5",1730
+2013,"California","04000US06","Engineering Physics & Applied Physics","141201","Bachelor's Degree","5",54
+2013,"California","04000US06","Engineering Science","141301","Bachelor's Degree","5",52
+2013,"California","04000US06","Environmental Health Engineering","141401","Bachelor's Degree","5",198
+2013,"California","04000US06","Materials Engineering","141801","Bachelor's Degree","5",104
+2013,"California","04000US06","Mechanical Engineering","141901","Bachelor's Degree","5",2344
+2013,"California","04000US06","Nuclear Engineering","142301","Bachelor's Degree","5",13
+2013,"California","04000US06","Construction Engineering","143301","Bachelor's Degree","5",99
+2013,"California","04000US06","Industrial Engineering","143501","Bachelor's Degree","5",201
+2013,"California","04000US06","Manufacturing Engineering","143601","Bachelor's Degree","5",35
+2013,"California","04000US06","Operations Research","143701","Bachelor's Degree","5",53
+2013,"California","04000US06","Geological & Geophysical Engineering","143901","Bachelor's Degree","5",4
+2013,"California","04000US06","Other Engineering","149999","Bachelor's Degree","5",184
+2013,"California","04000US06","General Engineering Technology","150000","Bachelor's Degree","5",33
+2013,"California","04000US06","Electrical, Electronic, & Communications Engineering Technology","150303","Bachelor's Degree","5",230
+2013,"California","04000US06","Other Electrical Engineering Technology","150399","Bachelor's Degree","5",65
+2013,"California","04000US06","Biomedical Technology","150401","Bachelor's Degree","5",15
+2013,"California","04000US06","Industrial Technology","150612","Bachelor's Degree","5",94
+2013,"California","04000US06","Quality Control Technology","150702","Bachelor's Degree","5",5
+2013,"California","04000US06","Other Related Mechanical Engineering Technologies","150899","Bachelor's Degree","5",30
+2013,"California","04000US06","Construction Engineering Technology","151001","Bachelor's Degree","5",341
+2013,"California","04000US06","Surveying Technology","151102","Bachelor's Degree","5",9
+2013,"California","04000US06","Computer Engineering Technology","151201","Bachelor's Degree","5",29
+2013,"California","04000US06","Engineering & Industrial Management","151501","Bachelor's Degree","5",84
+2013,"California","04000US06","Other Engineering-Related Fields","151599","Bachelor's Degree","5",14
+2013,"California","04000US06","Other Engineering Technologies & Engineering-Related Fields","159999","Bachelor's Degree","5",1
+2013,"California","04000US06","General Foreign Languages & Literatures","160101","Bachelor's Degree","5",43
+2013,"California","04000US06","Linguistics","160102","Bachelor's Degree","5",452
+2013,"California","04000US06","Comparative Literature","160104","Bachelor's Degree","5",427
+2013,"California","04000US06","Applied Linguistics","160105","Bachelor's Degree","5",13
+2013,"California","04000US06","Other Linguistic, Comparative, Related Language Studies & Services","160199","Bachelor's Degree","5",138
+2013,"California","04000US06","General East Asian Languages, Literatures, & Linguistics","160300","Bachelor's Degree","5",39
+2013,"California","04000US06","Chinese Language & Literature","160301","Bachelor's Degree","5",92
+2013,"California","04000US06","Japanese Language & Literature","160302","Bachelor's Degree","5",221
+2013,"California","04000US06","Korean Language & Literature","160303","Bachelor's Degree","5",10
+2013,"California","04000US06","General Slavic Languages, Literatures, & Linguistics","160400","Bachelor's Degree","5",15
+2013,"California","04000US06","Russian Language & Literature","160402","Bachelor's Degree","5",27
+2013,"California","04000US06","General Germanic Languages, Literatures, & Linguistics","160500","Bachelor's Degree","5",8
+2013,"California","04000US06","German Language & Literature","160501","Bachelor's Degree","5",100
+2013,"California","04000US06","Scandanavian Languages, Literatures, & Linguistics","160502","Bachelor's Degree","5",2
+2013,"California","04000US06","Dutch/Flemish Language & Literature","160504","Bachelor's Degree","5",2
+2013,"California","04000US06","General Romance Languages, Literatures, & Linguistics","160900","Bachelor's Degree","5",3
+2013,"California","04000US06","French Language & Literature","160901","Bachelor's Degree","5",283
+2013,"California","04000US06","Italian Language & Literature","160902","Bachelor's Degree","5",47
+2013,"California","04000US06","Portuguese Language & Literature","160904","Bachelor's Degree","5",3
+2013,"California","04000US06","Spanish Language & Literature","160905","Bachelor's Degree","5",1297
+2013,"California","04000US06","General Hispanic & Latin American Languages, Literatures, & Linguistics","160908","Bachelor's Degree","5",57
+2013,"California","04000US06","Arabic Language & Literature","161101","Bachelor's Degree","5",25
+2013,"California","04000US06","Hebrew Language & Literature","161102","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Bachelor's Degree","5",8
+2013,"California","04000US06","General Classical Language, Literature, & Linguistics","161200","Bachelor's Degree","5",96
+2013,"California","04000US06","Latin Language & Literature","161203","Bachelor's Degree","5",3
+2013,"California","04000US06","Other Classical Languages, Literature, & Linguistics","161299","Bachelor's Degree","5",1
+2013,"California","04000US06","Celtic Languages, Literatures, & Linguistics","161301","Bachelor's Degree","5",5
+2013,"California","04000US06","Other Foreign Languages, Literatures, & Linguistics","169999","Bachelor's Degree","5",34
+2013,"California","04000US06","General Family & Consumer Sciences","190101","Bachelor's Degree","5",725
+2013,"California","04000US06","General Family Resource Mangement Studies","190401","Bachelor's Degree","5",2
+2013,"California","04000US06","General Food, Nutrition, & Wellness Studies","190501","Bachelor's Degree","5",6
+2013,"California","04000US06","Foodservice System Management","190505","Bachelor's Degree","5",1
+2013,"California","04000US06","General Human Development & Family Studies","190701","Bachelor's Degree","5",1172
+2013,"California","04000US06","Adult Development & Aging","190702","Bachelor's Degree","5",13
+2013,"California","04000US06","Child Development","190706","Bachelor's Degree","5",340
+2013,"California","04000US06","General Apparel & Textiles","190901","Bachelor's Degree","5",134
+2013,"California","04000US06","Apparel & Textile Manufacture","190902","Bachelor's Degree","5",1
+2013,"California","04000US06","General Legal Studies","220000","Bachelor's Degree","5",282
+2013,"California","04000US06","Pre-Law Studies","220001","Bachelor's Degree","5",24
+2013,"California","04000US06","Paralegal","220302","Bachelor's Degree","5",45
+2013,"California","04000US06","Court Reporting","220303","Bachelor's Degree","5",3
+2013,"California","04000US06","General English Language & Literature","230101","Bachelor's Degree","5",4845
+2013,"California","04000US06","General Writing","231301","Bachelor's Degree","5",21
+2013,"California","04000US06","Creative Writing","231302","Bachelor's Degree","5",187
+2013,"California","04000US06","Professional, Technical, Business, & Scientific Writing","231303","Bachelor's Degree","5",11
+2013,"California","04000US06","Rhetoric & Composition","231304","Bachelor's Degree","5",1607
+2013,"California","04000US06","Other Rhetoric, Composition, or Writing Studies","231399","Bachelor's Degree","5",14
+2013,"California","04000US06","US English Literature","231402","Bachelor's Degree","5",40
+2013,"California","04000US06","Other Literature","231499","Bachelor's Degree","5",8
+2013,"California","04000US06","Other English Language & Literature","239999","Bachelor's Degree","5",116
+2013,"California","04000US06","Liberal Arts & Sciences","240101","Bachelor's Degree","5",5712
+2013,"California","04000US06","General Studies","240102","Bachelor's Degree","5",61
+2013,"California","04000US06","Humanistic Studies","240103","Bachelor's Degree","5",275
+2013,"California","04000US06","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Bachelor's Degree","5",103
+2013,"California","04000US06","Library & Information Science","250101","Bachelor's Degree","5",9
+2013,"California","04000US06","General Biological Sciences","260101","Bachelor's Degree","5",7075
+2013,"California","04000US06","General Biomedical Sciences","260102","Bachelor's Degree","5",84
+2013,"California","04000US06","Biochemistry","260202","Bachelor's Degree","5",1097
+2013,"California","04000US06","Biophysics","260203","Bachelor's Degree","5",22
+2013,"California","04000US06","Molecular Biology","260204","Bachelor's Degree","5",69
+2013,"California","04000US06","Molecular Biochemistry","260205","Bachelor's Degree","5",291
+2013,"California","04000US06","Biochemistry & Molecular Biology","260210","Bachelor's Degree","5",18
+2013,"California","04000US06","Other Biochemistry, Biophysics, & Molecular Biology","260299","Bachelor's Degree","5",41
+2013,"California","04000US06","Botany & Plant Biology","260301","Bachelor's Degree","5",56
+2013,"California","04000US06","Cellular Biology & Histology","260401","Bachelor's Degree","5",41
+2013,"California","04000US06","Anatomy","260403","Bachelor's Degree","5",339
+2013,"California","04000US06","Cellular & Molecular Biology","260406","Bachelor's Degree","5",847
+2013,"California","04000US06","Other Cellular Biology & Anatomical Sciences","260499","Bachelor's Degree","5",31
+2013,"California","04000US06","General Microbiology","260502","Bachelor's Degree","5",246
+2013,"California","04000US06","Microbiology & Immunology","260508","Bachelor's Degree","5",14
+2013,"California","04000US06","Other Microbiological Science & Immunology","260599","Bachelor's Degree","5",120
+2013,"California","04000US06","Zoology","260701","Bachelor's Degree","5",141
+2013,"California","04000US06","Entomology","260702","Bachelor's Degree","5",13
+2013,"California","04000US06","Animal Physiology","260707","Bachelor's Degree","5",8
+2013,"California","04000US06","Animal Behavior & Ethology","260708","Bachelor's Degree","5",3
+2013,"California","04000US06","General Genetics","260801","Bachelor's Degree","5",63
+2013,"California","04000US06","General Physiology","260901","Bachelor's Degree","5",240
+2013,"California","04000US06","Exercise Physiology","260908","Bachelor's Degree","5",205
+2013,"California","04000US06","Pharmacology","261001","Bachelor's Degree","5",22
+2013,"California","04000US06","Toxicology","261004","Bachelor's Degree","5",38
+2013,"California","04000US06","Environmental Toxicology","261006","Bachelor's Degree","5",34
+2013,"California","04000US06","Bioinformatics","261103","Bachelor's Degree","5",23
+2013,"California","04000US06","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Bachelor's Degree","5",10
+2013,"California","04000US06","Biotechnology","261201","Bachelor's Degree","5",100
+2013,"California","04000US06","Ecology","261301","Bachelor's Degree","5",96
+2013,"California","04000US06","Marine Biology & Biological Oceonography","261302","Bachelor's Degree","5",143
+2013,"California","04000US06","Aquatic Biology","261304","Bachelor's Degree","5",41
+2013,"California","04000US06","Environmental Biology","261305","Bachelor's Degree","5",20
+2013,"California","04000US06","Ecology & Evolutionary Biology","261310","Bachelor's Degree","5",22
+2013,"California","04000US06","Other Ecology, Evolution, Systematics, & Population Biology","261399","Bachelor's Degree","5",77
+2013,"California","04000US06","Neuroscience","261501","Bachelor's Degree","5",454
+2013,"California","04000US06","Neurobiology & Anatomy","261503","Bachelor's Degree","5",450
+2013,"California","04000US06","Other Neurobiology & Neurosciences","261599","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Biological & Biomedical Sciences","269999","Bachelor's Degree","5",28
+2013,"California","04000US06","General Mathematics","270101","Bachelor's Degree","5",1647
+2013,"California","04000US06","Other Mathematics","270199","Bachelor's Degree","5",226
+2013,"California","04000US06","General Applied Mathematics","270301","Bachelor's Degree","5",309
+2013,"California","04000US06","Computational Mathematics","270303","Bachelor's Degree","5",25
+2013,"California","04000US06","Computational & Applied Mathematics","270304","Bachelor's Degree","5",8
+2013,"California","04000US06","Financial Mathematics","270305","Bachelor's Degree","5",27
+2013,"California","04000US06","Other Applied Mathematics","270399","Bachelor's Degree","5",54
+2013,"California","04000US06","General Statistics","270501","Bachelor's Degree","5",336
+2013,"California","04000US06","Other Statistics","270599","Bachelor's Degree","5",11
+2013,"California","04000US06","Other Mathematics & Statistics","279999","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Military Applied Sciences","290399","Bachelor's Degree","5",8
+2013,"California","04000US06","General Interdisciplinary Studies","300000","Bachelor's Degree","5",68
+2013,"California","04000US06","Biological & Physical Sciences","300101","Bachelor's Degree","5",5
+2013,"California","04000US06","Peace Studies & Conflict Resolution","300501","Bachelor's Degree","5",114
+2013,"California","04000US06","Systems Science & Theory","300601","Bachelor's Degree","5",4
+2013,"California","04000US06","Mathematics & Computer Science","300801","Bachelor's Degree","5",39
+2013,"California","04000US06","Biopsychology","301001","Bachelor's Degree","5",6
+2013,"California","04000US06","Gerontology","301101","Bachelor's Degree","5",73
+2013,"California","04000US06","Medieval & Renaissance Studies","301301","Bachelor's Degree","5",3
+2013,"California","04000US06","Science, Technology, & Society","301501","Bachelor's Degree","5",87
+2013,"California","04000US06","Behavioral Sciences","301701","Bachelor's Degree","5",840
+2013,"California","04000US06","Natural Sciences","301801","Bachelor's Degree","5",73
+2013,"California","04000US06","Nutrition Sciences","301901","Bachelor's Degree","5",215
+2013,"California","04000US06","International & Global Studies","302001","Bachelor's Degree","5",952
+2013,"California","04000US06","Ancient Civilization Studies","302201","Bachelor's Degree","5",3
+2013,"California","04000US06","Classical, Ancient Mediterranean, & Near Eastern Studies & Archeology","302202","Bachelor's Degree","5",65
+2013,"California","04000US06","Intercultural, Multicultural, & Diversity Studies","302301","Bachelor's Degree","5",46
+2013,"California","04000US06","Cognitive Science","302501","Bachelor's Degree","5",410
+2013,"California","04000US06","Human Biology","302701","Bachelor's Degree","5",259
+2013,"California","04000US06","Dispute Resolution","302801","Bachelor's Degree","5",1
+2013,"California","04000US06","Maritime Sciences","303201","Bachelor's Degree","5",7
+2013,"California","04000US06","Sustainability Studies","303301","Bachelor's Degree","5",5
+2013,"California","04000US06","Other Multidisciplinary Studies","309999","Bachelor's Degree","5",1097
+2013,"California","04000US06","Parks, Recreation, & Leisure Studies","310101","Bachelor's Degree","5",502
+2013,"California","04000US06","General Health & Physical Education","310501","Bachelor's Degree","5",2925
+2013,"California","04000US06","Sport & Fitness Management","310504","Bachelor's Degree","5",175
+2013,"California","04000US06","Kinesiology & Exercise Science","310505","Bachelor's Degree","5",627
+2013,"California","04000US06","Sports Studies","310508","Bachelor's Degree","5",17
+2013,"California","04000US06","Other Health & Physical Education","310599","Bachelor's Degree","5",37
+2013,"California","04000US06","Philosophy","380101","Bachelor's Degree","5",1277
+2013,"California","04000US06","Ethics","380103","Bachelor's Degree","5",5
+2013,"California","04000US06","Other Philosophy","380199","Bachelor's Degree","5",60
+2013,"California","04000US06","Religious Studies","380201","Bachelor's Degree","5",333
+2013,"California","04000US06","Christian Studies","380203","Bachelor's Degree","5",26
+2013,"California","04000US06","Judaic Studies","380206","Bachelor's Degree","5",18
+2013,"California","04000US06","Other Religious Studies","380299","Bachelor's Degree","5",28
+2013,"California","04000US06","Other Philosophy & Religious Studies","389999","Bachelor's Degree","5",19
+2013,"California","04000US06","Biblical Studies","390201","Bachelor's Degree","5",280
+2013,"California","04000US06","Missionary Studies & Missiology","390301","Bachelor's Degree","5",46
+2013,"California","04000US06","Religious Education","390401","Bachelor's Degree","5",62
+2013,"California","04000US06","Religious & Sacred Music","390501","Bachelor's Degree","5",15
+2013,"California","04000US06","Theological Studies","390601","Bachelor's Degree","5",69
+2013,"California","04000US06","Divinity & Ministry","390602","Bachelor's Degree","5",15
+2013,"California","04000US06","Pre-Theology & Pre-Ministerial Studies","390604","Bachelor's Degree","5",8
+2013,"California","04000US06","Talmudic Studies","390606","Bachelor's Degree","5",20
+2013,"California","04000US06","Other Theological & Ministerial Studies","390699","Bachelor's Degree","5",53
+2013,"California","04000US06","Pastoral Studies & Counseling","390701","Bachelor's Degree","5",85
+2013,"California","04000US06","Youth Ministry","390702","Bachelor's Degree","5",24
+2013,"California","04000US06","Other Pastoral Counseling & Specialized Ministries","390799","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Theology & Religious Vocations","399999","Bachelor's Degree","5",3
+2013,"California","04000US06","Physical Sciences","400101","Bachelor's Degree","5",13
+2013,"California","04000US06","Astronomy","400201","Bachelor's Degree","5",6
+2013,"California","04000US06","Astrophysics","400202","Bachelor's Degree","5",55
+2013,"California","04000US06","Planetary Astronomy & Science","400203","Bachelor's Degree","5",1
+2013,"California","04000US06","General Atmospheric Sciences & Meteorology","400401","Bachelor's Degree","5",10
+2013,"California","04000US06","Other Atmospheric Sciences & Meteorology","400499","Bachelor's Degree","5",10
+2013,"California","04000US06","General Chemistry","400501","Bachelor's Degree","5",1160
+2013,"California","04000US06","Chemical Physics","400508","Bachelor's Degree","5",3
+2013,"California","04000US06","Other Chemistry","400599","Bachelor's Degree","5",234
+2013,"California","04000US06","General Geology & Earch Science","400601","Bachelor's Degree","5",458
+2013,"California","04000US06","Geochemistry","400602","Bachelor's Degree","5",1
+2013,"California","04000US06","Geophysics & Seismology","400603","Bachelor's Degree","5",21
+2013,"California","04000US06","Hydrology & Water Resources Science","400605","Bachelor's Degree","5",17
+2013,"California","04000US06","Chemical & Physical Oceanography","400607","Bachelor's Degree","5",25
+2013,"California","04000US06","Other Geological & Earth Sciences","400699","Bachelor's Degree","5",41
+2013,"California","04000US06","General Physics","400801","Bachelor's Degree","5",717
+2013,"California","04000US06","Atomic & Molecular Physics","400802","Bachelor's Degree","5",2
+2013,"California","04000US06","Optical Sciences","400807","Bachelor's Degree","5",2
+2013,"California","04000US06","Theoretical & Mathematical Physics","400810","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Physics","400899","Bachelor's Degree","5",26
+2013,"California","04000US06","Materials Science","401001","Bachelor's Degree","5",24
+2013,"California","04000US06","Other Physical Sciences","409999","Bachelor's Degree","5",9
+2013,"California","04000US06","General Psychology","420101","Bachelor's Degree","5",13750
+2013,"California","04000US06","Cognitive Psychology & Psycholinguistics","422701","Bachelor's Degree","5",16
+2013,"California","04000US06","Developmental & Child Psychology","422703","Bachelor's Degree","5",102
+2013,"California","04000US06","Physiological Psychology & Psychobiology","422706","Bachelor's Degree","5",389
+2013,"California","04000US06","Social Psychology","422707","Bachelor's Degree","5",437
+2013,"California","04000US06","Other Research & Experimental Psychology","422799","Bachelor's Degree","5",841
+2013,"California","04000US06","Counseling Psychology","422803","Bachelor's Degree","5",49
+2013,"California","04000US06","Industrial & Organizational Psychology","422804","Bachelor's Degree","5",6
+2013,"California","04000US06","Applied Psychology","422813","Bachelor's Degree","5",26
+2013,"California","04000US06","Other Psychology","429999","Bachelor's Degree","5",35
+2013,"California","04000US06","Criminal Justice - Law Enforcement Administration","430103","Bachelor's Degree","5",1182
+2013,"California","04000US06","Criminal Justice - Safety Studies","430104","Bachelor's Degree","5",4041
+2013,"California","04000US06","Criminal Justice - Police Science","430107","Bachelor's Degree","5",2
+2013,"California","04000US06","Securities Services Management","430112","Bachelor's Degree","5",31
+2013,"California","04000US06","Other Corrections & Criminal Justice","430199","Bachelor's Degree","5",531
+2013,"California","04000US06","Fire Services Administration","430202","Bachelor's Degree","5",36
+2013,"California","04000US06","Fire Science & Fire-Fighting","430203","Bachelor's Degree","5",18
+2013,"California","04000US06","Homeland Security","430301","Bachelor's Degree","5",28
+2013,"California","04000US06","General Human Services","440000","Bachelor's Degree","5",1083
+2013,"California","04000US06","Community Organization & Advocacy","440201","Bachelor's Degree","5",38
+2013,"California","04000US06","Public Administration","440401","Bachelor's Degree","5",397
+2013,"California","04000US06","General Public Policy Analysis","440501","Bachelor's Degree","5",150
+2013,"California","04000US06","Health Policy Analysis","440503","Bachelor's Degree","5",6
+2013,"California","04000US06","Social Work","440701","Bachelor's Degree","5",1103
+2013,"California","04000US06","General Social Sciences","450101","Bachelor's Degree","5",1938
+2013,"California","04000US06","Anthropology","450201","Bachelor's Degree","5",2134
+2013,"California","04000US06","Cultural Anthropology","450204","Bachelor's Degree","5",27
+2013,"California","04000US06","Other Anthropology","450299","Bachelor's Degree","5",5
+2013,"California","04000US06","Archeology","450301","Bachelor's Degree","5",14
+2013,"California","04000US06","Criminology","450401","Bachelor's Degree","5",882
+2013,"California","04000US06","General Economics","450601","Bachelor's Degree","5",4023
+2013,"California","04000US06","Applied Economices","450602","Bachelor's Degree","5",17
+2013,"California","04000US06","Econometrics & Quantitative Economics","450603","Bachelor's Degree","5",308
+2013,"California","04000US06","Developmental Economics & International Development","450604","Bachelor's Degree","5",133
+2013,"California","04000US06","International Economics","450605","Bachelor's Degree","5",18
+2013,"California","04000US06","Other Economics","450699","Bachelor's Degree","5",112
+2013,"California","04000US06","Geography","450701","Bachelor's Degree","5",586
+2013,"California","04000US06","Other Geography","450799","Bachelor's Degree","5",67
+2013,"California","04000US06","International Relations & Affairs","450901","Bachelor's Degree","5",1197
+2013,"California","04000US06","Other International Relations & National Security Studies","450999","Bachelor's Degree","5",104
+2013,"California","04000US06","General Political Science & Government","451001","Bachelor's Degree","5",5220
+2013,"California","04000US06","US Government & Politics","451002","Bachelor's Degree","5",39
+2013,"California","04000US06","Other Political Science & Government","451099","Bachelor's Degree","5",275
+2013,"California","04000US06","Sociology","451101","Bachelor's Degree","5",6954
+2013,"California","04000US06","Urban Studies","451201","Bachelor's Degree","5",304
+2013,"California","04000US06","Sociology & Anthropology","451301","Bachelor's Degree","5",7
+2013,"California","04000US06","Other Social Sciences","459999","Bachelor's Degree","5",473
+2013,"California","04000US06","Furniture Design & Manufacturing","480702","Bachelor's Degree","5",3
+2013,"California","04000US06","General Aeronautics & Aerospace Science & Technology","490101","Bachelor's Degree","5",26
+2013,"California","04000US06","Marine Science & Merchant Marine Officer","490309","Bachelor's Degree","5",71
+2013,"California","04000US06","General Visual & Performing Arts","500101","Bachelor's Degree","5",243
+2013,"California","04000US06","Digital Arts","500102","Bachelor's Degree","5",16
+2013,"California","04000US06","Crafts Design, Folk Art, & Artisanry","500201","Bachelor's Degree","5",1
+2013,"California","04000US06","General Dance","500301","Bachelor's Degree","5",250
+2013,"California","04000US06","Other Dance","500399","Bachelor's Degree","5",1
+2013,"California","04000US06","General Design & Visual Communications","500401","Bachelor's Degree","5",507
+2013,"California","04000US06","Commercial & Advertising Art","500402","Bachelor's Degree","5",37
+2013,"California","04000US06","Industrial & Product Design","500404","Bachelor's Degree","5",273
+2013,"California","04000US06","Commercial Photography","500406","Bachelor's Degree","5",10
+2013,"California","04000US06","Fashion & Apparel Design","500407","Bachelor's Degree","5",400
+2013,"California","04000US06","Interior Design","500408","Bachelor's Degree","5",480
+2013,"California","04000US06","Graphic Design","500409","Bachelor's Degree","5",703
+2013,"California","04000US06","Illustration","500410","Bachelor's Degree","5",178
+2013,"California","04000US06","Game & Interactive Media Design","500411","Bachelor's Degree","5",379
+2013,"California","04000US06","Other Design & Applied Arts","500499","Bachelor's Degree","5",166
+2013,"California","04000US06","General Drama & Theater Arts","500501","Bachelor's Degree","5",1177
+2013,"California","04000US06","Technical Theatre Design & Technology","500502","Bachelor's Degree","5",19
+2013,"California","04000US06","Playwriting & Screenwriting","500504","Bachelor's Degree","5",97
+2013,"California","04000US06","Acting","500506","Bachelor's Degree","5",60
+2013,"California","04000US06","Musical Theatre","500509","Bachelor's Degree","5",9
+2013,"California","04000US06","Other Dramatic Arts & Stagecraft","500599","Bachelor's Degree","5",8
+2013,"California","04000US06","Film, Cinema, & Video Studies","500601","Bachelor's Degree","5",1049
+2013,"California","04000US06","Cinematography & Film Production","500602","Bachelor's Degree","5",801
+2013,"California","04000US06","Photography","500605","Bachelor's Degree","5",309
+2013,"California","04000US06","Other Film & Photographic Arts","500699","Bachelor's Degree","5",273
+2013,"California","04000US06","General Art Studies","500701","Bachelor's Degree","5",2357
+2013,"California","04000US06","General Fine Studio Arts","500702","Bachelor's Degree","5",1292
+2013,"California","04000US06","Art History, Criticism, & Conservation","500703","Bachelor's Degree","5",504
+2013,"California","04000US06","Multimedia","500706","Bachelor's Degree","5",105
+2013,"California","04000US06","Painting","500708","Bachelor's Degree","5",69
+2013,"California","04000US06","Sculpture","500709","Bachelor's Degree","5",12
+2013,"California","04000US06","Printmaking","500710","Bachelor's Degree","5",21
+2013,"California","04000US06","Fiber, Textile, & Weaving Arts","500712","Bachelor's Degree","5",7
+2013,"California","04000US06","Metal & Jewelry Arts","500713","Bachelor's Degree","5",11
+2013,"California","04000US06","Other Fine Arts & Art Studies","500799","Bachelor's Degree","5",217
+2013,"California","04000US06","General Music","500901","Bachelor's Degree","5",786
+2013,"California","04000US06","Music History, Literature, & Theory","500902","Bachelor's Degree","5",16
+2013,"California","04000US06","General Music Performance","500903","Bachelor's Degree","5",468
+2013,"California","04000US06","Music Theory & Composition","500904","Bachelor's Degree","5",31
+2013,"California","04000US06","Musicology & Ethnomusicology","500905","Bachelor's Degree","5",19
+2013,"California","04000US06","Keyboard Instruments","500907","Bachelor's Degree","5",12
+2013,"California","04000US06","Voice & Opera","500908","Bachelor's Degree","5",31
+2013,"California","04000US06","Jazz & Jazz Studies","500910","Bachelor's Degree","5",10
+2013,"California","04000US06","Stringed Instruments","500911","Bachelor's Degree","5",27
+2013,"California","04000US06","Music Pedagogy","500912","Bachelor's Degree","5",5
+2013,"California","04000US06","Music Technology","500913","Bachelor's Degree","5",8
+2013,"California","04000US06","Brass Instruments","500914","Bachelor's Degree","5",8
+2013,"California","04000US06","Woodwind Instruments","500915","Bachelor's Degree","5",2
+2013,"California","04000US06","Percussion Instruments","500916","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Music","500999","Bachelor's Degree","5",70
+2013,"California","04000US06","General Arts, Entertainment, & Media Management","501001","Bachelor's Degree","5",5
+2013,"California","04000US06","Music Management","501003","Bachelor's Degree","5",54
+2013,"California","04000US06","Other Visual & Performing Arts","509999","Bachelor's Degree","5",50
+2013,"California","04000US06","General Health Services","510000","Bachelor's Degree","5",2294
+2013,"California","04000US06","General Health & Wellness","510001","Bachelor's Degree","5",11
+2013,"California","04000US06","General Communication Sciences & Disorders","510201","Bachelor's Degree","5",675
+2013,"California","04000US06","Speech-Language Pathology","510203","Bachelor's Degree","5",12
+2013,"California","04000US06","Audiology & Speech-Language Pathology","510204","Bachelor's Degree","5",43
+2013,"California","04000US06","Dental Hygiene","510602","Bachelor's Degree","5",151
+2013,"California","04000US06","Health Care Administration & Management","510701","Bachelor's Degree","5",1505
+2013,"California","04000US06","Hospital & Health Care Facilities Management","510702","Bachelor's Degree","5",151
+2013,"California","04000US06","Health Information & Medical Records Administration","510706","Bachelor's Degree","5",12
+2013,"California","04000US06","Health Management & Clinical Assistant","510711","Bachelor's Degree","5",1
+2013,"California","04000US06","Long Term Care Management","510718","Bachelor's Degree","5",4
+2013,"California","04000US06","Emergency Medical Technician (EMT Paramedic)","510904","Bachelor's Degree","5",11
+2013,"California","04000US06","Respiratory Care Therapist","510908","Bachelor's Degree","5",34
+2013,"California","04000US06","Diagnostic Medical Sonography & Ultrasound Technician","510910","Bachelor's Degree","5",7
+2013,"California","04000US06","Radiographer","510911","Bachelor's Degree","5",37
+2013,"California","04000US06","Athletic Trainer","510913","Bachelor's Degree","5",129
+2013,"California","04000US06","Cytotechnologist","511002","Bachelor's Degree","5",3
+2013,"California","04000US06","Clinical Laboratory Technologist","511005","Bachelor's Degree","5",36
+2013,"California","04000US06","Pre-Medical Studies","511102","Bachelor's Degree","5",1
+2013,"California","04000US06","Pre-Physical Therapy Studies","511109","Bachelor's Degree","5",2
+2013,"California","04000US06","Other Mental, Social Health Services, & Allied Professions ","511599","Bachelor's Degree","5",240
+2013,"California","04000US06","Pharmaceutical Sciences","512010","Bachelor's Degree","5",116
+2013,"California","04000US06","General Public Health","512201","Bachelor's Degree","5",187
+2013,"California","04000US06","Environmental Health","512202","Bachelor's Degree","5",49
+2013,"California","04000US06","Public Health Education & Promotion","512207","Bachelor's Degree","5",107
+2013,"California","04000US06","Community Health & Preventative Medicine","512208","Bachelor's Degree","5",1
+2013,"California","04000US06","International Public Health","512210","Bachelor's Degree","5",16
+2013,"California","04000US06","Health Services Administration","512211","Bachelor's Degree","5",14
+2013,"California","04000US06","Behavioral Aspects of Health","512212","Bachelor's Degree","5",69
+2013,"California","04000US06","Other Public Health","512299","Bachelor's Degree","5",343
+2013,"California","04000US06","Music Therapy","512305","Bachelor's Degree","5",5
+2013,"California","04000US06","Occupational Therapy","512306","Bachelor's Degree","5",77
+2013,"California","04000US06","Physical Therapy","512308","Bachelor's Degree","5",1
+2013,"California","04000US06","Vocational Rehabilitation Counseling","512310","Bachelor's Degree","5",41
+2013,"California","04000US06","Kinesiotherapy","512311","Bachelor's Degree","5",6
+2013,"California","04000US06","Dietetics","513101","Bachelor's Degree","5",552
+2013,"California","04000US06","Acupuncture & Oriental Medicine","513301","Bachelor's Degree","5",5
+2013,"California","04000US06","Holistic Health","513306","Bachelor's Degree","5",41
+2013,"California","04000US06","Other Alternative & Complimentary Medicine & Medical Systems","513399","Bachelor's Degree","5",2
+2013,"California","04000US06","Registered Nursing","513801","Bachelor's Degree","5",6149
+2013,"California","04000US06","Nursing School","513808","Bachelor's Degree","5",108
+2013,"California","04000US06","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Bachelor's Degree","5",46
+2013,"California","04000US06","Licensed Practical & Vocational Nurse Training","513901","Bachelor's Degree","5",19
+2013,"California","04000US06","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Bachelor's Degree","5",1
+2013,"California","04000US06","Other Health Professions & Related Clinical Sciences","519999","Bachelor's Degree","5",56
+2013,"California","04000US06","General Business","520101","Bachelor's Degree","5",619
+2013,"California","04000US06","General Business Administration & Management","520201","Bachelor's Degree","5",23960
+2013,"California","04000US06","Logistics, Materials, & Supply Chain Management","520203","Bachelor's Degree","5",116
+2013,"California","04000US06","Operations Management & Supervision","520205","Bachelor's Degree","5",56
+2013,"California","04000US06","Non-Profit, Public, & Organizational Management","520206","Bachelor's Degree","5",1
+2013,"California","04000US06","Customer Service Management","520207","Bachelor's Degree","5",30
+2013,"California","04000US06","E-Commerce","520208","Bachelor's Degree","5",4
+2013,"California","04000US06","Project Management","520211","Bachelor's Degree","5",121
+2013,"California","04000US06","Organizational Leadership","520213","Bachelor's Degree","5",419
+2013,"California","04000US06","Other Business Administration, Management, & Operations","520299","Bachelor's Degree","5",2397
+2013,"California","04000US06","Accounting","520301","Bachelor's Degree","5",1637
+2013,"California","04000US06","Accounting Technology & Bookkeeping","520302","Bachelor's Degree","5",42
+2013,"California","04000US06","Accounting & Finance","520304","Bachelor's Degree","5",9
+2013,"California","04000US06","Accounting & Business Management","520305","Bachelor's Degree","5",157
+2013,"California","04000US06","Business & Corporate Communications","520501","Bachelor's Degree","5",32
+2013,"California","04000US06","Business & Managerial Economics","520601","Bachelor's Degree","5",1605
+2013,"California","04000US06","Entrepreneurial Studies","520701","Bachelor's Degree","5",148
+2013,"California","04000US06","General Finance","520801","Bachelor's Degree","5",952
+2013,"California","04000US06","General Hospitality Management","520901","Bachelor's Degree","5",676
+2013,"California","04000US06","Casino Management","520908","Bachelor's Degree","5",5
+2013,"California","04000US06","Other Hospitality Administration & Management","520999","Bachelor's Degree","5",95
+2013,"California","04000US06","General Human Resources Management & Personnel Administration","521001","Bachelor's Degree","5",279
+2013,"California","04000US06","Organizational Behavior Studies","521003","Bachelor's Degree","5",305
+2013,"California","04000US06","Labor Studies","521004","Bachelor's Degree","5",4
+2013,"California","04000US06","Other Human Resources Management & Services","521099","Bachelor's Degree","5",38
+2013,"California","04000US06","International Business, Trade, & Commerce","521101","Bachelor's Degree","5",387
+2013,"California","04000US06","General Management Information Systems","521201","Bachelor's Degree","5",279
+2013,"California","04000US06","Information Resources Management","521206","Bachelor's Degree","5",22
+2013,"California","04000US06","Other Management Information Systems & Services","521299","Bachelor's Degree","5",7
+2013,"California","04000US06","Management Science","521301","Bachelor's Degree","5",326
+2013,"California","04000US06","Actuarial Science","521304","Bachelor's Degree","5",21
+2013,"California","04000US06","General Marketing & Marketing Management","521401","Bachelor's Degree","5",820
+2013,"California","04000US06","Other Marketing","521499","Bachelor's Degree","5",205
+2013,"California","04000US06","Real Estate","521501","Bachelor's Degree","5",26
+2013,"California","04000US06","Fashion Merchandising","521902","Bachelor's Degree","5",14
+2013,"California","04000US06","Apparel & Accessories Marketing Operations","521904","Bachelor's Degree","5",122
+2013,"California","04000US06","Construction Management","522001","Bachelor's Degree","5",62
+2013,"California","04000US06","Other Business, Management, Marketing, & Related Support Services","529999","Bachelor's Degree","5",274
+2013,"California","04000US06","General History","540101","Bachelor's Degree","5",4014
+2013,"California","04000US06","U.S. History","540102","Bachelor's Degree","5",3
+2013,"California","04000US06","European History","540103","Bachelor's Degree","5",1
+2013,"California","04000US06","Other History","540199","Bachelor's Degree","5",58
+2014,"California","04000US06","General Agriculture","010000","Bachelor's Degree","5",210
+2014,"California","04000US06","General Agriculture Management","010101","Bachelor's Degree","5",340
+2014,"California","04000US06","Other Agricultural Business & Management","010199","Bachelor's Degree","5",3
+2014,"California","04000US06","General Agricultural Mechanization","010201","Bachelor's Degree","5",34
+2014,"California","04000US06","Agroecology & Sustainable Agriculture","010308","Bachelor's Degree","5",13
+2014,"California","04000US06","Viticulture & Enology","010309","Bachelor's Degree","5",83
+2014,"California","04000US06","Ornamental Horticulture","010603","Bachelor's Degree","5",13
+2014,"California","04000US06","International Agriculture","010701","Bachelor's Degree","5",10
+2014,"California","04000US06","Agricultural Communication & Journalism","010802","Bachelor's Degree","5",4
+2014,"California","04000US06","General Animal Sciences","010901","Bachelor's Degree","5",419
+2014,"California","04000US06","Dairy Science","010905","Bachelor's Degree","5",30
+2014,"California","04000US06","Other Animal Science","010999","Bachelor's Degree","5",24
+2014,"California","04000US06","Food Science","011001","Bachelor's Degree","5",141
+2014,"California","04000US06","Food Technology & Processing","011002","Bachelor's Degree","5",2
+2014,"California","04000US06","General Plant Sciences","011101","Bachelor's Degree","5",26
+2014,"California","04000US06","Agronomy & Crop Science","011102","Bachelor's Degree","5",21
+2014,"California","04000US06","Horticultural Science","011103","Bachelor's Degree","5",13
+2014,"California","04000US06","Plant Protection & Integrated Pest Management","011105","Bachelor's Degree","5",30
+2014,"California","04000US06","Range Science & Management","011106","Bachelor's Degree","5",4
+2014,"California","04000US06","General Soil Science & Agronomy","011201","Bachelor's Degree","5",7
+2014,"California","04000US06","Other Agriculture, Operations, & Related Sciences","019999","Bachelor's Degree","5",19
+2014,"California","04000US06","General Natural Resources & Conservation","030101","Bachelor's Degree","5",128
+2014,"California","04000US06","Environmental Studies","030103","Bachelor's Degree","5",1024
+2014,"California","04000US06","Environmental Science","030104","Bachelor's Degree","5",1055
+2014,"California","04000US06","Natural Resource Management & Policy","030201","Bachelor's Degree","5",9
+2014,"California","04000US06","Other Natural Resource Management & Policy","030299","Bachelor's Degree","5",124
+2014,"California","04000US06","Fishing & Fisheries Sciences & Management","030301","Bachelor's Degree","5",20
+2014,"California","04000US06","General Forestry","030501","Bachelor's Degree","5",77
+2014,"California","04000US06","Forest Management","030506","Bachelor's Degree","5",13
+2014,"California","04000US06","Urban Forestry","030508","Bachelor's Degree","5",7
+2014,"California","04000US06","Wildlife, Fish, & Wildlands Science","030601","Bachelor's Degree","5",76
+2014,"California","04000US06","Other Natural Resource & Conservation","039999","Bachelor's Degree","5",65
+2014,"California","04000US06","Architecture","040201","Bachelor's Degree","5",706
+2014,"California","04000US06","Urban, Community, & Regional Planning","040301","Bachelor's Degree","5",174
+2014,"California","04000US06","Environmental Design","040401","Bachelor's Degree","5",12
+2014,"California","04000US06","Interior Architecture","040501","Bachelor's Degree","5",12
+2014,"California","04000US06","Landscape Architecture","040601","Bachelor's Degree","5",135
+2014,"California","04000US06","General Architectural History & Criticism","040801","Bachelor's Degree","5",13
+2014,"California","04000US06","American & U.S. Studies","050102","Bachelor's Degree","5",263
+2014,"California","04000US06","Asian Studies","050103","Bachelor's Degree","5",135
+2014,"California","04000US06","East Asian Studies","050104","Bachelor's Degree","5",51
+2014,"California","04000US06","European Studies","050106","Bachelor's Degree","5",37
+2014,"California","04000US06","Latin American Studies","050107","Bachelor's Degree","5",91
+2014,"California","04000US06","Near & Middle Eastern Studies","050108","Bachelor's Degree","5",32
+2014,"California","04000US06","Russian Studies","050110","Bachelor's Degree","5",8
+2014,"California","04000US06","Southeast Asian Studies","050113","Bachelor's Degree","5",2
+2014,"California","04000US06","Chinese Studies","050123","Bachelor's Degree","5",18
+2014,"California","04000US06","French Studies","050124","Bachelor's Degree","5",5
+2014,"California","04000US06","German Studies","050125","Bachelor's Degree","5",11
+2014,"California","04000US06","Italian Studies","050126","Bachelor's Degree","5",11
+2014,"California","04000US06","Japanese Studies","050127","Bachelor's Degree","5",8
+2014,"California","04000US06","Other Area Studies","050199","Bachelor's Degree","5",85
+2014,"California","04000US06","Ethnic Studies","050200","Bachelor's Degree","5",59
+2014,"California","04000US06","African-American & Black Studies","050201","Bachelor's Degree","5",176
+2014,"California","04000US06","Native American Studies","050202","Bachelor's Degree","5",29
+2014,"California","04000US06","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Bachelor's Degree","5",513
+2014,"California","04000US06","Asian-American Studies","050206","Bachelor's Degree","5",141
+2014,"California","04000US06","Women's Studies","050207","Bachelor's Degree","5",359
+2014,"California","04000US06","Gay & Lesbian Studies","050208","Bachelor's Degree","5",17
+2014,"California","04000US06","Other Ethnic, Minority, Gender, & Group Studies","050299","Bachelor's Degree","5",352
+2014,"California","04000US06","General Communication","090100","Bachelor's Degree","5",1253
+2014,"California","04000US06","Speech Communication & Rhetoric","090101","Bachelor's Degree","5",4006
+2014,"California","04000US06","Mass Communication & Media Studies","090102","Bachelor's Degree","5",349
+2014,"California","04000US06","Other Communication & Media Studies","090199","Bachelor's Degree","5",114
+2014,"California","04000US06","Journalism","090401","Bachelor's Degree","5",915
+2014,"California","04000US06","Broadcast Journalism","090402","Bachelor's Degree","5",96
+2014,"California","04000US06","Photojournalism","090404","Bachelor's Degree","5",23
+2014,"California","04000US06","Other Journalism","090499","Bachelor's Degree","5",46
+2014,"California","04000US06","Radio & Television","090701","Bachelor's Degree","5",986
+2014,"California","04000US06","Digital Communication & Multimedia","090702","Bachelor's Degree","5",100
+2014,"California","04000US06","Other Radio, Television, & Digital Communication","090799","Bachelor's Degree","5",222
+2014,"California","04000US06","Public Relations, Advertising, & Applied Communication","090900","Bachelor's Degree","5",45
+2014,"California","04000US06","General Organizational Communication","090901","Bachelor's Degree","5",5
+2014,"California","04000US06","Public Relations & Image Management","090902","Bachelor's Degree","5",240
+2014,"California","04000US06","Advertising","090903","Bachelor's Degree","5",229
+2014,"California","04000US06","Health Communication","090905","Bachelor's Degree","5",27
+2014,"California","04000US06","International & Intercultural Communication","090907","Bachelor's Degree","5",6
+2014,"California","04000US06","Other Public Relations, Advertising, & Applied Communication","090999","Bachelor's Degree","5",27
+2014,"California","04000US06","Other Communication, Journalism, & Related Programs","099999","Bachelor's Degree","5",56
+2014,"California","04000US06","Recording Arts Technology","100203","Bachelor's Degree","5",201
+2014,"California","04000US06","Other Audiovisual Communications Technology","100299","Bachelor's Degree","5",10
+2014,"California","04000US06","General Graphic Communications","100301","Bachelor's Degree","5",80
+2014,"California","04000US06","Prepress Publising & Digital Imaging Design","100303","Bachelor's Degree","5",31
+2014,"California","04000US06","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Bachelor's Degree","5",353
+2014,"California","04000US06","Other Graphic Communications","100399","Bachelor's Degree","5",1
+2014,"California","04000US06","General Computer & Information Sciences","110101","Bachelor's Degree","5",146
+2014,"California","04000US06","Information Technology","110103","Bachelor's Degree","5",356
+2014,"California","04000US06","Informatics","110104","Bachelor's Degree","5",37
+2014,"California","04000US06","Other Computer & Information Sciences","110199","Bachelor's Degree","5",76
+2014,"California","04000US06","General Computer Programming","110201","Bachelor's Degree","5",57
+2014,"California","04000US06","Information Science","110401","Bachelor's Degree","5",57
+2014,"California","04000US06","Computer Systems Analysis","110501","Bachelor's Degree","5",151
+2014,"California","04000US06","Computer Science","110701","Bachelor's Degree","5",2789
+2014,"California","04000US06","Web Page, Digital, & Information Resource Design","110801","Bachelor's Degree","5",292
+2014,"California","04000US06","Data Modeling, Warehouse, & Database Administration","110802","Bachelor's Degree","5",8
+2014,"California","04000US06","Computer Graphics","110803","Bachelor's Degree","5",345
+2014,"California","04000US06","Modeling, Virtual Environments, & Simulation","110804","Bachelor's Degree","5",25
+2014,"California","04000US06","Other Computer Software & Media Applications","110899","Bachelor's Degree","5",87
+2014,"California","04000US06","Computer Systems Networking & Telecommunications","110901","Bachelor's Degree","5",190
+2014,"California","04000US06","Network & System Administration","111001","Bachelor's Degree","5",45
+2014,"California","04000US06","System, Networking, & LAN/WAN Management","111002","Bachelor's Degree","5",68
+2014,"California","04000US06","Computer & Information Systems Security","111003","Bachelor's Degree","5",442
+2014,"California","04000US06","Web Multimedia Management & Webmaster","111004","Bachelor's Degree","5",9
+2014,"California","04000US06","Information Technology Project Management","111005","Bachelor's Degree","5",71
+2014,"California","04000US06","Computer Support Specialist","111006","Bachelor's Degree","5",2
+2014,"California","04000US06","Other Computer & Information Technology Services Management","111099","Bachelor's Degree","5",27
+2014,"California","04000US06","Other Computer & Information Support Services","119999","Bachelor's Degree","5",9
+2014,"California","04000US06","Restaurant, Culinary, & Catering Management","120504","Bachelor's Degree","5",150
+2014,"California","04000US06","General Education","130101","Bachelor's Degree","5",450
+2014,"California","04000US06","Urban Education & Leadership","130410","Bachelor's Degree","5",2
+2014,"California","04000US06","Educational & Instructional Technology","130501","Bachelor's Degree","5",31
+2014,"California","04000US06","Learning Sciences","130607","Bachelor's Degree","5",60
+2014,"California","04000US06","Social & Philosophical Foundations of Education","130901","Bachelor's Degree","5",19
+2014,"California","04000US06","General Special Education & Teaching","131001","Bachelor's Degree","5",13
+2014,"California","04000US06","Elementary Education & Teaching","131202","Bachelor's Degree","5",172
+2014,"California","04000US06","Early Childhood Education & Teaching","131210","Bachelor's Degree","5",3554
+2014,"California","04000US06","Agricultural Teacher Education","131301","Bachelor's Degree","5",75
+2014,"California","04000US06","Art Teacher Education","131302","Bachelor's Degree","5",9
+2014,"California","04000US06","English & Language Arts Teacher Education","131305","Bachelor's Degree","5",11
+2014,"California","04000US06","Technology & Industrial Arts Teacher Education","131309","Bachelor's Degree","5",30
+2014,"California","04000US06","Mathematics Teacher Education","131311","Bachelor's Degree","5",15
+2014,"California","04000US06","Music Teacher Education","131312","Bachelor's Degree","5",54
+2014,"California","04000US06","Physical Education Teaching & Coaching","131314","Bachelor's Degree","5",140
+2014,"California","04000US06","Social Science Teacher Education","131317","Bachelor's Degree","5",2
+2014,"California","04000US06","Trade & Industrial Teacher Education","131320","Bachelor's Degree","5",33
+2014,"California","04000US06","Biology Teacher Education","131322","Bachelor's Degree","5",8
+2014,"California","04000US06","Chemistry Teacher Education","131323","Bachelor's Degree","5",3
+2014,"California","04000US06","History Teacher Education","131328","Bachelor's Degree","5",1
+2014,"California","04000US06","Spanish Language Teacher Education","131330","Bachelor's Degree","5",3
+2014,"California","04000US06","Other Teaching English or French as a Second or Foreign Language","131499","Bachelor's Degree","5",40
+2014,"California","04000US06","Other Education","139999","Bachelor's Degree","5",48
+2014,"California","04000US06","General Engineering","140101","Bachelor's Degree","5",208
+2014,"California","04000US06","Pre-Engineering","140102","Bachelor's Degree","5",3
+2014,"California","04000US06","Aerospace, Aeronautical, & Astronautical Engineering","140201","Bachelor's Degree","5",481
+2014,"California","04000US06","Agricultural Engineering","140301","Bachelor's Degree","5",51
+2014,"California","04000US06","Architectural Engineering","140401","Bachelor's Degree","5",38
+2014,"California","04000US06","Bioengineering & Biomedical Engineering","140501","Bachelor's Degree","5",826
+2014,"California","04000US06","Chemical Engineering","140701","Bachelor's Degree","5",770
+2014,"California","04000US06","Chemical & Biomolecular Engineering","140702","Bachelor's Degree","5",9
+2014,"California","04000US06","General Civil Engineering","140801","Bachelor's Degree","5",1737
+2014,"California","04000US06","Structural Engineering","140803","Bachelor's Degree","5",141
+2014,"California","04000US06","Other Civil Engineering","140899","Bachelor's Degree","5",9
+2014,"California","04000US06","General Computer Engineering","140901","Bachelor's Degree","5",733
+2014,"California","04000US06","Computer Software Engineering","140903","Bachelor's Degree","5",120
+2014,"California","04000US06","Other Computer Engineering","140999","Bachelor's Degree","5",1
+2014,"California","04000US06","Electrical & Electronics Engineering","141001","Bachelor's Degree","5",1901
+2014,"California","04000US06","Engineering Physics & Applied Physics","141201","Bachelor's Degree","5",48
+2014,"California","04000US06","Engineering Science","141301","Bachelor's Degree","5",48
+2014,"California","04000US06","Environmental Health Engineering","141401","Bachelor's Degree","5",236
+2014,"California","04000US06","Materials Engineering","141801","Bachelor's Degree","5",141
+2014,"California","04000US06","Mechanical Engineering","141901","Bachelor's Degree","5",2635
+2014,"California","04000US06","Nuclear Engineering","142301","Bachelor's Degree","5",7
+2014,"California","04000US06","Construction Engineering","143301","Bachelor's Degree","5",71
+2014,"California","04000US06","Industrial Engineering","143501","Bachelor's Degree","5",190
+2014,"California","04000US06","Manufacturing Engineering","143601","Bachelor's Degree","5",49
+2014,"California","04000US06","Operations Research","143701","Bachelor's Degree","5",59
+2014,"California","04000US06","Geological & Geophysical Engineering","143901","Bachelor's Degree","5",3
+2014,"California","04000US06","Other Engineering","149999","Bachelor's Degree","5",247
+2014,"California","04000US06","General Engineering Technology","150000","Bachelor's Degree","5",27
+2014,"California","04000US06","Electrical, Electronic, & Communications Engineering Technology","150303","Bachelor's Degree","5",109
+2014,"California","04000US06","Other Electrical Engineering Technology","150399","Bachelor's Degree","5",192
+2014,"California","04000US06","Biomedical Technology","150401","Bachelor's Degree","5",10
+2014,"California","04000US06","Industrial Technology","150612","Bachelor's Degree","5",123
+2014,"California","04000US06","Manufacturing Engineering Technology","150613","Bachelor's Degree","5",5
+2014,"California","04000US06","Quality Control Technology","150702","Bachelor's Degree","5",4
+2014,"California","04000US06","Other Related Mechanical Engineering Technologies","150899","Bachelor's Degree","5",25
+2014,"California","04000US06","Construction Engineering Technology","151001","Bachelor's Degree","5",311
+2014,"California","04000US06","Surveying Technology","151102","Bachelor's Degree","5",16
+2014,"California","04000US06","Computer Engineering Technology","151201","Bachelor's Degree","5",32
+2014,"California","04000US06","Other Drafting & Design Technologies","151399","Bachelor's Degree","5",1
+2014,"California","04000US06","Engineering & Industrial Management","151501","Bachelor's Degree","5",98
+2014,"California","04000US06","Other Engineering-Related Fields","151599","Bachelor's Degree","5",13
+2014,"California","04000US06","Other Engineering Technologies & Engineering-Related Fields","159999","Bachelor's Degree","5",4
+2014,"California","04000US06","General Foreign Languages & Literatures","160101","Bachelor's Degree","5",44
+2014,"California","04000US06","Linguistics","160102","Bachelor's Degree","5",458
+2014,"California","04000US06","Comparative Literature","160104","Bachelor's Degree","5",377
+2014,"California","04000US06","Applied Linguistics","160105","Bachelor's Degree","5",17
+2014,"California","04000US06","Other Linguistic, Comparative, Related Language Studies & Services","160199","Bachelor's Degree","5",128
+2014,"California","04000US06","General East Asian Languages, Literatures, & Linguistics","160300","Bachelor's Degree","5",31
+2014,"California","04000US06","Chinese Language & Literature","160301","Bachelor's Degree","5",95
+2014,"California","04000US06","Japanese Language & Literature","160302","Bachelor's Degree","5",194
+2014,"California","04000US06","Korean Language & Literature","160303","Bachelor's Degree","5",7
+2014,"California","04000US06","General Slavic Languages, Literatures, & Linguistics","160400","Bachelor's Degree","5",15
+2014,"California","04000US06","Russian Language & Literature","160402","Bachelor's Degree","5",19
+2014,"California","04000US06","General Germanic Languages, Literatures, & Linguistics","160500","Bachelor's Degree","5",4
+2014,"California","04000US06","German Language & Literature","160501","Bachelor's Degree","5",84
+2014,"California","04000US06","Scandanavian Languages, Literatures, & Linguistics","160502","Bachelor's Degree","5",2
+2014,"California","04000US06","Dutch/Flemish Language & Literature","160504","Bachelor's Degree","5",1
+2014,"California","04000US06","General Romance Languages, Literatures, & Linguistics","160900","Bachelor's Degree","5",5
+2014,"California","04000US06","French Language & Literature","160901","Bachelor's Degree","5",268
+2014,"California","04000US06","Italian Language & Literature","160902","Bachelor's Degree","5",43
+2014,"California","04000US06","Portuguese Language & Literature","160904","Bachelor's Degree","5",3
+2014,"California","04000US06","Spanish Language & Literature","160905","Bachelor's Degree","5",1300
+2014,"California","04000US06","General Hispanic & Latin American Languages, Literatures, & Linguistics","160908","Bachelor's Degree","5",53
+2014,"California","04000US06","Middle Eastern & Semetic Languages, Literatures, & Linguistics","161100","Bachelor's Degree","5",1
+2014,"California","04000US06","Arabic Language & Literature","161101","Bachelor's Degree","5",14
+2014,"California","04000US06","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Bachelor's Degree","5",6
+2014,"California","04000US06","General Classical Language, Literature, & Linguistics","161200","Bachelor's Degree","5",79
+2014,"California","04000US06","Latin Language & Literature","161203","Bachelor's Degree","5",2
+2014,"California","04000US06","Other Classical Languages, Literature, & Linguistics","161299","Bachelor's Degree","5",1
+2014,"California","04000US06","Celtic Languages, Literatures, & Linguistics","161301","Bachelor's Degree","5",2
+2014,"California","04000US06","Other Foreign Languages, Literatures, & Linguistics","169999","Bachelor's Degree","5",21
+2014,"California","04000US06","General Family & Consumer Sciences","190101","Bachelor's Degree","5",778
+2014,"California","04000US06","General Family Resource Mangement Studies","190401","Bachelor's Degree","5",6
+2014,"California","04000US06","General Food, Nutrition, & Wellness Studies","190501","Bachelor's Degree","5",5
+2014,"California","04000US06","Foodservice System Management","190505","Bachelor's Degree","5",1
+2014,"California","04000US06","General Human Development & Family Studies","190701","Bachelor's Degree","5",1265
+2014,"California","04000US06","Adult Development & Aging","190702","Bachelor's Degree","5",9
+2014,"California","04000US06","Child Development","190706","Bachelor's Degree","5",484
+2014,"California","04000US06","General Apparel & Textiles","190901","Bachelor's Degree","5",173
+2014,"California","04000US06","Fashion & Fabric Consultant","190906","Bachelor's Degree","5",2
+2014,"California","04000US06","General Legal Studies","220000","Bachelor's Degree","5",288
+2014,"California","04000US06","Pre-Law Studies","220001","Bachelor's Degree","5",17
+2014,"California","04000US06","Paralegal","220302","Bachelor's Degree","5",53
+2014,"California","04000US06","Court Reporting","220303","Bachelor's Degree","5",3
+2014,"California","04000US06","General English Language & Literature","230101","Bachelor's Degree","5",4470
+2014,"California","04000US06","General Writing","231301","Bachelor's Degree","5",24
+2014,"California","04000US06","Creative Writing","231302","Bachelor's Degree","5",184
+2014,"California","04000US06","Professional, Technical, Business, & Scientific Writing","231303","Bachelor's Degree","5",6
+2014,"California","04000US06","Rhetoric & Composition","231304","Bachelor's Degree","5",1741
+2014,"California","04000US06","Other Rhetoric, Composition, or Writing Studies","231399","Bachelor's Degree","5",6
+2014,"California","04000US06","US English Literature","231402","Bachelor's Degree","5",29
+2014,"California","04000US06","Other Literature","231499","Bachelor's Degree","5",3
+2014,"California","04000US06","Other English Language & Literature","239999","Bachelor's Degree","5",106
+2014,"California","04000US06","Liberal Arts & Sciences","240101","Bachelor's Degree","5",5298
+2014,"California","04000US06","General Studies","240102","Bachelor's Degree","5",60
+2014,"California","04000US06","Humanistic Studies","240103","Bachelor's Degree","5",244
+2014,"California","04000US06","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Bachelor's Degree","5",112
+2014,"California","04000US06","Library & Information Science","250101","Bachelor's Degree","5",33
+2014,"California","04000US06","General Biological Sciences","260101","Bachelor's Degree","5",7433
+2014,"California","04000US06","General Biomedical Sciences","260102","Bachelor's Degree","5",88
+2014,"California","04000US06","Biochemistry","260202","Bachelor's Degree","5",1118
+2014,"California","04000US06","Biophysics","260203","Bachelor's Degree","5",33
+2014,"California","04000US06","Molecular Biology","260204","Bachelor's Degree","5",56
+2014,"California","04000US06","Molecular Biochemistry","260205","Bachelor's Degree","5",335
+2014,"California","04000US06","Biochemistry & Molecular Biology","260210","Bachelor's Degree","5",17
+2014,"California","04000US06","Other Biochemistry, Biophysics, & Molecular Biology","260299","Bachelor's Degree","5",30
+2014,"California","04000US06","Botany & Plant Biology","260301","Bachelor's Degree","5",58
+2014,"California","04000US06","Cellular Biology & Histology","260401","Bachelor's Degree","5",46
+2014,"California","04000US06","Anatomy","260403","Bachelor's Degree","5",269
+2014,"California","04000US06","Cellular & Molecular Biology","260406","Bachelor's Degree","5",855
+2014,"California","04000US06","Other Cellular Biology & Anatomical Sciences","260499","Bachelor's Degree","5",46
+2014,"California","04000US06","General Microbiology","260502","Bachelor's Degree","5",235
+2014,"California","04000US06","Medical Microbiology & Bacteriology","260503","Bachelor's Degree","5",1
+2014,"California","04000US06","Microbiology & Immunology","260508","Bachelor's Degree","5",4
+2014,"California","04000US06","Other Microbiological Science & Immunology","260599","Bachelor's Degree","5",131
+2014,"California","04000US06","Zoology","260701","Bachelor's Degree","5",150
+2014,"California","04000US06","Entomology","260702","Bachelor's Degree","5",25
+2014,"California","04000US06","Animal Physiology","260707","Bachelor's Degree","5",16
+2014,"California","04000US06","Animal Behavior & Ethology","260708","Bachelor's Degree","5",5
+2014,"California","04000US06","General Genetics","260801","Bachelor's Degree","5",63
+2014,"California","04000US06","General Physiology","260901","Bachelor's Degree","5",208
+2014,"California","04000US06","Exercise Physiology","260908","Bachelor's Degree","5",203
+2014,"California","04000US06","Pharmacology","261001","Bachelor's Degree","5",26
+2014,"California","04000US06","Toxicology","261004","Bachelor's Degree","5",43
+2014,"California","04000US06","Environmental Toxicology","261006","Bachelor's Degree","5",31
+2014,"California","04000US06","Bioinformatics","261103","Bachelor's Degree","5",35
+2014,"California","04000US06","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Bachelor's Degree","5",25
+2014,"California","04000US06","Biotechnology","261201","Bachelor's Degree","5",106
+2014,"California","04000US06","Ecology","261301","Bachelor's Degree","5",73
+2014,"California","04000US06","Marine Biology & Biological Oceonography","261302","Bachelor's Degree","5",126
+2014,"California","04000US06","Aquatic Biology","261304","Bachelor's Degree","5",43
+2014,"California","04000US06","Environmental Biology","261305","Bachelor's Degree","5",30
+2014,"California","04000US06","Ecology & Evolutionary Biology","261310","Bachelor's Degree","5",35
+2014,"California","04000US06","Other Ecology, Evolution, Systematics, & Population Biology","261399","Bachelor's Degree","5",68
+2014,"California","04000US06","Neuroscience","261501","Bachelor's Degree","5",470
+2014,"California","04000US06","Neurobiology & Anatomy","261503","Bachelor's Degree","5",439
+2014,"California","04000US06","Other Biological & Biomedical Sciences","269999","Bachelor's Degree","5",46
+2014,"California","04000US06","General Mathematics","270101","Bachelor's Degree","5",1743
+2014,"California","04000US06","Other Mathematics","270199","Bachelor's Degree","5",283
+2014,"California","04000US06","General Applied Mathematics","270301","Bachelor's Degree","5",356
+2014,"California","04000US06","Computational Mathematics","270303","Bachelor's Degree","5",26
+2014,"California","04000US06","Computational & Applied Mathematics","270304","Bachelor's Degree","5",9
+2014,"California","04000US06","Financial Mathematics","270305","Bachelor's Degree","5",39
+2014,"California","04000US06","Other Applied Mathematics","270399","Bachelor's Degree","5",55
+2014,"California","04000US06","General Statistics","270501","Bachelor's Degree","5",380
+2014,"California","04000US06","Other Statistics","270599","Bachelor's Degree","5",13
+2014,"California","04000US06","Other Military Applied Sciences","290399","Bachelor's Degree","5",18
+2014,"California","04000US06","General Interdisciplinary Studies","300000","Bachelor's Degree","5",55
+2014,"California","04000US06","Biological & Physical Sciences","300101","Bachelor's Degree","5",7
+2014,"California","04000US06","Peace Studies & Conflict Resolution","300501","Bachelor's Degree","5",84
+2014,"California","04000US06","Systems Science & Theory","300601","Bachelor's Degree","5",2
+2014,"California","04000US06","Mathematics & Computer Science","300801","Bachelor's Degree","5",53
+2014,"California","04000US06","Biopsychology","301001","Bachelor's Degree","5",5
+2014,"California","04000US06","Gerontology","301101","Bachelor's Degree","5",92
+2014,"California","04000US06","Medieval & Renaissance Studies","301301","Bachelor's Degree","5",6
+2014,"California","04000US06","Science, Technology, & Society","301501","Bachelor's Degree","5",128
+2014,"California","04000US06","Behavioral Sciences","301701","Bachelor's Degree","5",1027
+2014,"California","04000US06","Natural Sciences","301801","Bachelor's Degree","5",77
+2014,"California","04000US06","Nutrition Sciences","301901","Bachelor's Degree","5",216
+2014,"California","04000US06","International & Global Studies","302001","Bachelor's Degree","5",932
+2014,"California","04000US06","Ancient Civilization Studies","302201","Bachelor's Degree","5",4
+2014,"California","04000US06","Classical, Ancient Mediterranean, & Near Eastern Studies & Archeology","302202","Bachelor's Degree","5",44
+2014,"California","04000US06","Intercultural, Multicultural, & Diversity Studies","302301","Bachelor's Degree","5",46
+2014,"California","04000US06","Cognitive Science","302501","Bachelor's Degree","5",588
+2014,"California","04000US06","Cultural Studies, Critical Theory, & Analysis","302601","Bachelor's Degree","5",15
+2014,"California","04000US06","Human Biology","302701","Bachelor's Degree","5",334
+2014,"California","04000US06","Maritime Sciences","303201","Bachelor's Degree","5",25
+2014,"California","04000US06","Sustainability Studies","303301","Bachelor's Degree","5",11
+2014,"California","04000US06","Other Multidisciplinary Studies","309999","Bachelor's Degree","5",1162
+2014,"California","04000US06","Parks, Recreation, & Leisure Studies","310101","Bachelor's Degree","5",618
+2014,"California","04000US06","General Health & Physical Education","310501","Bachelor's Degree","5",3294
+2014,"California","04000US06","Sport & Fitness Management","310504","Bachelor's Degree","5",166
+2014,"California","04000US06","Kinesiology & Exercise Science","310505","Bachelor's Degree","5",657
+2014,"California","04000US06","Sports Studies","310508","Bachelor's Degree","5",18
+2014,"California","04000US06","Other Health & Physical Education","310599","Bachelor's Degree","5",34
+2014,"California","04000US06","Philosophy","380101","Bachelor's Degree","5",1215
+2014,"California","04000US06","Other Philosophy","380199","Bachelor's Degree","5",58
+2014,"California","04000US06","Religious Studies","380201","Bachelor's Degree","5",309
+2014,"California","04000US06","Christian Studies","380203","Bachelor's Degree","5",30
+2014,"California","04000US06","Judaic Studies","380206","Bachelor's Degree","5",12
+2014,"California","04000US06","Other Religious Studies","380299","Bachelor's Degree","5",14
+2014,"California","04000US06","Other Philosophy & Religious Studies","389999","Bachelor's Degree","5",21
+2014,"California","04000US06","Biblical Studies","390201","Bachelor's Degree","5",320
+2014,"California","04000US06","Missionary Studies & Missiology","390301","Bachelor's Degree","5",34
+2014,"California","04000US06","Religious Education","390401","Bachelor's Degree","5",71
+2014,"California","04000US06","Religious & Sacred Music","390501","Bachelor's Degree","5",19
+2014,"California","04000US06","Theological Studies","390601","Bachelor's Degree","5",49
+2014,"California","04000US06","Divinity & Ministry","390602","Bachelor's Degree","5",4
+2014,"California","04000US06","Pre-Theology & Pre-Ministerial Studies","390604","Bachelor's Degree","5",8
+2014,"California","04000US06","Talmudic Studies","390606","Bachelor's Degree","5",20
+2014,"California","04000US06","Other Theological & Ministerial Studies","390699","Bachelor's Degree","5",88
+2014,"California","04000US06","Pastoral Studies & Counseling","390701","Bachelor's Degree","5",115
+2014,"California","04000US06","Youth Ministry","390702","Bachelor's Degree","5",18
+2014,"California","04000US06","Other Pastoral Counseling & Specialized Ministries","390799","Bachelor's Degree","5",8
+2014,"California","04000US06","Other Theology & Religious Vocations","399999","Bachelor's Degree","5",37
+2014,"California","04000US06","Physical Sciences","400101","Bachelor's Degree","5",15
+2014,"California","04000US06","Astronomy","400201","Bachelor's Degree","5",1
+2014,"California","04000US06","Astrophysics","400202","Bachelor's Degree","5",68
+2014,"California","04000US06","Planetary Astronomy & Science","400203","Bachelor's Degree","5",6
+2014,"California","04000US06","General Atmospheric Sciences & Meteorology","400401","Bachelor's Degree","5",15
+2014,"California","04000US06","Other Atmospheric Sciences & Meteorology","400499","Bachelor's Degree","5",20
+2014,"California","04000US06","General Chemistry","400501","Bachelor's Degree","5",1327
+2014,"California","04000US06","Chemical Physics","400508","Bachelor's Degree","5",5
+2014,"California","04000US06","Environmental Chemistry","400509","Bachelor's Degree","5",1
+2014,"California","04000US06","Other Chemistry","400599","Bachelor's Degree","5",307
+2014,"California","04000US06","General Geology & Earch Science","400601","Bachelor's Degree","5",484
+2014,"California","04000US06","Geochemistry","400602","Bachelor's Degree","5",2
+2014,"California","04000US06","Geophysics & Seismology","400603","Bachelor's Degree","5",20
+2014,"California","04000US06","Hydrology & Water Resources Science","400605","Bachelor's Degree","5",13
+2014,"California","04000US06","Chemical & Physical Oceanography","400607","Bachelor's Degree","5",26
+2014,"California","04000US06","Other Geological & Earth Sciences","400699","Bachelor's Degree","5",55
+2014,"California","04000US06","General Physics","400801","Bachelor's Degree","5",731
+2014,"California","04000US06","Optical Sciences","400807","Bachelor's Degree","5",2
+2014,"California","04000US06","Theoretical & Mathematical Physics","400810","Bachelor's Degree","5",3
+2014,"California","04000US06","Other Physics","400899","Bachelor's Degree","5",30
+2014,"California","04000US06","Materials Science","401001","Bachelor's Degree","5",25
+2014,"California","04000US06","Other Physical Sciences","409999","Bachelor's Degree","5",11
+2014,"California","04000US06","General Psychology","420101","Bachelor's Degree","5",13920
+2014,"California","04000US06","Cognitive Psychology & Psycholinguistics","422701","Bachelor's Degree","5",14
+2014,"California","04000US06","Developmental & Child Psychology","422703","Bachelor's Degree","5",80
+2014,"California","04000US06","Physiological Psychology & Psychobiology","422706","Bachelor's Degree","5",430
+2014,"California","04000US06","Social Psychology","422707","Bachelor's Degree","5",588
+2014,"California","04000US06","Other Research & Experimental Psychology","422799","Bachelor's Degree","5",799
+2014,"California","04000US06","Counseling Psychology","422803","Bachelor's Degree","5",26
+2014,"California","04000US06","Industrial & Organizational Psychology","422804","Bachelor's Degree","5",51
+2014,"California","04000US06","Other Psychology","429999","Bachelor's Degree","5",42
+2014,"California","04000US06","Corrections","430102","Bachelor's Degree","5",1
+2014,"California","04000US06","Criminal Justice - Law Enforcement Administration","430103","Bachelor's Degree","5",1453
+2014,"California","04000US06","Criminal Justice - Safety Studies","430104","Bachelor's Degree","5",3928
+2014,"California","04000US06","Criminal Justice - Police Science","430107","Bachelor's Degree","5",38
+2014,"California","04000US06","Securities Services Management","430112","Bachelor's Degree","5",70
+2014,"California","04000US06","Law Enforcement Investigation & Interviewing","430114","Bachelor's Degree","5",5
+2014,"California","04000US06","Computer Forensics & Counterterrorism","430116","Bachelor's Degree","5",3
+2014,"California","04000US06","Other Corrections & Criminal Justice","430199","Bachelor's Degree","5",457
+2014,"California","04000US06","Fire Services Administration","430202","Bachelor's Degree","5",34
+2014,"California","04000US06","Fire Science & Fire-Fighting","430203","Bachelor's Degree","5",21
+2014,"California","04000US06","Homeland Security","430301","Bachelor's Degree","5",53
+2014,"California","04000US06","Crisis/Disaster Management","430302","Bachelor's Degree","5",4
+2014,"California","04000US06","General Human Services","440000","Bachelor's Degree","5",1167
+2014,"California","04000US06","Community Organization & Advocacy","440201","Bachelor's Degree","5",29
+2014,"California","04000US06","Public Administration","440401","Bachelor's Degree","5",409
+2014,"California","04000US06","General Public Policy Analysis","440501","Bachelor's Degree","5",136
+2014,"California","04000US06","Health Policy Analysis","440503","Bachelor's Degree","5",15
+2014,"California","04000US06","International Policy Analysis","440504","Bachelor's Degree","5",4
+2014,"California","04000US06","Social Work","440701","Bachelor's Degree","5",1161
+2014,"California","04000US06","General Social Sciences","450101","Bachelor's Degree","5",1264
+2014,"California","04000US06","Anthropology","450201","Bachelor's Degree","5",2155
+2014,"California","04000US06","Cultural Anthropology","450204","Bachelor's Degree","5",53
+2014,"California","04000US06","Other Anthropology","450299","Bachelor's Degree","5",7
+2014,"California","04000US06","Archeology","450301","Bachelor's Degree","5",18
+2014,"California","04000US06","Criminology","450401","Bachelor's Degree","5",962
+2014,"California","04000US06","General Economics","450601","Bachelor's Degree","5",4327
+2014,"California","04000US06","Applied Economices","450602","Bachelor's Degree","5",4
+2014,"California","04000US06","Econometrics & Quantitative Economics","450603","Bachelor's Degree","5",279
+2014,"California","04000US06","Developmental Economics & International Development","450604","Bachelor's Degree","5",150
+2014,"California","04000US06","International Economics","450605","Bachelor's Degree","5",28
+2014,"California","04000US06","Other Economics","450699","Bachelor's Degree","5",138
+2014,"California","04000US06","Geography","450701","Bachelor's Degree","5",623
+2014,"California","04000US06","Other Geography","450799","Bachelor's Degree","5",62
+2014,"California","04000US06","International Relations & Affairs","450901","Bachelor's Degree","5",1000
+2014,"California","04000US06","National Security Policy Studies","450902","Bachelor's Degree","5",1
+2014,"California","04000US06","Other International Relations & National Security Studies","450999","Bachelor's Degree","5",117
+2014,"California","04000US06","General Political Science & Government","451001","Bachelor's Degree","5",5075
+2014,"California","04000US06","US Government & Politics","451002","Bachelor's Degree","5",45
+2014,"California","04000US06","Political Economy","451004","Bachelor's Degree","5",3
+2014,"California","04000US06","Other Political Science & Government","451099","Bachelor's Degree","5",247
+2014,"California","04000US06","Sociology","451101","Bachelor's Degree","5",6857
+2014,"California","04000US06","Urban Studies","451201","Bachelor's Degree","5",255
+2014,"California","04000US06","Sociology & Anthropology","451301","Bachelor's Degree","5",12
+2014,"California","04000US06","Other Social Sciences","459999","Bachelor's Degree","5",444
+2014,"California","04000US06","Construction Site Manager","460412","Bachelor's Degree","5",1
+2014,"California","04000US06","Furniture Design & Manufacturing","480702","Bachelor's Degree","5",5
+2014,"California","04000US06","General Aeronautics & Aerospace Science & Technology","490101","Bachelor's Degree","5",37
+2014,"California","04000US06","Marine Science & Merchant Marine Officer","490309","Bachelor's Degree","5",70
+2014,"California","04000US06","General Visual & Performing Arts","500101","Bachelor's Degree","5",287
+2014,"California","04000US06","Digital Arts","500102","Bachelor's Degree","5",75
+2014,"California","04000US06","Crafts Design, Folk Art, & Artisanry","500201","Bachelor's Degree","5",1
+2014,"California","04000US06","General Dance","500301","Bachelor's Degree","5",254
+2014,"California","04000US06","General Design & Visual Communications","500401","Bachelor's Degree","5",430
+2014,"California","04000US06","Commercial & Advertising Art","500402","Bachelor's Degree","5",47
+2014,"California","04000US06","Industrial & Product Design","500404","Bachelor's Degree","5",261
+2014,"California","04000US06","Commercial Photography","500406","Bachelor's Degree","5",13
+2014,"California","04000US06","Fashion & Apparel Design","500407","Bachelor's Degree","5",355
+2014,"California","04000US06","Interior Design","500408","Bachelor's Degree","5",427
+2014,"California","04000US06","Graphic Design","500409","Bachelor's Degree","5",665
+2014,"California","04000US06","Illustration","500410","Bachelor's Degree","5",287
+2014,"California","04000US06","Game & Interactive Media Design","500411","Bachelor's Degree","5",330
+2014,"California","04000US06","Other Design & Applied Arts","500499","Bachelor's Degree","5",158
+2014,"California","04000US06","General Drama & Theater Arts","500501","Bachelor's Degree","5",1243
+2014,"California","04000US06","Technical Theatre Design & Technology","500502","Bachelor's Degree","5",23
+2014,"California","04000US06","Playwriting & Screenwriting","500504","Bachelor's Degree","5",111
+2014,"California","04000US06","Acting","500506","Bachelor's Degree","5",73
+2014,"California","04000US06","Directing & Theatrical Production","500507","Bachelor's Degree","5",1
+2014,"California","04000US06","Musical Theatre","500509","Bachelor's Degree","5",16
+2014,"California","04000US06","Costume Design","500510","Bachelor's Degree","5",7
+2014,"California","04000US06","Other Dramatic Arts & Stagecraft","500599","Bachelor's Degree","5",6
+2014,"California","04000US06","Film, Cinema, & Video Studies","500601","Bachelor's Degree","5",1098
+2014,"California","04000US06","Cinematography & Film Production","500602","Bachelor's Degree","5",766
+2014,"California","04000US06","Photography","500605","Bachelor's Degree","5",355
+2014,"California","04000US06","Documentary Production","500607","Bachelor's Degree","5",10
+2014,"California","04000US06","Other Film & Photographic Arts","500699","Bachelor's Degree","5",208
+2014,"California","04000US06","General Art Studies","500701","Bachelor's Degree","5",2365
+2014,"California","04000US06","General Fine Studio Arts","500702","Bachelor's Degree","5",1171
+2014,"California","04000US06","Art History, Criticism, & Conservation","500703","Bachelor's Degree","5",479
+2014,"California","04000US06","Multimedia","500706","Bachelor's Degree","5",93
+2014,"California","04000US06","Painting","500708","Bachelor's Degree","5",56
+2014,"California","04000US06","Sculpture","500709","Bachelor's Degree","5",12
+2014,"California","04000US06","Printmaking","500710","Bachelor's Degree","5",10
+2014,"California","04000US06","Ceramic Arts & Ceramics","500711","Bachelor's Degree","5",7
+2014,"California","04000US06","Fiber, Textile, & Weaving Arts","500712","Bachelor's Degree","5",9
+2014,"California","04000US06","Metal & Jewelry Arts","500713","Bachelor's Degree","5",13
+2014,"California","04000US06","Other Fine Arts & Art Studies","500799","Bachelor's Degree","5",79
+2014,"California","04000US06","General Music","500901","Bachelor's Degree","5",843
+2014,"California","04000US06","Music History, Literature, & Theory","500902","Bachelor's Degree","5",13
+2014,"California","04000US06","General Music Performance","500903","Bachelor's Degree","5",439
+2014,"California","04000US06","Music Theory & Composition","500904","Bachelor's Degree","5",41
+2014,"California","04000US06","Musicology & Ethnomusicology","500905","Bachelor's Degree","5",15
+2014,"California","04000US06","Conducting","500906","Bachelor's Degree","5",2
+2014,"California","04000US06","Keyboard Instruments","500907","Bachelor's Degree","5",11
+2014,"California","04000US06","Voice & Opera","500908","Bachelor's Degree","5",36
+2014,"California","04000US06","Jazz & Jazz Studies","500910","Bachelor's Degree","5",10
+2014,"California","04000US06","Stringed Instruments","500911","Bachelor's Degree","5",23
+2014,"California","04000US06","Music Pedagogy","500912","Bachelor's Degree","5",4
+2014,"California","04000US06","Music Technology","500913","Bachelor's Degree","5",25
+2014,"California","04000US06","Brass Instruments","500914","Bachelor's Degree","5",6
+2014,"California","04000US06","Woodwind Instruments","500915","Bachelor's Degree","5",6
+2014,"California","04000US06","Percussion Instruments","500916","Bachelor's Degree","5",1
+2014,"California","04000US06","Other Music","500999","Bachelor's Degree","5",76
+2014,"California","04000US06","General Arts, Entertainment, & Media Management","501001","Bachelor's Degree","5",95
+2014,"California","04000US06","Music Management","501003","Bachelor's Degree","5",52
+2014,"California","04000US06","Theatre Arts Management","501004","Bachelor's Degree","5",3
+2014,"California","04000US06","Other Visual & Performing Arts","509999","Bachelor's Degree","5",45
+2014,"California","04000US06","General Health Services","510000","Bachelor's Degree","5",2449
+2014,"California","04000US06","General Health & Wellness","510001","Bachelor's Degree","5",24
+2014,"California","04000US06","General Communication Sciences & Disorders","510201","Bachelor's Degree","5",846
+2014,"California","04000US06","Speech-Language Pathology","510203","Bachelor's Degree","5",64
+2014,"California","04000US06","Audiology & Speech-Language Pathology","510204","Bachelor's Degree","5",41
+2014,"California","04000US06","Dental Hygiene","510602","Bachelor's Degree","5",137
+2014,"California","04000US06","Health Care Administration & Management","510701","Bachelor's Degree","5",1505
+2014,"California","04000US06","Hospital & Health Care Facilities Management","510702","Bachelor's Degree","5",379
+2014,"California","04000US06","Health Information & Medical Records Administration","510706","Bachelor's Degree","5",74
+2014,"California","04000US06","Health Management & Clinical Assistant","510711","Bachelor's Degree","5",1
+2014,"California","04000US06","Long Term Care Management","510718","Bachelor's Degree","5",11
+2014,"California","04000US06","Emergency Medical Technician (EMT Paramedic)","510904","Bachelor's Degree","5",11
+2014,"California","04000US06","Radiation Therapist","510907","Bachelor's Degree","5",1
+2014,"California","04000US06","Respiratory Care Therapist","510908","Bachelor's Degree","5",25
+2014,"California","04000US06","Diagnostic Medical Sonography & Ultrasound Technician","510910","Bachelor's Degree","5",20
+2014,"California","04000US06","Radiographer","510911","Bachelor's Degree","5",28
+2014,"California","04000US06","Athletic Trainer","510913","Bachelor's Degree","5",141
+2014,"California","04000US06","Other Allied Health Diagnostic, Intervention, & Treatment Professions","510999","Bachelor's Degree","5",11
+2014,"California","04000US06","Cytotechnologist","511002","Bachelor's Degree","5",1
+2014,"California","04000US06","Clinical Laboratory Technologist","511005","Bachelor's Degree","5",51
+2014,"California","04000US06","Pre-Medical Studies","511102","Bachelor's Degree","5",1
+2014,"California","04000US06","Pre-Physical Therapy Studies","511109","Bachelor's Degree","5",7
+2014,"California","04000US06","Other Mental, Social Health Services, & Allied Professions ","511599","Bachelor's Degree","5",233
+2014,"California","04000US06","Pharmaceutical Sciences","512010","Bachelor's Degree","5",200
+2014,"California","04000US06","General Public Health","512201","Bachelor's Degree","5",337
+2014,"California","04000US06","Environmental Health","512202","Bachelor's Degree","5",45
+2014,"California","04000US06","Public Health Education & Promotion","512207","Bachelor's Degree","5",143
+2014,"California","04000US06","International Public Health","512210","Bachelor's Degree","5",22
+2014,"California","04000US06","Health Services Administration","512211","Bachelor's Degree","5",29
+2014,"California","04000US06","Behavioral Aspects of Health","512212","Bachelor's Degree","5",88
+2014,"California","04000US06","Other Public Health","512299","Bachelor's Degree","5",435
+2014,"California","04000US06","Dance Therapy","512302","Bachelor's Degree","5",1
+2014,"California","04000US06","Music Therapy","512305","Bachelor's Degree","5",3
+2014,"California","04000US06","Occupational Therapy","512306","Bachelor's Degree","5",105
+2014,"California","04000US06","Vocational Rehabilitation Counseling","512310","Bachelor's Degree","5",42
+2014,"California","04000US06","Kinesiotherapy","512311","Bachelor's Degree","5",8
+2014,"California","04000US06","Dietetics","513101","Bachelor's Degree","5",620
+2014,"California","04000US06","Acupuncture & Oriental Medicine","513301","Bachelor's Degree","5",4
+2014,"California","04000US06","Holistic Health","513306","Bachelor's Degree","5",137
+2014,"California","04000US06","Registered Nursing","513801","Bachelor's Degree","5",6357
+2014,"California","04000US06","Nursing Administration","513802","Bachelor's Degree","5",68
+2014,"California","04000US06","Nursing School","513808","Bachelor's Degree","5",100
+2014,"California","04000US06","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Bachelor's Degree","5",63
+2014,"California","04000US06","Licensed Practical & Vocational Nurse Training","513901","Bachelor's Degree","5",19
+2014,"California","04000US06","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Bachelor's Degree","5",6
+2014,"California","04000US06","Other Health Professions & Related Clinical Sciences","519999","Bachelor's Degree","5",78
+2014,"California","04000US06","General Business","520101","Bachelor's Degree","5",563
+2014,"California","04000US06","General Business Administration & Management","520201","Bachelor's Degree","5",24955
+2014,"California","04000US06","Logistics, Materials, & Supply Chain Management","520203","Bachelor's Degree","5",72
+2014,"California","04000US06","Operations Management & Supervision","520205","Bachelor's Degree","5",79
+2014,"California","04000US06","Non-Profit, Public, & Organizational Management","520206","Bachelor's Degree","5",7
+2014,"California","04000US06","Customer Service Management","520207","Bachelor's Degree","5",68
+2014,"California","04000US06","E-Commerce","520208","Bachelor's Degree","5",19
+2014,"California","04000US06","Project Management","520211","Bachelor's Degree","5",336
+2014,"California","04000US06","Organizational Leadership","520213","Bachelor's Degree","5",396
+2014,"California","04000US06","Other Business Administration, Management, & Operations","520299","Bachelor's Degree","5",1995
+2014,"California","04000US06","Accounting","520301","Bachelor's Degree","5",1654
+2014,"California","04000US06","Accounting & Business Management","520305","Bachelor's Degree","5",282
+2014,"California","04000US06","Business & Corporate Communications","520501","Bachelor's Degree","5",34
+2014,"California","04000US06","Business & Managerial Economics","520601","Bachelor's Degree","5",1569
+2014,"California","04000US06","Entrepreneurial Studies","520701","Bachelor's Degree","5",169
+2014,"California","04000US06","General Finance","520801","Bachelor's Degree","5",1051
+2014,"California","04000US06","General Hospitality Management","520901","Bachelor's Degree","5",673
+2014,"California","04000US06","Restaurant & Food Services Management","520905","Bachelor's Degree","5",1
+2014,"California","04000US06","Casino Management","520908","Bachelor's Degree","5",5
+2014,"California","04000US06","Other Hospitality Administration & Management","520999","Bachelor's Degree","5",97
+2014,"California","04000US06","General Human Resources Management & Personnel Administration","521001","Bachelor's Degree","5",497
+2014,"California","04000US06","Labor & Industrial Relations","521002","Bachelor's Degree","5",1
+2014,"California","04000US06","Organizational Behavior Studies","521003","Bachelor's Degree","5",367
+2014,"California","04000US06","Labor Studies","521004","Bachelor's Degree","5",14
+2014,"California","04000US06","Other Human Resources Management & Services","521099","Bachelor's Degree","5",37
+2014,"California","04000US06","International Business, Trade, & Commerce","521101","Bachelor's Degree","5",342
+2014,"California","04000US06","General Management Information Systems","521201","Bachelor's Degree","5",305
+2014,"California","04000US06","Information Resources Management","521206","Bachelor's Degree","5",39
+2014,"California","04000US06","Other Management Information Systems & Services","521299","Bachelor's Degree","5",4
+2014,"California","04000US06","Management Science","521301","Bachelor's Degree","5",302
+2014,"California","04000US06","Actuarial Science","521304","Bachelor's Degree","5",26
+2014,"California","04000US06","General Marketing & Marketing Management","521401","Bachelor's Degree","5",873
+2014,"California","04000US06","Other Marketing","521499","Bachelor's Degree","5",187
+2014,"California","04000US06","Real Estate","521501","Bachelor's Degree","5",39
+2014,"California","04000US06","Fashion Merchandising","521902","Bachelor's Degree","5",15
+2014,"California","04000US06","Apparel & Accessories Marketing Operations","521904","Bachelor's Degree","5",115
+2014,"California","04000US06","Construction Management","522001","Bachelor's Degree","5",40
+2014,"California","04000US06","Other Business, Management, Marketing, & Related Support Services","529999","Bachelor's Degree","5",308
+2014,"California","04000US06","General History","540101","Bachelor's Degree","5",3497
+2014,"California","04000US06","U.S. History","540102","Bachelor's Degree","5",3
+2014,"California","04000US06","Other History","540199","Bachelor's Degree","5",47
+2015,"California","04000US06","General Agriculture","010000","Bachelor's Degree","5",192
+2015,"California","04000US06","General Agriculture Management","010101","Bachelor's Degree","5",100
+2015,"California","04000US06","Agricultural Business Operations","010102","Bachelor's Degree","5",325
+2015,"California","04000US06","Other Agricultural Business & Management","010199","Bachelor's Degree","5",31
+2015,"California","04000US06","General Agricultural Mechanization","010201","Bachelor's Degree","5",45
+2015,"California","04000US06","Agroecology & Sustainable Agriculture","010308","Bachelor's Degree","5",26
+2015,"California","04000US06","Viticulture & Enology","010309","Bachelor's Degree","5",153
+2015,"California","04000US06","Ornamental Horticulture","010603","Bachelor's Degree","5",6
+2015,"California","04000US06","International Agriculture","010701","Bachelor's Degree","5",14
+2015,"California","04000US06","Agricultural Communication & Journalism","010802","Bachelor's Degree","5",10
+2015,"California","04000US06","General Animal Sciences","010901","Bachelor's Degree","5",527
+2015,"California","04000US06","Dairy Science","010905","Bachelor's Degree","5",44
+2015,"California","04000US06","Other Animal Science","010999","Bachelor's Degree","5",16
+2015,"California","04000US06","Food Science","011001","Bachelor's Degree","5",152
+2015,"California","04000US06","Food Technology & Processing","011002","Bachelor's Degree","5",5
+2015,"California","04000US06","General Plant Sciences","011101","Bachelor's Degree","5",31
+2015,"California","04000US06","Agronomy & Crop Science","011102","Bachelor's Degree","5",55
+2015,"California","04000US06","Horticultural Science","011103","Bachelor's Degree","5",7
+2015,"California","04000US06","Plant Protection & Integrated Pest Management","011105","Bachelor's Degree","5",33
+2015,"California","04000US06","Range Science & Management","011106","Bachelor's Degree","5",16
+2015,"California","04000US06","General Soil Science & Agronomy","011201","Bachelor's Degree","5",7
+2015,"California","04000US06","Other Agriculture, Operations, & Related Sciences","019999","Bachelor's Degree","5",20
+2015,"California","04000US06","General Natural Resources & Conservation","030101","Bachelor's Degree","5",90
+2015,"California","04000US06","Environmental Studies","030103","Bachelor's Degree","5",1017
+2015,"California","04000US06","Environmental Science","030104","Bachelor's Degree","5",1005
+2015,"California","04000US06","Natural Resource Management & Policy","030201","Bachelor's Degree","5",14
+2015,"California","04000US06","Other Natural Resource Management & Policy","030299","Bachelor's Degree","5",130
+2015,"California","04000US06","Fishing & Fisheries Sciences & Management","030301","Bachelor's Degree","5",21
+2015,"California","04000US06","General Forestry","030501","Bachelor's Degree","5",79
+2015,"California","04000US06","Forest Management","030506","Bachelor's Degree","5",9
+2015,"California","04000US06","Urban Forestry","030508","Bachelor's Degree","5",13
+2015,"California","04000US06","Wildlife, Fish, & Wildlands Science","030601","Bachelor's Degree","5",90
+2015,"California","04000US06","Other Natural Resource & Conservation","039999","Bachelor's Degree","5",71
+2015,"California","04000US06","Architecture","040201","Bachelor's Degree","5",757
+2015,"California","04000US06","Urban, Community, & Regional Planning","040301","Bachelor's Degree","5",272
+2015,"California","04000US06","Environmental Design","040401","Bachelor's Degree","5",18
+2015,"California","04000US06","Interior Architecture","040501","Bachelor's Degree","5",14
+2015,"California","04000US06","Landscape Architecture","040601","Bachelor's Degree","5",130
+2015,"California","04000US06","General Architectural History & Criticism","040801","Bachelor's Degree","5",19
+2015,"California","04000US06","Architectural & Building Sciences & Technology","040902","Bachelor's Degree","5",19
+2015,"California","04000US06","African Studies","050101","Bachelor's Degree","5",1
+2015,"California","04000US06","American & U.S. Studies","050102","Bachelor's Degree","5",249
+2015,"California","04000US06","Asian Studies","050103","Bachelor's Degree","5",167
+2015,"California","04000US06","East Asian Studies","050104","Bachelor's Degree","5",55
+2015,"California","04000US06","European Studies","050106","Bachelor's Degree","5",34
+2015,"California","04000US06","Latin American Studies","050107","Bachelor's Degree","5",86
+2015,"California","04000US06","Near & Middle Eastern Studies","050108","Bachelor's Degree","5",42
+2015,"California","04000US06","Russian Studies","050110","Bachelor's Degree","5",3
+2015,"California","04000US06","Scandinavian Studies","050111","Bachelor's Degree","5",2
+2015,"California","04000US06","Southeast Asian Studies","050113","Bachelor's Degree","5",2
+2015,"California","04000US06","Chinese Studies","050123","Bachelor's Degree","5",9
+2015,"California","04000US06","French Studies","050124","Bachelor's Degree","5",9
+2015,"California","04000US06","German Studies","050125","Bachelor's Degree","5",8
+2015,"California","04000US06","Italian Studies","050126","Bachelor's Degree","5",10
+2015,"California","04000US06","Japanese Studies","050127","Bachelor's Degree","5",5
+2015,"California","04000US06","Spanish & Iberian Studies","050130","Bachelor's Degree","5",1
+2015,"California","04000US06","Other Area Studies","050199","Bachelor's Degree","5",55
+2015,"California","04000US06","Ethnic Studies","050200","Bachelor's Degree","5",59
+2015,"California","04000US06","African-American & Black Studies","050201","Bachelor's Degree","5",158
+2015,"California","04000US06","Native American Studies","050202","Bachelor's Degree","5",32
+2015,"California","04000US06","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Bachelor's Degree","5",480
+2015,"California","04000US06","Asian-American Studies","050206","Bachelor's Degree","5",118
+2015,"California","04000US06","Women's Studies","050207","Bachelor's Degree","5",298
+2015,"California","04000US06","Gay & Lesbian Studies","050208","Bachelor's Degree","5",14
+2015,"California","04000US06","Other Ethnic, Minority, Gender, & Group Studies","050299","Bachelor's Degree","5",330
+2015,"California","04000US06","General Communication","090100","Bachelor's Degree","5",1185
+2015,"California","04000US06","Speech Communication & Rhetoric","090101","Bachelor's Degree","5",5674
+2015,"California","04000US06","Mass Communication & Media Studies","090102","Bachelor's Degree","5",337
+2015,"California","04000US06","Other Communication & Media Studies","090199","Bachelor's Degree","5",102
+2015,"California","04000US06","Journalism","090401","Bachelor's Degree","5",1025
+2015,"California","04000US06","Broadcast Journalism","090402","Bachelor's Degree","5",83
+2015,"California","04000US06","Photojournalism","090404","Bachelor's Degree","5",24
+2015,"California","04000US06","Other Journalism","090499","Bachelor's Degree","5",58
+2015,"California","04000US06","Radio & Television","090701","Bachelor's Degree","5",1002
+2015,"California","04000US06","Digital Communication & Multimedia","090702","Bachelor's Degree","5",93
+2015,"California","04000US06","Other Radio, Television, & Digital Communication","090799","Bachelor's Degree","5",184
+2015,"California","04000US06","Public Relations, Advertising, & Applied Communication","090900","Bachelor's Degree","5",62
+2015,"California","04000US06","General Organizational Communication","090901","Bachelor's Degree","5",6
+2015,"California","04000US06","Public Relations & Image Management","090902","Bachelor's Degree","5",210
+2015,"California","04000US06","Advertising","090903","Bachelor's Degree","5",180
+2015,"California","04000US06","Health Communication","090905","Bachelor's Degree","5",42
+2015,"California","04000US06","International & Intercultural Communication","090907","Bachelor's Degree","5",8
+2015,"California","04000US06","Other Public Relations, Advertising, & Applied Communication","090999","Bachelor's Degree","5",21
+2015,"California","04000US06","Other Communication, Journalism, & Related Programs","099999","Bachelor's Degree","5",55
+2015,"California","04000US06","Recording Arts Technology","100203","Bachelor's Degree","5",210
+2015,"California","04000US06","Other Audiovisual Communications Technology","100299","Bachelor's Degree","5",20
+2015,"California","04000US06","General Graphic Communications","100301","Bachelor's Degree","5",124
+2015,"California","04000US06","Prepress Publising & Digital Imaging Design","100303","Bachelor's Degree","5",43
+2015,"California","04000US06","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Bachelor's Degree","5",343
+2015,"California","04000US06","General Computer & Information Sciences","110101","Bachelor's Degree","5",167
+2015,"California","04000US06","Information Technology","110103","Bachelor's Degree","5",428
+2015,"California","04000US06","Informatics","110104","Bachelor's Degree","5",48
+2015,"California","04000US06","Other Computer & Information Sciences","110199","Bachelor's Degree","5",110
+2015,"California","04000US06","General Computer Programming","110201","Bachelor's Degree","5",80
+2015,"California","04000US06","Information Science","110401","Bachelor's Degree","5",8
+2015,"California","04000US06","Computer Systems Analysis","110501","Bachelor's Degree","5",119
+2015,"California","04000US06","Computer Science","110701","Bachelor's Degree","5",3289
+2015,"California","04000US06","Web Page, Digital, & Information Resource Design","110801","Bachelor's Degree","5",275
+2015,"California","04000US06","Data Modeling, Warehouse, & Database Administration","110802","Bachelor's Degree","5",12
+2015,"California","04000US06","Computer Graphics","110803","Bachelor's Degree","5",63
+2015,"California","04000US06","Modeling, Virtual Environments, & Simulation","110804","Bachelor's Degree","5",25
+2015,"California","04000US06","Other Computer Software & Media Applications","110899","Bachelor's Degree","5",62
+2015,"California","04000US06","Computer Systems Networking & Telecommunications","110901","Bachelor's Degree","5",211
+2015,"California","04000US06","Network & System Administration","111001","Bachelor's Degree","5",11
+2015,"California","04000US06","Computer & Information Systems Security","111003","Bachelor's Degree","5",463
+2015,"California","04000US06","Web Multimedia Management & Webmaster","111004","Bachelor's Degree","5",7
+2015,"California","04000US06","Information Technology Project Management","111005","Bachelor's Degree","5",68
+2015,"California","04000US06","Other Computer & Information Technology Services Management","111099","Bachelor's Degree","5",63
+2015,"California","04000US06","Other Computer & Information Support Services","119999","Bachelor's Degree","5",11
+2015,"California","04000US06","Restaurant, Culinary, & Catering Management","120504","Bachelor's Degree","5",128
+2015,"California","04000US06","General Education","130101","Bachelor's Degree","5",584
+2015,"California","04000US06","Multicultural Education","130202","Bachelor's Degree","5",1
+2015,"California","04000US06","Urban Education & Leadership","130410","Bachelor's Degree","5",2
+2015,"California","04000US06","Educational & Instructional Technology","130501","Bachelor's Degree","5",20
+2015,"California","04000US06","Learning Sciences","130607","Bachelor's Degree","5",55
+2015,"California","04000US06","Social & Philosophical Foundations of Education","130901","Bachelor's Degree","5",21
+2015,"California","04000US06","General Special Education & Teaching","131001","Bachelor's Degree","5",14
+2015,"California","04000US06","Elementary Education & Teaching","131202","Bachelor's Degree","5",155
+2015,"California","04000US06","Secondary Education & Teaching","131205","Bachelor's Degree","5",6
+2015,"California","04000US06","Early Childhood Education & Teaching","131210","Bachelor's Degree","5",3433
+2015,"California","04000US06","Agricultural Teacher Education","131301","Bachelor's Degree","5",93
+2015,"California","04000US06","Art Teacher Education","131302","Bachelor's Degree","5",12
+2015,"California","04000US06","English & Language Arts Teacher Education","131305","Bachelor's Degree","5",16
+2015,"California","04000US06","Foreign Language Teacher Education","131306","Bachelor's Degree","5",2
+2015,"California","04000US06","Technology & Industrial Arts Teacher Education","131309","Bachelor's Degree","5",26
+2015,"California","04000US06","Mathematics Teacher Education","131311","Bachelor's Degree","5",25
+2015,"California","04000US06","Music Teacher Education","131312","Bachelor's Degree","5",37
+2015,"California","04000US06","Physical Education Teaching & Coaching","131314","Bachelor's Degree","5",159
+2015,"California","04000US06","Social Science Teacher Education","131317","Bachelor's Degree","5",8
+2015,"California","04000US06","Trade & Industrial Teacher Education","131320","Bachelor's Degree","5",36
+2015,"California","04000US06","Biology Teacher Education","131322","Bachelor's Degree","5",11
+2015,"California","04000US06","Chemistry Teacher Education","131323","Bachelor's Degree","5",6
+2015,"California","04000US06","Spanish Language Teacher Education","131330","Bachelor's Degree","5",1
+2015,"California","04000US06","Psychology Teacher Education","131335","Bachelor's Degree","5",5
+2015,"California","04000US06","Other Teaching English or French as a Second or Foreign Language","131499","Bachelor's Degree","5",33
+2015,"California","04000US06","Other Education","139999","Bachelor's Degree","5",82
+2015,"California","04000US06","General Engineering","140101","Bachelor's Degree","5",228
+2015,"California","04000US06","Pre-Engineering","140102","Bachelor's Degree","5",3
+2015,"California","04000US06","Aerospace, Aeronautical, & Astronautical Engineering","140201","Bachelor's Degree","5",533
+2015,"California","04000US06","Agricultural Engineering","140301","Bachelor's Degree","5",35
+2015,"California","04000US06","Architectural Engineering","140401","Bachelor's Degree","5",30
+2015,"California","04000US06","Bioengineering & Biomedical Engineering","140501","Bachelor's Degree","5",842
+2015,"California","04000US06","Chemical Engineering","140701","Bachelor's Degree","5",820
+2015,"California","04000US06","Chemical & Biomolecular Engineering","140702","Bachelor's Degree","5",19
+2015,"California","04000US06","General Civil Engineering","140801","Bachelor's Degree","5",1666
+2015,"California","04000US06","Structural Engineering","140803","Bachelor's Degree","5",150
+2015,"California","04000US06","Other Civil Engineering","140899","Bachelor's Degree","5",7
+2015,"California","04000US06","General Computer Engineering","140901","Bachelor's Degree","5",873
+2015,"California","04000US06","Computer Software Engineering","140903","Bachelor's Degree","5",77
+2015,"California","04000US06","Other Computer Engineering","140999","Bachelor's Degree","5",10
+2015,"California","04000US06","Electrical & Electronics Engineering","141001","Bachelor's Degree","5",1948
+2015,"California","04000US06","Engineering Physics & Applied Physics","141201","Bachelor's Degree","5",53
+2015,"California","04000US06","Engineering Science","141301","Bachelor's Degree","5",43
+2015,"California","04000US06","Environmental Health Engineering","141401","Bachelor's Degree","5",279
+2015,"California","04000US06","Materials Engineering","141801","Bachelor's Degree","5",134
+2015,"California","04000US06","Mechanical Engineering","141901","Bachelor's Degree","5",2792
+2015,"California","04000US06","Nuclear Engineering","142301","Bachelor's Degree","5",15
+2015,"California","04000US06","Construction Engineering","143301","Bachelor's Degree","5",73
+2015,"California","04000US06","Industrial Engineering","143501","Bachelor's Degree","5",252
+2015,"California","04000US06","Manufacturing Engineering","143601","Bachelor's Degree","5",54
+2015,"California","04000US06","Operations Research","143701","Bachelor's Degree","5",46
+2015,"California","04000US06","Geological & Geophysical Engineering","143901","Bachelor's Degree","5",5
+2015,"California","04000US06","Other Engineering","149999","Bachelor's Degree","5",285
+2015,"California","04000US06","General Engineering Technology","150000","Bachelor's Degree","5",27
+2015,"California","04000US06","Electrical, Electronic, & Communications Engineering Technology","150303","Bachelor's Degree","5",105
+2015,"California","04000US06","Other Electrical Engineering Technology","150399","Bachelor's Degree","5",209
+2015,"California","04000US06","Biomedical Technology","150401","Bachelor's Degree","5",17
+2015,"California","04000US06","Industrial Technology","150612","Bachelor's Degree","5",155
+2015,"California","04000US06","Manufacturing Engineering Technology","150613","Bachelor's Degree","5",2
+2015,"California","04000US06","Quality Control Technology","150702","Bachelor's Degree","5",2
+2015,"California","04000US06","Automotive Engineering Technology","150803","Bachelor's Degree","5",30
+2015,"California","04000US06","Other Related Mechanical Engineering Technologies","150899","Bachelor's Degree","5",37
+2015,"California","04000US06","Construction Engineering Technology","151001","Bachelor's Degree","5",240
+2015,"California","04000US06","Surveying Technology","151102","Bachelor's Degree","5",12
+2015,"California","04000US06","Computer Engineering Technology","151201","Bachelor's Degree","5",24
+2015,"California","04000US06","Engineering & Industrial Management","151501","Bachelor's Degree","5",95
+2015,"California","04000US06","Other Engineering-Related Fields","151599","Bachelor's Degree","5",60
+2015,"California","04000US06","Other Engineering Technologies & Engineering-Related Fields","159999","Bachelor's Degree","5",5
+2015,"California","04000US06","General Foreign Languages & Literatures","160101","Bachelor's Degree","5",46
+2015,"California","04000US06","Linguistics","160102","Bachelor's Degree","5",488
+2015,"California","04000US06","Comparative Literature","160104","Bachelor's Degree","5",355
+2015,"California","04000US06","Applied Linguistics","160105","Bachelor's Degree","5",37
+2015,"California","04000US06","Other Linguistic, Comparative, Related Language Studies & Services","160199","Bachelor's Degree","5",147
+2015,"California","04000US06","General East Asian Languages, Literatures, & Linguistics","160300","Bachelor's Degree","5",27
+2015,"California","04000US06","Chinese Language & Literature","160301","Bachelor's Degree","5",96
+2015,"California","04000US06","Japanese Language & Literature","160302","Bachelor's Degree","5",201
+2015,"California","04000US06","Korean Language & Literature","160303","Bachelor's Degree","5",10
+2015,"California","04000US06","General Slavic Languages, Literatures, & Linguistics","160400","Bachelor's Degree","5",11
+2015,"California","04000US06","Russian Language & Literature","160402","Bachelor's Degree","5",20
+2015,"California","04000US06","General Germanic Languages, Literatures, & Linguistics","160500","Bachelor's Degree","5",8
+2015,"California","04000US06","German Language & Literature","160501","Bachelor's Degree","5",66
+2015,"California","04000US06","Scandanavian Languages, Literatures, & Linguistics","160502","Bachelor's Degree","5",2
+2015,"California","04000US06","Dutch/Flemish Language & Literature","160504","Bachelor's Degree","5",1
+2015,"California","04000US06","General Romance Languages, Literatures, & Linguistics","160900","Bachelor's Degree","5",3
+2015,"California","04000US06","French Language & Literature","160901","Bachelor's Degree","5",250
+2015,"California","04000US06","Italian Language & Literature","160902","Bachelor's Degree","5",29
+2015,"California","04000US06","Portuguese Language & Literature","160904","Bachelor's Degree","5",4
+2015,"California","04000US06","Spanish Language & Literature","160905","Bachelor's Degree","5",1303
+2015,"California","04000US06","General Hispanic & Latin American Languages, Literatures, & Linguistics","160908","Bachelor's Degree","5",47
+2015,"California","04000US06","Arabic Language & Literature","161101","Bachelor's Degree","5",20
+2015,"California","04000US06","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Bachelor's Degree","5",9
+2015,"California","04000US06","General Classical Language, Literature, & Linguistics","161200","Bachelor's Degree","5",83
+2015,"California","04000US06","Other Classical Languages, Literature, & Linguistics","161299","Bachelor's Degree","5",2
+2015,"California","04000US06","Celtic Languages, Literatures, & Linguistics","161301","Bachelor's Degree","5",3
+2015,"California","04000US06","Other Foreign Languages, Literatures, & Linguistics","169999","Bachelor's Degree","5",33
+2015,"California","04000US06","General Family & Consumer Sciences","190101","Bachelor's Degree","5",806
+2015,"California","04000US06","General Family Resource Mangement Studies","190401","Bachelor's Degree","5",8
+2015,"California","04000US06","General Food, Nutrition, & Wellness Studies","190501","Bachelor's Degree","5",6
+2015,"California","04000US06","Foodservice System Management","190505","Bachelor's Degree","5",1
+2015,"California","04000US06","General Human Development & Family Studies","190701","Bachelor's Degree","5",1343
+2015,"California","04000US06","Adult Development & Aging","190702","Bachelor's Degree","5",9
+2015,"California","04000US06","Child Development","190706","Bachelor's Degree","5",402
+2015,"California","04000US06","General Apparel & Textiles","190901","Bachelor's Degree","5",147
+2015,"California","04000US06","Apparel & Textile Manufacture","190902","Bachelor's Degree","5",2
+2015,"California","04000US06","Fashion & Fabric Consultant","190906","Bachelor's Degree","5",5
+2015,"California","04000US06","General Legal Studies","220000","Bachelor's Degree","5",258
+2015,"California","04000US06","Pre-Law Studies","220001","Bachelor's Degree","5",16
+2015,"California","04000US06","Paralegal","220302","Bachelor's Degree","5",40
+2015,"California","04000US06","Court Reporting","220303","Bachelor's Degree","5",3
+2015,"California","04000US06","General English Language & Literature","230101","Bachelor's Degree","5",4286
+2015,"California","04000US06","General Writing","231301","Bachelor's Degree","5",40
+2015,"California","04000US06","Creative Writing","231302","Bachelor's Degree","5",197
+2015,"California","04000US06","Professional, Technical, Business, & Scientific Writing","231303","Bachelor's Degree","5",8
+2015,"California","04000US06","Rhetoric & Composition","231304","Bachelor's Degree","5",81
+2015,"California","04000US06","Other Rhetoric, Composition, or Writing Studies","231399","Bachelor's Degree","5",8
+2015,"California","04000US06","US English Literature","231402","Bachelor's Degree","5",28
+2015,"California","04000US06","Other Literature","231499","Bachelor's Degree","5",7
+2015,"California","04000US06","Other English Language & Literature","239999","Bachelor's Degree","5",83
+2015,"California","04000US06","Liberal Arts & Sciences","240101","Bachelor's Degree","5",4909
+2015,"California","04000US06","General Studies","240102","Bachelor's Degree","5",68
+2015,"California","04000US06","Humanistic Studies","240103","Bachelor's Degree","5",233
+2015,"California","04000US06","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Bachelor's Degree","5",111
+2015,"California","04000US06","Library & Information Science","250101","Bachelor's Degree","5",35
+2015,"California","04000US06","General Biological Sciences","260101","Bachelor's Degree","5",7482
+2015,"California","04000US06","General Biomedical Sciences","260102","Bachelor's Degree","5",106
+2015,"California","04000US06","Biochemistry","260202","Bachelor's Degree","5",1213
+2015,"California","04000US06","Biophysics","260203","Bachelor's Degree","5",41
+2015,"California","04000US06","Molecular Biology","260204","Bachelor's Degree","5",38
+2015,"California","04000US06","Molecular Biochemistry","260205","Bachelor's Degree","5",298
+2015,"California","04000US06","Biochemistry & Molecular Biology","260210","Bachelor's Degree","5",14
+2015,"California","04000US06","Other Biochemistry, Biophysics, & Molecular Biology","260299","Bachelor's Degree","5",43
+2015,"California","04000US06","Botany & Plant Biology","260301","Bachelor's Degree","5",47
+2015,"California","04000US06","Cellular Biology & Histology","260401","Bachelor's Degree","5",51
+2015,"California","04000US06","Anatomy","260403","Bachelor's Degree","5",274
+2015,"California","04000US06","Cellular & Molecular Biology","260406","Bachelor's Degree","5",897
+2015,"California","04000US06","Other Cellular Biology & Anatomical Sciences","260499","Bachelor's Degree","5",46
+2015,"California","04000US06","General Microbiology","260502","Bachelor's Degree","5",280
+2015,"California","04000US06","Microbiology & Immunology","260508","Bachelor's Degree","5",14
+2015,"California","04000US06","Other Microbiological Science & Immunology","260599","Bachelor's Degree","5",146
+2015,"California","04000US06","Zoology","260701","Bachelor's Degree","5",128
+2015,"California","04000US06","Entomology","260702","Bachelor's Degree","5",17
+2015,"California","04000US06","Animal Physiology","260707","Bachelor's Degree","5",15
+2015,"California","04000US06","Animal Behavior & Ethology","260708","Bachelor's Degree","5",8
+2015,"California","04000US06","General Genetics","260801","Bachelor's Degree","5",100
+2015,"California","04000US06","General Physiology","260901","Bachelor's Degree","5",215
+2015,"California","04000US06","Exercise Physiology","260908","Bachelor's Degree","5",171
+2015,"California","04000US06","Pharmacology","261001","Bachelor's Degree","5",33
+2015,"California","04000US06","Toxicology","261004","Bachelor's Degree","5",41
+2015,"California","04000US06","Environmental Toxicology","261006","Bachelor's Degree","5",29
+2015,"California","04000US06","Bioinformatics","261103","Bachelor's Degree","5",39
+2015,"California","04000US06","Computational Biology","261104","Bachelor's Degree","5",1
+2015,"California","04000US06","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Bachelor's Degree","5",14
+2015,"California","04000US06","Biotechnology","261201","Bachelor's Degree","5",115
+2015,"California","04000US06","Ecology","261301","Bachelor's Degree","5",71
+2015,"California","04000US06","Marine Biology & Biological Oceonography","261302","Bachelor's Degree","5",143
+2015,"California","04000US06","Aquatic Biology","261304","Bachelor's Degree","5",36
+2015,"California","04000US06","Environmental Biology","261305","Bachelor's Degree","5",41
+2015,"California","04000US06","Ecology & Evolutionary Biology","261310","Bachelor's Degree","5",28
+2015,"California","04000US06","Other Ecology, Evolution, Systematics, & Population Biology","261399","Bachelor's Degree","5",75
+2015,"California","04000US06","Neuroscience","261501","Bachelor's Degree","5",559
+2015,"California","04000US06","Neurobiology & Anatomy","261503","Bachelor's Degree","5",428
+2015,"California","04000US06","Other Neurobiology & Neurosciences","261599","Bachelor's Degree","5",3
+2015,"California","04000US06","Other Biological & Biomedical Sciences","269999","Bachelor's Degree","5",50
+2015,"California","04000US06","General Mathematics","270101","Bachelor's Degree","5",1732
+2015,"California","04000US06","Other Mathematics","270199","Bachelor's Degree","5",261
+2015,"California","04000US06","General Applied Mathematics","270301","Bachelor's Degree","5",445
+2015,"California","04000US06","Computational Mathematics","270303","Bachelor's Degree","5",37
+2015,"California","04000US06","Computational & Applied Mathematics","270304","Bachelor's Degree","5",27
+2015,"California","04000US06","Financial Mathematics","270305","Bachelor's Degree","5",65
+2015,"California","04000US06","Other Applied Mathematics","270399","Bachelor's Degree","5",68
+2015,"California","04000US06","General Statistics","270501","Bachelor's Degree","5",470
+2015,"California","04000US06","Other Statistics","270599","Bachelor's Degree","5",17
+2015,"California","04000US06","Other Mathematics & Statistics","279999","Bachelor's Degree","5",1
+2015,"California","04000US06","Other Military Applied Sciences","290399","Bachelor's Degree","5",19
+2015,"California","04000US06","General Interdisciplinary Studies","300000","Bachelor's Degree","5",51
+2015,"California","04000US06","Biological & Physical Sciences","300101","Bachelor's Degree","5",6
+2015,"California","04000US06","Peace Studies & Conflict Resolution","300501","Bachelor's Degree","5",72
+2015,"California","04000US06","Systems Science & Theory","300601","Bachelor's Degree","5",2
+2015,"California","04000US06","Mathematics & Computer Science","300801","Bachelor's Degree","5",59
+2015,"California","04000US06","Biopsychology","301001","Bachelor's Degree","5",12
+2015,"California","04000US06","Gerontology","301101","Bachelor's Degree","5",123
+2015,"California","04000US06","Medieval & Renaissance Studies","301301","Bachelor's Degree","5",7
+2015,"California","04000US06","Science, Technology, & Society","301501","Bachelor's Degree","5",141
+2015,"California","04000US06","Behavioral Sciences","301701","Bachelor's Degree","5",1097
+2015,"California","04000US06","Natural Sciences","301801","Bachelor's Degree","5",73
+2015,"California","04000US06","Nutrition Sciences","301901","Bachelor's Degree","5",244
+2015,"California","04000US06","International & Global Studies","302001","Bachelor's Degree","5",944
+2015,"California","04000US06","Ancient Civilization Studies","302201","Bachelor's Degree","5",3
+2015,"California","04000US06","Classical, Ancient Mediterranean, & Near Eastern Studies & Archeology","302202","Bachelor's Degree","5",50
+2015,"California","04000US06","Intercultural, Multicultural, & Diversity Studies","302301","Bachelor's Degree","5",49
+2015,"California","04000US06","Cognitive Science","302501","Bachelor's Degree","5",603
+2015,"California","04000US06","Cultural Studies, Critical Theory, & Analysis","302601","Bachelor's Degree","5",13
+2015,"California","04000US06","Human Biology","302701","Bachelor's Degree","5",420
+2015,"California","04000US06","Maritime Sciences","303201","Bachelor's Degree","5",51
+2015,"California","04000US06","Sustainability Studies","303301","Bachelor's Degree","5",14
+2015,"California","04000US06","Other Multidisciplinary Studies","309999","Bachelor's Degree","5",1134
+2015,"California","04000US06","Parks, Recreation, & Leisure Studies","310101","Bachelor's Degree","5",611
+2015,"California","04000US06","General Health & Physical Education","310501","Bachelor's Degree","5",3509
+2015,"California","04000US06","Sport & Fitness Management","310504","Bachelor's Degree","5",165
+2015,"California","04000US06","Kinesiology & Exercise Science","310505","Bachelor's Degree","5",698
+2015,"California","04000US06","Sports Studies","310508","Bachelor's Degree","5",16
+2015,"California","04000US06","Other Health & Physical Education","310599","Bachelor's Degree","5",28
+2015,"California","04000US06","Other Parks, Recreation, Leisure, & Fitness Studies","319999","Bachelor's Degree","5",2
+2015,"California","04000US06","Philosophy","380101","Bachelor's Degree","5",1089
+2015,"California","04000US06","Ethics","380103","Bachelor's Degree","5",1
+2015,"California","04000US06","Other Philosophy","380199","Bachelor's Degree","5",64
+2015,"California","04000US06","Religious Studies","380201","Bachelor's Degree","5",251
+2015,"California","04000US06","Christian Studies","380203","Bachelor's Degree","5",20
+2015,"California","04000US06","Islamic Studies","380205","Bachelor's Degree","5",5
+2015,"California","04000US06","Judaic Studies","380206","Bachelor's Degree","5",15
+2015,"California","04000US06","Other Religious Studies","380299","Bachelor's Degree","5",27
+2015,"California","04000US06","Other Philosophy & Religious Studies","389999","Bachelor's Degree","5",12
+2015,"California","04000US06","Biblical Studies","390201","Bachelor's Degree","5",284
+2015,"California","04000US06","Missionary Studies & Missiology","390301","Bachelor's Degree","5",31
+2015,"California","04000US06","Religious Education","390401","Bachelor's Degree","5",70
+2015,"California","04000US06","Religious & Sacred Music","390501","Bachelor's Degree","5",25
+2015,"California","04000US06","Theological Studies","390601","Bachelor's Degree","5",53
+2015,"California","04000US06","Divinity & Ministry","390602","Bachelor's Degree","5",20
+2015,"California","04000US06","Pre-Theology & Pre-Ministerial Studies","390604","Bachelor's Degree","5",7
+2015,"California","04000US06","Talmudic Studies","390606","Bachelor's Degree","5",35
+2015,"California","04000US06","Other Theological & Ministerial Studies","390699","Bachelor's Degree","5",67
+2015,"California","04000US06","Pastoral Studies & Counseling","390701","Bachelor's Degree","5",102
+2015,"California","04000US06","Youth Ministry","390702","Bachelor's Degree","5",18
+2015,"California","04000US06","Lay Ministry","390705","Bachelor's Degree","5",2
+2015,"California","04000US06","Other Pastoral Counseling & Specialized Ministries","390799","Bachelor's Degree","5",8
+2015,"California","04000US06","Other Theology & Religious Vocations","399999","Bachelor's Degree","5",7
+2015,"California","04000US06","Physical Sciences","400101","Bachelor's Degree","5",7
+2015,"California","04000US06","Astronomy","400201","Bachelor's Degree","5",6
+2015,"California","04000US06","Astrophysics","400202","Bachelor's Degree","5",50
+2015,"California","04000US06","Planetary Astronomy & Science","400203","Bachelor's Degree","5",3
+2015,"California","04000US06","General Atmospheric Sciences & Meteorology","400401","Bachelor's Degree","5",24
+2015,"California","04000US06","Other Atmospheric Sciences & Meteorology","400499","Bachelor's Degree","5",16
+2015,"California","04000US06","General Chemistry","400501","Bachelor's Degree","5",1385
+2015,"California","04000US06","Chemical Physics","400508","Bachelor's Degree","5",3
+2015,"California","04000US06","Other Chemistry","400599","Bachelor's Degree","5",218
+2015,"California","04000US06","General Geology & Earch Science","400601","Bachelor's Degree","5",551
+2015,"California","04000US06","Geochemistry","400602","Bachelor's Degree","5",2
+2015,"California","04000US06","Geophysics & Seismology","400603","Bachelor's Degree","5",25
+2015,"California","04000US06","Hydrology & Water Resources Science","400605","Bachelor's Degree","5",10
+2015,"California","04000US06","Chemical & Physical Oceanography","400607","Bachelor's Degree","5",22
+2015,"California","04000US06","Other Geological & Earth Sciences","400699","Bachelor's Degree","5",65
+2015,"California","04000US06","General Physics","400801","Bachelor's Degree","5",788
+2015,"California","04000US06","Atomic & Molecular Physics","400802","Bachelor's Degree","5",2
+2015,"California","04000US06","Theoretical & Mathematical Physics","400810","Bachelor's Degree","5",3
+2015,"California","04000US06","Other Physics","400899","Bachelor's Degree","5",50
+2015,"California","04000US06","Materials Science","401001","Bachelor's Degree","5",46
+2015,"California","04000US06","Other Physical Sciences","409999","Bachelor's Degree","5",10
+2015,"California","04000US06","General Psychology","420101","Bachelor's Degree","5",13440
+2015,"California","04000US06","Cognitive Psychology & Psycholinguistics","422701","Bachelor's Degree","5",20
+2015,"California","04000US06","Developmental & Child Psychology","422703","Bachelor's Degree","5",27
+2015,"California","04000US06","Experimental Psychology","422704","Bachelor's Degree","5",489
+2015,"California","04000US06","Physiological Psychology & Psychobiology","422706","Bachelor's Degree","5",485
+2015,"California","04000US06","Social Psychology","422707","Bachelor's Degree","5",614
+2015,"California","04000US06","Other Research & Experimental Psychology","422799","Bachelor's Degree","5",666
+2015,"California","04000US06","Counseling Psychology","422803","Bachelor's Degree","5",6
+2015,"California","04000US06","Industrial & Organizational Psychology","422804","Bachelor's Degree","5",48
+2015,"California","04000US06","Applied Psychology","422813","Bachelor's Degree","5",2
+2015,"California","04000US06","Other Clinical, Counseling, & Applied Psychology","422899","Bachelor's Degree","5",14
+2015,"California","04000US06","Other Psychology","429999","Bachelor's Degree","5",49
+2015,"California","04000US06","Corrections","430102","Bachelor's Degree","5",7
+2015,"California","04000US06","Criminal Justice - Law Enforcement Administration","430103","Bachelor's Degree","5",1376
+2015,"California","04000US06","Criminal Justice - Safety Studies","430104","Bachelor's Degree","5",4017
+2015,"California","04000US06","Criminal Justice - Police Science","430107","Bachelor's Degree","5",6
+2015,"California","04000US06","Securities Services Management","430112","Bachelor's Degree","5",84
+2015,"California","04000US06","Other Corrections & Criminal Justice","430199","Bachelor's Degree","5",372
+2015,"California","04000US06","Fire Services Administration","430202","Bachelor's Degree","5",32
+2015,"California","04000US06","Fire Science & Fire-Fighting","430203","Bachelor's Degree","5",6
+2015,"California","04000US06","Homeland Security","430301","Bachelor's Degree","5",47
+2015,"California","04000US06","Crisis/Disaster Management","430302","Bachelor's Degree","5",6
+2015,"California","04000US06","General Human Services","440000","Bachelor's Degree","5",953
+2015,"California","04000US06","Community Organization & Advocacy","440201","Bachelor's Degree","5",22
+2015,"California","04000US06","Public Administration","440401","Bachelor's Degree","5",441
+2015,"California","04000US06","General Public Policy Analysis","440501","Bachelor's Degree","5",138
+2015,"California","04000US06","Health Policy Analysis","440503","Bachelor's Degree","5",10
+2015,"California","04000US06","International Policy Analysis","440504","Bachelor's Degree","5",2
+2015,"California","04000US06","Social Work","440701","Bachelor's Degree","5",1080
+2015,"California","04000US06","General Social Sciences","450101","Bachelor's Degree","5",871
+2015,"California","04000US06","Anthropology","450201","Bachelor's Degree","5",1954
+2015,"California","04000US06","Cultural Anthropology","450204","Bachelor's Degree","5",49
+2015,"California","04000US06","Other Anthropology","450299","Bachelor's Degree","5",11
+2015,"California","04000US06","Archeology","450301","Bachelor's Degree","5",12
+2015,"California","04000US06","Criminology","450401","Bachelor's Degree","5",879
+2015,"California","04000US06","General Economics","450601","Bachelor's Degree","5",4719
+2015,"California","04000US06","Applied Economices","450602","Bachelor's Degree","5",5
+2015,"California","04000US06","Econometrics & Quantitative Economics","450603","Bachelor's Degree","5",345
+2015,"California","04000US06","Developmental Economics & International Development","450604","Bachelor's Degree","5",146
+2015,"California","04000US06","International Economics","450605","Bachelor's Degree","5",28
+2015,"California","04000US06","Other Economics","450699","Bachelor's Degree","5",161
+2015,"California","04000US06","Geography","450701","Bachelor's Degree","5",509
+2015,"California","04000US06","Geographic Information Science & Cartography","450702","Bachelor's Degree","5",64
+2015,"California","04000US06","Other Geography","450799","Bachelor's Degree","5",80
+2015,"California","04000US06","International Relations & Affairs","450901","Bachelor's Degree","5",940
+2015,"California","04000US06","National Security Policy Studies","450902","Bachelor's Degree","5",2
+2015,"California","04000US06","Other International Relations & National Security Studies","450999","Bachelor's Degree","5",106
+2015,"California","04000US06","General Political Science & Government","451001","Bachelor's Degree","5",5063
+2015,"California","04000US06","US Government & Politics","451002","Bachelor's Degree","5",26
+2015,"California","04000US06","Political Economy","451004","Bachelor's Degree","5",11
+2015,"California","04000US06","Other Political Science & Government","451099","Bachelor's Degree","5",236
+2015,"California","04000US06","Sociology","451101","Bachelor's Degree","5",7120
+2015,"California","04000US06","Urban Studies","451201","Bachelor's Degree","5",241
+2015,"California","04000US06","Sociology & Anthropology","451301","Bachelor's Degree","5",4
+2015,"California","04000US06","Other Social Sciences","459999","Bachelor's Degree","5",479
+2015,"California","04000US06","Furniture Design & Manufacturing","480702","Bachelor's Degree","5",4
+2015,"California","04000US06","General Aeronautics & Aerospace Science & Technology","490101","Bachelor's Degree","5",37
+2015,"California","04000US06","Airway Management & Operations","490104","Bachelor's Degree","5",1
+2015,"California","04000US06","Marine Science & Merchant Marine Officer","490309","Bachelor's Degree","5",69
+2015,"California","04000US06","General Visual & Performing Arts","500101","Bachelor's Degree","5",246
+2015,"California","04000US06","Digital Arts","500102","Bachelor's Degree","5",104
+2015,"California","04000US06","Crafts Design, Folk Art, & Artisanry","500201","Bachelor's Degree","5",2
+2015,"California","04000US06","General Dance","500301","Bachelor's Degree","5",276
+2015,"California","04000US06","General Design & Visual Communications","500401","Bachelor's Degree","5",441
+2015,"California","04000US06","Commercial & Advertising Art","500402","Bachelor's Degree","5",117
+2015,"California","04000US06","Industrial & Product Design","500404","Bachelor's Degree","5",213
+2015,"California","04000US06","Commercial Photography","500406","Bachelor's Degree","5",21
+2015,"California","04000US06","Fashion & Apparel Design","500407","Bachelor's Degree","5",349
+2015,"California","04000US06","Interior Design","500408","Bachelor's Degree","5",398
+2015,"California","04000US06","Graphic Design","500409","Bachelor's Degree","5",599
+2015,"California","04000US06","Illustration","500410","Bachelor's Degree","5",294
+2015,"California","04000US06","Game & Interactive Media Design","500411","Bachelor's Degree","5",431
+2015,"California","04000US06","Other Design & Applied Arts","500499","Bachelor's Degree","5",119
+2015,"California","04000US06","General Drama & Theater Arts","500501","Bachelor's Degree","5",1125
+2015,"California","04000US06","Technical Theatre Design & Technology","500502","Bachelor's Degree","5",18
+2015,"California","04000US06","Playwriting & Screenwriting","500504","Bachelor's Degree","5",90
+2015,"California","04000US06","Acting","500506","Bachelor's Degree","5",115
+2015,"California","04000US06","Musical Theatre","500509","Bachelor's Degree","5",21
+2015,"California","04000US06","Costume Design","500510","Bachelor's Degree","5",3
+2015,"California","04000US06","Other Dramatic Arts & Stagecraft","500599","Bachelor's Degree","5",5
+2015,"California","04000US06","Film, Cinema, & Video Studies","500601","Bachelor's Degree","5",844
+2015,"California","04000US06","Cinematography & Film Production","500602","Bachelor's Degree","5",988
+2015,"California","04000US06","Photography","500605","Bachelor's Degree","5",290
+2015,"California","04000US06","Documentary Production","500607","Bachelor's Degree","5",7
+2015,"California","04000US06","Other Film & Photographic Arts","500699","Bachelor's Degree","5",187
+2015,"California","04000US06","General Art Studies","500701","Bachelor's Degree","5",2251
+2015,"California","04000US06","General Fine Studio Arts","500702","Bachelor's Degree","5",1210
+2015,"California","04000US06","Art History, Criticism, & Conservation","500703","Bachelor's Degree","5",445
+2015,"California","04000US06","Multimedia","500706","Bachelor's Degree","5",370
+2015,"California","04000US06","Painting","500708","Bachelor's Degree","5",58
+2015,"California","04000US06","Sculpture","500709","Bachelor's Degree","5",17
+2015,"California","04000US06","Printmaking","500710","Bachelor's Degree","5",12
+2015,"California","04000US06","Ceramic Arts & Ceramics","500711","Bachelor's Degree","5",2
+2015,"California","04000US06","Fiber, Textile, & Weaving Arts","500712","Bachelor's Degree","5",3
+2015,"California","04000US06","Metal & Jewelry Arts","500713","Bachelor's Degree","5",15
+2015,"California","04000US06","Other Fine Arts & Art Studies","500799","Bachelor's Degree","5",78
+2015,"California","04000US06","General Music","500901","Bachelor's Degree","5",829
+2015,"California","04000US06","Music History, Literature, & Theory","500902","Bachelor's Degree","5",10
+2015,"California","04000US06","General Music Performance","500903","Bachelor's Degree","5",399
+2015,"California","04000US06","Music Theory & Composition","500904","Bachelor's Degree","5",34
+2015,"California","04000US06","Musicology & Ethnomusicology","500905","Bachelor's Degree","5",20
+2015,"California","04000US06","Keyboard Instruments","500907","Bachelor's Degree","5",8
+2015,"California","04000US06","Voice & Opera","500908","Bachelor's Degree","5",26
+2015,"California","04000US06","Jazz & Jazz Studies","500910","Bachelor's Degree","5",15
+2015,"California","04000US06","Stringed Instruments","500911","Bachelor's Degree","5",29
+2015,"California","04000US06","Music Pedagogy","500912","Bachelor's Degree","5",9
+2015,"California","04000US06","Music Technology","500913","Bachelor's Degree","5",15
+2015,"California","04000US06","Brass Instruments","500914","Bachelor's Degree","5",3
+2015,"California","04000US06","Woodwind Instruments","500915","Bachelor's Degree","5",8
+2015,"California","04000US06","Percussion Instruments","500916","Bachelor's Degree","5",1
+2015,"California","04000US06","Other Music","500999","Bachelor's Degree","5",64
+2015,"California","04000US06","General Arts, Entertainment, & Media Management","501001","Bachelor's Degree","5",157
+2015,"California","04000US06","Music Management","501003","Bachelor's Degree","5",54
+2015,"California","04000US06","Theatre Arts Management","501004","Bachelor's Degree","5",4
+2015,"California","04000US06","Other Visual & Performing Arts","509999","Bachelor's Degree","5",67
+2015,"California","04000US06","General Health Services","510000","Bachelor's Degree","5",2396
+2015,"California","04000US06","General Health & Wellness","510001","Bachelor's Degree","5",42
+2015,"California","04000US06","General Communication Sciences & Disorders","510201","Bachelor's Degree","5",864
+2015,"California","04000US06","Speech-Language Pathology","510203","Bachelor's Degree","5",65
+2015,"California","04000US06","Audiology & Speech-Language Pathology","510204","Bachelor's Degree","5",53
+2015,"California","04000US06","Dental Hygiene","510602","Bachelor's Degree","5",168
+2015,"California","04000US06","Health Care Administration & Management","510701","Bachelor's Degree","5",1417
+2015,"California","04000US06","Hospital & Health Care Facilities Management","510702","Bachelor's Degree","5",369
+2015,"California","04000US06","Health Information & Medical Records Administration","510706","Bachelor's Degree","5",67
+2015,"California","04000US06","Health Management & Clinical Assistant","510711","Bachelor's Degree","5",25
+2015,"California","04000US06","Long Term Care Management","510718","Bachelor's Degree","5",17
+2015,"California","04000US06","Emergency Medical Technician (EMT Paramedic)","510904","Bachelor's Degree","5",11
+2015,"California","04000US06","Radiation Therapist","510907","Bachelor's Degree","5",9
+2015,"California","04000US06","Respiratory Care Therapist","510908","Bachelor's Degree","5",48
+2015,"California","04000US06","Diagnostic Medical Sonography & Ultrasound Technician","510910","Bachelor's Degree","5",22
+2015,"California","04000US06","Radiographer","510911","Bachelor's Degree","5",32
+2015,"California","04000US06","Athletic Trainer","510913","Bachelor's Degree","5",140
+2015,"California","04000US06","Other Allied Health Diagnostic, Intervention, & Treatment Professions","510999","Bachelor's Degree","5",28
+2015,"California","04000US06","Clinical Laboratory Technologist","511005","Bachelor's Degree","5",89
+2015,"California","04000US06","Pre-Medical Studies","511102","Bachelor's Degree","5",3
+2015,"California","04000US06","Pre-Physical Therapy Studies","511109","Bachelor's Degree","5",1
+2015,"California","04000US06","Other Mental, Social Health Services, & Allied Professions ","511599","Bachelor's Degree","5",233
+2015,"California","04000US06","Pharmaceutical Sciences","512010","Bachelor's Degree","5",291
+2015,"California","04000US06","General Public Health","512201","Bachelor's Degree","5",558
+2015,"California","04000US06","Environmental Health","512202","Bachelor's Degree","5",54
+2015,"California","04000US06","Health Physics","512205","Bachelor's Degree","5",4
+2015,"California","04000US06","Public Health Education & Promotion","512207","Bachelor's Degree","5",53
+2015,"California","04000US06","International Public Health","512210","Bachelor's Degree","5",26
+2015,"California","04000US06","Health Services Administration","512211","Bachelor's Degree","5",61
+2015,"California","04000US06","Behavioral Aspects of Health","512212","Bachelor's Degree","5",93
+2015,"California","04000US06","Other Public Health","512299","Bachelor's Degree","5",560
+2015,"California","04000US06","Music Therapy","512305","Bachelor's Degree","5",8
+2015,"California","04000US06","Occupational Therapy","512306","Bachelor's Degree","5",31
+2015,"California","04000US06","Vocational Rehabilitation Counseling","512310","Bachelor's Degree","5",74
+2015,"California","04000US06","Kinesiotherapy","512311","Bachelor's Degree","5",5
+2015,"California","04000US06","Dietetics","513101","Bachelor's Degree","5",733
+2015,"California","04000US06","Acupuncture & Oriental Medicine","513301","Bachelor's Degree","5",10
+2015,"California","04000US06","Holistic Health","513306","Bachelor's Degree","5",208
+2015,"California","04000US06","Registered Nursing","513801","Bachelor's Degree","5",6734
+2015,"California","04000US06","Nursing Administration","513802","Bachelor's Degree","5",58
+2015,"California","04000US06","Nursing School","513808","Bachelor's Degree","5",42
+2015,"California","04000US06","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Bachelor's Degree","5",106
+2015,"California","04000US06","Licensed Practical & Vocational Nurse Training","513901","Bachelor's Degree","5",19
+2015,"California","04000US06","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Bachelor's Degree","5",7
+2015,"California","04000US06","Other Health Professions & Related Clinical Sciences","519999","Bachelor's Degree","5",81
+2015,"California","04000US06","General Business","520101","Bachelor's Degree","5",745
+2015,"California","04000US06","General Business Administration & Management","520201","Bachelor's Degree","5",24775
+2015,"California","04000US06","Logistics, Materials, & Supply Chain Management","520203","Bachelor's Degree","5",94
+2015,"California","04000US06","Office Management & Supervision","520204","Bachelor's Degree","5",24
+2015,"California","04000US06","Operations Management & Supervision","520205","Bachelor's Degree","5",55
+2015,"California","04000US06","Non-Profit, Public, & Organizational Management","520206","Bachelor's Degree","5",4
+2015,"California","04000US06","Customer Service Management","520207","Bachelor's Degree","5",40
+2015,"California","04000US06","E-Commerce","520208","Bachelor's Degree","5",33
+2015,"California","04000US06","Project Management","520211","Bachelor's Degree","5",349
+2015,"California","04000US06","Organizational Leadership","520213","Bachelor's Degree","5",625
+2015,"California","04000US06","Other Business Administration, Management, & Operations","520299","Bachelor's Degree","5",1755
+2015,"California","04000US06","Accounting","520301","Bachelor's Degree","5",1646
+2015,"California","04000US06","Accounting & Finance","520304","Bachelor's Degree","5",3
+2015,"California","04000US06","Accounting & Business Management","520305","Bachelor's Degree","5",247
+2015,"California","04000US06","Business & Corporate Communications","520501","Bachelor's Degree","5",75
+2015,"California","04000US06","Business & Managerial Economics","520601","Bachelor's Degree","5",1737
+2015,"California","04000US06","Entrepreneurial Studies","520701","Bachelor's Degree","5",202
+2015,"California","04000US06","General Finance","520801","Bachelor's Degree","5",1030
+2015,"California","04000US06","General Hospitality Management","520901","Bachelor's Degree","5",694
+2015,"California","04000US06","Casino Management","520908","Bachelor's Degree","5",1
+2015,"California","04000US06","Other Hospitality Administration & Management","520999","Bachelor's Degree","5",102
+2015,"California","04000US06","General Human Resources Management & Personnel Administration","521001","Bachelor's Degree","5",532
+2015,"California","04000US06","Organizational Behavior Studies","521003","Bachelor's Degree","5",164
+2015,"California","04000US06","Labor Studies","521004","Bachelor's Degree","5",11
+2015,"California","04000US06","Other Human Resources Management & Services","521099","Bachelor's Degree","5",27
+2015,"California","04000US06","International Business, Trade, & Commerce","521101","Bachelor's Degree","5",307
+2015,"California","04000US06","General Management Information Systems","521201","Bachelor's Degree","5",302
+2015,"California","04000US06","Information Resources Management","521206","Bachelor's Degree","5",37
+2015,"California","04000US06","Other Management Information Systems & Services","521299","Bachelor's Degree","5",3
+2015,"California","04000US06","Management Science","521301","Bachelor's Degree","5",324
+2015,"California","04000US06","Business Statistics","521302","Bachelor's Degree","5",2
+2015,"California","04000US06","Actuarial Science","521304","Bachelor's Degree","5",48
+2015,"California","04000US06","General Marketing & Marketing Management","521401","Bachelor's Degree","5",937
+2015,"California","04000US06","Other Marketing","521499","Bachelor's Degree","5",162
+2015,"California","04000US06","Real Estate","521501","Bachelor's Degree","5",67
+2015,"California","04000US06","Fashion Merchandising","521902","Bachelor's Degree","5",121
+2015,"California","04000US06","Apparel & Accessories Marketing Operations","521904","Bachelor's Degree","5",17
+2015,"California","04000US06","Construction Management","522001","Bachelor's Degree","5",41
+2015,"California","04000US06","Other Business, Management, Marketing, & Related Support Services","529999","Bachelor's Degree","5",299
+2015,"California","04000US06","General History","540101","Bachelor's Degree","5",3175
+2015,"California","04000US06","U.S. History","540102","Bachelor's Degree","5",1
+2015,"California","04000US06","European History","540103","Bachelor's Degree","5",1
+2015,"California","04000US06","Other History","540199","Bachelor's Degree","5",47

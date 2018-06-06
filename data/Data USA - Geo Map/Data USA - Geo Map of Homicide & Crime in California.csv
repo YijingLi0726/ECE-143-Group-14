@@ -1,0 +1,175 @@
+year,geo_name,geo,homicide_rate
+2016,"Alameda County, CA","05000US06001",8.7
+2017,"Alameda County, CA","05000US06001",7.7
+2015,"Alameda County, CA","05000US06001",9.4
+2017,"Alpine County","05000US06003",None
+2016,"Alpine County","05000US06003",None
+2015,"Alpine County","05000US06003",None
+2015,"Amador County","05000US06005",None
+2017,"Amador County","05000US06005",5.0
+2016,"Amador County","05000US06005",3.4
+2015,"Butte County, CA","05000US06007",4.5
+2017,"Butte County, CA","05000US06007",3.9
+2016,"Butte County, CA","05000US06007",4.1
+2016,"Calaveras County","05000US06009",3.6
+2017,"Calaveras County","05000US06009",3.2
+2015,"Calaveras County","05000US06009",None
+2017,"Colusa County","05000US06011",None
+2016,"Colusa County","05000US06011",None
+2015,"Colusa County","05000US06011",None
+2016,"Contra Costa County, CA","05000US06013",8.3
+2015,"Contra Costa County, CA","05000US06013",8.8
+2017,"Contra Costa County, CA","05000US06013",6.8
+2015,"Del Norte County","05000US06015",8.0
+2016,"Del Norte County","05000US06015",7.5
+2017,"Del Norte County","05000US06015",7.1
+2015,"El Dorado County, CA","05000US06017",3.0
+2017,"El Dorado County, CA","05000US06017",2.4
+2016,"El Dorado County, CA","05000US06017",2.9
+2015,"Fresno County, CA","05000US06019",7.6
+2016,"Fresno County, CA","05000US06019",7.3
+2017,"Fresno County, CA","05000US06019",7.1
+2016,"Glenn County","05000US06021",None
+2017,"Glenn County","05000US06021",None
+2015,"Glenn County","05000US06021",None
+2015,"Humboldt County, CA","05000US06023",3.7
+2016,"Humboldt County, CA","05000US06023",4.3
+2017,"Humboldt County, CA","05000US06023",5.8
+2016,"Imperial County, CA","05000US06025",2.9
+2015,"Imperial County, CA","05000US06025",3.2
+2017,"Imperial County, CA","05000US06025",2.1
+2017,"Inyo County","05000US06027",None
+2015,"Inyo County","05000US06027",None
+2016,"Inyo County","05000US06027",None
+2016,"Kern County, CA","05000US06029",8.3
+2015,"Kern County, CA","05000US06029",8.2
+2017,"Kern County, CA","05000US06029",8.7
+2015,"Kings County, CA","05000US06031",4.8
+2017,"Kings County, CA","05000US06031",5.0
+2016,"Kings County, CA","05000US06031",5.2
+2017,"Lake County","05000US06033",9.1
+2016,"Lake County","05000US06033",8.2
+2015,"Lake County","05000US06033",7.2
+2016,"Lassen County","05000US06035",5.5
+2015,"Lassen County","05000US06035",4.4
+2017,"Lassen County","05000US06035",6.4
+2016,"Los Angeles County, CA","05000US06037",6.6
+2017,"Los Angeles County, CA","05000US06037",6.1
+2015,"Los Angeles County, CA","05000US06037",7.2
+2016,"Madera County, CA","05000US06039",6.0
+2015,"Madera County, CA","05000US06039",5.2
+2017,"Madera County, CA","05000US06039",5.2
+2016,"Marin County, CA","05000US06041",1.6
+2017,"Marin County, CA","05000US06041",1.8
+2015,"Marin County, CA","05000US06041",1.7
+2016,"Mariposa County","05000US06043",None
+2015,"Mariposa County","05000US06043",None
+2017,"Mariposa County","05000US06043",None
+2015,"Mendocino County","05000US06045",6.3
+2016,"Mendocino County","05000US06045",5.9
+2017,"Mendocino County","05000US06045",5.2
+2017,"Merced County, CA","05000US06047",9.2
+2015,"Merced County, CA","05000US06047",7.6
+2016,"Merced County, CA","05000US06047",8.2
+2015,"Modoc County","05000US06049",None
+2017,"Modoc County","05000US06049",None
+2016,"Modoc County","05000US06049",None
+2015,"Mono County","05000US06051",None
+2017,"Mono County","05000US06051",None
+2016,"Mono County","05000US06051",None
+2016,"Monterey County, CA","05000US06053",9.4
+2015,"Monterey County, CA","05000US06053",8.6
+2017,"Monterey County, CA","05000US06053",10.6
+2015,"Napa County, CA","05000US06055",1.4
+2016,"Napa County, CA","05000US06055",1.3
+2017,"Napa County, CA","05000US06055",1.0
+2016,"Nevada County, CA","05000US06057",2.1
+2015,"Nevada County, CA","05000US06057",2.3
+2017,"Nevada County, CA","05000US06057",1.4
+2016,"Orange County, CA","05000US06059",2.2
+2017,"Orange County, CA","05000US06059",2.0
+2015,"Orange County, CA","05000US06059",2.4
+2017,"Placer County, CA","05000US06061",1.8
+2015,"Placer County, CA","05000US06061",1.8
+2016,"Placer County, CA","05000US06061",1.9
+2017,"Plumas County","05000US06063",None
+2016,"Plumas County","05000US06063",None
+2015,"Plumas County","05000US06063",None
+2015,"Riverside County, CA","05000US06065",4.5
+2017,"Riverside County, CA","05000US06065",4.0
+2016,"Riverside County, CA","05000US06065",4.4
+2016,"Sacramento County, CA","05000US06067",6.0
+2017,"Sacramento County, CA","05000US06067",6.0
+2015,"Sacramento County, CA","05000US06067",6.3
+2017,"San Benito County","05000US06069",4.0
+2015,"San Benito County","05000US06069",5.0
+2016,"San Benito County","05000US06069",5.7
+2017,"San Bernardino County, CA","05000US06071",5.8
+2016,"San Bernardino County, CA","05000US06071",6.3
+2015,"San Bernardino County, CA","05000US06071",6.5
+2017,"San Diego County, CA","05000US06073",2.8
+2016,"San Diego County, CA","05000US06073",2.9
+2015,"San Diego County, CA","05000US06073",3.1
+2017,"San Francisco County, CA","05000US06075",5.2
+2015,"San Francisco County, CA","05000US06075",7.2
+2016,"San Francisco County, CA","05000US06075",6.3
+2015,"San Joaquin County, CA","05000US06077",9.4
+2017,"San Joaquin County, CA","05000US06077",10.2
+2016,"San Joaquin County, CA","05000US06077",9.3
+2016,"San Luis Obispo County, CA","05000US06079",2.0
+2017,"San Luis Obispo County, CA","05000US06079",1.8
+2015,"San Luis Obispo County, CA","05000US06079",2.2
+2017,"San Mateo County, CA","05000US06081",2.5
+2016,"San Mateo County, CA","05000US06081",3.1
+2015,"San Mateo County, CA","05000US06081",3.3
+2015,"Santa Barbara County, CA","05000US06083",2.6
+2016,"Santa Barbara County, CA","05000US06083",2.4
+2017,"Santa Barbara County, CA","05000US06083",2.8
+2017,"Santa Clara County, CA","05000US06085",2.6
+2016,"Santa Clara County, CA","05000US06085",2.7
+2015,"Santa Clara County, CA","05000US06085",2.6
+2016,"Santa Cruz County, CA","05000US06087",3.7
+2015,"Santa Cruz County, CA","05000US06087",3.7
+2017,"Santa Cruz County, CA","05000US06087",4.0
+2015,"Shasta County, CA","05000US06089",4.5
+2016,"Shasta County, CA","05000US06089",4.3
+2017,"Shasta County, CA","05000US06089",4.2
+2016,"Sierra County","05000US06091",None
+2017,"Sierra County","05000US06091",None
+2015,"Sierra County","05000US06091",None
+2017,"Siskiyou County","05000US06093",4.2
+2015,"Siskiyou County","05000US06093",4.5
+2016,"Siskiyou County","05000US06093",4.7
+2016,"Solano County, CA","05000US06095",8.6
+2017,"Solano County, CA","05000US06095",8.0
+2015,"Solano County, CA","05000US06095",8.2
+2015,"Sonoma County, CA","05000US06097",2.4
+2017,"Sonoma County, CA","05000US06097",2.2
+2016,"Sonoma County, CA","05000US06097",2.2
+2017,"Stanislaus County, CA","05000US06099",6.5
+2016,"Stanislaus County, CA","05000US06099",6.3
+2015,"Stanislaus County, CA","05000US06099",6.5
+2016,"Sutter County","05000US06101",5.0
+2015,"Sutter County","05000US06101",4.8
+2017,"Sutter County","05000US06101",3.7
+2017,"Tehama County","05000US06103",5.2
+2016,"Tehama County","05000US06103",5.7
+2015,"Tehama County","05000US06103",5.9
+2016,"Trinity County","05000US06105",None
+2017,"Trinity County","05000US06105",10.6
+2015,"Trinity County","05000US06105",None
+2017,"Tulare County, CA","05000US06107",8.4
+2016,"Tulare County, CA","05000US06107",8.5
+2015,"Tulare County, CA","05000US06107",8.7
+2016,"Tuolumne County","05000US06109",None
+2015,"Tuolumne County","05000US06109",None
+2017,"Tuolumne County","05000US06109",None
+2015,"Ventura County, CA","05000US06111",2.8
+2016,"Ventura County, CA","05000US06111",2.8
+2017,"Ventura County, CA","05000US06111",2.8
+2017,"Yolo County, CA","05000US06113",2.2
+2016,"Yolo County, CA","05000US06113",1.9
+2015,"Yolo County, CA","05000US06113",1.6
+2015,"Yuba County","05000US06115",5.2
+2016,"Yuba County","05000US06115",4.7
+2017,"Yuba County","05000US06115",5.3
